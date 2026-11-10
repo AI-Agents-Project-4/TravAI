@@ -2,9 +2,14 @@
 
 An AI travel planner. Enter where you're going, for how long, and your budget. A research agent finds real, sourced prices for flights, hotels and activities, and a planner agent builds three itineraries that fit your budget. You can then edit one and have it redrafted around your changes.
 
+Group project (P4) for *Coding with AI Agents* at Colorado School of Mines ([course](https://github.com/Mines-Coding-with-AI-Agents/course)).
+
+- [Assignment and deliverables](docs/assignment.md)
 - [Proposal](docs/proposal.md)
 - [Architecture](docs/architecture.md)
 - [API contract (draft)](docs/api-contract.md)
+- [Threat model (draft)](docs/threat-model.md)
+- [Evaluation](evals/README.md)
 
 ## Team
 

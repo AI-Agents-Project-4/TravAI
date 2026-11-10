@@ -1,0 +1,26 @@
+{
+  "id": "01-tokyo-5d-5000",
+  "source": "Proposal appendix example 1 (also the walkthrough in 'What we will build')",
+  "hard_case": false,
+  "input": {
+    "origin": null,
+    "destination": "Tokyo, Japan",
+    "start_date": null,
+    "duration_days": 5,
+    "travelers": 1,
+    "budget": { "amount": 5000, "currency": "USD" },
+    "transport_mode": "fly",
+    "end_destination": null
+  },
+  "right_output": {
+    "feasible": true,
+    "plan_count": 3,
+    "criteria": [
+      "Three plans with clearly different themes (e.g. temples and history, food and nightlife, day trips)",
+      "Each plan includes a flight, a hotel, a day-by-day schedule and a cost breakdown",
+      "Each plan total is at or under $5,000 and does not underestimate real costs",
+      "Every price has a source link and a fetch time",
+      "After the user edits (remove an item, add a day trip, move an item between days) and redrafts, the edits are kept and anything dropped to stay under budget is listed"
+    ]
+  }
+}

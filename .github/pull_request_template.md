@@ -8,6 +8,7 @@
 - [ ] Backend / API (`backend/`)
 - [ ] Research agent
 - [ ] Planner agent
+- [ ] Evals / threat model
 - [ ] Docs / tooling
 
 ## Contract
@@ -19,4 +20,5 @@
 <!-- Commands run, screenshots for UI changes. -->
 
 - [ ] Checks for the area I changed pass locally (frontend: `pnpm lint && pnpm typecheck && pnpm test && pnpm build`)
+- [ ] Agent behavior changes: ran the relevant `evals/cases/` more than once (say how many runs)
 - [ ] No secrets, `.env` files, or surnames/personal data added

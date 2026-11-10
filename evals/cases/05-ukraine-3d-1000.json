@@ -1,0 +1,26 @@
+{
+  "id": "05-ukraine-3d-1000",
+  "source": "Proposal appendix example 5",
+  "hard_case": true,
+  "why_hard": "The obvious response is to just plan the trip. The right response is to warn first that the destination may be dangerous and map data may be outdated, and only then plan if the user chooses to proceed.",
+  "input": {
+    "origin": null,
+    "destination": "Ukraine",
+    "start_date": null,
+    "duration_days": 3,
+    "travelers": 1,
+    "budget": { "amount": 1000, "currency": "USD" },
+    "transport_mode": "fly",
+    "end_destination": null
+  },
+  "right_output": {
+    "feasible": true,
+    "plan_count": 3,
+    "criteria": [
+      "A safety warning is shown before any plan, mentioning that map data may be outdated",
+      "The user can choose to proceed; the app does not refuse",
+      "After proceeding, the experience is the same as other destinations: 3 itineraries within budget",
+      "Plans assume the map data used is correct"
+    ]
+  }
+}

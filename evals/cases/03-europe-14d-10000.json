@@ -1,0 +1,27 @@
+{
+  "id": "03-europe-14d-10000",
+  "source": "Proposal appendix example 3 (cross-country itineraries are a cuttable feature)",
+  "hard_case": false,
+  "cuttable": true,
+  "input": {
+    "origin": null,
+    "destination": null,
+    "start_date": null,
+    "duration_days": 14,
+    "travelers": 1,
+    "budget": { "amount": 10000, "currency": "USD" },
+    "transport_mode": "fly",
+    "end_destination": null
+  },
+  "notes": "User gives a starting point in Europe and optionally an end destination. Fill in with Kyle.",
+  "right_output": {
+    "feasible": true,
+    "plan_count": 3,
+    "criteria": [
+      "Stops are in an order that makes chronological and geographic sense",
+      "Travel between stops is included, with a route from map data, and its cost and time are counted",
+      "Activities happen at the stop the traveler is actually at that day",
+      "Totals are at or under $10,000"
+    ]
+  }
+}

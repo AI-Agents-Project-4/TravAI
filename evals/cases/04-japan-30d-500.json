@@ -1,0 +1,24 @@
+{
+  "id": "04-japan-30d-500",
+  "source": "Proposal appendix example 4",
+  "hard_case": false,
+  "input": {
+    "origin": null,
+    "destination": "Japan",
+    "start_date": null,
+    "duration_days": 30,
+    "travelers": 1,
+    "budget": { "amount": 500, "currency": "USD" },
+    "transport_mode": "fly",
+    "end_destination": null
+  },
+  "right_output": {
+    "feasible": false,
+    "plan_count": 0,
+    "criteria": [
+      "Says clearly that the trip is very likely impossible on this budget",
+      "Gives an honest minimum estimated cost, well above $500",
+      "Does not produce stripped-down plans that pretend to fit the budget"
+    ]
+  }
+}
