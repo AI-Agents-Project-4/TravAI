@@ -1,5 +1,20 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+  "SessionStart": [
+    {
+      "matcher": "startup|resume|clear",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "\"$CLAUDE_PROJECT_DIR/.claude/hooks/course-check.sh\"",
+          "timeout": 15,
+          "statusMessage": "Checking course material for P4 changes"
+        }
+      ]
+    }
+  ]
+},
   "permissions": {
     "allow": [
       "Bash(pnpm install)",
