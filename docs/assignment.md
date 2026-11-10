@@ -1,50 +1,65 @@
 # The assignment (Project 4)
 
-TravAI is the group project (P4) for *Coding with AI Agents* (CSCI 498E/598E, Colorado School of Mines, Fall 2026). Course site and curriculum: <https://github.com/Mines-Coding-with-AI-Agents/course>.
+TravAI is the group project (P4) for *Coding with AI Agents* (CSCI 498E/598E, Colorado School of Mines, Fall 2026). It's 30% of the final grade. Team: Fernando, Jake, Kyle.
 
-> P4: "A working product built by a group of students around an agent for a real user, with **one claim backed by a small evaluation** and a **threat model**, presented at Demo Day."
+> **This is a summary, not the source.** Synced **2026-11-09**. When sources disagree, this order wins:
+> 1. **Canvas** (system of record for deadlines, grades and assignment pages)
+> 2. **Student repo** (private, enrolled students only): `Mines-Coding-with-AI-Agents/student`, especially `projects/p4-full-stack-agent/`, `SCHEDULE.md` and `ANNOUNCEMENTS.md`
+> 3. **Course site** (public): <https://github.com/Mines-Coding-with-AI-Agents/course>
+>
+> A session-start hook warns when the watched course files change after this sync (see "Keeping this current" below). The student repo is private, so this file paraphrases it instead of copying it.
 
-It's 30% of the final grade. Groups of 3–4; ours is Fernando, Jake and Kyle.
+## What P4 requires
 
-## What we have to deliver
+| Requirement | Where it lives in this repo | Status |
+|-------------|-----------------------------|--------|
+| A real product for a real user, with an agent at its core (with a justification for needing an agent) | `frontend/`, `backend/` | In progress |
+| **One claim backed by a small evaluation that runs in GitHub Actions**, e.g. "beats the obvious simpler approach" | [../EVAL.md](../EVAL.md), [../evals/](../evals/) | Claim not chosen |
+| **Multi-agent justification:** because we use 2 agents, the eval must also show the second agent earns its place **against a single agent** | [../EVAL.md](../EVAL.md) | Not started |
+| **Cost:** cost of one task, and projected cost at **10,000 requests/day** | [../EVAL.md](../EVAL.md) | Not started |
+| **Threat model:** which legs of the lethal trifecta we have and what we did about each | [threat-model.md](threat-model.md) | Draft |
+| **Public repo** with `README.md`, `DECISIONS.md` (judgment calls and why), `EVAL.md` (the claim and the numbers), and a **recorded demo** | repo root | Stubs |
+| **Live presentation** Thu Dec 3 or Tue Dec 8, graded with a rubric in the room | — | — |
+| **AI-assisted review of the repo**, checked by the instructor | the whole repo | — |
 
-| Deliverable | Where it lives | Status |
-|-------------|----------------|--------|
-| Proposal (due Fri Nov 6) | [proposal.md](proposal.md) | Submitted |
-| Working product with an agent at its core, for a real user | `frontend/`, `backend/` | In progress |
-| **One claim backed by a small evaluation** | [../evals/](../evals/) | Claim not chosen yet |
-| **Threat model** | [threat-model.md](threat-model.md) | Started |
-| Live demo at Demo Day: **Thu Dec 3** or **Tue Dec 8** (lectures 27/28), with the agent running live | — | — |
+The rubric for the presentation and the repo **hasn't been released yet**. When it comes out, sync this file.
 
-Each member presents **their own part** and answers questions about it. Docs and code in your area should be in your own words, and you should understand them well enough to defend them.
+## Rules that shape how we work
 
-## Rules from the brief that still apply
+- **Each member owns one named part from the first week to the presentation**, and presents and answers questions on it. **The commit history shows who owned what**, so each person commits their own part (agent-assisted is fine; agents committing in a teammate's area is not).
+- **The user's judgment is the ground truth.** The member who knows the domain leads the user conversations and the examples the eval checks. Our user is Kyle (proposal), and Kyle owns the examples.
+- **The five proposal examples are the first eval cases** ([../evals/cases/](../evals/cases/)). #5 is the hard case.
+- **Public repo privacy:** describe users by role unless they agree to be named, and keep private example details out.
+- **Concrete and honest beats ambitious.** Naming a risk or a failure honestly never costs points.
 
-- **A real user judges correctness.** Our user is Kyle, a team member planning foreign trips (see the proposal). Whether an output is right is decided by how *he* judges it, not by what we think looks reasonable.
-- **The five examples are the first evaluation cases.** They're in the proposal appendix and in [../evals/cases/](../evals/cases/). At least one must be a hard case (ours is #5, Ukraine: warn first, then plan).
-- **Public repo privacy.** Describe users by role unless they agree to be named. Private information from examples stays out of this repo (it may appear only in the proposal PDF, which only the instructor sees).
-- **Agent, not workflow.** The proposal argues that this needs agents because they decide what to search next, when to stop, what to add or drop for the budget, and how to absorb user edits. It also argues for two agents because the planner only needs the structured results, not the research context. The demo and evaluation should show those decisions actually happening.
+> ⚠️ **Open question for the instructor:** the student-repo P4 README asks for a user *outside this class*. The Canvas proposal page says *in or outside your group*. Our user is a team member. Canvas wins per the course's own rule, but confirm this with the instructor.
 
-## How the proposal was graded (for reference)
+## Dates
 
-| Section | Pts | Full points when |
-|---------|-----|------------------|
-| User and their problem | 20 | Real user, a conversation that actually happened, what they do today and what the problem costs them |
-| Five real examples | 20 | Five real inputs with right outputs as the user judges them, ≥ 1 hard case |
-| What you will build | 20 | User's path through one example, system diagram, specific reason it needs an agent (and why more than one) |
-| Who owns what | 10 | One part per member, a "done" a teammate could check, written by its owner |
-| Plan to Dec 3 | 10 | Weekly plan with owners, first end-to-end date, user-test date, risks and what to cut |
+| Date | What |
+|------|------|
+| Fri Nov 6 | Proposal due ✅ |
+| Tue Nov 24 (lecture 25) | **Optional dry run** of the presentation |
+| Thu Nov 26 | Thanksgiving, no class |
+| Tue Dec 1 (lecture 26) | Security & Guardrails, input for the threat model |
+| **Thu Dec 3 / Tue Dec 8** | **Presentations, live. P4 due Dec 8** |
 
-The grading theme carries over to the final project: **concrete and honest beats ambitious.** Naming a risk or a failure honestly never costs points.
-
-## Course lectures that feed into this project
+## Lectures that feed into the project
 
 | Lecture | Date | Relevant to |
 |---------|------|-------------|
-| 21 Build From Scratch II + Agent SDK | Nov 10 | Building the research and planner agents |
-| 22 Reading Benchmarks Critically | Nov 12 | Choosing a claim that measures what we think it measures |
+| 18 Agent Architectures | Oct 29 | Workflow vs. agent, measured. Our "why an agent" argument |
+| 19 Multi-Agent Systems | Nov 3 | One agent vs. a lead + worker, measured. Our "why two agents" eval |
+| 20–21 Build From Scratch, Agent SDK | Nov 5, Nov 10 | Building the research and planner agents, bounding their spend |
+| 22 Reading Benchmarks Critically | Nov 12 | Choosing a claim that measures what we think it does |
 | 23 Evals Are Experiments | Nov 17 | Eval harness, pass@k, error bars, variance |
 | 24 LLM as Judge | Nov 19 | Grading plans automatically, and checking the grader |
-| 26 Security and Guardrails | Dec 1 | Threat model: the lethal trifecta, indirect prompt injection |
+| 26 Security and Guardrails | Dec 1 | Threat model: lethal trifecta, indirect prompt injection |
 
-Earlier lectures that matter too: **4** (no single run proves anything, so measure over repeated runs), **10** (tool design and reliability), **11** (a schema guarantees shape, not truth, so check prices against their sources), and **18–19** (fixed workflow vs. agent, and what crosses the handoff between agents).
+Earlier ones that apply: **4** (no single run proves anything), **10** (tool design and reliability), **11** (a schema guarantees shape, not truth), **P2** (an eval that runs in GitHub Actions).
+
+## Keeping this current
+
+- `.claude/hooks/course-check.sh` runs when a Claude Code session starts. It compares the watched course files listed in `.claude/course-snapshot.tsv` with GitHub, and lists current P4 announcements. It says nothing when nothing changed, and it skips silently if `gh` isn't logged in or you're offline.
+- When it reports a change, run `/course-sync` to re-read the sources, update this file and the snapshot, and open a PR.
+- Canvas isn't covered. When something new about P4 is posted on Canvas, paste it in and run `/course-sync`. *Canvas content last added: 2026-11-09 (proposal and team pages).*

@@ -2,7 +2,9 @@
 
 A travel planner web app. The user enters origin, destination, duration, travelers and budget. A **research agent** finds real flights, hotels and activities with prices and source links and caches them in Postgres. A **planner agent** turns those into **three itineraries** that fit the budget, or says honestly that the trip isn't possible. The user can edit a plan and ask the planner to **redraft** around their edits.
 
-This is a class group project (P4 of *Coding with AI Agents*, Colorado School of Mines). Besides a working product, it's graded on **one claim backed by a small evaluation** and a **threat model**, shown live at Demo Day (Dec 3 / Dec 8). See [docs/assignment.md](docs/assignment.md).
+This is a class group project (P4 of *Coding with AI Agents*, Colorado School of Mines). Besides a working product, it's graded on **one claim backed by an eval that runs in GitHub Actions** (including whether our two agents beat one), **cost per task and at 10k requests/day**, a **threat model**, the repo itself (`README.md`, `DECISIONS.md`, `EVAL.md`, recorded demo; reviewed with AI help by the instructor), and a live presentation on Dec 3 / Dec 8. See [docs/assignment.md](docs/assignment.md).
+
+**Course snapshot: synced 2026-11-09.** If the course disagrees with this repo, Canvas wins, then the private student repo (`Mines-Coding-with-AI-Agents/student`), then the public course site. A session-start hook reports changes. Use `/course-sync` to update. The student repo is private, so paraphrase it here and never paste it.
 
 Read before non-trivial work:
 - [docs/assignment.md](docs/assignment.md): what the course requires and how it's graded
@@ -10,7 +12,8 @@ Read before non-trivial work:
 - [docs/architecture.md](docs/architecture.md): components, data flow, product rules
 - [docs/api-contract.md](docs/api-contract.md): frontend ↔ backend endpoints and shapes (DRAFT)
 - [docs/threat-model.md](docs/threat-model.md): threats (especially prompt injection through scraped pages) and mitigations
-- [evals/](evals/): the five cases from the proposal and the eval claim
+- [evals/](evals/) and [EVAL.md](EVAL.md): the five cases from the proposal, the claim, numbers and cost
+- [DECISIONS.md](DECISIONS.md): judgment calls and why, written by whoever made them
 
 ## Repo layout and ownership
 
@@ -37,7 +40,7 @@ Read before non-trivial work:
 
 ## Measuring agent behavior
 
-Agents are stochastic, so one good run proves nothing. When you claim an agent change "works" or "is better", run it several times on the cases in `evals/cases/` and report the rate. Kyle (our real user) decides what a right output is, not the model. Eval runs cost money, so keep them out of CI and run them on purpose.
+Agents are stochastic, so one good run proves nothing. When you claim an agent change "works" or "is better", run it several times on the cases in `evals/cases/` and report the rate. Kyle (our real user) decides what a right output is, not the model. The graded eval runs in its own GitHub Actions workflow (manual or scheduled, never on every PR, since it costs money). Log token usage and cost wherever agents call the model.
 
 ## Commands
 
@@ -73,7 +76,9 @@ Before you say a task is done or open a PR, run the checks for the area you chan
 
 Use **first names only** (Fernando, Jake, Kyle) in files, docs, code comments, commit messages, PRs and issues. Never add surnames, emails or other personal data. Describe any users other than us by role unless they agree to be named. Example trips and eval cases must not include real personal details (exact home address, real booking references, etc.).
 
-Each member presents and answers for their own part at Demo Day, so don't rewrite another owner's docs or design in your own words. Propose changes and let the owner decide.
+Each member presents and answers for their own part at Demo Day, and **the commit history is used to show who owned what**. So:
+- Work only in the area of the person you're working for. Don't commit to or rewrite another owner's code, docs or design. Propose changes and let the owner decide.
+- Don't write `DECISIONS.md` reasoning or `EVAL.md` conclusions on your own. Remind the person to log a decision, and draft only when asked. The words should be theirs.
 
 ## Timeline
 
@@ -81,6 +86,7 @@ Each member presents and answers for their own part at Demo Day, so don't rewrit
 |------|-----------|
 | Week of 11/9 | Repo + Next.js setup (Fernando), FastAPI + Postgres (Jake), research-tool survey (Kyle) |
 | Week of 11/16 | Initial UI, search caching + basic planner, research process |
+| 11/24 | Optional presentation dry run (lecture 25) |
 | **11/25** | First end-to-end version (pick the eval claim by then) |
 | 11/26 | Thanksgiving, no class |
 | **11/29** | User test (Kyle) |

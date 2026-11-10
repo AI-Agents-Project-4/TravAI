@@ -9,7 +9,9 @@ Group project (P4) for *Coding with AI Agents* at Colorado School of Mines ([cou
 - [Architecture](docs/architecture.md)
 - [API contract (draft)](docs/api-contract.md)
 - [Threat model (draft)](docs/threat-model.md)
-- [Evaluation](evals/README.md)
+- [Evaluation: claim, numbers, cost](EVAL.md)
+- [Decisions](DECISIONS.md)
+- Recorded demo: *coming before Demo Day*
 
 ## Team
 
