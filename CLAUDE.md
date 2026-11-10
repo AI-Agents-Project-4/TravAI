@@ -64,7 +64,7 @@ Before you say a task is done or open a PR, run the checks for the area you chan
 
 ## Workflow
 
-- `main` is protected: all changes go through a PR, and CI must pass.
+- **Never push to `main` directly. Every change goes through a PR with passing CI.** All three of us are org admins, so GitHub's branch protection *won't* stop an admin push. This is a team rule, and it applies to agents too. Don't `git push origin main`, `git push --force`, or merge a PR whose checks are failing or pending, and don't use admin bypass. If you're on `main` with changes, create a branch first.
 - Branch per task: `<firstname>/<short-desc>` (e.g. `fernando/trip-form`).
 - Small, focused PRs. Fill in `.github/pull_request_template.md`.
 - Commit messages: imperative mood, short subject (`Add trip input form`).

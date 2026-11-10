@@ -45,4 +45,4 @@ Backend setup instructions will be in [backend/README.md](backend/README.md).
 
 ## Contributing
 
-`main` is protected. Create a branch (`<firstname>/<short-desc>`), open a PR, and make sure CI passes. See [CLAUDE.md](CLAUDE.md) for the conventions that both people and coding agents follow.
+**Team rule: never push to `main` directly.** Create a branch (`<firstname>/<short-desc>`), open a PR, and merge only when CI passes. We're all admins, so GitHub won't block an admin push to `main`. The rule is on us. See [CLAUDE.md](CLAUDE.md) for the conventions that both people and coding agents follow.
