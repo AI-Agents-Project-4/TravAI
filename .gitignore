@@ -1,0 +1,26 @@
+# Env files: commit only the .env.example templates
+.env
+.env.*
+!.env.example
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Node (frontend/ has its own .gitignore too)
+node_modules/
+
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Claude Code: personal settings stay local
+.claude/settings.local.json
