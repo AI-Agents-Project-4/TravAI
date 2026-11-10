@@ -39,6 +39,14 @@ Key points:
 - **Progress updates** (for example "Found 4 flights, checking hotel prices") come from the research agent while it runs. Polling vs. Server-Sent Events: **TBD (Jake)**. The frontend should hide this choice behind one hook.
 - **Redraft is authoritative about user edits.** Anything the user added, removed or moved must survive. The planner changes only the rest, and it returns what it dropped to stay under budget.
 
+## Measurement support (proposed)
+
+> **Proposed by Fernando. Jake (backend, planner) and Kyle (research) decide.** The course grades a claim measured in GitHub Actions, evidence that the two-agent design beats a single agent, and cost per task (see [assignment.md](assignment.md)). Both measurements are cheap if the backend plans for them now and expensive to add later.
+
+- **A single-agent mode.** One agent with the research tools *and* the planner's job, producing the same output (3 `Plan`s or `feasible: false`). Selected by a setting, not a separate code path through the API, so the eval can run both modes on the same cases with the same tools and compare them.
+- **Cost logging.** Every model call records the agent, model, input/output tokens (and cached tokens), and tool calls, linked to the trip. Then per-trip cost and the 10,000 requests/day projection in [../EVAL.md](../EVAL.md) can be calculated, not guessed.
+- **An entry point the eval can call without the UI.** E.g. a function or CLI that takes a case's `input` and returns the plans plus the cost log, so the GitHub Actions eval doesn't need the frontend or a running server.
+
 ## Product rules (apply to every component)
 
 1. **Never underestimate costs.** Include taxes, fees and local transport. When unsure, round up and say so. A plan that's too cheap is worse than one that's too expensive.

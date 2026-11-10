@@ -70,7 +70,7 @@ Before you say a task is done or open a PR, run the checks for the area you chan
 - Commit messages: imperative mood, short subject (`Add trip input form`).
 - Don't commit `.env` files or secrets. Only `.env.example` templates.
 - API keys (LLM, flights, maps…) live **only in the backend**. Never put them in `NEXT_PUBLIC_*` variables or in frontend code.
-- Tests must not call paid or live external APIs. Use fixtures or mocks.
+- Unit tests and PR checks never call paid or live external APIs. Use fixtures or mocks. The **eval workflow is the exception**: it calls real agents in GitHub Actions on purpose (manual or scheduled, with a run budget), because the course requires it. See [evals/README.md](evals/README.md).
 
 ## Privacy: this repo is public
 

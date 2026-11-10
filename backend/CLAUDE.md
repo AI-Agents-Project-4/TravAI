@@ -2,7 +2,7 @@
 
 Project-wide rules and the product rules are in [../CLAUDE.md](../CLAUDE.md). The endpoints this service must serve are in [../docs/api-contract.md](../docs/api-contract.md).
 
-> **Status:** no code yet. Jake owns the initial FastAPI + Postgres setup. Once it exists, update this file with the real commands, layout and DB/migration tooling, and add a `backend` job to `.github/workflows/ci.yml`.
+> **Status:** placeholder written by Fernando during repo setup. **Jake: rewrite this in your own words** (the course uses commit history to see who owned what) with the real commands, layout and DB/migration tooling, and add a `backend` job to `.github/workflows/ci.yml`. Everything below is a suggestion, not a decision.
 
 ## Intended conventions
 
@@ -10,7 +10,13 @@ Project-wide rules and the product rules are in [../CLAUDE.md](../CLAUDE.md). Th
 - **pytest** for tests, in `backend/tests/`.
 - Settings come from environment variables (root `.env`, e.g. `DATABASE_URL`). Never hard-code secrets.
 - All LLM, search and travel API keys live here, never in the frontend.
-- Tests and CI must **not** call paid or live APIs (LLM, flights, search). Use recorded fixtures or fakes, so the planner can be tested with dummy research data.
+- Unit tests and the PR CI check must **not** call paid or live APIs (LLM, flights, search). Use recorded fixtures or fakes, so the planner can be tested with dummy research data. The eval workflow is the exception: it runs the real agents on purpose (see `evals/README.md`).
+
+## Proposed: measurement support (Jake to accept or change)
+
+The course grades two measurements that depend on backend design, so it's cheaper to plan for them now. See [docs/architecture.md](../docs/architecture.md#measurement-support-proposed).
+- A **single-agent mode** with the same tools, to compare against research → planner.
+- **Token and cost logging** for every agent run, saved with the trip.
 
 ## Agent boundaries
 

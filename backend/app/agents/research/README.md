@@ -1,5 +1,7 @@
 # Research agent — owner: Kyle
 
+> **Placeholder written by Fernando during repo setup**, summarizing the proposal. **Kyle: rewrite this in your own words** when you start. You present this part, and the course uses commit history to see who owned what.
+
 Finds flights, hotels, local transport and activities for a trip, with real prices and source links, and saves each one as an `Option` in Postgres for the planner.
 
 - **Input:** trip request (origin, destination, dates/duration, travelers, budget, transport mode). See `POST /trips` in [docs/api-contract.md](../../../../docs/api-contract.md).

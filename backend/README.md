@@ -2,7 +2,7 @@
 
 Python/FastAPI service that the frontend calls. It runs the research and planner agents and stores their results in Postgres.
 
-> **Status:** placeholder. Jake is setting up the FastAPI project this week (11/9). Replace this README with setup and run instructions once it exists.
+> **Status:** placeholder written by Fernando during repo setup. Jake is setting up the FastAPI project this week (11/9). **Jake: replace this README** with your own description and setup/run instructions.
 
 Intended stack: Python, FastAPI, [uv](https://docs.astral.sh/uv/), Postgres (local DB: `docker compose up -d db` from the repo root, connection string in the root `.env` as `DATABASE_URL`).
 

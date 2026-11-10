@@ -1,5 +1,7 @@
 # Planner agent — owner: Jake
 
+> **Placeholder written by Fernando during repo setup**, summarizing the proposal. **Jake: rewrite this in your own words** when you start. You present this part, and the course uses commit history to see who owned what.
+
 Turns the research agent's stored options into **three distinct itineraries** that fit the budget, or reports that the trip isn't feasible.
 
 - **Input:** trip request, plus the `Option` rows from the DB (not the research agent's transcript).
