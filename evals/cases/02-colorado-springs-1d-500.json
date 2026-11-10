@@ -1,0 +1,25 @@
+{
+  "id": "02-colorado-springs-1d-500",
+  "source": "Proposal appendix example 2",
+  "hard_case": false,
+  "input": {
+    "origin": null,
+    "destination": "Colorado Springs, CO",
+    "start_date": null,
+    "duration_days": 1,
+    "travelers": 1,
+    "budget": { "amount": 500, "currency": "USD" },
+    "transport_mode": "drive",
+    "end_destination": null
+  },
+  "right_output": {
+    "feasible": true,
+    "plan_count": 3,
+    "criteria": [
+      "No flight in any plan; driving is the transport",
+      "No hotel needed for a day trip",
+      "Activities fit within one day, including opening hours and drive time between them",
+      "Totals are at or under $500, including fuel/parking where relevant"
+    ]
+  }
+}
