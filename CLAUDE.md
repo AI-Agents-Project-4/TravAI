@@ -57,10 +57,14 @@ pnpm build
 docker compose up -d db
 docker compose down
 
-# Backend: Jake adds these once backend/ has a pyproject.toml (uv run ...)
+# Backend (run from backend/; needs the db running)
+uv sync
+uv run alembic upgrade head
+uv run uvicorn app.main:app --reload   # http://localhost:8000
+uv run ruff check . && uv run ruff format --check . && uv run mypy . && uv run pytest
 ```
 
-Before you say a task is done or open a PR, run the checks for the area you changed. For `frontend/` that's `pnpm lint && pnpm typecheck && pnpm test && pnpm build`. CI runs the same checks.
+Before you say a task is done or open a PR, run the checks for the area you changed. For `frontend/` that's `pnpm lint && pnpm typecheck && pnpm test && pnpm build`. For `backend/` it's the last backend line above. CI runs the same checks.
 
 ## Workflow
 
