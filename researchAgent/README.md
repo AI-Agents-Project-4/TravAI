@@ -29,17 +29,34 @@ There are three data modes. They differ in where flights, hotels and everything 
 
 | Mode | How to select | Flights and hotels | Geoapify, Claude, other sources | Use it for |
 |---|---|---|---|---|
-| **live** (default) | no flag | Ignav and SerpApi, spends quota | live (cached on disk after the first call) | real research, recording new data |
+| **cache-first** (default) | no flag | Ignav and SerpApi, but only for requests not already cached | same: live only on a cache miss | real research, recording new data |
 | **offline replay** | `--offline` | exact-request cache only | exact-request cache only | reproducing a past run with no network; the 13 test cases |
 | **sandbox** | `--sandbox`, `data_mode_override="sandbox"` or `TRAVAI_DATA_MODE=sandbox` | recorded data (nearest match if the trip was not recorded), or [synthetic test data](#synthetic-test-data-safe-to-commit-and-push) when no recordings are present | live | dev, evals and demos without Ignav/SerpApi quota |
 
 ```bash
-python3 scripts/run_agent.py tokyo-5d-5000               # live. Case ids are in tests/test_cases.json
+python3 scripts/run_agent.py tokyo-5d-5000               # cache-first: calls the APIs only for what is not cached yet
 python3 scripts/run_agent.py tokyo-5d-5000 --offline     # replay from cache: no network, no quota
-python3 scripts/run_agent.py tokyo-5d-5000 --sandbox     # recorded flights and hotels, live everything else
+python3 scripts/run_agent.py tokyo-5d-5000 --sandbox     # recorded flights and hotels; everything else cache-first
 python3 tests/run_cases.py [ids...] [--offline]          # all cases + automated checks -> tests/outputs/report.md
 python3 -m pytest tests -q                               # unit tests (no network, no keys)
 ```
+
+### Does a run call the real APIs?
+
+Only for what is not already cached. Every external call (Ignav, SerpApi, Geoapify, Wikivoyage, State Dept, FX, and each
+`claude -p` step) checks the on-disk cache first (`tests/fixtures/`).
+
+- **Cache hit:** no network call and no `claude` call. Rerunning a case you have already run makes zero calls and costs
+  nothing. (Checked: a second run of `tokyo-5d-5000` made 0 network calls and 0 `claude` calls.)
+- **Cache miss:** the real API is called and the result is saved. This is the only time quota or Claude usage is spent.
+- **The key is the exact request.** A different date, party size, destination or currency is a different request, so it is
+  a miss and goes live. Changing one request field can re-run most of the pipeline.
+- **Cached results never expire by default.** `cache_ttl_hours=None` keeps them forever, so prices from the first run keep
+  being served and show their original `retrieved_at`. To refresh, pass `cache_ttl_hours=24` (or similar) to `run()`, or
+  delete the cache files for that request. The backend should set a TTL; see "Integrating with the backend".
+- **`--offline` is the strict version:** a miss raises `CacheMiss` instead of calling anything.
+- **Sandbox mode** replaces only the flight and hotel lookups (Ignav and SerpApi) with recorded or synthetic data; it never
+  calls those two APIs.
 
 `run_agent.py` takes a case id (not a free-form trip; run it with no arguments to list the ids) and writes `tests/outputs/<id>.json`. That folder is generated and
 gitignored. For your own trip, call `run()` from Python:
@@ -51,7 +68,7 @@ output = run({
     "origin": "DEN", "destinations": ["Tokyo, Japan"], "start_date": "2027-03-10", "duration_days": 5,
     "travelers": 1, "budget": 5000, "currency": "USD", "transport_modes": ["flight"],
     # optional: "start_point", "end_point" for multi-city trips
-}, data_mode_override="sandbox")      # omit for live
+}, data_mode_override="sandbox")      # omit for the default (cache-first, real APIs on a miss)
 ```
 
 `run(req, *, offline=False, now=None, progress=None, cache_ttl_hours=None, data_mode_override=None)`:
@@ -59,7 +76,7 @@ output = run({
 | Parameter | Meaning |
 |---|---|
 | `offline` | Replay only from the exact-request cache; raises instead of touching the network. |
-| `data_mode_override` | `"sandbox"` or `"live"`. `None` keeps the current mode (env `TRAVAI_DATA_MODE`, default live). Process-wide. |
+| `data_mode_override` | `"sandbox"` or `"live"`. `None` keeps the current mode (env `TRAVAI_DATA_MODE`, default `live`, which means cache-first). Process-wide. |
 | `progress(stage, message)` | Optional callback for a progress screen (stages: resolve, search, flights, lodging, activities, transport, feasibility, done). |
 | `cache_ttl_hours` | Refetch cached results older than this. `None` keeps everything (tests, replay). Process-wide. |
 | `now` | Override the clock (tests). |
@@ -84,7 +101,7 @@ A request with a past `start_date`, no destination, fewer than 1 traveler or day
 ## Sandbox mode (recorded flights and hotels)
 
 Ignav and SerpApi quotas are small, so flights and hotels can be answered from recorded real responses instead of live
-calls. Geoapify and Claude still run live, so a sandbox run still needs `GEOAPIFY_API_KEY` and `claude`.
+calls. Everything else (Geoapify, Claude, Wikivoyage, advisories, FX) follows the cache-first rule above, so a sandbox run can still call those APIs and needs `GEOAPIFY_API_KEY` and `claude` for anything not cached.
 
 How it answers a search (`research/sandbox.py`):
 
@@ -256,7 +273,7 @@ See `schema/research_output.schema.json` for the full definition. For a real exa
 ## Caching and offline replay
 
 Every HTTP and `claude -p` call is cached on disk under `tests/fixtures/` (`http_cache/`, `llm_cache/`, `wikivoyage/`),
-so reruns are free and deterministic. API keys are removed from cache keys and stored bodies. Delete a cache file to
+so reruns are free and deterministic. This is also why the default run is "cache-first", not always live (see "Does a run call the real APIs?"). API keys are removed from cache keys and stored bodies. Delete a cache file to
 force a refresh. `--offline` raises an error instead of touching the network, so use it to confirm a run is fully
 reproducible. Cached prices and availability date from **2026-11-22**.
 
