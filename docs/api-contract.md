@@ -4,7 +4,7 @@
 >
 > **Rule:** when an endpoint or shape changes, update this file in the same PR as the code, and tag the other side for review. Both `frontend/` and `backend/` code follow this file.
 
-Base URL: `NEXT_PUBLIC_API_BASE_URL` (local default `http://localhost:8000`). JSON everywhere. Field names use `snake_case`. Money is a decimal number in `currency` (ISO 4217). Timestamps are ISO 8601 UTC.
+Base URL: `NEXT_PUBLIC_API_BASE_URL` (local default `http://localhost:8000`). JSON everywhere. Errors use FastAPI's shape, `{ "detail": "message" }` or the 422 validation list, and the UI shows `detail` to the user. Field names use `snake_case`. Money is a decimal number in `currency` (ISO 4217). Timestamps are ISO 8601 UTC.
 
 ## Shared types
 
@@ -76,9 +76,9 @@ type Plan = {
   "end_destination": null
 }
 ```
-`transport_mode`: `"fly" | "drive"`. `end_destination` is only for multi-stop trips (appendix example 3).
+`transport_mode`: `"fly" | "drive"`. `end_destination` is only for multi-stop trips (appendix example 3). `start_date` may be `null` for flexible dates (the eval cases leave it unset; the backend already accepts this).
 
-→ `201 { "trip_id": "…", "warnings": Warning[] }`. If `warnings` contains a `safety` warning, the UI shows it and waits for the user to confirm before it shows progress. *(Open question: should research wait for that confirmation? Proposal: yes, and confirm with `POST /trips/{id}/proceed`.)*
+→ `201 { "trip_id": "…", "warnings": Warning[] }`. If `warnings` contains a `safety` warning, the UI shows it and waits for the user to confirm before it shows progress. *(Open question: should research wait for that confirmation? Proposal: yes, and confirm with `POST /trips/{id}/proceed` → `204`. The frontend already calls this when the user clicks "Proceed anyway"; Jake to confirm or change.)*
 
 ### `GET /trips/{trip_id}/progress`
 
