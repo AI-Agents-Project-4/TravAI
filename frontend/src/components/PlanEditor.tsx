@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useId, useMemo, useState } from "react";
+import { useEffect, useId, useLayoutEffect, useMemo, useState } from "react";
 import { api } from "@/lib/api";
 import { categoryLabel, formatMoney } from "@/lib/format";
 import {
@@ -82,6 +82,10 @@ export function PlanEditor({ initialPlan, options }: { initialPlan: Plan; option
   const [busy, setBusy] = useState<"redraft" | "save" | null>(null);
   const [notice, setNotice] = useState<Notice | null>(null);
   const [addDay, setAddDay] = useState<Record<string, number>>({});
+
+  // cacheComponents keeps this page mounted (hidden) after navigating away.
+  // Keep the user's edits, but don't show an old "saved"/"redrafted" notice.
+  useLayoutEffect(() => () => setNotice(null), []);
 
   const total = runningTotal(base, plan, index);
   const over = isOverBudget(total.total, plan.budget);

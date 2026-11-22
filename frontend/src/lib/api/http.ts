@@ -2,6 +2,23 @@ import { API_BASE_URL } from "../config";
 import type { Plan, RedraftRequest } from "../types";
 import { ApiError, type TravaiApi } from "./client";
 
+/**
+ * FastAPI sends `{ detail: "..." }` for errors it raises, and
+ * `{ detail: [{ loc, msg }, ...] }` when request validation fails (422).
+ */
+export function errorDetail(body: unknown): string | null {
+  const detail = (body as { detail?: unknown } | null)?.detail;
+  if (typeof detail === "string") return detail;
+  if (Array.isArray(detail) && detail.length > 0) {
+    const first = detail[0] as { loc?: unknown[]; msg?: unknown };
+    if (typeof first.msg === "string") {
+      const field = Array.isArray(first.loc) ? first.loc.filter((p) => p !== "body").join(".") : "";
+      return field ? `${field}: ${first.msg}` : first.msg;
+    }
+  }
+  return null;
+}
+
 async function request<T>(method: string, path: string, body?: unknown): Promise<T> {
   let response: Response;
   try {
@@ -16,8 +33,7 @@ async function request<T>(method: string, path: string, body?: unknown): Promise
   if (!response.ok) {
     let message = `The server returned an error (${response.status}).`;
     try {
-      const data = (await response.json()) as { detail?: unknown };
-      if (typeof data.detail === "string") message = data.detail;
+      message = errorDetail(await response.json()) ?? message;
     } catch {
       // Not JSON; keep the generic message.
     }

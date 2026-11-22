@@ -1,8 +1,8 @@
-import { render, screen } from "@testing-library/react";
-import { describe, expect, test } from "vitest";
+import { fireEvent, render, screen } from "@testing-library/react";
+import { describe, expect, test, vi } from "vitest";
 import type { Option, Plan } from "@/lib/types";
 import { Price } from "./Price";
-import { Infeasible, PlanComparison } from "./TripView";
+import { Infeasible, PlanComparison, ProgressSteps, TimedOut } from "./TripView";
 
 const usd = (amount: number) => ({ amount, currency: "USD" });
 const flight: Option = {
@@ -59,5 +59,31 @@ describe("Price", () => {
     render(<Price option={{ ...flight, source_url: "javascript:alert(1)" }} />);
     expect(screen.queryByRole("link")).toBeNull();
     expect(screen.getByText("source link unavailable")).toBeDefined();
+  });
+});
+
+describe("slow research", () => {
+  const progress = { status: "researching" as const, steps: [{ message: "Found 4 flights", at: "2026-11-22T00:00:00Z" }] };
+
+  test("normal progress shows the steps and no slow notice", () => {
+    render(<ProgressSteps progress={progress} />);
+    expect(screen.getByText("Found 4 flights")).toBeDefined();
+    expect(screen.queryByText(/taking longer than usual/)).toBeNull();
+  });
+
+  test("stalled shows a notice and a way out, and keeps the steps", () => {
+    render(<ProgressSteps progress={progress} stalled connectionError="offline" />);
+    expect(screen.getByText(/taking longer than usual/)).toBeDefined();
+    expect(screen.getByText(/Trouble reaching the server \(offline\)/)).toBeDefined();
+    expect(screen.getByRole("link", { name: /start over/i }).getAttribute("href")).toBe("/");
+    expect(screen.getByText("Found 4 flights")).toBeDefined();
+  });
+
+  test("timed out offers check again and start over", () => {
+    const onRetry = vi.fn();
+    render(<TimedOut onRetry={onRetry} />);
+    fireEvent.click(screen.getByRole("button", { name: "Check again" }));
+    expect(onRetry).toHaveBeenCalledOnce();
+    expect(screen.getByRole("link", { name: "Start over" }).getAttribute("href")).toBe("/");
   });
 });

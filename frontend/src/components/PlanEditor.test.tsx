@@ -74,6 +74,17 @@ describe("PlanEditor", () => {
     expect(screen.getByText(/left of your \$5,000 budget/)).toBeDefined();
   });
 
+  test("undo puts the plan back the way the planner left it", () => {
+    render(<PlanEditor initialPlan={plan} options={options} />);
+    expect(screen.queryByRole("button", { name: "Undo my changes" })).toBeNull();
+    fireEvent.click(screen.getByRole("button", { name: "Remove Tea ceremony" }));
+    fireEvent.click(screen.getByRole("button", { name: "Add Mount Fuji day trip" }));
+    fireEvent.click(screen.getByRole("button", { name: "Undo my changes" }));
+    expect(total()).toBe("$2,610");
+    expect(within(screen.getByRole("region", { name: "Day 1" })).getByText("Tea ceremony")).toBeDefined();
+    expect(screen.queryByRole("button", { name: "Undo my changes" })).toBeNull();
+  });
+
   test("shows when the edits go over budget", () => {
     render(<PlanEditor initialPlan={{ ...plan, budget: usd(2650) }} options={options} />);
     fireEvent.click(screen.getByRole("button", { name: "Add Mount Fuji day trip" }));

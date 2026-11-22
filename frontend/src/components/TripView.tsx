@@ -11,7 +11,15 @@ import { Price } from "./Price";
 import { card, primaryButton, secondaryButton } from "./styles";
 import { uniqueWarnings, WarningList } from "./WarningList";
 
-export function ProgressSteps({ progress }: { progress: TripProgress | null }) {
+export function ProgressSteps({
+  progress,
+  stalled = false,
+  connectionError = null,
+}: {
+  progress: TripProgress | null;
+  stalled?: boolean;
+  connectionError?: string | null;
+}) {
   const steps = progress?.steps ?? [];
   const heading =
     progress?.status === "planning" ? "Building your itineraries…" : "Researching real prices…";
@@ -37,9 +45,42 @@ export function ProgressSteps({ progress }: { progress: TripProgress | null }) {
           </li>
         ))}
       </ol>
-      <p className="text-xs text-zinc-500 dark:text-zinc-400">
-        This can take a minute. Every price we find comes with a link to where we found it.
+      {connectionError && (
+        <p className="text-sm text-amber-700 dark:text-amber-400">
+          Trouble reaching the server ({connectionError}). Retrying…
+        </p>
+      )}
+      {stalled ? (
+        <div role="status" className="flex flex-col gap-2 text-sm text-zinc-700 dark:text-zinc-300">
+          <p>This is taking longer than usual. We&apos;ll keep checking.</p>
+          <Link href="/" className="self-start text-sky-700 underline dark:text-sky-400">
+            Start over with a different trip
+          </Link>
+        </div>
+      ) : (
+        <p className="text-xs text-zinc-500 dark:text-zinc-400">
+          This can take a minute. Every price we find comes with a link to where we found it.
+        </p>
+      )}
+    </section>
+  );
+}
+
+export function TimedOut({ onRetry }: { onRetry: () => void }) {
+  return (
+    <section className={`${card} flex flex-col gap-3`} role="alert">
+      <h1 className="text-xl font-semibold">Research has stopped making progress</h1>
+      <p className="text-zinc-700 dark:text-zinc-300">
+        Nothing new has come in for 10 minutes, so we stopped checking. You can check again or plan a different trip.
       </p>
+      <div className="flex flex-wrap gap-3">
+        <button type="button" className={primaryButton} onClick={onRetry}>
+          Check again
+        </button>
+        <Link href="/" className={secondaryButton}>
+          Start over
+        </Link>
+      </div>
     </section>
   );
 }
@@ -162,7 +203,7 @@ export function PlanComparison({ plans, options }: { plans: Plan[]; options: Opt
 }
 
 export function TripView({ tripId }: { tripId: string }) {
-  const { progress, error } = useTripProgress(tripId);
+  const { progress, error, stalled, timedOut, retry } = useTripProgress(tripId);
   const [result, setResult] = useState<PlansResponse | null>(null);
   const [plansError, setPlansError] = useState<string | null>(null);
   const done = progress?.status === "done";
@@ -192,7 +233,8 @@ export function TripView({ tripId }: { tripId: string }) {
     );
   }
 
-  if (!result) return <ProgressSteps progress={progress} />;
+  if (!result && timedOut) return <TimedOut onRetry={retry} />;
+  if (!result) return <ProgressSteps progress={progress} stalled={stalled} connectionError={error} />;
 
   if (!result.feasible) {
     return <Infeasible reason={result.reason} minCost={result.min_estimated_cost} />;
