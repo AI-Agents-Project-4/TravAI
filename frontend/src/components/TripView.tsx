@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { api } from "@/lib/api";
 import { useTripProgress } from "@/lib/api/use-trip-progress";
-import { categoryLabel, formatMoney } from "@/lib/format";
+import { categoryLabel, formatMoney, sortBreakdown } from "@/lib/format";
 import { indexOptions } from "@/lib/plan";
 import type { Money, Option, Plan, PlansResponse, TripProgress } from "@/lib/types";
 import { Price } from "./Price";
@@ -106,7 +106,7 @@ function PlanCard({ plan, options }: { plan: Plan; options: ReadonlyMap<string, 
       </div>
 
       <dl className="flex flex-col gap-1 text-sm">
-        {plan.cost_breakdown.map((line) => (
+        {sortBreakdown(plan.cost_breakdown).map((line) => (
           <div key={line.category} className="flex justify-between gap-4">
             <dt className="text-zinc-600 dark:text-zinc-400">{categoryLabel(line.category)}</dt>
             <dd className="tabular-nums">{formatMoney(line.total)}</dd>

@@ -83,3 +83,14 @@ const CATEGORY_LABELS: Record<string, string> = {
 export function categoryLabel(category: string): string {
   return CATEGORY_LABELS[category] ?? category;
 }
+
+const CATEGORY_ORDER = ["flight", "hotel", "transport", "activity", "food", "other"];
+
+/** Same line order on every plan, whatever order the backend sends. */
+export function sortBreakdown<T extends { category: string }>(lines: T[]): T[] {
+  const rank = (c: string) => {
+    const i = CATEGORY_ORDER.indexOf(c);
+    return i === -1 ? CATEGORY_ORDER.length - 1 : i;
+  };
+  return [...lines].sort((a, b) => rank(a.category) - rank(b.category));
+}

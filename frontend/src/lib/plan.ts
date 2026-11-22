@@ -76,7 +76,7 @@ export function runningTotal(base: Plan, edited: Plan, index: OptionIndex): Runn
     base.total.currency === currency ? Math.max(0, base.total.amount - baseSum.amount) : 0;
   const editedSum = sumOptions(edited, index);
 
-  const order: CostCategory[] = ["flight", "hotel", "activity", "food", "transport", "other"];
+  const order: CostCategory[] = ["flight", "hotel", "transport", "activity", "food", "other"];
   const byCategory = new Map(editedSum.byCategory);
   if (otherCostsAmount > 0) {
     byCategory.set("other", (byCategory.get("other") ?? 0) + otherCostsAmount);

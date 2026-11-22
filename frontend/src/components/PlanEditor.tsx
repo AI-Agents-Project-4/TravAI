@@ -152,7 +152,22 @@ export function PlanEditor({ initialPlan, options }: { initialPlan: Plan; option
   const title = (optionId: string) => index.get(optionId)?.title ?? "Unknown item";
 
   return (
-    <div className="flex flex-col gap-6">
+    <div className="flex flex-col gap-6 pb-20 lg:pb-0">
+      {/* Phones: the full total panel is at the bottom, so keep the number in view. */}
+      <div
+        aria-hidden
+        className="fixed inset-x-0 bottom-0 z-10 flex items-center justify-between gap-3 border-t border-zinc-200 bg-white/95 px-4 py-3 backdrop-blur lg:hidden dark:border-zinc-800 dark:bg-zinc-900/95"
+      >
+        <span className={`text-xl font-semibold tabular-nums ${over ? "text-red-600 dark:text-red-400" : ""}`}>
+          {total.complete ? "" : "≥ "}
+          {formatMoney(total.total)}
+        </span>
+        <span className={`text-sm ${over ? "text-red-600 dark:text-red-400" : "text-emerald-700 dark:text-emerald-400"}`}>
+          {over
+            ? `${formatMoney({ amount: total.total.amount - plan.budget.amount, currency: plan.budget.currency })} over budget`
+            : `${formatMoney({ amount: plan.budget.amount - total.total.amount, currency: plan.budget.currency }, { round: "down" })} left`}
+        </span>
+      </div>
       <div className="flex flex-col gap-1">
         <Link
           href={`/trips/${encodeURIComponent(plan.trip_id)}`}

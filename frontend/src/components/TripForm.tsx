@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useId, useState, type ReactNode } from "react";
+import { useId, useLayoutEffect, useState, type ReactNode } from "react";
 import { api } from "@/lib/api";
 import {
   CURRENCIES,
@@ -58,6 +58,18 @@ export function TripForm() {
   const [submitting, setSubmitting] = useState(false);
   const [serverError, setServerError] = useState<string | null>(null);
   const [pending, setPending] = useState<{ tripId: string; warnings: Warning[] } | null>(null);
+
+  // cacheComponents keeps this page mounted (hidden) after we navigate to the
+  // trip. Keep what the user typed, so "Change the trip" brings it back, but
+  // reset the submit state and the safety panel so they aren't stale on return.
+  useLayoutEffect(
+    () => () => {
+      setSubmitting(false);
+      setPending(null);
+      setServerError(null);
+    },
+    [],
+  );
 
   const fieldId = (name: keyof TripFormValues) => `${uid}-${name}`;
   const describedBy = (name: keyof TripFormValues, hasHint = false) =>

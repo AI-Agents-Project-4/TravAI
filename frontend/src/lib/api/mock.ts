@@ -232,12 +232,6 @@ function draftDays(trip: MockTrip, r: MockResearch, options: Map<string, Option>
   return days.map(({ day, items }) => ({ day, items }));
 }
 
-const SUMMARIES = [
-  "Leans on landmarks and history, with a slower pace.",
-  "Built around eating well and evenings out.",
-  "Uses the city as a base for trips out of town.",
-];
-
 export function createMockApi(opts: MockApiOptions = {}): TravaiApi {
   const store = opts.store ?? browserStore();
   const now = opts.now ?? (() => Date.now());
@@ -336,7 +330,7 @@ export function createMockApi(opts: MockApiOptions = {}): TravaiApi {
         plans = ([0, 1, 2] as const).map((theme) => {
           const fitted = fitToBudget(draftDays(trip, r, options, theme), budget.amount, r, options);
           const plan = buildPlan(trip, r, options, `${tripId}-plan-${theme}`, fitted.days);
-          return { ...plan, title: r.themes[theme], summary: SUMMARIES[theme] };
+          return { ...plan, title: r.themes[theme], summary: r.summaries[theme] };
         });
         const next = { ...state.plans };
         for (const p of plans) next[p.id] = p;

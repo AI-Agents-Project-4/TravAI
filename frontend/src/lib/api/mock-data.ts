@@ -18,6 +18,8 @@ type Profile = {
   /** Meals + local transport per person per day. Not an option; goes to "other". */
   dailyPerPerson: number;
   themes: [string, string, string];
+  /** One line per theme, shown under the plan title. */
+  summaries: [string, string, string];
   activities: ActivitySeed[];
   safety?: string;
 };
@@ -28,6 +30,11 @@ const TOKYO: Profile = {
   hotelPerRoomNight: 185,
   dailyPerPerson: 75,
   themes: ["Temples and history", "Food and nightlife", "Day trips"],
+  summaries: [
+    "Shrines, temples and museums at a slower pace.",
+    "Built around eating well and evenings out.",
+    "Uses Tokyo as a base for trips out of the city.",
+  ],
   activities: [
     { title: "Senso-ji Temple and Asakusa walk", theme: 0, perPerson: 0, minutes: 120 },
     { title: "Meiji Jingu Shrine", theme: 0, perPerson: 0, minutes: 90 },
@@ -52,6 +59,11 @@ const COLORADO_SPRINGS: Profile = {
   hotelPerRoomNight: 160,
   dailyPerPerson: 45,
   themes: ["Classic sights", "Outdoors", "Town and food"],
+  summaries: [
+    "The landmarks most visitors come for.",
+    "Hikes, waterfalls and time outside.",
+    "Old Colorado City, local food and an easy pace.",
+  ],
   activities: [
     { title: "Garden of the Gods visitor center and trails", theme: 0, perPerson: 0, minutes: 150 },
     { title: "Pikes Peak Cog Railway", theme: 0, perPerson: 65, minutes: 240 },
@@ -68,6 +80,11 @@ const UKRAINE: Profile = {
   hotelPerRoomNight: 70,
   dailyPerPerson: 40,
   themes: ["Old town and history", "Food and cafés", "Parks and museums"],
+  summaries: [
+    "Walking the old town, churches and history museums.",
+    "Coffee, pastries and traditional dinners.",
+    "Green spaces and art at a relaxed pace.",
+  ],
   safety:
     "Government travel advisories warn against travel to this destination. Conditions change quickly, and map and opening-hours data may be out of date.",
   activities: [
@@ -89,6 +106,11 @@ function genericProfile(destination: string): Profile {
     hotelPerRoomNight: 150,
     dailyPerPerson: 70,
     themes: ["Culture and history", "Food and nightlife", "Outdoors and day trips"],
+    summaries: [
+      `Landmarks and history in ${place}, at a slower pace.`,
+      "Built around eating well and evenings out.",
+      `Parks, tours and a day trip out of ${place}.`,
+    ],
     activities: [
       { title: `${place} old town walking tour`, theme: 0, perPerson: 20, minutes: 150, estimate: true },
       { title: `${place} history museum`, theme: 0, perPerson: 15, minutes: 120 },
@@ -119,6 +141,7 @@ export type MockResearch = {
   /** Activity ids grouped by theme 0..2. */
   byTheme: [string[], string[], string[]];
   themes: [string, string, string];
+  summaries: [string, string, string];
   /** Meals and local transport for the whole trip, not tied to an option. */
   otherCosts: number;
   safety?: string;
@@ -138,6 +161,7 @@ export function mockResearch(tripId: string, trip: TripRequest, fetchedAt: strin
     options,
     byTheme: [[], [], []],
     themes: profile.themes,
+    summaries: profile.summaries,
     otherCosts: profile.dailyPerPerson * people * trip.duration_days,
     safety: profile.safety,
   };
