@@ -31,7 +31,7 @@ There are three data modes. They differ in where flights, hotels and everything 
 |---|---|---|---|---|
 | **live** (default) | no flag | Ignav and SerpApi, spends quota | live (cached on disk after the first call) | real research, recording new data |
 | **offline replay** | `--offline` | exact-request cache only | exact-request cache only | reproducing a past run with no network; the 13 test cases |
-| **sandbox** | `--sandbox`, `data_mode_override="sandbox"` or `TRAVAI_DATA_MODE=sandbox` | recorded data, nearest match if the trip was not recorded (see [Sandbox mode](#sandbox-mode-recorded-flights-and-hotels)) | live | dev, evals and demos without Ignav/SerpApi quota |
+| **sandbox** | `--sandbox`, `data_mode_override="sandbox"` or `TRAVAI_DATA_MODE=sandbox` | recorded data (nearest match if the trip was not recorded), or [synthetic test data](#synthetic-test-data-safe-to-commit-and-push) when no recordings are present | live | dev, evals and demos without Ignav/SerpApi quota |
 
 ```bash
 python3 scripts/run_agent.py tokyo-5d-5000               # live. Case ids are in tests/test_cases.json
@@ -100,6 +100,26 @@ to fit your dates. An estimate for other dates gets a Google Flights search link
 that link is for the recorded date. Every sandbox run adds a note saying the prices are recorded snapshots and when they
 were captured. With no flights found, `status` is `partial` and the feasibility verdict is `unknown`.
 
+### Synthetic test data (safe to commit and push)
+
+When `sandbox_data/` (the real recordings) is not in the checkout, sandbox mode automatically answers from **synthetic test
+data** instead. This is what CI and teammates get without the recordings. Force a source with
+`TRAVAI_SANDBOX_DATA=recorded` or `TRAVAI_SANDBOX_DATA=synthetic`.
+
+- **How it is made:** `scripts/fit_synthetic_params.py` reads the local recordings and writes `synthetic_data/params.json`,
+  which holds **aggregate numbers only** (per-route and per-city price spreads, a distance-to-price fit, city centres to 2
+  decimals, approximate airport coordinates). `research/synthetic.py` then generates a response on demand for any request,
+  seeded by the request, so the same request always gives the same answer and every route, date and party size is covered.
+  Only routes between airports listed in `params.json`, and cities with fitted parameters, get an answer; anything else is a gap.
+- **What is invented, not fitted:** the season swing (+/-12% across the year), the one-way discount (62% of a round trip),
+  stop counts, layover hubs, flight times and the hotel names. Treat price levels as plausible, not accurate.
+- **Always visibly fake:** ids start with `synthetic-`, carriers are "Synthetic Air A-D", hotels are "Synthetic Hotel NNNN",
+  links point at `synthetic.invalid`, `source.provider` is `synthetic`, every price is `price_type: "estimate"` with
+  `confidence: low`, and the run's `notes` start with "SYNTHETIC TEST DATA". Nothing recorded is reused (a test checks this
+  whenever the recordings are present).
+- **Use it for:** unit tests, CI, checking the pipeline and the schema end to end. **Do not** use it for the live demo or for
+  any claim about real prices or agent accuracy.
+
 ### Recording and refilling data
 
 ```bash
@@ -119,8 +139,8 @@ python3 scripts/record_sandbox.py --from-misses 5   # dry run: only the 5 most-r
   costs 1. Ignav only searches dates up to about mid-November 2027.
 - Recorded requests mirror the agent's exactly, but airports and city names are written by hand. If the agent resolves a
   different airport or spells a city differently, that one request will miss in sandbox mode.
-- `sandbox_data/*.jsonl` is rebuilt from `tests/fixtures/http_cache/`. Both are generated data, so check each API
-  provider's terms on redistributing responses before committing them to a public repo.
+- `sandbox_data/*.jsonl` is rebuilt from `tests/fixtures/http_cache/`. It is gitignored: both hold real provider responses,
+  so check each API provider's terms on redistributing them before committing them to a public repo.
 
 ## How it works
 
@@ -249,6 +269,8 @@ source, and offline mode handles that explicitly.
   hours parsing, request validation, flight selection and estimates.
 - `tests/test_sandbox.py`: sandbox matching (exact, nearest date, party-size scaling, currency, name normalization, misses)
   and the agent's labeling of estimates, with hand-made data and a guard that fails if sandbox mode touches the network.
+- `tests/test_synthetic.py`: the synthetic generator (deterministic, covers any date, visibly labeled, schema-valid, no recorded
+  data leaks into `params.json` or the output).
 - `tests/test_cases.json`: 13 input cases with expectations: the 5 proposal scenarios (Tokyo, Colorado Springs day trip,
   Europe, Japan for a month on $500, Ukraine) plus group travel, a non-USD budget, an ambiguous name, a remote destination
   and invalid input.
@@ -266,9 +288,11 @@ research/
   pricing.py      pricing layers 1-2, price parsing, Wikivoyage index and matching
   sources.py      Ignav, SerpApi, Geoapify, State Dept, FX clients
   compact.py      planner_view(): slim output for the planner
-  sandbox.py      sandbox mode: nearest-match lookup over recorded flights and hotels
+  sandbox.py      sandbox mode: nearest-match lookup over recorded flights and hotels (or synthetic data)
+  synthetic.py    synthetic flight and hotel responses generated from aggregate statistics
   core.py         .env, HTTP/LLM disk cache, data mode, claude -p wrapper
-sandbox_data/     compact recorded flights, hotels and booking links (built by scripts/build_sandbox_index.py)
+sandbox_data/     compact recorded flights, hotels and booking links (built by scripts/build_sandbox_index.py; local, gitignored)
+synthetic_data/   params.json: aggregate statistics for the synthetic generator (scripts/fit_synthetic_params.py)
 scripts/          run_agent.py, record_sandbox.py, build_sandbox_index.py, top20_tokyo.py (pricing demo on 20 Tokyo landmarks)
 tests/            unit tests, test_cases.json, run_cases.py, fixtures/ (caches), outputs/ (generated, gitignored)
 ```

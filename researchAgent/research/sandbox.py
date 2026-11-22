@@ -19,6 +19,7 @@ import unicodedata
 from datetime import date, datetime, timezone
 from typing import Callable, Optional
 
+from . import synthetic
 from .core import ROOT
 
 DATA_DIR = os.path.join(ROOT, "sandbox_data")
@@ -48,8 +49,9 @@ def _d(s: str) -> date:
 class Store:
     """The recorded searches. Built from rows so tests can use tiny hand-made data."""
 
-    def __init__(self, flights: list, hotels: list, bookings: Optional[dict] = None):
+    def __init__(self, flights: list, hotels: list, bookings: Optional[dict] = None, synthetic_data: bool = False):
         self.flights, self.hotels, self.bookings = flights, hotels, bookings or {}
+        self.synthetic = synthetic_data   # True: answer from research/synthetic.py instead of recordings
 
     @classmethod
     def from_dir(cls, path: str = DATA_DIR) -> "Store":
@@ -57,6 +59,10 @@ class Store:
             p = os.path.join(path, name + ".jsonl")
             return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
         return cls(rows("flights"), rows("hotels"), {b["ignav_id"]: b for b in rows("bookings")})
+
+    @classmethod
+    def generated(cls) -> "Store":
+        return cls([], [], {}, synthetic_data=True)
 
     def captured_range(self) -> Optional[tuple]:
         ts = sorted(r["saved_at"][:10] for r in self.flights + self.hotels if r.get("saved_at"))
@@ -67,9 +73,16 @@ _default: Optional[Store] = None
 
 
 def default_store() -> Store:
+    """Recorded data when sandbox_data/ has it, else synthetic test data (research/synthetic.py).
+    Force one with TRAVAI_SANDBOX_DATA=recorded|synthetic."""
     global _default
     if _default is None:
-        _default = Store.from_dir()
+        choice = os.environ.get("TRAVAI_SANDBOX_DATA", "auto")
+        have_recorded = os.path.exists(os.path.join(DATA_DIR, "flights.jsonl"))
+        if choice == "synthetic" or (choice == "auto" and not have_recorded and synthetic.available()):
+            _default = Store.generated()
+        else:
+            _default = Store.from_dir()
     return _default
 
 
@@ -87,6 +100,16 @@ def log_miss(kind: str, key: dict) -> None:
 def find_flights(origin: str, dest: str, dep: str, ret: Optional[str], adults: int, store: Optional[Store] = None) -> Optional[dict]:
     """Closest recorded search for this route. Returns an Ignav-shaped response plus `_sandbox`, or None."""
     store = store or default_store()
+    if store.synthetic:
+        r = synthetic.flights(origin, dest, dep, ret, adults)
+        if r is None:
+            return None
+        for it in r["itineraries"]:
+            it["_sandbox"] = {"price_type": "estimate", "recorded": "synthetic", "saved_at": synthetic.GENERATED_AT, "synthetic": True,
+                              "method": "Synthetic test data generated from aggregate fare statistics; not a real fare.",
+                              "note": "Synthetic test data, not a real fare."}
+        r["_sandbox"] = {"exact": False, "recorded": "synthetic", "saved_at": synthetic.GENERATED_AT, "synthetic": True}
+        return r
     want_dep = _d(dep)
     want_nights = (_d(ret) - want_dep).days if ret else None
     best, best_score = None, None
@@ -146,9 +169,17 @@ def find_hotels(city: str, check_in: str, check_out: str, adults: int, currency:
                 fx: Callable[[str, str], float], store: Optional[Store] = None) -> Optional[dict]:
     """Closest recorded hotel search for this city. Returns a SerpApi-shaped response plus `_sandbox`, or None."""
     store = store or default_store()
+    key = norm_city(city)
+    if store.synthetic:
+        r = synthetic.hotels(key, check_in, check_out, adults, currency, fx)
+        if r is None:
+            return None
+        r["_sandbox"] = {"exact": False, "recorded": "synthetic", "saved_at": synthetic.GENERATED_AT, "synthetic": True,
+                         "price_type": "estimate", "method": "Synthetic test data generated from aggregate hotel-rate statistics; not a real rate.",
+                         "note": "Synthetic test data, not a real rate."}
+        return r
     want_in = _d(check_in)
     want_nights = (_d(check_out) - want_in).days
-    key = norm_city(city)
     best, best_score = None, None
     for r in store.hotels:
         if norm_city(r["city"]) != key or not r["properties"]:
