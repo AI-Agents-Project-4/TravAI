@@ -1,0 +1,295 @@
+{{pagebanner|Paris 13e Wikivoyage Banner (Tolbiac).png|pgname=13th arrondissement}}
+
+The '''13th arrondissement''' of Paris is primarily a residential and business district in the southeast of Paris, on the [[Left Bank]] of the Seine.
+
+Although not usually recognised as a natural magnet for tourists, the 13th nonetheless does hold several attractions of interest to the traveller that include the '''Bibliothèque Nationale de France''' (national library), completed in 1996, and part of a major new development of the '''Paris rive gauche''' district, the second large-scale urbanism project inside the city of Paris.
+
+To the west of the PRG, along avenue de Tolbiac is the first of these urbanism projects, '''Les Olympiades''', with its raised esplanade and the latest of the Paris Meteor (high-speed metro) stops, [[w:Olympiades_%28Paris_M%C3%A9tro%29|Les Olympiades]]. The southern part of the arrondissement is the Chinatown of Paris, perhaps the biggest in Europe.
+
+==Get in==
+[[Image:St Anne Church.jpg|thumb|250px|Saint Anne's on the Butte au Cailles]]
+
+===On foot===
+The easy walk to the 13th arrondissement from the centre of Paris (Île de la Cité) takes around 40 minutes, either through back streets or along the Seine promenade. It can be a very pleasant walk: you can walk across the Latin Quarter, for example, through the rue Mouffetard in the [[Paris/5th arrondissement]].
+
+===By métro===
+You can get to the 13th arrondissement using 3 metro lines:
+* Line {{rint|paris|7}} serves '''Gobelins'''' near the Manufacture des Gobelins, '''Place d'Italie''', '''Tolbiac''' (good entrance point for Chinatown), '''Maison-Blanche''', and '''Porte d'Italie''', '''Porte de Choisy''' and '''Porte d'Ivry'''. You will get to these three stations only if you take a train that goes in the Mairie d'Ivry direction. Other trains take another direction and leave Paris immediately after Maison-Blanche.
+* Line {{rint|paris|6}} serves '''Glacière''', '''Corvisart''', '''Place_d'Italie''', '''Nationale''', '''Chevaleret''', near the avant-garde art galleries of rue Louise-Weiss, and '''Quai de la Gare''', near the Bat-O-Far and other .
+* Line {{rint|paris|14}} serves '''Bibliothèque François-Mitterrand''' (near the new Bibliothèque de France), '''Olympiades''', '''Maison-Blanche''', before heading to '''Orly''' '''Airport''' starting in June of 2024.
+
+===By bus===
+*Line 27: Orange in colour
+*Line 47: Pink in colour
+*Line 61: Dark green in colour
+*Line 62: Brown in colour.
+*Line 64: goes from '''Gambetta''' to '''Place d'Italie'''. Turquoise/light green in colour
+*Line 67: Pink in colour
+*Line 83: Dark yellow in colour
+
+All of these lines stop at Place d'Italie.
+
+* Line 89: Light blue in colour.
+* Line 325: Light blue in colour. Heads to '''Château de Vincennes''' via the suburbs.
+
+===By train===
+* {{go
+| name=Gare d'Austerlitz | alt= | url= | email=
+| address= |lat=48.842|long=2.3658 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q734017
+| lastedit=
+| content=''Métro: Gare d'Austerlitz'' – regular trains to and from the centre and south-west of France ([[Orléans]], [[Limoges]], [[Toulouse]] the long way) and the majority of night trains.
+}}
+
+==Get around==
+{{Mapframe|48.8282|2.3641|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+[[Image:Paris 13th arrondissement map with listings 2.png|thumb|350px|Map of the 13th Arrondissement]]
+
+==See==
+[[File:Paris Mairie XIIIe façade 2014.jpg|thumb|Mairie (town hall) of the 13th arrondisement]]
+* {{see
+| name=La Bibliothèque Nationale de France | alt= | url=http://www.bnf.fr | email=
+| address= | lat=48.833611 | long=2.375833 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bibliothèque nationale de France | image=France, Paris II Bibliothèque nationale de France, BnF, Site Richelieu, Salle Labrouste 1854-1875.jpg | wikidata=Q193563
+| content=The national library preserves collections of historic documents of both French and international origin. It holds 5,000 Greek manuscripts. You can get a day pass to visit or choose to visit only the expositions the library hosts.
+}}
+* {{see
+| name=La Cité de la Mode et du Design | alt=Les Docks | url=http://www.citemodedesign.fr | email=contact@citemodedesign.fr
+| address=34 quai d'Austerlitz | lat=48.841111 | long=2.369722 | directions=nearest station is Gare d'Austerlitz. Paris Gare de Lyon is just across the bridge though
+| phone=+33 1 76 77 25 30 | tollfree=
+| hours=Mon Thu 11:00-19:00, Wed Fri 11:00-22:00, Sat Sun 10:00-20:00 | price=
+| wikidata=Q2974772
+| lastedit=2016-07-27
+| content=Part gallery - part restaurant - part nightclub, La Cite (Les Docks) is a modern building that is instantly recognisable due to being draped on one side with a large neon green shell covering the stairwells and roof the building. Roughly translated in English as The City of Fashion and Design, this is a trendy spot at the weekends and is used for event like [http://www.maison-objet.com/fr/paris-design-week Paris Design Week]. The restaurant in the building is open all year round.
+}}
+* {{see
+| name=La Butte aux Cailles | alt= | url= | email=
+| address= | lat=48.827972 | long=2.351568 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Butte-aux-Cailles | wikidata=Q1018039
+| content=A little district within the district. Very charming little streets on a hill on the west end of the 13 district. Nice for lunching/dining activities. This is the place where the band "Mano Negra" was hanging around.
+}}
+* {{see
+| name=Manufacture des Gobelins | alt= | url= | email=
+| address=42, av des Gobelins | lat=48.83495 | long=2.35312 | directions=
+| phone=+33 1 44 54 19 33 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Gobelins Manufactory | image=Manufacture des Gobelins.jpg | wikidata=Q732312
+| content=Once the dye works for royalty, it is now a museum.
+}}
+* {{see
+| name=Stade Charléty | alt= | url= | email=
+| address= | lat=48.818611 | long=2.346667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Stade Sébastien Charléty | image=Stade Charlety.jpg | wikidata=Q541391
+| content=The Stade Charlety is a massive multi-sport arena, hosting football (soccer), tennis, rugby and squash matches.
+}}
+
+==Do==
+Stroll across the Seine on the Pont Simone de Beauvoir pedestrian bridge from the Bibliotheque Nationale to the Parc de Bercy (in the 12th arrondissement).
+
+==Buy==
+* {{buy
+| name=Les Frères Tang | url= | email=
+| address=av, de Choisy | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Tang brothers have the biggest Chinese grocery in Paris, occupying several multistory barracks-like buildings tucked into the Olympic housing project. They're known for giving away large balloons during Chinese New Year celebrations. They are one of the rare supermarkets to be open on Sundays.}}
+
+==Eat==
+[[Image:Paris_13th_bat_o_far.jpg|thumb|250px|Bat-O-Far]]
+
+The south part of the district, in the high-rise Chinatown area, is the good place to go if you like Chinese or Vietnamese food. Many outlets sell Vietnamese sandwiches. The area is not the best for getting cheap, good quality Chinese food. Elsewhere the 13th has some standouts.
+
+* {{eat | name=Au Banquier | url=http://www.aubanquier.fr/?lang=en | email= | address=7, rue du Banquier | lat= | long= | directions={{station|Campo-Formio|5 }} | phone=+33 1 43 36 73 46 | tollfree= | fax= | hours=Mon 09:00–15:00, Tue–Sun 09:00–00:00 | price= | content=Decor is minimalist, but the northern African cuisine of this place is delicious.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Chez Gladines | url=http://chezgladines-butteauxcailles.fr/en | email= | address=5, rue des Cinq Diamants | lat=48.8288 | long=2.3506 | directions=On the Butte aux Cailles | phone=+33 1 45 80 70 10 | tollfree= | fax= | hours=Mon–Fri 12:00–15:00 19:00–23:45, Sat–Sun 12:00–16:00 19:00–23:45 | price= | content=Big Basque salads and a lot of ambiance in this moderately low-budget restaurant. This place is almost always crowded on Saturday nights.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Green Garden | url= | email=
+| address=20, rue Nationale | lat= | long= | directions={{station|Port d'Ivry|7 }}
+| phone=+33 1 45 82 99 54 | tollfree= | fax=
+| hours= | price=
+| content=East Asian vegetarian
+}}
+* {{eat
+| name=Phở 14 | url= | email=
+| address= | lat= | long= | directions=Across from Sinorama
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=For Vietnamese soups, best known in the district.
+}}
+* {{eat
+| name=Sinorama | url= | email=
+| address=av de Choisy at rue de Tolbiac | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of many Chinese places in the outer part of the arrondissement.
+}}
+* {{eat
+| name=Sala Thaï | url=http://salathai.free.fr/index1.html | email=
+| address=13, rue des Frères d'Astier de la Vigerie | lat= | long= | directions={{station|Maison Blanche|7 }}
+| phone=+33 1 45 84 13 22 | tollfree= | fax=
+| hours= | price=Dinner for about €35 including beverages
+| content=Delicious Thai food.
+}}
+* {{eat
+| name=Le Temps des Cerises | alt= | url=https://www.letempsdescerisescoop.com/ | email=
+| address=18-20, rue de la Butte-aux-Cailles | lat=48.8279 | long=2.3506 | directions={{station|Place d'Italie||5|6|7}}
+| phone=+33 1 45 89 69 48 | tollfree=
+| hours=Mon–Sat 11:45–14:30 & 19:00–23:45 | price=€12-20
+| content=If you are looking for quality French food and a large choice of good and affordable wine, this is the place to go. This is what we can call a restaurant populaire (as opposed to other posh and expensive places around) with a friendly staff, a very nice atmosphere, no way to reserve a table, just show up and the patron will find a place for you (arrive before 20:00 if you don't want to queue up, especially at weekends), turn off your mobile phone or you will be kicked out! The Boudin à la Normande (blood sausage) is a must and you can also get very decent goose liver and other French specialities such as Salade de Museau.
+}}
+
+==Drink==
+* {{drink
+| name=Bateau Phare | alt=Batofar | url=https://lebateauphare.paris/ | email=
+| address=11, quai François Mauriac | lat=48.8334 | long=2.3793 | directions={{station|Biblioteque François Mitterand|14 }} or {{station|Quai de la Gare|6 }}
+| phone=+33 1 56 29 10 11 | tollfree=
+| hours=concert: 19:00–23:00, club: 23:30–06:00 | price=
+| wikipedia=Batofar | image=Batofar - Paris.JPG | wikidata=Q2365441
+| content=This little red lighthouse boat hosts dance and chill electronic music and other multimedia cultured events and has been one of the coolest spots around for some time. It was closed in or around 2018 but reopened in 2024 under a new name, "le Bateau Phare," that sounds just like the old one, "le Batofar." The dance floor is in the hold, a restaurant is above it, and the lounge on the upper deck. There is also a restaurant on the quai called "La Terrasse" that is open from May to October.
+}}
+*{{drink
+| name=La Dame de Canton | alt=La Guinguette Pirate | url=http://www.damedecanton.com | email=
+| address=Port de la Gare | lat=48.8347 | long=2.3776 | directions={{station|Bibliothèque François Mitterrand|14 }} or {{station|Quai de la Gare|6 }}
+| phone=+33 1 53 61 08 49 | tollfree= | fax=
+| hours=daily 19:00–00:00 | price=
+| content=Known for years as the ''Guinguette Pirate'', this Chinese junk has been rechristened with her maiden name. The restaurant and bookings are still the same, with equal parts world music, ''chanson français'' and concerts for kids.
+}}
+* {{drink
+| name=Sputnik | alt= | url= | email=
+| address=14, rue Butte-aux-Cailles | lat=48.8280 | long=2.3510 | directions={{station|Corvisart|6 }}
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-02-11
+| content=
+}}
+
+==Sleep==
+===Budget===
+All of the following hotels are near Place d'Italie, where public transportation is excellent.
+* {{sleep
+| name=Hotel Ibis Paris Avenue d'Italie | alt= | url=https://all.accor.com/hotel/5543/index.fr.shtml | email=H5543@accor.com
+| address=15 bis, av d'Italie | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hôtel Verlaine | alt= | url=https://hotel-verlaine.com/en/ | email=reception@hotel-verlaine.com
+| address=51, rue Bobillot | lat= | long= | directions=
+| phone=+33 1 45 89 56 14 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-08-11
+| content=
+}}
+* {{sleep
+| name=Jack's | alt= | url=https://www.jacks-hotel.com/contact-acces | email=info@jacks-hotel.com
+| address=19, av Stéphen Pichon | lat= | long= | directions=
+| phone=+33 1 45 85 17 34 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-08-11
+| content=On a very quiet street. Jean Genet died in this hotel in 1986.
+}}
+* {{sleep
+| name=Kyriad Italie Gobelins | alt= | url=https://paris-13-italie-gobelins.kyriad.com/en-us/ | email=
+| address=5, rue Veronese | lat= | long= | directions=
+| phone=+33 1 47 07 20 90 | tollfree= | fax=+33 1 45 35 25 27
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Tim Hotel Italie | alt= | url=https://www.paris-paris.com/hotel/timhotel_italie_butte_aux_cailles.php | email=
+| address=22, rue Barrault | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+
+===Mid-range===
+* {{sleep
+| name=Holiday Inn Bibliotheque | alt= | url=https://all.accor.com/hotel/7976/index.en.shtml | email=H7976@accor.com
+| address=21, rue de Tolbiac | lat= | long= | directions=
+| phone=+33 1 45 84 61 61 | tollfree= | fax=+33 1 45 84 43 38
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Holiday Inn Express Paris Place d'Italie | alt= | url=https://hotel-inn-paris.fr/ | email=hid.paris13@gmail.com
+| address=178, boul Vincent Auriol | lat= | long= | directions=
+| phone=+33 1 44 24 01 01 | tollfree= | fax=+33 1 44 24 07 07
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=La Manufacture | alt= | url=http://www.hotel-la-manufacture.com | email=reservation@hotel-la-manufacture.com
+| address=8, rue Phillipe de Champagne | lat= | long= | directions=
+| phone=+33 1 45 35 45 25 | tollfree= | fax=+33 1 45 35 45 40
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Mercure Blanqui Place d'Italie | alt= | url=https://all.accor.com/hotel/1191/index.fr.shtml | email=H1191@accor.com
+| address=25, boul Auguste Blanqui | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Mercure Gobelins | alt= | url=https://mercure-paris-gobelins-place-ditalie-75013.parishotelsfr.com/fr/ | email=
+| address=8 bis, av de la Soeur Rosalie | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Urban Bivouac | alt= | url=https://www.ubparis.com | email=hotel@ubparis.com
+| address=1 rue Sthrau | lat=48.827280 | long=2.366942 | directions=Metro: Olympiades
+| phone=+33 1 83 75 69 83 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-08-10
+| content=3-star hotel, 32 rooms.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hôtel Villa Lutece | alt= | url=https://www.villa-lutece-port-royal.com/en/ | email=lutece@machefert.com
+| address=52, rue Jenner | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-08-10
+| content=
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 5.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Paris/3rd arrondissement|3rd arrondissement]]
+| minorl1=[[Paris/4th arrondissement|4th arrondissement]]
+| directionr1=S
+| majorr1=END
+| minorr1=
+}}
+
+{{guidedistrict}}
+{{geo|48.8282|2.3641|zoom=14}}
+{{IsPartOf|Paris}}
+
+
+
+
+{{Mapmask |48.8195,2.3446 |48.8204,2.3439 |48.8212,2.3427 |48.8227,2.3417 |48.8237,2.3414 |48.8275,2.3416 |48.8278,2.3416 |48.8318,2.3411 |48.8325,2.3411 |48.8383,2.3421 |48.8384,2.3421 |48.8375,2.3463 |48.8373,2.3470 |48.8368,2.3518 |48.8368,2.3518 |48.8368,2.3519 |48.8400,2.3618 |48.8444,2.3652 |48.8449,2.3660 |48.8401,2.3725 |48.8398,2.3729 |48.8381,2.3748 |48.8358,2.3773 |48.8275,2.3876 |48.8257,2.3903 |48.8255,2.3898 |48.8250,2.3888 |48.8224,2.3815 |48.8217,2.3807 |48.8163,2.3643 |48.8161,2.3634 |48.8160,2.3559 |48.8185,2.3524 |48.8160,2.3472 |48.8159,2.3469 |48.8161,2.3444 |48.8156,2.3445 |48.8158,2.3440 |48.8174,2.3441 |48.8176,2.3441 |48.8195,2.3446}}

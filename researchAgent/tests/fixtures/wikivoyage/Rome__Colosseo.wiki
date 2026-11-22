@@ -1,0 +1,585 @@
+{{pagebanner|Colosseo di Roma banner.jpg|pgname=Colosseo, Rome}}
+The '''Colosseo''' district is the heart of ancient [[Rome]] and the [[Roman Empire]]. It has the ''Colosseum'', the ''Forum'', and the ''Capitoline Museum''.
+
+==Get in==
+{{Mapframe|41.89137|12.49150|width=630|height=600|zoom=15||layer=M|lang=en}}
+{{mapshapes|Q237480}}
+{{Mapmask|41.8832,12.5032|41.8832,12.5031|41.8832,12.5027|41.8833,12.5022|41.8833,12.5022|41.8833,12.5021|41.8833,12.5021|41.8832,12.5013|41.8832,12.5013|41.8832,12.5012|41.8832,12.5012|41.8829,12.5004|41.8827,12.5000|41.8828,12.5000|41.8827,12.4997|41.8826,12.4997|41.8826,12.4996|41.8826,12.4996|41.8825,12.4992|41.8825,12.4992|41.8825,12.4987|41.8824,12.4985|41.8825,12.4980|41.8826,12.4978|41.8833,12.4967|41.8834,12.4965|41.8836,12.4964|41.8848,12.4959|41.8851,12.4957|41.8855,12.4955|41.8863,12.4930|41.8863,12.4928|41.8863,12.4922|41.8866,12.4898|41.8854,12.4895|41.8848,12.4894|41.8848,12.4894|41.8848,12.4893|41.8848,12.4893|41.8848,12.4893|41.8849,12.4892|41.8850,12.4891|41.8851,12.4888|41.8854,12.4882|41.8858,12.4876|41.8876,12.4842|41.8881,12.4835|41.8881,12.4833|41.8882,12.4833|41.8883,12.4833|41.8883,12.4834|41.8885,12.4835|41.8885,12.4835|41.8885,12.4835|41.8886,12.4836|41.8894,12.4837|41.8895,12.4837|41.8896,12.4838|41.8898,12.4838|41.8900,12.4840|41.8904,12.4842|41.8904,12.4842|41.8906,12.4834|41.8907,12.4830|41.8909,12.4827|41.8909,12.4826|41.8909,12.4826|41.8910,12.4825|41.8911,12.4820|41.8911,12.4819|41.8909,12.4809|41.8909,12.4808|41.8909,12.4805|41.8909,12.4804|41.8909,12.4803|41.8909,12.4802|41.8907,12.4798|41.8907,12.4794|41.8908,12.4793|41.8908,12.4792|41.8909,12.4791|41.8911,12.4790|41.8911,12.4789|41.8912,12.4788|41.8912,12.4787|41.8913,12.4787|41.8913,12.4786|41.8915,12.4787|41.8924,12.4785|41.8934,12.4791|41.8938,12.4794|41.8946,12.4804|41.8959,12.4789|41.8975,12.4787|41.8975,12.4788|41.8976,12.4791|41.8981,12.4809|41.8983,12.4815|41.8967,12.4822|41.8969,12.4836|41.8972,12.4851|41.8962,12.4855|41.8963,12.4864|41.9006,12.4931|41.8988,12.4963|41.8983,12.4970|41.8982,12.4969|41.8969,12.4984|41.8969,12.4986|41.8970,12.4990|41.8968,12.4992|41.8920,12.5019|41.8872,12.5046|41.8871,12.5046|41.8870,12.5044|41.8869,12.5043|41.8867,12.5041|41.8864,12.5040|41.8856,12.5029|41.8832,12.5032}}
+Via dei Fori Imperiali cuts through the centre of the Rome/Colosseo district, connecting Piazza Venezia with the Colosseum. It is well served by buses, although if you are into serious sightseeing you are likely to want to walk instead as the Roman Forum is on your right for most of the journey. After the Colosseum, the road becomes Via Labicana and takes you close to [[Rome/Esquilino-San Giovanni| San Giovanni]]. Buses serving Via dei Fori Imperiali include No. 75, which connects Termini Station with [[Rome/Aventino-Testaccio| Aventino- Testaccio]] and No. 85, which connects Piazza San Silvestro in the [[Rome/Modern Center|Modern Center]] (close to the Trevi Fountain) with San Giovanni. The {{marker|type=go|name={{station|Colosseum|B}}|lat=41.89146|long=12.49148}} metro station is two stops from Termini station in the direction of [[Rome/South|EUR]]. It will also be a stop for the new, and very much delayed, Line {{rint|rome|C}}, and the Colosseum end of the Via dei Fori Imperiali is made unattractive by the construction site.
+
+==See==
+
+===Colosseum, Imperial Forum, Roman Forum and Palatine Hill===
+[[Image:Colosseum 2005.jpg|thumb|Colosseum]]
+
+* {{see
+| name=Colosseum | alt= | url=https://colosseo.it/ | email=
+| address=Piazzale del Colosseo / Via dei Fori Imperiali | lat=41.89059 | long=12.49156 | directions=
+| phone=+39 06 700 4261 | tollfree=
+| hours=open daily, last Sun of Oct-Feb 15: 08:30-16:30; Feb 16-Mar 15: 08:30-17:00, Mar 16-last Sun of Mar: 08:30-17:30; last Sun of Mar-Aug 31: 08:30-19:15; Sep 1-30: 08:30-19:00; Oct 1 to last Sun of Oct: 08:30-18:30 | price=Admission €12; €7 EU citizens ages 18-25, free for visitors under 18. You can purchase tickets in advance online from the [https://ticketing.colosseo.it/ official ticket office], which costs an additional €2 booking fee. The tickets include access to the Colosseum, the Roman Forum and Palatine Hill, and are valid for 2 days. Free entry on the first Sunday of the month (no reservation possible)
+| wikipedia=Colosseum | image=Colosseum in Rome, Italy - April 2007.jpg | wikidata=Q10285
+| lastedit=2019-04-29
+| content=Known properly as the Flavian Amphitheatre, this most famous of Roman landmarks takes its name from the giant statue of the emperor Nero that once stood near this location. The amphitheatre was capable of seating 50,000 spectators for animal fights and gladiatorial combats. It was a project started by the Emperor Vespasian in 72 and completed by his son Domitian sometime in the 80s. The Colosseum when completed measured 48 m high, 188 m in length, and 156 m in width. The wooden arena floor was 86 m by 54 m, and covered by sand.;<br />Expect a long queue and an even longer wait. You can skip the queue if you decide to take a tour, but if you don't want a tour, you can STILL skip the queue. If you walk to the entrance for the Roman Forum, you can buy tickets there which allow you to bypass the queues. You can also buy tickets online. There are lots of people offering tours in English just outside the entrance to the Colosseum. Inside you can take a tour (English, Spanish, or German) every 30 minutes or so for an additional fee<!--of €4.50 per person-->. The tours are given by knowledgeable archeologists, but they don't take you to any areas you couldn't visit on your own.
+}}
+[[File:Colosseo 2020.jpg|thumb|Colosseum]]
+* {{see
+| name=Palatine Hill | alt= | url=https://www.coopculture.it/en/heritage.cfm?id=4 | email=
+| address=Via di San Gregorio 30 | lat=41.888333 | long=12.486944 | directions=Right next to the Roman Forum
+| phone= | tollfree= | fax=
+| hours=Working hours the same as Colosseum | price=
+| wikipedia=Palatine Hill | image=Palatino.JPG | wikidata=Q200642
+| lastedit=2019-04-29
+| content=Contains the ruins of several large villas that belonged to wealthy Roman families. You can buy a combined ticket for the Palatine Hill, the Roman Forum and the Colosseum here, avoiding the long lines at the Colosseum. While the Imperial and Roman Fora are probably more spectacular, overall, there are amazing sights on the Palatine Hill, so unless you are terribly short on time or find it too challenging to climb the hill, allow an hour or more for these sights, too.
+}}
+
+* {{see
+| name=Imperial Fora | alt=Fori Imperiali | url=https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/aree_archeologiche/fori_imperiali | email=
+| address=Via dei Fori Imperiali | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Daily 9:00 – 17:30 from 1 – 30 March; 9:00 – 19:15 from 31 March – 30 September; 9:00 – 18:30 from 1 – 26 October; 9:00 – 16:30 from 27 October – 28 February; last admission one hour before closing | price=Standard admission is €18, and the ticket includes entrance to the Imperial Forum and Palatine Hill as well
+| lastedit=2024-04-13
+| content=Amazing series of attractions treated as separate from but physically connected to the Roman Forum. Includes the '''Forum of Caesar''', '''Forum of Augustus''', '''Temple of Peace''', '''Forum of Nerva''', '''Trajan's Forum''', '''Trajan's Markets and Museum of the Imperial Fora''', '''Domitian Terrace''', and excellent documentation of all plus the land use of the area before and since the construction of the fora. Much excavation and study is continuing, and visitors are largely confined to paths, unlike in the Roman Forum, where they can walk more freely in many areas, but there is a lot to see and unbroken sight lines. Allow 45 minutes or more for these attractions before or after heading to the Roman Forum.
+}}
+[[Image:Roman Forum.JPG|thumb|The Roman Forum]]
+
+[[File:Arch of Septimius Severus (Rome).jpg|thumb|The Arch of Septimius Severus]]
+* {{see
+| name=The Roman Forum | alt=Foro Romano | url=https://www.coopculture.it/en/heritage.cfm?id=4 | email=
+| address=Largo della Salara Vecchia 5/6 | lat=41.8922 | long=12.4852 | directions=
+| phone= | tollfree= | fax=
+| hours=Working hours the same as Colosseum | price=Standard admission is €18, and the ticket includes entrance to the Imperial Forum and Palatine Hill as well. Free entry on the first Sunday of the month (no reservation possible)
+| wikipedia=Roman Forum | image=2012-02-17 Foro Romano da Palazzo Senatorio 1.jpg | wikidata=Q180212
+| lastedit=2024-04-12
+| content=If stones could talk: these hallowed ruins were the most powerful seat of government in the world. To stand in the political, legal and religious centre of the whole Roman Empire brings shivers down one's spine. It is the best way of imagining the splendour and glory of ancient Rome. Located in a small valley between the Capitoline and Palatine hills, access to the Forum is '''by foot''' only, from an entrance on the Via dei Fori Imperiali. Wheelchair access is available for most of the Forum but be aware that the path is often bumpy due to it containing original stones from the ancient Roman period. The Forum is much less crowded than the Colosseum and, from a historical perspective, much more interesting. You can hire an audioguide for €5.5 from a small booth just above the Arch of Titus near the Colosseum. These audioguides contain an audio jack so that two people can easily share one.
+}}
+** {{see
+| name=Temple of Antoninus Pius and Faustina | alt=Tempio di Antonino e Faustina | url= | email=
+| address= | lat=41.892139 | long=12.486689 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Temple of Antoninus and Faustina | image=Temple of Antoninus and Faustina 3D.jpg | wikidata=Q752555
+| content=Built in 141 AD and dedicated to the Empress Faustina; after her husband emperor Antoninus Pius died in 161 AD the temple was rededicated to the couple.
+}}
+** {{see
+| name=Basilica Aemilia | alt= | url= | email=
+| address= | lat=41.89261 | long=12.48616 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Basilica Aemilia | image=Roma-curia01.jpg | wikidata=Q522924
+| content=Completed in 179 BC.
+}}
+** {{see
+| name=Curia | alt=Senate House | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1144514
+| lastedit=2021-05-08
+| content=The 4th rebuilding of the meeting place for the Roman Senate, once converted into a church during the Middle Ages, but now restored since the 1930s.
+}}
+** {{see
+| name=Lapis Niger | alt=Black Stone | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q841388
+| lastedit=2021-05-08
+| content=
+}}
+** {{see
+| name=Arch of Septimius Severus | alt=Arco di Settimio Severo | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q162353
+| lastedit=2021-05-08
+| content=Erected in 203. You can see it close up from Via della Curia also (without entering the Forum).
+}}
+** {{see
+| name=Temple of Saturn | alt=Tempio di Saturno | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q746721
+| lastedit=2021-05-08
+| content=
+}}
+** {{see
+| name=Temple of Divine Julius Caesar | alt=Tempio di Divo Giulio Cesare | url= | email=
+| address= | lat=41.892036 | long=12.486092 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Temple of Caesar | image=Temple of Caesar 3D.jpg | wikidata=Q1133288
+| content=Finished in 29 BC, marks the spot of Caesar's spontaneous cremation and Mark Antony's funeral speech, made famous by Shakespeare in his play ''Julius Caesar'' ("Friends, Romans, Countrymen, lend me your ears ...").
+}}
+** {{see
+| name=Temple of Castor and Pollux | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q380530
+| lastedit=2021-05-08
+| content=
+}}
+** {{see
+| name=Arch of Titus | alt= | url= | email=
+| address= | lat=41.890717 | long=12.488585 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Arch of Titus | image=Arco de Tito.jpg | wikidata=Q723887
+| content=Built in 81 AD by the emperor Domitianus in dedication to his brother Titus, who died earlier that year and reigned as emperor from 79-81, overseeing the opening of the Colosseum in 80 and the eruption of Mt Vesuvius the previous year.
+}}
+** {{see
+| name=Tabularium | alt= | url= | email=
+| address=Foro Romano | lat=41.892778 | long=12.483611 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tabularium | image=Plan Rome - Tabularium.png | wikidata=Q568342
+| content=The remains of the ancient Roman archives, where Cicero and Seneca did research. Visible from the Forum and accessible through the Capitoline Museum.
+}}
+
+==== Tickets====
+When visiting the Colosseum in late spring, summer, or early fall, it is not unusual to see long lines at the entrance, where the admission fee is €18. The ticket is valid for 24 hours (updated September 2024) and includes admission to the Roman Forum, Palatine Hill, and the Colosseum.
+
+It is possible to purchase an admission to the Palatine Hill (or the Roman Forum) for the same sum, which also provides direct access to the Colosseum via an automated entrance.
+[[File:Panoramic photograph of interior of Colosseum.jpg|thumb|Colosseum interior]]
+The ticket for the Colosseum, Roman Forum and the Palatine Hill (one ticket for all three sites) can be ordered online from the [http://www.coopculture.it/en/colosseo-e-shop.cfm official ticket office] and printed at home. The ticket is valid for 24 hours, starting from when you've first used it to enter either site. Even with the printed tickets you do have to stand in the line for the Colosseum, since there is a security check first. This line goes quite fast and isn't nearly as long as the line for the ticket office. When you have passed the security check, you can walk right to the ticket barriers. People who bought the ticket at the Colosseum have a small (metro style) ticket with a magnetic band. Your printed tickets won't fit in the machine. Therefore, make sure you use a barrier with a member of staff attending to it, they can scan your ticket with a hand scanner and let you pass. If no staff member is at the ticket barriers, go to the reservations office at the right, near the barrier.
+
+If you already have a ticket (from the Colosseum or Roman Forum or printed at home) and want to visit the Palatine Hill, make sure you don't stand in line at the entrance at Via di San Gregorio. The entrance near the Arch of Titus is closed. The line at the entrance is for people without a ticket. If you have a ticket, enter the entrance building at the right side of the line. People with small tickets issued at the Colosseum can use the automated ticket barrier at the right side in the building, people who have home printed tickets should use the entrance on the left in the building, right after the ticket office. There is a member of staff with a hand scanner who can scan your ticket.
+
+====Guided tours====
+Near the Arch of Titus at the entrance to the Roman Forum, you might be approached by young, native-English speakers (often students) offering you free guided tours of the Forum. This is not a scam and is done as a way for tour companies to promote their other tours (i.e. at the end of the free tour, the guide hands out a brochure telling you about other tours around town that do cost). Even if you're not interested in the other tours, take the free one and you'll learn a lot about the most important archaeological site in the city. Another option is to prebook an official guided tour.
+
+===Other landmarks===
+* {{see
+| name=Arch of Constantine | alt=Arco di Costantino | url= | email=
+| address= | lat=41.88977 | long=12.49066 | directions=
+| phone= | tollfree=
+| hours= | price=Free to view
+| wikipedia=Arch of Constantine | image=RomeConstantine'sArch03.jpg | wikidata=Q5786
+| content=Located a short walk west of the Colosseum, this well-preserved monumental arch was erected (soon after 315) to commemorate the victory of Constantine, the first Christian emperor, over his rival Maxentius at the Battle of the Milvian Bridge in 312. In general design, the Arch of Constantine imitates the century-earlier Arch of Septimius Severus (nearby in the Forum). The three arches are decorated utilizing mainly materials plundered from other imperial monuments by Trajan, Hadrian and Marcus Aurelius. The quality of its sculptural decoration, however, betrays the slow degradation that Classical Roman sculpture had experienced in the 3rd century AD.
+}}
+* {{see
+| name=Piazza del Campidoglio | alt= | url= | email=
+| address= | lat=41.893275 | long=12.483061 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=0 Cordonata - Dioscuri - Palazzo Senatorio (1).JPG | wikidata=Q34921
+| content=On top of the Capitoline hill. The piazza was designed by Michelangelo. The Capitoline Museum is housed in the palaces flanking the piazza. You can walk behind the Palazzo Senatorio, where Rome's government meets, to a wonderful '''viewpoint''' which overlooks the entire Roman Forum. In the centre of the square you can admire an exact copy of the Statue of Marcus Aurelius on horseback; the original is kept in one of the two museums, to preserve it from pollution.
+}}
+* {{see
+| name=Piazza Venezia | alt= | url= | email=
+| address= | lat=41.89600 | long=12.48244 | directions=at the opposite end of Via dei Fori Imperiali to the Colosseum
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza Venezia | image=Piazzavenezia.JPG | wikidata=Q874832
+| content=More of an enormous traffic circle than a piazza, but a good central location. The centerpiece is the enormous Vittorio Emanuele Monument (aka the Wedding Cake or the Typewriter) with the Capitoline hill next door. Mussolini used to harangue Romans from the first floor balcony of Palazzo Venezia (see under Museums), to the west of the square.
+}}
+* {{see
+| name=Vittorio Emanuele Monument | alt= | url=http://www.ilvittoriano.com/ | email=
+| address= | lat=41.89501 | long=12.48289 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Altare della Patria | image=Piazza Venezia - Il Vittoriano.jpg | wikidata=Q506234
+| lastedit=2019-10-15
+| content=Built in honour of Victor Emmanuel, the first king of a unified Italy, this vast structure may appear to be solid white marble but actually contains many rooms inside. There are two permanent museums, one on Italian Reunification and one on emigration from Italy, as well as other spaces that host rotating exhibitions. A walk through the Flag Room leads to the tomb of the unknown soldier. Good views from half-way up but you can also pay €10 (€2 concessions) and take a lift all the way to the top.
+}}
+* {{see
+| name=Colle Oppio | alt= | url= | email=
+| address= | lat=41.8921 | long=12.4963 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Oppian Hill | image=Planrome collinesetplaines.png | wikidata=Q1036262
+| content=This is the attractive park on the hillside directly west of the Colosseum. Visible ruins in the area come from the '''Baths of Trajan'''. These baths were built on the top of the ruins of '''Domus Aurea''' - the Golden House of Nero (the Colosseum was built on the drained site of Nero's lake). The area underneath the park contains an enormous area from Nero's villa. It was restored at great expense in the 1980s and 1990s, opened to the public, and then closed again after a few years when it began to leak!
+}}
+* {{see | name=Trajan's Markets | alt=Mercati di Traiano | url=http://en.mercatiditraiano.it/ | email= | address=Via IV Novembre 94 | lat=41.895611 | long=12.486194 | directions=enter from Via IV Novembre, which leads off from Piazza Venezia | phone= | tollfree= | hours=Daily 09:30-19:30 (last entry 1 hr before closing) | price=€14 for adults | wikipedia=Trajan's Market | image=Mercati di Traiano, 2013.jpg | wikidata=Q478642 | content=On the other side of the Via dei Fori Imperiali to the Roman Forum. Well-preserved market area that doubled as a way of stopping the Quirinal Hill from collapsing. Below in the Forum is Trajan's Column, built in 113 with reliefs depicting the Emperor Trajan's victories in battle.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Mamertine Prison | alt=San Pietro in Carcere | url= | email=
+| address= | lat=41.893333 | long=12.484444 | directions=underneath the Capitoline Hill behind the Victor Emmanuel Monument
+| phone= | tollfree= | fax=
+| hours= | price=€10 including a tablet to guide you round the museum above the prison, with information about those who met their death there
+| wikipedia=Mamertine Prison | image=Campitelli - s Giuseppe dei Falegnami e Mamertinum 1040067.JPG | wikidata=Q1035634
+| content=Romans and leaders of Rome's defeated enemies were imprisoned here where they either died of starvation or strangulation. According to legend, St. Peter was also imprisoned here.
+}}
+* {{see
+| name=Theatre of Marcellus | alt=Teatro di Marcello | url= | email=
+| address= | lat=41.89199 | long=12.47974 | directions=Between the Capitoline Hill and the Ghetto
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Theatre of Marcellus | image=Teatro Marcello Roma HDR 2013 03.jpg | wikidata=Q659138
+| lastedit=2016-05-13
+| content=Unusual ancient Roman theatre with apartments built on top.
+}}
+
+===Churches===
+* {{see
+| name=San Clemente | alt= | url=http://www.basilicasanclemente.com/ | email=
+| address=Via Labicana 95, walk round church for entrance | lat=41.889444 | long=12.4975 | directions=A short walk from the Colosseum
+| phone=+39 06 70 45 10 18 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Basilica of San Clemente al Laterano | image=Interior of San Clemente, Rome.JPG | wikidata=Q385910
+| content=A great little cathedral to visit, lovingly looked after by Irish Dominicans. There is an excavated older church below the medieval church you enter and a Mithraeum (temple to Mithras, whose cult was very popular with Roman soldiers from the 1st to 4th century AD) below that. The only place in Rome to hear the underground river that flows beneath the city.
+}}
+*{{see | name=Santo Stefano Rotondo | alt= | url=http://www.santo-stefano-rotondo.it/ | email= | address=Via di Santo Stefano Rotondo 7 | lat=41.884522 | long=12.496761 | directions=On the Celian hill. From behind the Colosseum take Via Claudia almost to the top. Turn left and you are there. | phone= | tollfree= | hours= | price= | wikipedia=Santo Stefano al Monte Celio | image=Celio - santo Stefano Rotondo - interno in restauro 01533-4.JPG | wikidata=Q919456 | content=Unusual and fascinating round church dedicated to St. Stephen. It is the national church of Hungary in Rome. Dating from the 5th century this is believed to be the largest round church in the world. Charles Dickens described its wall paintings of martyrdom and butchery as "hideous". A good starting point to visit the attractions of the Celio Hill (see [[Rome/Aventino-Testaccio]]).
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+[[Image:San Pietro in Vincoli, Rome 2.jpg|thumb|right|St. Peter's Chains, San Pietro in Vincoli]]
+* {{see | name=San Pietro in Vincoli | alt= | url=http://www.vicariatusurbis.org/?page_id=188&ID=841 | email= | address=Piazza San Pietro in Vincoli, 4A | lat=41.893872 | long=12.493069 | directions= | phone=+39 06 48 82 865 | tollfree= | hours=Daily 07:00-12:30/15:30-18:00 | price= | wikipedia=San Pietro in Vincoli | image=San pietro in vincoli 051218-01.JPG | wikidata=Q542070 | content=The chains that allegedly held St. Peter are displayed in a case before the altar. More importantly, contains the impressive statue of Moses by Michelangelo. It's close to the Colosseum, but a little hard to find. Take the steps opposite the Colosseum on Via dei Fori Imperiali, cross the road at the top and seek directions. Also reachable through steps to the right leading off Via Cavour.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Santa Maria in Aracoeli | alt= | url= | email=
+| address=Piazza del Campidoglio 4 | lat=41.89398 | long=12.48279 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Basilica of Santa Maria in Ara Coeli | image=Aracoeli-fachada.jpg | wikidata=Q318660
+| content=Ballroom-like church which crowns part of the Capitoline Hill. Don't be fooled by the plain stone exterior.
+}}
+* {{see
+| name=Chiesa del Gesù | alt= | url=http://www.chiesadelgesu.org/ | email=
+| address=Via degli Astalli, 16 | lat=41.895833 | long=12.479722 | directions=Piazza del Gesù; not far from Piazza Venezia towards Largo di Torre Argentina
+| phone=+39 06 69 70 01 | tollfree=
+| hours=07:00-12:00, 16:00-19:00 | price=
+| wikipedia=Church of the Gesù | image=Il Gesu.jpg | wikidata=Q719794
+| content=This is one of the two main Jesuit churches in Rome, the other being the nearby Sant'Ignazio. The interior is Mannerist art on steroids. Simply astounding.
+}}
+* {{see | name=San Nicola in Carcere | alt= | url=http://www.vicariatusurbis.org/?page_id=188&ID=835 | email= | address= | lat=41.891111 | long=12.48 | directions= | phone= | tollfree= | fax= | hours= | price=€3 | wikipedia=San Nicola in Carcere | image=San Nicola in Carcere front.jpg | wikidata=Q2145580 | lastedit=2015-12-05 | content=Church built on the site of three Roman pagan temples, which can be explored underground for a small fee paid at a desk near the church entrance.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Basilica dei Santi Giovanni e Paolo al Celio | alt= | url=https://www.basilicassgiovanniepaolo.it/ | email=
+| address=Clivo di Scauro 15 | lat=41.88648 | long=12.49202 | directions=
+| phone=+39 06 700 57 45 | tollfree=
+| hours= | price=
+| wikipedia=Santi Giovanni e Paolo al Celio | wikidata=Q1586946
+| lastedit=2021-10-10
+| content=According to the legendary passio, two brothers, John and Paul, who were officials at the imperial court, suffered martyrdom in 362 in their home on the Caelian hill, during the reign of emperor Flavius Claudius Julianus. This basilica dedicated to these two Roman officers was erected starting from 398 and was used first as a domus ecclesiae by the Christian community.
+}}
+[[Image:SPrassede volta SZeno.jpg|thumb|right|200px|Mosaic at Santa Prassede]]
+* {{see
+| name=Santa Prassede | alt= | url=https://santaprassede.wordpress.com/ | email=basilicas.prassede@libero.it
+| address=Via di S. Prassede, 9/A | lat=41.896111 | long=12.498611 | directions=leaving Santa Maria Maggiore walk very briefly down Via Merulana and take first right; S. Prassede is accessed by a side entrance straight ahead
+| phone= | tollfree=
+| hours=Open daily for visits: 10:00-12:00, 16:00-18:00; mass at 18:00 | price=Free
+| wikipedia=Santa Prassede | image=Interior of Basilica di Santa Prassede, Rome.JPG | wikidata=Q733890
+| content=Fantastic Byzantine mosaics and some other interesting artwork. Not to be missed. 30 minutes are sufficient for a relaxed visit.
+}}
+* {{see
+| name=Santa Pudenziana | alt= | url=http://www.stpudenziana.org/ | email=
+| address=Via Urbana 160 | lat=41.898611 | long=12.495556 | directions=2 blocks northwest of Santa Maria Maggiore
+| phone=+39 338 1218541 | tollfree=
+| hours=Opening hours for visiting: Mon-Sat: 09:00-11:30; otherwise, you can try to reserve a time to visit by calling | price=
+| wikipedia=Santa Pudenziana | image=Santa Pudenziana - portale.jpg | wikidata=Q1526417
+| content=A very ancient church named after a saint who was in 1969 removed from the Roman Catholic calendar of saints for the lack of details of her life. But the church retains the name and is well worth visiting for an excellent 4th-century mosaic and attractive decorations on the facade. Visiting hours are short, but if you arrive close to 11:30, try talking to the attendant if you see him, and he might let you visit for a few minutes. The church is small, so 15 minutes should be long enough to see and absorb everything.
+}}
+
+===Museums and galleries===
+[[Image:Colossus.JPG|thumb|right|Colossus of Constantine, Capitoline Museum]]
+* {{see
+| name=Musei Capitolini | alt=Capitoline Museums | url=http://www.museicapitolini.org | email=info.museicapitolini@comune.roma.it
+| address=Piazza del Campidoglio | lat=41.893056 | long=12.4825 | directions=
+| phone=+39 06-6710-2071 | tollfree= | fax=
+| hours=open Tue-Sun 09:00-19:00 | price=Ordinary €15.00
+| wikipedia=Capitoline Museums | image=Muzeum Kapitolinskie.JPG | wikidata=Q333906
+|lastedit=2021-01-04| content=The two museums are on opposite sides of the Piazza del Campidoglio, It is recommended to [http://www.ticketclic.it book tickets online]
+}}
+** {{see
+| name=Museo Capitolino | alt=Capitoline Museum | url=http://www.museicapitolini.org/sede/piazza_e_palazzi/palazzo_nuovo | email=
+| address= | lat=41.893594 | long=12.483164 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Roma-Palazzo Nuovo 1.jpg | wikidata=Q283153
+| content=Built in the 17th century to a design based on an architectural sketch by Michelangelo. Highlights include the ancient Colossus of Constantine statue (the Colosseum was probably named for another giant statue, the Colossus of Nero which stood near the Flavian Amphitheatre as the Colosseum was originally known), ''The Dying Gaul'', a magnificent marble sculpture that copies a bronze Greek original of the 3rd century BC and the ''Capitoline Venus''. It also contains the remarkable original gilt bronze equestrian statue of emperor Marcus Aurelius (the one in the piazza is a replica).
+}}
+** {{see
+| name=Palazzo dei Conservatori | alt=Palace of the Conservators | url= | email=
+| address= | lat=41.892997 | long=12.482811 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Muzeum Kapitolinskie.JPG | wikidata=Q64103
+| content=Also based on a Michelangelo architectural plan, this compact gallery is well endowed in classical sculpture and paintings. Highlights include the small 1st-century-BC bronze ''Lo Spinario'', a Greek statue of a little boy picking a thorn from his foot; the ''Lupa Capitolina'' (Capitoline Wolf), a rare Etruscan bronze statue probably dating from the 5th century BC; and (in the entrance courtyard), the massive head, hands, foot and kneecap from a colossal statue of Constantine the Great. The palace also contains a Pinacoteca (Picture Gallery) with paintings mainly from the 16th and 17th centuries - highlights include: Caravaggio's Fortune-Teller and his curious John the Baptist; The Holy Family, by Dosso Dossi; Romulus and Remus, by Rubens; and Titian's Baptism of Christ.
+}}
+* {{see | name=National Museum of the Palazzo di Venezia | alt=Museo Nazionale del Palazzo di Venezia | url=http://museopalazzovenezia.beniculturali.it/index.php?it/1/museo-nazionale-del-palazzo-di-venezia | email= | address=V. del Plebiscito, 118 | lat=41.896183 | long=12.481567 | directions= | phone=+39 06 6780131 | tollfree= | fax= | hours=Tue-Sun 08:30-19:30, ticket sales end 18:30 | price=€5, €2.50 for EU citizens aged 18-25 | wikipedia=Museo nazionale del Palazzo di Venezia | image=Roma-palazzovenezia02.jpg | wikidata=Q1954305 | content=In the very heart of the city center, the building was for centuries ago the seat of the Venice embassy. Today it houses a museum and art galleries.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see | name=Palazzo Doria Pamphilj | alt=Doria Pamphilj Gallery | url=http://www.dopart.it/roma | email= | address=Piazza del Collegio Romano, 2; entrance: Via del Corso, 305 | lat=41.897669 | long=12.481145 | directions=bus 64, 81,85, 117, 119, 492 | phone=+39 06 6797323 | tollfree= | fax= | hours=09:00-19:00 (last admittion 18:00) | price=€12 | wikipedia=Doria Pamphilj Gallery | image=Roma-palazzodoriapamphili.jpg | wikidata=Q1203458 | lastedit=2016-12-19 | content=Good collection of Renaissance and Baroque art, including by Velasquez, Titian, Raphael, and Bernini, all owned by the Doria Pamphilj family. Excellent audio guides really bring the paintings to life.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Do==
+
+==Buy==
+* {{buy
+| name=Archeo Art | alt= | url= | email=
+| address=Via del Teatro di Marcello | lat=41.893364 | long=12.481321 | directions=Not far from the bottom of the Campidoglio steps
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This shop sells beautiful reproductions of ancient sculptures; not the tacky kitsch sold by many of the street vendors, but museum quality miniatures that look incredibly close to the real things. Not cheap, but definitely unique and classy souvenirs. Also stocks reproductions of ancient Roman arms and armour, including full centurion outfits!
+}}
+
+==Eat==
+Several places in this area are aimed at tourists and as a result don't have to offer high-quality food to do well.
+
+===Budget===
+
+There are many budget restaurants around.
+
+* {{eat
+| name=al42 by Pasta Chef Monti | alt= | url=https://www.al42.it/ | email=
+| address=Via Baccina, 42 | lat=41.894749 | long=12.489794 | directions=
+| phone=+39 064883198 | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=
+}}
+* {{eat
+| name=La Cuccuma | alt= | url= | email=
+| address=Via Merulana, 221 | lat=41.892498 | long=12.501535 | directions=
+| phone=+39 0677201361 | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=Pizza by the slice, meatballs, and lasagna served in a simple restaurant with traditional furnishings.
+}}
+* {{eat
+| name=La Forchetta d´Oro | alt= | url=https://www.facebook.com/pages/La-Forchetta-DOro/134482813265439 | email=
+| address=Via di S. Martino Ai Monti, 40 | lat=41.895664 | long=12.498838 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=
+}}
+* {{eat
+| name=La Fraschetta del Panino | alt= | url= | email=
+| address=Via Cavour, 284/286 | lat=41.893705 | long=12.489782 | directions=
+| phone=+39 3458474887 | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=
+}}
+* {{eat
+| name=Pizzería di Sforza Piero | alt= | url= | email=
+| address=Via Celimontana, 17 | lat=41.8883254 | long=12.4963370 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=La Prezzemolina | alt= | url=https://www.facebook.com/laprezzemolina/ | email=
+| address=Via del Colosseo, 1 | lat=41.893157 | long=12.488931 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=Pizzeria
+}}
+* {{eat
+| name=Trattoria Pizzeria Luzzi | alt= | url=https://www.trattorialuzzi.it/ | email=
+| address=Via di S. Giovanni in Laterano, 88 | lat=41.889281 | long=12.496658 | directions=Corner of via Celimontana
+| phone=+39 06 7096332 | tollfree=
+| hours=12.00-00.00 daily | price=Antipasti: €0.50-12.00; primi piatti: €7.00-10.00; secondi piatti: €6.00-15.00; contorni: €3.00-7.00; dolci: €4.00-5.00; pizza and focaccia: €5.50-9.00
+| lastedit=2024-04-10
+| content=Tasty food, including particularly Roman dishes like pasta alla carbonara, trippa alla romana, carciofi alla giudia and coda alla vaccinara. Popular with Italians and foreigners alike, and strikingly affordable considering how close it is to the Coliseum.
+}}
+* {{eat
+| name=Gelateria S.M. Maggiore | alt= | url=https://www.facebook.com/s.m.maggiore/ | email=gelaterias.m.maggiore@gmail.com
+| address=Via Cavour 93a/9 | lat=41.89717 | long=12.49563 | directions=corner of via Panisperna
+| phone=+39 06 3936 6976 | tollfree=
+| hours=Daily 12:00-23:00 | price=
+| lastedit=2024-04-13
+| content=Particularly delicious gelato, including some special flavors, such as ricotta with figs and chocolate with oranges.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Pizza Forum | alt= | url=https://www.pizzaforumroma.it/ | email=
+| address= | lat=41.889821 | long=12.495149 | directions=at the end of the first block heading up the narrow Via San Giovanni in Laterano from the Colosseum (in the opposite direction of the Roman Forum and city centre)
+| phone= | tollfree=
+| hours= | price=
+| content=The best lunch spot near the Colosseum, if you like pizza. You will get huge, delicious woodfire oven pizzas starting at about €5 each.
+}}
+* {{eat
+| name=Est! Est! Est!!! | alt= | url=https://pizzeriaristoroestestest.com/ | email=
+| address=Via Genova, 32 | lat=41.898970 | long=12.492660 | directions=Metro A Republica (Via Nazionale/Piazza della Repubblica)
+| phone=+39 06 48 81 107 | tollfree=
+| hours=Tue-Sun 19:00-00:00, closed on Mon | price=
+| lastedit=2022-05-01
+| content=The chefs here make a relatively small but amazingly good pizza. The calzone, one of their specialities, is excellent too. The staff speak English, and this is one of the few places where there are both plenty of tourists and very good food. Reservation is advisable. To cause confusion, there is another Est! Est! Est! pizzeria in the same neighborhood.
+}}
+
+===Splurge===
+<br>
+
+===Ice cream===
+* {{eat
+| name=Il Gelatone | alt= | url= | email=
+| address=Via dei Serpenti 28 | lat=41.895864 | long=12.490288 | directions=near the Colosseo
+| phone= | tollfree= | fax=
+| hours= | price=| lastedit=2022-05-01
+| content=
+}}
+* {{eat
+| name=La Dolce Vita | alt= | url= | email=
+| address=Via Cavour 306 | lat=41.893481 | long=12.488984 | directions=near the Colosseo
+| phone= | tollfree= | fax=
+| hours= | price=| lastedit=2022-05-01
+| content=
+}}
+
+==Drink==
+* {{drink
+| name=Shamrock | alt= | url=http://www.shamrockpubroma.it/ | email=
+| address=Via del Colosseo 1/c | lat=41.8932 | long=12.4890 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=If touring the ancient sites of Rome is wearing you out and you're dying for an afternoon beer, head to this quiet Irish pub in a little laneway just off the right side of bottom of Via Cavour, which is a busy street that is more or less parallel to the Via dei Fori Imperiali, Mussolini's thoroughfare that links Piazza Venezia with the Colosseum.
+}}
+* {{drink
+| name=Cafè Cafè | alt= | url= | email=cafecaferoma@libero.it
+| address=Via dei Santi Quattro 44 | lat=41.8894 | long=12.4943 | directions=
+| phone=+39 06 7008743 | tollfree= | fax=
+| hours= | price=
+| content=Cozy and quite cheap, this tea room is very close to the Colosseo, and it's ideal to have nice meeting with friends or a more intimate date. Very good sweets and tea, the choice is also good. Open all day and after dinner.
+}}.
+*{{drink
+| name=Enoteca Cavour | alt= | url=http://www.cavour313.it/ | email=
+| address=Via Cavour 313 | lat=41.8937 | long=12.4891 | directions=towards the bottom of Via Cavour, near the Forum
+| phone= | tollfree= | fax=
+| hours=Closed Sundays | price=
+| content=Great wine bar with a selection of wines by the glass and hundreds of bottles to choose from. Wooden decor, paper tablecloths and wines stored overhead. Good food too.
+}}
+* {{drink
+| name=Fiddler’s Elbow | alt= | url=http://www.thefiddlerselbow.com/fiddlers_rome/rome_eng/welcome.htm | email=
+| address=Via dell’ Olmata | lat=41.89631 | long=12.49728 | directions=just to the south-west of S. M. Maggiore
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The oldest Irish pub.
+}}
+* {{drink
+| name=Druid’s Den | alt= | url=https://www.druidspubrome.com/ | email=
+| address=Via San Martino ai Monti 28 | lat=41.895770 | long=12.498930 | directions=head down Via Merulana and take the second street on the right
+| phone= | tollfree=
+| hours= | price=
+| content=
+}}
+
+==Sleep==
+
+<!--BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES-->
+
+===Budget===
+* {{sleep | name=Hotel Adas | url=http://www.adashotel.com | email= | address=Via Cavour 233 | lat=41.894411 | long=12.491647 | directions= | phone=+39 06 4741432 | tollfree= | fax= | hours= | price=From €70 for a double | checkin= | checkout= | content=This 2-star hotel has single, double, triple and quadruple rooms with private bath.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Labelle | url=http://www.labellehotel.com | email=
+| address=Via Cavour, 310 | lat=41.893470 | long=12.488813 | directions=
+| phone=+39 06 6794750 | tollfree= | fax=+39 06 69940367
+| hours= | price=From €88 for double rooms
+| checkin= | checkout=
+| content=A family-run 2-star hotel at the bottom of Via Cavour, close to the Forum.
+}}
+* {{sleep
+| name=Sandy Hostel | url=http://www.sandyhostel.com | email=
+| address=Via Cavour, 136 | lat=41.896785 | long=12.495536 | directions=
+| phone=+39 06 4884585 | tollfree= | fax=
+| hours= | price=Dorm beds starting from €9
+| checkin= | checkout=
+| content=Inexpensive, friendly and clean, half-way between Termini and the Forum.
+}}
+* {{sleep
+| name=Sunset Roma Guest House Rome | alt= | url=http://www.sunsetroma.it/ {{dead link|June 2020|December 2020}} | email=
+| address=Via dei Serpenti 97 | lat=41.896923 | long=12.490034 | directions=
+| phone=+39 06 479933 | tollfree= | fax=+39 06 485836
+| price=€90-150 | checkin= | checkout=
+| content=Cosy guesthouse with the following bedrooms: dus, twin, double, triple, suite and a large apartment of 55 square metres with one bedroom, a living room with a sofa bed and a kitchen. All the accommodations include satellite TV, internet wi-fi and private bathroom. The breakfast is included.
+}}
+* {{sleep
+| name=Hotel Orazia | alt=Orazia Hotel | url=https://www.hotelorazia.it/ | email=info@hotelorazia.it
+| address=Via Angelo Poliziano 45 | lat=41.891879 | long=12.500968 | directions=
+| phone=+39 06 446 7202 | tollfree= | fax=+39 06 4467202
+| checkin=12:00 | checkout=10:00 | price=€60-150
+| content=Three-star hotel with private bathrooms and breakfast service, free Wi-Fi.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=Hotel Raffaello | alt= | url=https://www.hotelraffaello.it/ | email=info@hotelraffaello.it
+| address=Via Urbana, 3/5 | lat=41.897783 | long=12.495570 | directions=
+| phone=+39 064884342 | tollfree= | fax=+39 064744905
+| checkin= | checkout= | price=
+| content=3-star hotel with different types of rooms. Breakfast buffet, pillow menu and late check-out on request.
+}}
+*{{sleep
+| name=Angelus B&B Rome | alt= | url=http://www.angelusbb.com/ | email=
+| address=Via del Boschetto 13 | lat=41.897210 | long=12.490373 | directions=
+| phone=+39 06 4821196 | tollfree= | fax=+39 06 48930421
+| checkin= | checkout= | price=Single €80, double €120
+| content=A small and cosy bed and breakfast with five bedrooms divided in single, twin and triple. All with private bath, shower, internet, TV and telephone. Breakfast included.
+}}
+* {{sleep | name=Antica Residenza Monti | alt= | url=http://www.intownluxuryhouse.com/ | email= | address=Via dei Serpenti 15 | lat=41.895458 | long=12.490380 | directions= | phone=+39 06 4815736 | tollfree= | checkin= | checkout= | price=€120-140 per day | content=Short let apartments are available in this guest house in Monti district. It's possible to choose between an apartment with two rooms, and a studio apartment with one room, both are self catering with kitchens.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Hotel Lancelot | alt= | url=http://www.lancelothotel.com/ | email=
+| address=Via Capo D'Africa 47 | lat=41.888297 | long=12.497205 | directions=in the built-up area behind the Colosseum, close to San Clemente church
+| phone= | tollfree=
+| checkin= | checkout= | price=€120 single, €180 double
+| content=Cosy hotel in an interesting area. For a three-day stay or more half-board is offered.
+}}
+* {{sleep
+| name=Hotel Giolli Nazionale Rome | alt= | url=https://www.hotelgiolli.it/en/ | email=info@hotelgiolli.it
+| address=Via Nazionale, 69 | lat=41.89926 | long=12.4912 | directions=
+| phone=+39 06 4882393 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=€120
+| lastedit=2021-03-10
+| content=62 soundproofed en-suite rooms with comfy beds and hypo-allergenic bedding available. Satellite TV, espresso maker and minibar in rooms. Free Wi-Fi throughout and wired internet in rooms. Business centre. Snack bar, café, bar. Smoke-free.
+}}
+* {{sleep
+| name=Hotel Napoleon | alt=Napoleon Hotel Rome | url=http://www.napoleon.it/ | email=
+| address=Piazza Vittorio Emanuele II, 105 00185, Rome, Italy | lat=41.89 | long=12.50 | directions=Termini Station - Coliseum
+| phone=+39 06 4467264 | tollfree= | fax=+39 06 4467264
+| hours= | price= €90-180, breakfast included
+| checkin=12:00 | checkout=11:00
+| content=Four-star hotel, 75 rooms with private bathrooms, bar and restaurant, free internet WI-FI, transfer from Airports, located in Piazza Vittorio Emanuele II, in the middle of Rione Esquilino, one metro stop from Termini Station and from San Giovanni.
+}}
+*{{sleep
+| name=Hotel Edera | alt= | url=http://www.hotelederaroma.com/it/ | email=
+| address=Via Angelo Poliziano, 75 | lat=41.890892 | long=12.500020 | directions=off Via Merulana in direction of Colosseum
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=On a quiet side street. 10-minute stroll to the Colosseum through the Colli Oppio park.
+}}
+
+===Splurge===
+
+* {{sleep | name=Hotel Forum | alt= | url=https://www.hotelforum.com/en/ | email= | address=Via Tor de' Conti, 25-30 | lat=41.893895 | long=12.487686 | directions=close to where Via Cavour joins Via dei Fori Imperiali | phone= | tollfree= | checkin= | checkout= | price=€300+ for double or twin | content=Grossly overpriced hotel close to the Forum. But it does have a roof garden restaurant with great views!
+}}
+* {{sleep
+| name=Torre Colonna Guest House | alt= | url=http://www.torrecolonna.com/ | email=
+| address=Via delle Tre Cannelle 18 | lat=41.896436 | long=12.485276 | directions=
+| phone=+39 06 62289543 | tollfree=
+| checkin= | checkout= | price=€230-300
+| content=The Torre Colonna is a guesthouse hosted in a medieval tower, 100 meters away from Piazza Venezia. The five bedrooms with private bath are divided in double, twin, triple and family.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Metropolitana di Roma B.svg
+| imagesize1=33
+| caption1=Rome Metro Line B
+| directionl1=SW
+| majorl1=[[Rome/South|South]]
+| minorl1=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+| directionr1=NE
+| majorr1=[[Rome/North|North]]
+| minorr1=[[Rome/Modern Center|Modern Center]]
+}}
+
+{{usabledistrict}}
+{{geo|41.890169|12.492269}}
+{{IsPartOf|Rome}}

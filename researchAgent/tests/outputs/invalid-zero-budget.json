@@ -1,0 +1,27 @@
+{
+  "request_id": "invalid-zero-budget",
+  "status": "error",
+  "generated_at": "2026-11-22T21:20:40Z",
+  "currency": "USD",
+  "advisories": [],
+  "flights": [],
+  "lodging": [],
+  "activities": [],
+  "ground_transport": [],
+  "feasibility": {
+    "budget": 0.0,
+    "estimated_minimum_total": null,
+    "verdict": "unknown",
+    "reasoning": "Not computed."
+  },
+  "gaps": [
+    {
+      "category": "other",
+      "reason": "Request rejected before any search: budget must be greater than zero"
+    }
+  ],
+  "notes": [
+    "Invalid request: budget must be greater than zero"
+  ],
+  "_schema_errors": []
+}

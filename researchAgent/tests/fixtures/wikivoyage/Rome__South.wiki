@@ -1,0 +1,493 @@
+{{pagebanner |Aqueduct Rome.jpg}}
+The '''South''' of [[Rome]] includes the historic '''Appian Way''' and nearby '''catacombs''', as well as important tourist attractions in '''EUR''', and '''San Paolo'''.
+
+==Understand==
+[[Image:square_colosseum.jpg|thumb|200px|EUR: The Square Colosseum]]
+'''EUR''' was built in the first years of the 1940s. It was built in a perfect fascist architectural style, to celebrate the 20th anniversary of Fascism (Mussolini came to power in 1922, becoming Prime Minister). Its name means "Esposizione Universale di Roma" (Universal Exposition of Rome); in fact it was also designated to host the International Exposition in 1942, but this exposition didn't take place because of the war.
+
+'''San Paolo''' is a residential area not so far from the center. Today it hosts several buildings belonging to the RomaTRE University and a very noticeable piece of art, the "Basilica di San Paolo fuori le mura" which certainly deserves a visit. For the rest, it is just a residential borough.
+
+'''[[Via Appia]]''', or the Appian Way, was one of the earliest and most important Roman roads. It connected Rome to Brindisi, in southeast Italy, primarily as a route for troops and military supplies. The main part was started and finished in 312 BC. The original route can be followed for 10 km or so, much with little or no traffic. It is lined with tombs and in places the original stones used for the road’s construction are exposed. The Appian Way passes close to three catacombs, the Villa dei Quintili and many other important architectural sites. If you are in Rome for a week or so, an exploration of the Appia, with a visit to some catacombs, is a great day out!
+
+'''The Catacombs''' of Rome were for underground burials. Primarily for Christian burials, they were also used for pagan and Jewish burials, either in separate catacombs or mixed together. They began in the 2nd century, due both to a shortage of land and for persecuted Christians to bury their dead secretly. The Christian catacombs of San Callisto and San Sebastiano are on the Via Appia and those of San Domitilla are nearby. There are also Jewish Catacombs.
+
+==Get in==
+{{Mapframe|41.854|12.522|zoom=12}}
+{{Mapshape|wikidata=Q16003516,Q16481953,Q16481961,Q16481966,Q16495467,Q16481947}} <!-- Municipi Roma IV-IX -->
+{{mapshapes|Q237480}}
+
+===By bus===
+To reach the Appian Way from Termini station, take the 714 bus from outside the station, and change at the 6th bus stop (St Giovanni) to the 218 bus, which will take you all the way to the main entrance to the San Callisto catacombs and then on to San Domitilla catacombs and the Fosse Ardeatine. The 118 bus, which passes by Piazza Venezia and the Colosseum, will get you to the same entrance to San Callisto and then travels further along the Via Appia as far as Villa dei Quintili and the Capannelle race track. '''Buses in this area are not very reliable''', particularly in the morning or evening rush hours when journeys can be delayed or even arbitrarily cancelled. From the main sites of the Appian Way, consider returning to Rome with a walk through the Caffarella Park, which will bring you to Metro Line A. The Appian Way is theoretically closed to cars, but not buses or cycles, on Sundays and public holidays but this is not being actively enforced by the police.
+
+===By metro===
+Metro line B goes to EUR, with EUR Fermi being the most central station. The line also passes the Basilica of San Paolo fuori le mura, with the station being named after the basilica.
+
+==See==
+
+===The Appian Way zone===
+[[File:ParcoRegionaleAppiaAntica diagramma.jpg|thumb|250px|Transport links to the Appian Way]]
+See "Get in", above. The 118 goes to the catacombs of San Sebastiano before turning off the Appian Way. At the first major junction after Cecilia Metella (see below) by the bar, you can catch the 660 bus (every half an hour traffic permitting), which will connect you with Metro Line A at Colli Albani station. Alternatively, walk down the hill to the Via Appia Pignatelli, where you can catch the 118 back to Rome. A further two km along a pleasantly shaded part of the Via Appia, with many small tombs, and you arrive at Via del Tor Carbone. There you can catch the 765 bus (in theory every 20 minutes). West takes you to EUR and Metro Line B back to Rome at Laurentina station, while east connects you with Metro Line A.
+
+The Appian Way begins close to the [[Rome/Aventino-Testaccio|Terme di Caracalla]] and heads in a south-easterly direction. For the first mile it is known as the Via di Porta San Sebastiano but after passing through the Porta di San Sebastiano it becomes the Via Appia. The first three miles are still heavily used by cars, buses and coaches but from then on traffic is very light and the wonderfully evocative road and its many ruins can be explored on foot or by bicycle in relative safety.
+
+The Headquarters of the Appian Way Park is at No. 42. This occupies the site of a former paper mill and some of the original equipment can still be seen. The Church of Domine Quo Vadis is on the second mile of the road by the main entrance of the San Callisto catacombs. Opposite is [http://www.parcoappiaantica.it/ the visitor office] of the Appian Way Park (no. 60) where you can get lots of info and rent bicycles (09:30 to 17:30). From there it is rather dangerous to walk along the road for a mile or so as it is narrow with lots of traffic. Fortunately, there is a more pleasant option, which is to walk parallel with the Via Appia, through the gardens of the San Callisto catacombs (except Wednesdays when they are closed). You can rejoin Via Appia at the third mile where, on the right, are the church and catacombs of St Sebastian. Opposite the entrance to the church is an 1852 memorial to Luigi Canina who supervised the restoration of the Appian Way under the orders of Pope Pius IX. Without Canina's work there would be little to see now.
+
+A little way further on the left is the Circus of Maxentius, the best-preserved chariot race circus in Rome. From there the road climbs slightly to the tomb of Cecilia Metella. After that there is little traffic and, for the fit, the road is straight and can be followed on foot or by bicycle for another four miles or so, with close to 30 small, mainly reconstructed, tombs to examine. Beyond Via del Tor Carbone there are some fascinating ruins but the trip is best done by bicycle as transport back is difficult to find. For lunch there are a few restaurants along the first few miles and a bar near the entrance to San Callisto. Next to San Sebastian there is a small bar and there are two bar/restaurants 200 m further on the right, almost opposite Cecilia Metella. After Cecilia Metella is the somewhat expensive Appia Antica caffé, where you can also hire bicycles. The restaurant opposite does not seem very tourist friendly. Beyond that there is no source of refreshment without a detour, other than two water fountains and the occasional appearance of a mobile snack bar, both at the junction with Via del Tor Carbone.
+
+'''The attractions of the Appian Way''' are described here in the order in which they are found along the road, together with a few detours.
+
+[[Image:Porta_san_sebastian.jpg|thumb|200px|Porta San Sebastiano]]
+*{{see
+| name=Museum of the Walls | alt= | url=http://www.museodellemuraroma.it/ | email=
+| address=Via di Porta San Sebastiano 18 | lat=41.8734 | long=12.5014 | directions=at the point where Via di Porta San Sebastiano becomes Via Appia Antica. 118 bus or on foot from Terme di Caracalla
+| phone= | tollfree= | fax=
+| hours=Tue-Sun 09:00-14:00, last admission 13:30 | price=Free
+| wikipedia=Museo delle Mura | image=Celio - Porta san Sebastiano 1973.JPG | wikidata=Q3868150
+| content=Porta San Sebastiano is a gate in the amazingly well-preserved Aurelian Walls. Inside and upstairs is a museum dedicated to the construction of the walls and their recent restoration. You can take a walk along the top of the walls. At the museum you can also arrange to visit the Tomb of the Scipios (Sepolcro degli Scipiani) and a nearby Roman Columbarium (tomb for cremated remains), the entrance for which is 200 m back towards Rome along the Via Di Porta San Sebastiano. ''No wheelchair access''.
+}}
+*{{see | name=Domine Quo Vadis | alt= | url=http://www.vicariatusurbis.org/Ente.asp?ID=881 {{dead link|August 2018|December 2020}} | email= | address= | lat=41.8665 | long=12.503722 | directions= | phone= | tollfree= | fax= | hours= | price= | wikipedia=Church of Domine Quo Vadis | image=Eglise Domine Quo Vadis de Rome.JPG | wikidata=Q1081921 | content=This is not the real name of the church on the corner by the main entrance to San Callisto but it is universally known by this name. By legend it is located on the spot where Saint Peter had a vision of the risen Christ while fleeing persecution in Rome. According to the tradition, Peter asked Jesus, Domine, quo vadis? “Lord, where are you going?” The current church is from 1637. Inside is a copy of a stone said to contain the imprints of the feet of Jesus; the original is maintained in San Sebastiano, further along the Appian Way
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Tomb of Priscilla | alt= | url= | email=
+| address= | lat=41.8665 | long=12.5031 | directions=opposite Domine Quo Vadis
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tomb of Priscilla | wikidata=Q3955654
+| content=A 1st-century tomb surrounded by two farmhouses from the Middle Ages, one of which used to be a cheese store. Rather hidden behind a high wall, the tomb is rarely open to the public. You might be lucky on a Sunday: on the third Sunday of every month there is a guided tour at 11:00.
+}}
+*{{see
+| name=Chapel of Reginald Pole | alt= | url= | email=
+| address= | lat= | long= | directions=50 m after Domine Quo Vadis at the junction with the Via della Caffarella
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q313445| wikipedia=Reginald Pole
+| content=A strange building, constructed by Reginald Pole, an English cardinal and later Archbishop of Canterbury, allegedly on the spot where he was able to escape from assassins sent by the English King Henry VIII.
+}}
+* {{see
+| name=The Catacombs of San Callisto | alt= | url= | email=
+| address=Via Appia Antica 110-126 | lat=41.858878 | long=12.511058 | directions=in a large diamond-shaped park between the Appian Way and Via Ardeatina; to reach the Appian Way, see above; if you don't fancy the 1-km walk from the main entrance, the 118 goes further along the Via Appia and you can enter the catacombs through a small gate to the right at the third stop; the 118 runs only every 40 minutes and not reliable.
+| phone=+39 06 513 01580 | tollfree= | fax=
+| hours=Thu-Tue 09:00-12:00 and 14:00-17:00 | price=€8, includes a guided tour in several languages
+| wikipedia=Catacomb of Callixtus | image=Catacombe.jpg | wikidata=Q1027069
+| lastedit=2019-04-29
+| content=Although started in the 2nd century, San Callisto has had many more recent burials, including 16 popes. The burial arcades are almost 20 km long.
+}}
+[[Image:Domitila.jpg|thumb|200px|Someone is watching you in the garden near the entrance to the Catacomb of St. Domitilla.]]
+
+*{{see
+| name=The Catacombs of San Domitilla | alt= | url= | email=
+| address=Via delle Sette Chiese 280 | lat=41.858914 | long=12.505528 | directions=continue on the 218 from the entrance to San Callisto; get off at the junction with via delle Sette Chiese and walk northwest for 200 m
+| phone= | tollfree= | fax=
+| hours=Feb-Dec: Wed-Mon 09:00-12:00 and 14:00-17:00 | price=€8
+| wikipedia=Catacombs of Rome | image=Arcosolium (catacombe di Domitilla ).jpg | wikidata=Q287041
+| lastedit=2019-04-29
+| content=The Catacombs of Domitilla are considered to be the best preserved of all Roman catacombs. They are the only ones still to contain bones. Domitilla also has a subterranean basilica, much of which was reconstructed in 1870.
+}}
+*{{see
+| name=Basilica and catacombs of San Sebastiano | alt= | url=https://www.catacombe.org/uk_index.html | email=
+| address= | lat=41.855556 | long=12.515556 | directions=Bus 118 to the entrance; Bus 218 to Fosse Ardeatina then turn left along Via delle Sette Chiese for 400 m
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 09:00-12:00 and 14:00-17:00; closed 15 Nov-15 Dec | price=€8 for the catacombs
+| wikipedia=San Sebastiano fuori le mura | image=RomaSanSebastiano.jpg | wikidata=Q658051
+| lastedit=2019-04-29
+| content=The first basilica was constructed in the 4th century and dedicated to San Sebastian, a martyr of the 3rd century. Sebastian's remains were transferred to St. Peter's in 826, prior to a Saracen assault when the church was destroyed. The current church was largely constructed in the 17th-century. Until the Great Jubilee in 2000 this was one of the Seven Pilgrim Churches of Rome, i.e. the churches that all Roman Catholic pilgrims were expected to visit. However, at that time it was replaced by the Sanctuary of Divino Amore (see below). Entrance to the catacombs, which are smaller than the others in the area, is to the right of the church entrance. The area where you buy tickets and wait for tours has a good display of sarcophagi from the catacombs. You can rent a bicycle at the catacombs for further exploration of the Appian Way.
+}}
+*{{see
+| name=Fosse Ardeatine | alt= | url= | email=
+| address=Via Ardeatina 174 | lat=41.856667 | long=12.510278 | directions=218 bus takes you to the entrance, 300 m east of catacombs of San Domitilla; alternatively, you can walk from San Sebastiano (see below) along the Via delle Sette Chiese
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Ardeatine massacre | wikidata=Q638761
+| content=This was the site of the slaughter in 1944 of 335 Italians, including many Jews from the Ghetto, in retaliation for a Partisan attack on German troops in Rome. The caves where the massacre took place are now a National Monument and Memorial Cemetery and can be visited daily.
+}}
+*{{see
+| name=Jewish Catacombs | alt= | url=http://www.catacombsociety.org/jewish-catacombs/ | email=
+| address=Via Appia Pignatelli 4 | lat=41.8568 | long=12.5185 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Vigna Randanini | wikidata=Q3663214
+| content=These are underneath a property known as Vigna Randanini. The catacombs are much smaller than the Christian catacombs and much less easy to visit. Groups are limited to twelve people at any one time and you need to take your own lighting!
+}}
+
+[[Image:Tomb_frontispiece.jpg|thumb|200px|A tomb on the Appian Way]]
+*{{see
+| name=Caffarella Park | alt= | url=http://www.parks.it/parco.appia.antica/Epun.html | email=
+| address= | lat=41.8642 | long=12.5158 | directions=There are many entrances. After the Quo Vadis church take the narrow road that leads off the Appian Way to the left. After the San Sebastian catacombs take the Vicolo della Basilica opposite, turn right into Via Appia Pignatelli and then first left at Vicolo S. Urbano. Avoiding the Appian Way altogether take the Metro Line A to Colli Albani. The park is 500m SW of the station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Park of the Caffarella | wikidata=Q3649575
+| lastedit=2019-04-29
+| content=Caffarella Park covers an area of 339 ha and is part of the larger Appia Antica park. It contains both a working farm and numerous Roman ruins, some quite well preserved and is a great place for a stroll or cycle away from Rome’s traffic.
+}}
+*{{see
+| name=Circus of Maxentius | alt= | url= | email=
+| address=Via Appia Antica 153 | lat=41.854722 | long=12.522453 | directions=118 bus to San Sebastiano then 200 m further along the Appian Way, on the left
+| phone=+39 067850350 | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Circus of Maxentius | image=Rome-Villa of Maxentius.JPG | wikidata=Q1457351
+| content=This well-preserved Roman circus was built at the beginning of the fourth century. It was part of an imperial villa built by Maxentius and the complex also contains the Mausoleum of his son, Romolo.
+}}
+[[Image:Cecilia metella.JPG|thumb|200px|The tomb of Cecilia Metella.]]
+*{{see
+| name=Tomb of Cecilia Metella | alt= | url= | email=
+| address=Via Appia Antica 161 | lat=41.852222 | long=12.520833 | directions=imposing monument just after the Circus of Maxentius
+| phone= | tollfree= | fax=
+| hours=From 09:00, variable closing depending on time of year | price=A €5 ticket gives admission to the tomb and to Villa dei Quintili, valid for 2 days
+| wikipedia=Tomb of Caecilia Metella | image=Cecilia metella e castrum.JPG | wikidata=Q1540920
+| lastedit=2019-04-29
+| content=The mausoleum of Cecilia Metella, who died in 69 BC, is the best preserved monument on the Appian Way and dominates the surroundings. In the Middle Ages it was transformed into a fortress and battlements were added. At that time there was considerable competition for ownership because of its strategic location.
+}}
+*'''The Original Surface.''' The lava flow from ancient volcanic eruptions in the [[Castelli Romani]] reached approximately to where Cecilia Metella is. The rock was used to construct the Appian Way. A few steps after Cecilia Metella the original stones have been exposed for about 30 m. There are further lengthy stretches of exposed stone about 500 m further on. In parts of the later stretch you can see grooves made by Roman carts.
+[[Image:Capo di Bove 1.jpg|thumb|200px|right|Excavations at "Capo di Bove"]]
+* {{see
+| name=Capo di Bove | alt= | url= | email=
+| address=Via Appia Antica 222 | lat=41.848412 | long=12.524027 | directions=on the right hand side of the Appian Way, about 300 m further along from Cecilia Metella
+| phone=+39 067806686 | tollfree= | fax=
+| hours=Mon-Sat 10:00-16:00, Sun 10:00-18:00 | price=Free
+| wikipedia=Capo di Bove | image=Capo di Bove1.jpg | wikidata=Q2205213
+| content=This archaeological site displays the thermal baths of the villa of the wealthy Herod Atticus. Also in the complex is a restored villa, until 2002 a private residence, that has an exterior completely covered with pieces from Roman ruins, including pipes used in the baths. There are some very helpful staff to show you around, although they only speak Italian. An interesting photographic exhibition in the house traces the development of the Appian Way over the last century. Almost opposite the entrance to the baths is a ruined tower known as the Torre di Capo di Bove.
+}}
+[[File:Villa dei Quintili panoramica.jpg|thumb|200x200px|Villa dei Quintili]]
+* {{see
+| name=Villa dei Quintilii | alt= | url=http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150135&pagename=157031 | email=
+| address=Via Appia Nuova, 1092 | lat=41.830278 | long=12.551111 | directions=difficult to reach by public transport
+| phone=+39 06 39967700 | tollfree= | fax=
+| hours=Tue-Sun 09:00-19:00 or sunset, whichever is earlier | price=A €5 ticket gives admission to the villa, to Santa Maria Nova, and to Cecilia Metella
+| wikipedia=Villa of the Quintilii | image=Villa quintili.jpg | wikidata=Q1235515
+| lastedit=2019-04-29
+| content=This impressive villa covers 23 hectares. It can be accessed from the Via Appia Nuova (Bus 118) or through Via Appia Antica 251. Parts can be seen from the Appian Way at around the 5th mile just after No 251. The villa was built by Maximus and Condinus Quintilii. The emperor Commudus liked it so much that he put the brothers to death in 182 AD and took it for himself. A museum has friezes and sculptures from the villa. The nypheum, the tepidarium and the baths may also be visited. At Appia Antica 251 is Santa Maria Nova, a farmhouse that has undergone many reincarnations since being built on top of a Roman cistern that was probably used by Villa dei Quintilii.
+}}
+* {{see
+| name=Casal Rotondo | alt= | url= | email=
+| address=Appia Antica 291 | lat=41.821 | long=12.556 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Casal Rotondo | image=Appia antica 2-7-05 046.jpg | wikidata=Q3661405
+| content=Casal Rotondo is the biggest mausoleum on the Appian Way, at about the sixth mile. It now incorporates a small private villa, originally a farmhouse. It is not known for whom it was built. The wall of fragments next to it, constructed by Luigi Canina, has ruins referring to the Cotta family but this family is now believed to not be associated with the Casal Rotondo.
+}}
+''Immediately after Casal Rotondo you can take a left into Via di Casal Rotondo. A short walk down the hill will bring you out at Capannelle, Rome's horse racing course. From there you can catch the 118 (see GET IN above) or take a bus to Metro line A, and back to Rome.'' For the really fit you can carry on a further three miles or more. At the 8th mile are some ruins originally thought to be part of a Temple of Hercules built by the Emperor Domitian, but now considered to have been more likely a place of rest, or even a factory. Shortly after that is a strange building known as the ''Priest's Cap'' because of the shape of its roof. From here it is a short walk to [[Rome#Get In|Ciampino Airport]] from where you can make your way back to the center.
+
+[[Image:jogging_aqueducts.jpg|thumb|200px|Jogging along the aqueducts.]]
+
+* {{see
+| name=Parco degli Acquedotti (Aqueduct Park) | alt= | url=http://www.parcoappiaantica.it/ | email=
+| address=between Via Appia Nuova and Via Tuscolana | lat=41.847 | long=12.562 | directions=Metro Line A station Giulio Agricola and a 500 m walk to the west, but a more attractive approach is from the Via Appia side via the Viale Appio Claudio
+| phone= | tollfree= | fax=
+| hours=Open all the time | price=
+| wikipedia=Parco degli Acquedotti | image=The park of the aqueducts.jpg | wikidata=Q3895477
+| content=This pleasant park contains very well-preserved ruins of two aqueducts and some of the original surface of the Roman Via Latina. Gets crowded on Sundays but almost empty the rest of the week during term time. Good place for joggers.
+}}
+
+===EUR===
+*{{see
+| name=Abbey of the three fountains (Abazzia delle tre fontane) | alt= | url=http://www.abbaziatrefontane.it | email=
+| address=Via Laurentina | lat=41.834444 | long=12.483333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tre Fontane Abbey | image=032Abbazia3Fontane.jpg | wikidata=Q114436
+| content=A truly quiet oasis close to the hustle and bustle of EUR. There are three churches in this complex and the doors are open all day, unlike city churches. The monks produce a range of products such as liqueurs, chocolate and honey, as well as a cure for the illnesses Romans suffer when the Scirocco wind blows in from the Sahara. These are on sale at a shop at the Abbey.
+}}
+*{{see | name=L. Pigorini National Museum of Prehistory and Ethnography | alt= | url=http://www.pigorini.beniculturali.it | email= | address=Viale Lincoln 1, EUR | lat=41.832222 | long=12.471389 | directions= | phone=+39 06 549 521 | tollfree= | fax= | hours=Tue-Sun 09:00-14:00 | price=€4 | wikipedia=Pigorini National Museum of Prehistory and Ethnography | image=Roma 2011 08 22 Museo Pigorini.jpg | wikidata=Q304735 | content=An ethnographic collection of around 60,000 pieces from European indigenous cultures. Documents evolution from the Palaeolithic age to the Iron Age.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+[[Image:CityofRomeAD.jpg|thumb|250px|right|Model of Ancient Rome in the Museo della Civilta Romana, showing the Colosseum and the Forums.]]
+*{{see
+| name=Museo della Civilta Romana (Museum of Rome's Civilization) | alt= | url=http://www.museociviltaromana.it/ | email=
+| address=Piazza G. Agnelli (close to the Pigorini museum) | lat=41.831944 | long=12.478056 | directions=Metro Line B to EUR Fermi
+| phone= | tollfree= | fax=
+| hours='''Closed''' due to redevelopment of the building | price=
+| wikipedia=Museum of Roman Civilization | image=Lentrée du musée de la civilisation romaine (EUR, Rome) (5904092579).jpg | wikidata=Q1275123
+| lastedit=2020-09-10
+| content=Perhaps most famous for a large model of imperial Rome, but also has a large display of various aspects of ancient Rome, using plaster casts, models and reconstructions of works found in museums throughout the world.
+}}
+*{{see
+| name=Rome's Planetarium | alt= | url=http://www.planetarioroma.it/ | email=
+| address= | lat=41.83121 | long=12.4775 | directions=same entrance as the Museo della Civilta Romana
+| phone= | tollfree= | fax=
+| hours=Tue-Fri 09:00-14:00, Sat Sun 09:00-19:00 | price=
+| wikidata=Q3906240
+| content=Regular shows plus an excellent astronomical museum.
+}}
+* {{see
+| name=Square Colosseum | alt=Colosseo Quadrato, also known as Palazzo della Civiltà Italiana | url=http://www.eurspa.it/it/la-citta-nella-citta/patrimonio/edifici-storici/palazzo-civilta-italiana | email=
+| address= | lat=41.836684 | long=12.465309 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palazzo della Civiltà Italiana | image=Roma Palazzo Civilta Italiana 663.JPG | wikidata=Q1283476
+| lastedit=2016-05-15
+| content=Constructed around the 1940s as the centrepiece of the EUR, but unused for a long time. It was restored before 2015 when the luxury fashion label Fendi moved in.
+}}
+
+===St Paul's area===
+[[File:Roma San Paolo fuori le mura BW 2021-09-29 14-02-11 v2.jpg|thumb|Statue of St. Paul in front of the Basilica of San Paolo fuori le Mura]]
+* {{see
+| name=San Paolo fuori le Mura | alt= | url=http://www.vatican.va/various/basiliche/san_paolo/index_en.html | email=
+| address=Via Ostiense 186 | lat=41.858611 | long=12.477222 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Basilica of Saint Paul Outside the Walls | image=Roma San Paolo fuori le mura BW 2021-09-29 14-02-11 v2.jpg | wikidata=Q231699
+| content=Also known as St Paul Outside the Walls. This is on the outskirts of Rome in an otherwise drab modern neighborhood. The enormous basilica is a faithful reconstruction, finished in 1854, of the ancient basilica which burned down in 1823. Parts of the original interior were rescued from the fire and have been extensively restored. Visiting in the afternoon may avoid the tourist coaches. Don't miss the medieval cloister, which survived the fire.
+}}
+* {{see
+| name=Santa Passera | alt= | url= | email=
+| address=Via Santa Passera 1 | lat=41.858597 | long=12.460197 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Santa Passera | image=Q11 Portuense - S. Passera 01.JPG | wikidata=Q3674186
+| content=This church can be an interesting deviation if you are passing through its neighbourhood. It is believed to be the grave of the Saints Ciro and Giovanni, killed during the time of the Emperor Diocletian. The original name was ''Abba Cyrus'' and through Appaciro and then Appacero it finally became Pacera, very close to today's ''Passera''. The building is on top of a 3rd century building still visible in the lower floor and in the underground. The main part of the building dates back to the 9th century as do the frescoes on the higher floor. Some of the frescoes have been restored. Downstairs there is a small quadrangular room and the underground, where the remains of the two Saints are supposed to be. There are still visible 3rd century traces of Roman frescoes; in front of the stair you can enjoy a small bird, the Justice, and an athlete while in the vault some eight apex stars. ''Bus 128,780,781,775 (first stop in Via della Magliana)''.
+}}
+* {{see
+| name=Centrale Montemartini Museum | alt= | url=http://www.centralemontemartini.org/ | email=museo.centrale.montemartini@comune.roma.it
+| address=Via Ostiense 106 | lat=41.8668 | long=12.47809 | directions=on the right-hand side of Via Ostiense before you reach St. Paul's; Metro Line B Garbatella station; Buses 23, 271, 769, 770
+| phone=060608 (non-geographic number) | tollfree= | fax=
+| hours=Tue-Sun 09:00-19:00 | price=€4.50 plus extra fees for special exhibits
+| image=Le musée de la centrale Montemartini (Rome) (34321364485).jpg | wikidata=Q1054090
+|lastedit=2020-06-11| content=This delightful museum provides an interesting juxtaposition between the buildings and equipment of Rome's first electricity generating plant and the exhibits, which are mainly from excavations of Roman sites. A combined ticket with the museums on the [[Rome/Colosseo|Capitoline Hill]] provides big reductions.
+}}
+
+===Elsewhere===
+
+*{{see
+| name=Sanctuary of Divino Amore. | alt= | url=http://www.santuariodivinoamore.it/index.php | email=
+| address= | lat=41.77875 | long=12.543861 | directions=on Via Ardeatina outside the GRA ring road; 218 Bus, approximately every half hour; alternatively, every Saturday night, from Easter until the end of October, a night Pilgrimage on foot sets out at midnight from Piazza di Porta Capena, Rome, and reaches the Sanctuary at 05:00 on Sunday morning
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Santuario della Madonna del Divino Amore | image=Santuario della Madonna del Divino Amore interno.jpg | wikidata=Q2373648
+| content=This is an important place of pilgrimage for Catholics because of the supposedly miraculous powers of an image of the Virgin Mary. The first miracle was in 1740 when a traveller being attacked by a pack of dogs called out to the Virgin’s image for rescue and the dogs calmed down. The image was moved to Rome in the Second World War and is credited with saving the city from destruction, as a result of which Romans vowed to construct this new sanctuary.
+}}
+
+[[Image:Casal rotondo1.jpg|thumb|right|250px|Casal Rotondo on the Appian Way]]
+* {{see
+| name=Jubilee Church | alt=Chiesa di Dio Padre Misericordioso | url=http://www.diopadremisericordioso.it/ | email=
+| address=Piazza Largo Terzo Millennio 8 | lat=41.8825 | long=12.585556 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jubilee Church | image=Il quartiere si riflette in una vetrata 05.JPG | wikidata=Q1226760
+| lastedit=2016-05-16
+| content=A modern church designed by the world-famous architect Richard Meier. Completed in 2003 and built as a project to socially revive the surrounding Tor Tre Teste area.
+}}
+
+==Do==
+
+*{{do
+| name=Bike | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Rent a bike and explore the many remains of the Appian Way park area.
+}}
+
+==Buy==
+
+==Eat==
+* {{eat
+| name=Al peperoncino | alt= | url=http://www.alpeperoncino.net/ | email=
+| address=Via Ostiense 369/375 | lat=41.853425 | long=12.477033 | directions=very close to the Basilica di San Paolo fuori le mura and the Metro B ''San Paolo Basilica'' station
+| phone=+39 06 5410192 | tollfree=
+| hours= | price=
+| content=This pizzeria has a good Roman style pizza (the thin one) and also a good choice of fried vegetables and appetizers. Price is low to mid-range, food quality and service are medium.
+}}
+*{{eat
+| name=Garden Ristò | alt= | url=https://gardenristo.net/ | email=
+| address=Via Appia Antica 172 | lat=41.852687 | long=12.519441 | directions=almost opposite Cecilia Metella
+| phone=+39 0678348607 | tollfree=
+| hours=10:00-02:00 | price=30-50 €
+| content=
+}}
+*{{eat
+| name=Gelato di San Crispino | alt= | url=http://www.ilgelatodisancrispino.it/ | email=
+| address=Via Acaia 56 | lat=41.87614 | long=12.50786 | directions=fairly easy walk from Porta San Sebastiano
+| phone= | tollfree= | fax=
+| hours=Wed-Mon 11:00-00:00 | price=
+| content=One of the best ice cream makers in Rome. From humble beginnings here, San Crispino has expanded and you can now buy special packs at Fiumicino airport to take home with you. Pure ingredients; good selection of fruit sorbets (flavours according to the season) and ice creams.
+}}
+* {{eat
+| name=Le Bistrot | alt= | url=http://www.ristorantelebistrot.com/ | email=
+| address=Via delle Sette Chiese 160 | lat=41.860036 | long=12.493836 | directions=in Garbatella
+| phone=+39 06 512 89 91 | tollfree=
+| hours= | price=
+| content=Creative French and vegetarian cuisine with a very kind staff and a homey environment. Better to reserve.
+}}
+* {{eat | name=Mama Che Pizza | alt= | url=https://www.mammachepizza-roma.com/ | email= | address=Via Poggio Ameno 34/38 | lat=41.847236 | long=12.489704 | directions= | phone= | tollfree= | hours= | price= | content=Worth stopping by if you're close to the EUR and it's cheap. They also own the deli right next to it, where you can also get miniature pizzas and breads.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Trattoria Zampagna | alt= | url=https://www.facebook.com/www.trattoriazampagna.it/ | email=
+| address=Via Ostiense, 179 | lat=41.860644 | long=12.478692 | directions=
+| phone=+39 06 5742306 | tollfree=
+| hours=12:30-15:00, 19:00-23:00 | price=€20-25
+| content=Good Roman fare. One of the owners can speak English so that's helpful. Many interesting varieties of pasta along with traditional main courses such as ox tail. The owner has been known to take the time to introduce each of the dishes on the menu to the guests.
+}}
+
+==Drink==
+
+==Sleep==
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES
+-->
+If you plan to spend most of your time exploring the centre of Rome, hotels in this area may limit your options and involve you spending rather a lot of time on public transport.
+
+===Budget===
+* {{sleep
+| name=Martini Bed | alt= | url=https://www.martinibed.com/en/ | email=info@martinibed.com
+| address=via dei Fulvi, 67 | lat=41.862022 | long=12.547595 | directions=metro A stop Porta Furba Quadraro
+| phone=+39 0683088202 | tollfree= | fax=
+| checkin=10:00 | checkout=11:00 | price=
+| lastedit=2018-03-07
+| content=Eco- & bike-friendly guesthouse. Twin, double, triple, quadruple and quintuple room with WiFi, air conditioning, safe, ensuite or private external bathroom, and self catering kitchen use. Cheap single rooms with shared bathroom. 24/7 self service breakfast included. Guarded parking. Bike rent.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Caravel | alt=Caravel Hotel | url=http://www.hotelcaravel.it | email=
+| address=Viale Cristoforo Colombo 124/c, Roma 00147 | lat=41.86524 | long=12.49640| directions=
+| phone=+39 06 5180789 | tollfree= | fax=
+| hours= | price=Single room from €50
+| checkin= | checkout=
+| content=Cheap hotel: a bit off the beaten track but there are good bus connections.
+}}
+* {{sleep
+| name=Hotel Capanelle | url=http://www.hotelcapannelle.com/eng/hotel.htm | email=booking@hotelcapannelle.it
+| address=Via Siderno, 37 | lat=41.83523 | long=12.55524| directions=
+| phone=+39 06 710600 | tollfree= | fax=
+| hours= | price=€110 and up
+| checkin= | checkout=
+| content=Convenient for the Appian Way park and if you want to go to the races at Capannelle horse track. Short walk from Parco degli Aquedotti and Villa dei Quintili. Easily reached if you are coming from the south by car. Well-rated hotel but you will have to rely on an infrequent shuttle or public transport if you want to use it as a base for exploring downtown Rome.
+}}
+* {{sleep
+| name=Hotel EUR American Palace Rome | alt= | url=http://www.americanpalace.it/en/ | email=
+| address=Via Laurentina, 554 | lat=41.825524 | long=12.478801 | directions=
+| phone=+39 06 5913 552 | tollfree= | fax=+39 06 5911 740
+| checkin= | checkout= | price=Around €130 for a double booked by internet. Ignore the ridiculously low prices displayed on the Home Page
+| content=This 4-star hotel has been refurbished to offer large and well decorated bedrooms.
+}}
+* {{sleep | name=Excel Hotel Ciampino Rome | alt= | url=http://www.excelciampino.it/ | email= | address= | lat=41.761695 | long=12.619051 | directions= | phone=+39 06 935 4117 | tollfree= | fax=+39 06 935 42041 | checkin= | checkout= | price= | content=Via Appia Nuova, 160, Marino. 4-star hotel just south of Ciampino Airport with 76 bedrooms of different size, private bathroom, spa centre, business services, restaurant, free shuttle to Ciampino airport and breakfast buffet. Double: €53 Triple: €59.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Villa EUR | alt= | url=http://www.villaeur.it | email=
+| address=Piazzale Marcellino Champagnat, 2 | lat=41.823307 | long=12.475440 | directions=metro: Laurentina
+| phone=+39 06 54220627 | tollfree=
+| checkin= | checkout= | price=Double room is €150 including breakfast
+| content=Very quiet and stylish in midst of a park. You can reach it from the subway by a 5-min walk. The hotel has a small bar, excellent breakfast and a restaurant. In the vicinity of the hotel you can find an excellent restaurant '''La Taverna de Porto''' if you want to go out eating. There is also a tennis court, a gymnasium and even an Aikido Dojo.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Abitart | url=http://www.abitarthotel.com/index.html | email=info@abitarthotel.com
+| address=Via P. Matteucci, 10/20 | lat=41.87185 | long=12.48116 | directions=Just off Via Ostiense, within walking distance of Ostiense Railway station and convenient for Testaccio
+| phone=+39 064543191 | tollfree= | fax=+39 06454319899
+| hours= | price=From €160 for double
+| checkin=14:00 | checkout=12:00
+| content=A "boutique" hotel that really merits the name. You'll have to stay in one of the eight themed suites to get the full effect but the whole hotel is covered with works of art of a surrealist nature, with considerable homage paid to Rene Magritte.
+}}
+
+==Connect==
+
+==Go next==
+* '''[[Castelli Romani]]''' &mdash; Continuing southeast from the Appian Way brings you to the Castelli Romani, including the Pope's summer home of [[Castel Gandolfo]] and the wine-producing town of [[Frascati]].
+* '''[[Ostia]]''' &mdash; Continuing southwest from EUR, Ostia is about 25 km from the center of Rome. It's considered the capital's beach and is also well known for the "Tourist Port" with moorings for boats from 8 to 60 metres in length. Don't miss '''Ostia Antica''', the well-preserved ruins of the Roman port.
+* See the '''Go next''' section of [[Rome]] for more suggestions.
+
+{{routebox
+| image1=Metropolitana di Roma - logo linea A.svg
+| imagesize1=33
+| caption1=Rome Metro Line A
+| directionl1=W
+| majorl1=[[Rome/Modern Center|Modern Center]]
+| minorl1=[[Rome/Esquilino-San Giovanni|Esquilino-San Giovanni]]
+| directionr1=E
+| majorr1=END
+| minorr1=
+
+| image2=Metropolitana di Roma B.svg
+| imagesize2=33
+| caption2=Rome Metro Line B
+| directionl2=SW
+| majorl2=END
+| minorl2=
+| directionr2=NE
+| majorr2=[[Rome/Modern Center|Modern Center]]
+| minorr2=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+
+| image3=Ferrovia Roma-Lido.svg
+| imagesize3=22
+| caption3=Rome–Lido railway
+| directionl3=SW
+| majorl3=END
+| minorl3=[[Ostia]]
+| directionr3=NE
+| majorr3=END
+| minorr3=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+
+| image4=Ferrovia regionale laziale FL1.svg
+| imagesize4=22
+| caption4=Lazio regional railway line FL1
+| directionl4=SW
+| majorl4=END
+| minorl4=[[Leonardo da Vinci-Fiumicino Airport|Fiumicino Airport]]
+| directionr4=NE
+| majorr4=[[Rome/Nomentano|Nomentano]]
+| minorr4=[[Rome/Trastevere|Trastevere]]
+
+| image5=Ferrovia regionale laziale FL4 (brown background).svg
+| imagesize5=22
+| caption5=Lazio regional railway line FL4
+| directionl5=NW
+| majorl5=END
+| minorl5=[[Rome/Modern Center|Modern Center]]
+| directionr5=SE
+| majorr5=END/Albano Laziale/END
+| minorr5=[[Frascati]]/[[Castel Gandolfo]]/[[Velletri]]
+
+| image6=Ferrovia regionale laziale FL5.svg
+| imagesize6=22
+| caption6=Lazio regional railway line FL5
+| directionl6=W
+| majorl6=[[Civitavecchia]]
+| minorl6=[[Cerveteri]]
+| directionr6=E
+| majorr6=[[Rome/Modern Center|Modern Center]]
+| minorr6=[[Rome/Trastevere|Trastevere]]
+
+| image7=Ferrovia regionale laziale FL6.svg
+| imagesize7=22
+| caption7=Lazio regional railway line FL6
+| directionl7=NW
+| majorl7=END
+| minorl7=[[Rome/Modern Center|Modern Center]]
+| directionr7=SE
+| majorr7=[[Cassino]]
+| minorr7=[[Frascati]]
+
+| image8=Ferrovia regionale laziale FL7.svg
+| imagesize8=22
+| caption8=Lazio regional railway line FL7
+| directionl8=N
+| majorl8=END
+| minorl8=[[Rome/Modern Center|Modern Center]]
+| directionr8=S
+| majorr8=Minturno
+| minorr8=[[Latina]]
+
+| image9=Ferrovia regionale laziale FL8.svg
+| imagesize9=22
+| caption9=Lazio regional railway line FL8
+| directionl9=N
+| majorl9=END
+| minorl9=[[Rome/Modern Center|Modern Center]]
+| directionr9=S
+| majorr9=Nettuno
+| minorr9=[[Anzio]]
+}}
+
+{{IsPartOf|Rome}}
+{{RelatedWikipedia|Appian Way Regional Park|rel=y}}
+{{usabledistrict}}
+{{geo|41.8606|12.5139}}

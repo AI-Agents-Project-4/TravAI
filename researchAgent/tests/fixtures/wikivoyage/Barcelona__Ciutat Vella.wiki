@@ -1,0 +1,1060 @@
+{{pagebanner|Ciutat_Vella_Barcelona_banner.jpg|pgname=Ciutat Vella|unesco_whs=yes}}
+
+'''Ciutat Vella''' (Catalan for ''Old city'') is, as its name suggests, the oldest part of [[Barcelona]]. Centred along the Las Ramblas boulevard, it includes Barcelona's old port as well as parts built from the early Middle Ages to mid-19th century. Ciutat Vella is where the nightlife, as well as the tourist traffic in Barcelona is centred.
+
+If you are looking for the famous Gaudi creations, they are not here - except for Palau Güell - head over to [[Barcelona/Eixample|Eixample]] and [[Barcelona/Gracia|Gracia]] to see them.
+
+==Understand==
+[[File:La Rambla Barcelona 2004.JPG|thumb|right|View of Las Ramblas, Barcelona]]
+The district is divided in four quarters:
+
+* '''Barceloneta''' or ''Little Barcelona'' was built after King Felipe V ordered the construction of a new fortress (La Ciutadella, nowadays a park) in order to control and punish the city of Barcelona, that fought against him during the war of Spanish Succession. The fortress was planned very close to the city so that a tenth of it was demolished, and the people who lived in this part had no compensation and as a bigger punishment were obliged to demolish their own houses.  The people from the demolished part of Barcelona had to move, so a new quarter was planned by the French military. Therefore, the streets are straight and with a square shape. There are still some houses from this period, easy to recognize because they are much lower than the others and have a simple neoclassical decoration.  Historically a fisherman's quarter, Barceloneta was traditionally a poor quarter, with dark and narrow streets, but since the 1992 Olympics significant gentrification has taken place. Most noticeably along the seafront. There are now delis serving upscale foodstuffs and high rise office buildings going up.
+* '''Barri Gòtic''' is the oldest part of the old town.  It literally has its foundations in Roman times as it was built upon the old settlement of Barcino.  It's quite easy to see these portions of the Roman wall through this area and for those looking to see more, you can visit the City History museum which takes you below ground to tour the 2,000-year-old foundations.  Fully pedestrian, this area is quite popular for visitors to see the history of the city.  While not as active in boutique shops as La Ribera next door, it boasts its fair share of night life and shops.  Most people walk through here to view the quite stunning architecture with the ancient building leaning this way and that on their centuries-old foundations.  It is also the location of the Barcelona Cathedral which is a focal point of the city.
+* '''La Ribera''' is a large section of the old town that encompasses everything between Arc de Triomf and Via Laietana.  It is often mistakenly called the El Born after the large, 19th-century market that sits in the area below Carrer de la Princesa.  In reality, Born is a sub neighborhood of La Ribera much like the area around the upper, Santa Catarina market.  Regardless of whether you go to the upper or lower sections, it is a very happening neighbourhood with lots to do and see.  By day, there are many small shops and local designers.  By night, there is a thriving bar and restaurant scene.  It's easily reachable on foot and contains no end of old buildings, many of which date back to the 15th century.  It's easy to see the thriving, commercial past of the neighborhood with colourful names such as (in English): "the street of jars", "the street of the silver smiths", and so on.
+* '''El Raval''' is the neighbourhood of the old town just to the west of Las Ramblas.  Historically, it's had an incredibly seedy reputation, being a den of prostitution, drugs, and general crime.  This changed on a tremendous scale right before the 1992 Olympics when the city government demolished many old buildings to construct new ones as well as to open up the neighbourhood to more natural light given that historically, it was known to be quite dark.  This move was quite controversial as it displaced thousands of people, but for better or worse, it did change the neighbourhood.  These days, it's a vibrant place for nightlife and while still very much an immigrant neighbourhood, it's home to no end of bars and restaurants.  While not as historically significant as say, Barri Gòtic or La Ribera, but gradually more civic structures are sprouting in the area, such as the Filmoteca.
+
+===Municipal information===
+*[http://w110.bcn.cat/portal/site/CiutatVella Ciutat Vella] municipal website
+
+==Get in==
+{{Mapframe|41.379|2.181|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q237189}} <!-- metro -->
+
+Since Ciutat Vella is also the city centre, nearly all public transportation leads you there. The transportation centre is {{marker|type=go|lat=41.386944|long=2.17|name={{station|Plaça Catalunya|L1|L3|L6|L7}} }}, and is possible to arrive by train, subway and bus (many regular ones during day, all the night lines and Aerobus to the Airport).
+
+There are also two other places very close to Plaça Catalunya where the subway and the buses stop, {{marker|type=go|lat=41.38575|long=2.16408|name={{station|Plaça Universitat|L1|L2}} }} and {{marker|type=go|lat=41.38905|long=2.17293|name={{station|Plaça Urquinaona|L2|L4 }} }}.
+
+To reach the other parts of the district, the maximum time to get to the furthest part of the city is twenty minutes.
+
+==See==
+
+===La Ribera===
+[[File:Palau de la Música Catalana, the Catalan Concert Hall.jpg|thumb|The impressive interior of the Palau de la Música Catalana]]
+* {{see
+| name=Palau de la Música Catalana | alt= | url=https://www.palaumusica.cat/en/ | email=taquilles@palaumusica.cat
+| address=C/ Palau de la Música, 4- 6 | lat=41.3875 | long=2.175 | directions={{rint|barcelona|metro}}{{station|Urquinaona|l1|l4|}}
+| phone=+34 932 295 72 07 | tollfree= | fax=
+| hours= | price=Self-guided tours €18 are the cheapest option or you could go to a concert.
+| wikipedia=Palau de la Música Catalana | image=Palau de la Música - Interior general.JPG | wikidata=Q327940
+| lastedit=2024-03-18
+| content=Modernist design by Lluís Domènech i Montaner is a [[UNESCO World Heritage site]], a masterpiece of Catalan's modernist architecture. This auditorium designed by Ramon Muntaner is the most important Modernist example in Ciutat Vella. It was the headquarters of the ''Orfe&oacute; Catal&agrave;'', the oldest Catalan choir. The most beautiful part is the stalls with its fine detailing, although all the building is impressive. There are plenty of allegories about music and Catalonia, since the Orfe&oacute; Catal&agrave; is strongly bounded with the Catalan ''Renaixen&ccedil;a'', the romantic movement that tried to recuperate the Catalan history, language and traditions. It is also the best place in Barcelona to listen to symphonic music.
+}}
+* {{see
+| name=Basilica of Santa Maria del Mar | alt= | url= | email=
+| address=Plaça de Santa Maria | lat=41.383611 | long=2.181944 | directions=near the Picasso Museum
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Santa Maria del Mar, Barcelona | image=Santa Maria del Mar 2.jpg | wikidata=Q908802
+| content=One of the most representative examples of Catalan Gothic architecture, it features a sombre but beautiful interior. The upsweeping verticality and lightness of the interior are especially surprising considering the blocky exterior surfaces. Built between 1329 and 1383, it was once was home to a Christian cult in the late 3rd century. The church is dedicated to Saint Mary of the Sea, since the quarter was dedicated to the jobs related to the sea, from sailors to harbor works, commerce, even coin exchange. The inside was burned during the civil war, but it is still very interesting. Next to the church, you can see a monument, called Fossar de les Moreres, which is the place where many fighters were buried after the Barcelona defeat in 1714, so it is an important monument for Catalan nationalism.
+}}
+* {{see
+| name=Carrer Montcada | alt= | url= | email=
+| address= | lat=41.38483 | long=2.18131 | directions=near Carrer Princesa, in the Born quarter
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Calle de Montcada | image=Carrer Montcada1-Barcelona(Catalonia).jpg | wikidata=Q8255466
+| content=This street has the biggest collection of Gothic houses in Barcelona. In amongst these houses is the Picasso Museum, which is definitely worth a visit. There are also smaller museums along the street, and many tapas restaurants though they may be more expensive on this street.
+}}
+* {{see
+| name=Passeig del Born | alt= | url= | email=
+| address= | lat=41.384232 | long=2.182438 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Paseo del Borne (Barcelona) | image=Barcelona Part Deux - 69 (3466084959).jpg | wikidata=Q17315298
+| content=This avenue goes from the Santa Maria del Mar church to the Born market and is where the legendary jousting matches of the Middle Ages took place, as well as numerous fairs and marches. This is also where men were knighted. It is a really old street, very wide for the time. ''Don Quijote de la Mancha'', the famous Cervantes character, had a contest in this place.
+}}
+* {{see
+| name=Mercat del Born | alt= | url=https://elbornculturaimemoria.barcelona.cat/en/ | email=
+| address= | lat=41.385397 | long=2.1841 | directions=
+| phone= | tollfree=
+| hours= | price=free
+| wikipedia=Mercat del Born | image=Mercat del Born (Barcelona) - 2.jpg | wikidata=Q921152
+| content=This market was the central market for Barcelona until 1973 and its closing marked the beginning of the neighborhood's decline before its current resurgence. While undergoing renovations, whole streets and homes that had been demolished by Phillipe V's orders were discovered and archaeologists who worked to transform the market in to a cultural centre and history museum. Entrance and street level is free, but to visit the ruins requires paying for a ticket.
+}}
+
+====Museums====
+* {{see
+| name=Picasso Museum | alt=Museu Picasso | url=https://museupicassobcn.cat/en/node/6010 | email=museupicasso@bcn.cat
+| address=Montcada, 15-23 | lat=41.38504 | long=2.18103 | directions={{rint|barcelona|metro}}{{station|Jaume l|l4|}}
+| phone=+34 932 56 30 00 | tollfree= | fax=+34 933 15 01 02
+| hours=Sun-Tue 10:00-20:00 (19:00 in winter), closes strictly on time, visitors are asked to exit 10 minutes before closing time. free at certain times, see website. | price=Adults €13 (on-line €12) , discount for students having student ID & 65+, free on the first Sunday each month, free every Thursday evening from 18:00 to 21:30. Advance booking recommended (including free-of-charge times)
+| wikipedia=Museu Picasso | image=Palau Berenguer d'Aguilar.jpg | wikidata=Q1050032
+| lastedit=2024-03-18
+| content=Has a lot of art from his first period, before the cubism, but almost none of his most famous works. Pictures are described only in Spanish, but overview texts for each period are available in English. Luggage over 30x30cm needs to be left at the checkroom and there's no liability for lost valuables.
+}}
+
+===Barri Gòtic===
+* {{see
+| name=Palau Güell | alt=[[w:Palau Güell|Guell Palace]] | url=https://inici.palauguell.cat/ | email=
+| address= | lat=41.378889 | long=2.173861 | directions={{rint|barcelona|metro}}{{station|Liceu|l3|}}
+| phone=+34 934 725 775, +34 934 725 771 | tollfree= | fax=
+| hours=Tue-Sun: Apr-Oct 10:00-20:00; Nov-Mar 10:00-17:30 | price=€12 (audio guide included); tickets booth at 1 Nou de la Rambla closes 1 hr earlier; also online
+| wikipedia=Palau Güell | image=Palau Güell (2).jpg | wikidata=Q597051
+| lastedit=2024-03-18
+| content=Palace designed by Gaudí for the industrial tycoon Eusebi Güell. There is a basement and three levels of the palace to explore, the highest featuring a small exhibition. It is in a different style to Gaudí's apartment blocks La Pedrera and Casa Batlló, as well as being cheaper and less crowded than those sites. The rooftop of Palau Güell features the more standard Gaudi style chimneys, and views across El Raval.
+}}
+* {{see
+| name=Plaça Sant Jaume | alt= | url= | email=
+| address= | lat=41.3825 | long=2.176944 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça Sant Jaume | image=Plaça de Sant Jaume.jpg | wikidata=Q2082605
+| content=This square has been the political hub since the Roman era. It has been witness to some of the most important events in modern Catalan history, such as the proclamation of the Catalan State in 1931. At one end, there is the Palace of the Generalitat (the one with two flags on the top, the government of the Autonomous Community of Catalunya) and on the other stands the City Hall (three flags). Both are Gothic buildings, although their fronts are newer (the ''Generalitat's'' is the best example of Barcelona's Renaissance art). But if you can go inside, both are very important civil Gothic buildings. The two buildings have guides.}}
+** City hall: Visiting hours are every Sunday, from 10:00 to 14:00. The entrance is free. The ''Sal&oacute; de Cent'', room where the artisans made the meetings is the most important part.
+** ''Palau de la Generalitat'': The second and fourth Sunday every month from 10:00 to 14:00. Free entrance. The ''Pati dels Tarongers'', a Patio with orange trees and the main room are the most famous parts.
+** In the left part of the City Hall there's a tourist information point.
+
+* {{see
+| name=Plaça Reial | alt= | url= | email=
+| address= | lat=41.38 | long=2.175 | directions=next to La Rambla
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça Reial | image=Barcelona - Plaça Reial.jpg | wikidata=Q1519964
+| content=This square is famous for the nightlife and the uniform architecture, and features fountains and palm trees. It was built during the 19th century on the site of a monastery, after the ''Mendizábal law'' expelled the monks. After some years Antoni Gaudí designed the streetlights which are still there. It has lots of activity during the day, thanks to the many terraces of the bars and restaurants.
+}}
+
+[[File:PlacaReialBarcelona.jpg|thumb|250px|Placa Reial]]
+* {{see
+| name=Plaça del Rei | alt= | url= | email=
+| address= | lat=41.38413 | long=2.17744 | directions=next to the Cathedral
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça del Rei | image=Plaça del Rei 2074102277.jpg | wikidata=Q2067174
+| content=This square has two important buildings, the ''Santa Àgata'' church, where the kings from the ''Aragon crown'' had baptism. Is possible to visit it. The other building has the ''Saló del Tinell'', one of the best civil Gothic architecture examples. Is the place where the royal receptions where held, so is very wide with a wooden ceiling hold by the typical Catalan Gothic arches. It has also a tower from which you can have a good view of the old town. An entrance is needed to visit both.
+}}
+* {{see
+| name=Cathedral of Santa Eulàlia | alt=Barcelona Cathedral | url=http://www.catedralbcn.org/ | email=
+| address=Capellans, 4 | lat=41.383889 | long=2.176389 | directions=
+| phone=+93 3042255 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Barcelona Cathedral | image=Cathedral of the Holy Cross and Saint Eulalia edited.jpg | wikidata=Q17155
+| content=The main Gothic church in Barcelona. The cloister is maybe the most interesting part.
+}}
+* {{see
+| name=Plaça Sant Felip Neri | alt= | url= | email=
+| address= | lat=41.383358 | long=2.174939 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça de Sant Felip Neri | image=Plaça Sant Felip Neri.jpg | wikidata=Q9060949
+| content=One of the most romantic squares in Barcelona, it hides a dark history in that it was built over the city's old cemetery. Barcelona's most famous architect, Antonio Gaudi, was on his way to visit the church there when he was run over and killed in 1928. There is a baroque church (Sant Felip Neri), a 14th-century palace and a fountain in the middle. To arrive, take the narrow street next to the cathedral cloister. The palace was moved from its original location in the street ''Via Laietana'' during the 1920s. If you look the front of the church, you can see some holes made by a civil war bomb. If you go out the square through the other street, you'll arrive to the street ''Baixada de Santa Eulàlia'', where is said that the Barcelona's protector was tormented.
+}}
+* {{see
+| name=Plaça del Pi | alt= | url= | email=
+| address= | lat=41.382400 | long=2.173690 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=es:Plaza del Pino | image=Barcelona Santa Maria del Pi esterno.jpg | wikidata=Q3392167
+| lastedit=2026-01-10
+| content=This square next to ''La Rambla'' is one of the prettiest parts of the quarter. It has a pine tree in the middle (''Pi'' mines pine tree), the church of ''Santa Maria del Pi'', which is a very pretty Gothic church with a huge rose window. Many concerts are held here. The ''Pi'' square and its ''twin square'', called ''Sant Josep Oriol'', have several bars and artisans, painters, musicians, who are there to sell their products. Entrance into the church costs €6.50/person, or €8/person if you want a tour to the top of the church with plenty of uninterrupted views across Barcelona.
+}}
+* {{see
+| name=Carrer Petritxol | alt= | url= | email=
+| address= | lat=41.38279 | long=2.17296 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Carrer Petritxol - Granja Dulcinea.JPG
+| content=This narrow street, that starts in the ''Plaça del Pi'' has a very special atmosphere. It is famous because of its chocolate shops, where you can drink a hot chocolate since the 18th century. It has also very important art galleries (''Sala Parés'', the place where Picasso made a dedicated exposition for the first time). You can enter for free and see, if you are lucky, nice expositions. The street is decorated with flagstones that represent scenes of a modernist book called ''L'auca del senyor Esteve'', by Santiago Rusiñol, which is a critic to the bourgeois society of that time and that he had to live.
+}}
+* {{see
+| name=Ancient synagogue | alt=Sinagoga Major | url=http://www.calldebarcelona.org/ | email=
+| address=Carrer Marlet | lat=41.38258 | long=2.17577 | directions=
+| phone= | tollfree=
+| hours= | price=Free, you can leave donations
+| wikipedia=Ancient synagogue (Barcelona) | image=Call de Barcelona Marlet.jpg | wikidata=Q2916029
+| content=They open during the morning. It is the re-discovered synagogue from the Jewish quarter, called ''call''. This building, not very spectacular, is important since it has been here since the Roman era, and stayed as a synagogue until the Jewish exodus in the 15th century. The guide explains all the facts from the place in several languages.
+}}
+
+====Museums====
+* {{see
+| name=Museu d'Història de la Ciutat de Barcelona | alt= | url=http://museuhistoria.bcn.cat/en | email=
+| address= | lat=41.383904 | long=2.177691 | directions={{rint|barcelona|metro}}{{station|Jaume I|l4}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Barcelona City History Museum | image=Casa Clariana-Padellàs.JPG | wikidata=Q3571337
+|lastedit=2024-03-18| content=Includes access to underground Roman ruins and a complex of historic buildings in the centre of the Barri Gòtic (Gothic Quarter), and is a reasonably good historical museum.
+}}
+* {{see
+| name=Museu de l'Eròtica de Barcelona | alt= | url=http://www.erotica-museum.com | email=
+| address=La Rambla 96 | lat=41.38216 | long=2.17264 | directions=just in front of the market
+| phone= | tollfree=
+| hours= | price=
+| image=Museo erótico. As Ramblas. Barcelona.jpg | wikidata=Q3329871
+| content=Museum dedicated to erotic and sensual works. A huge tourist trap. The tour is not worth it, unless you wish to see old paintings of the Kama Sutra. The only interest is the huge phallus in the hallway, which makes for funny pictures.
+}}
+* {{see
+| name=Hash Marijuana & Hemp Museum Barcelona | alt= | url=http://www.hashmuseum.com | email=
+| address=Carrer Ample 35 | lat=41.380803 | long=2.180134 | directions=left of the Correos central post office. {{rint|barcelona|metro}}{{station|Jaume I|l4}}
+| phone= | tollfree= | fax=
+| hours=Daily 10:00 to 23:00 | price=
+| wikipedia=Hemp Museum Gallery | image=Museo de la marihuana en barcelona - panoramio.jpg | wikidata=Q11682430
+|lastedit=2024-03-18| content=This museum in the modernist Palau Mornau offers a unique permanent exhibition on the development of the cannabis plant as a versatile source for industrial, nutritional, medicinal, sacramental and recreational purposes.
+}}
+
+===Raval===
+* {{see
+| name=La Rambla | alt= | url= | email=
+| address= | lat=41.381389 | long=2.173056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=La Rambla, Barcelona | image=La rambla.jpg | wikidata=Q850593
+| content=Often the first landmark that people identify with the city. It is the central and most famous boulevard cutting through the heart of the city centre — a vibrant promenade filled with Barcelona life at its best. It stretches from the harbour to La Plaça Catalunya, running through the Ciutat Vella like a spine. Come here to see street performers, enjoy the flower and pet stalls, or just sit back and watch all of Barcelona walk by. During the day La Rambla is packed with tourists; at night the atmosphere shifts and the locals come out, along with newspaper and book stands, musicians, and street artists that all contribute to a lively and unique atmosphere. Be aware that the area attracts pickpockets, particularly after dark. If you happen to be here after Barça win, you are in for a treat. A few blocks south of its north end you will find La Boqueria, a very large covered market.
+}}
+* {{see
+| name=Maritime Museum | alt=Museu Maritime MMB | url=https://www.mmb.cat/ | email=
+| address=Av. de les Drassanes, 1 | lat=41.375028 | long=2.176369 | directions=from the Columbus sculpture to the right
+| phone= | tollfree=
+| hours=10:00-19:00 | price=10€ - 18€. Free every Sunday after 3:00 pm. The exhibits in the entrance hall and the Espai Mirador are free of charge
+| wikipedia=Maritime Museum of Barcelona | image=Drassanes barcelona.jpg | wikidata=Q1286354
+| content=Housed in Drassanes, the Gothic shipyard of the city. During the 14th century, the Arag&oacute; Crown was the most important power in the Mediterranean Sea, and this was the main place where the ships were built. Nowadays, it's the Maritime Museum, worth a visit for the architectonic structure, a still-standing part of the ancient medieval city wall (including a gate), and the reproduction of the royal galley of Don John of Austria. This was the Spanish flagship at the battle of Lepanto. If you do not want to go inside the museum, you can see a little bit looking inside through the big windows at the part in front of the sea.
+}}
+* {{see
+| name=Hospital de la Santa Creu | alt= | url= | email=
+| address=C/Hospital 56 | lat=41.381111 | long=2.17 | directions=going down La Rambla, turn right at the Miró painting
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Old Hospital de la Santa Creu, Barcelona | image=Biblioteca de Catalunya - Entrada principal.JPG | wikidata=Q683875
+| content=This Gothic building was the old city hospital, before the modernist ''Hospital de Sant Pau'' was built in ''l'[[Barcelona/Eixample|Eixample]]''. Now the hospital has the National Library inside, and is a great example of civilian Gothic archictecture.
+}}
+* {{see
+| name=Sant Pau del Camp | alt=Saint Paul of the Fields | url= | email=
+| address=C/Sant Pau 101 | lat=41.376111 | long=2.169444 | directions=going down La Rambla, following C/Sant Pau, which starts at the ''Miró'' painting
+| phone= | tollfree= | fax=
+| hours= | price=Entrance to the cloister €2
+| wikipedia=Sant Pau del Camp | image=Stpaucamp.jpg | wikidata=Q2101038
+| content=A rare example of Romanesque architecture, the prettiest in Barcelona. Its name reflects the fact that the church was once surrounded by green fields outside the city walls.
+}}
+
+====Museums====
+* {{see
+| name=Centre de Cultura Contemporània de Barcelona | alt=CCCB | url=http://www.cccb.org | email=
+| address= | lat=41.383611 | long=2.166667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Centre de Cultura Contemporània de Barcelona | image=Barcelona - Centre de Cultura Contemporània de Barcelona (CCCB).jpg | wikidata=Q2945260
+| content=The arts centre’s core theme is the city and urban culture.
+}}
+* {{see
+| name=Centre d'Art Santa Mònica | alt=CASM | url=http://artssantamonica.gencat.cat/en | email=
+| address=Rambla de Santa Mònica 7 | lat=41.377222 | long=2.176111 | directions=in the lower part of Ramblas. {{rint|barcelona|metro}}{{station|Drassanes|l3}}
+| phone=+34 933 162 810 | tollfree=
+| hours= | price=Free
+| wikipedia=Centre d'Art Santa Mònica | image=Exteriors Arts Santa Mònica.JPG | wikidata=Q3781326
+| content=A contemporary art venue, showing solo exhibitions by national and international artists. Lots of other activities.
+}}
+* {{see
+| name=Barcelona Museum of Contemporary Art | alt=MACBA, Museu d'Art Contemporani de Barcelona | url=http://www.macba.cat/en | email=
+| address=Raval, Plaça dels Angels, 1 | lat=41.3832 | long=2.167 | directions={{rint|barcelona|metro}}{{station|Universitat|l1|l2}}
+| phone=+34 93 412 08 10 | tollfree= | fax=
+| hours=Mon-Fri 11:00-19:30, Sat 10:00-20:00, Sun 10:00-15:00; Tue Closed except public holidays. | price=€12 (on-line €12); Discounts & free tickets see website.
+| wikipedia=Barcelona Museum of Contemporary Art | image=Barcelona - Museu d'Art Contemporani de Barcelona (MACBA).jpg | wikidata=Q1067140
+|lastedit=2024-03-11| content=Art from the second half of the twentieth century to today. Smart-phone app with free audio guides.
+}}
+* {{see
+| name=Museu de les Il·lusions | alt=Museum of Illusions Barcelona | url=https://illusions-museum.com/ | email=
+| address=Carrer del Pintor Fortuny 17 | lat=41.38283 | long=2.169795 | directions=5-min walk from Plaça de Catalunya; metro Catalunya (L1/L3) or Liceu (L3)
+| phone=+34 618 555 655 | tollfree= | fax=
+| hours=Daily 11:00-21:00, last entry 20:30 | price=€14.50, children under 5 free
+| wikidata=Q140700589
+| content=A museum of more than 30 room-sized, hand-painted 3D murals built on forced perspective: visitors stand on marked spots and appear to hang from a dragon's jaw or teeter over a painted canyon. Photography is the point of the visit.
+}}
+
+===Barceloneta===
+* {{see
+| name=Aquàrium de Barcelona | alt=Aquarium Barcelona | url=https://www.aquariumbcn.com/en/ | email=
+| address= | lat=41.376667 | long=2.184167 | directions=at the Port Vell leisure centre, next to the IMAX cinema. nearest {{rint|barcelona|metro}}{{station|Barceloneta|l4|}}
+| phone= | tollfree= | fax=
+| hours= | price=€25 discounts for children
+| wikipedia=Aquarium Barcelona | image=Queen Angelfish 14-05-2009 15-24-48.JPG | wikidata=Q1200948
+|lastedit=2024-03-18| content=The second biggest aquarium in Europe. Watch thousands of fish, penguins and sharks in this interactive sea-life museum. Unlike Genoese Aquarium it has a long glass tube, where you can walk watching sharks and other fish swimming around.
+}}
+* {{see
+| name=Parc Zoològic de Barcelona | alt= | url=http://www.zoobarcelona.cat/en/home | email=
+| address= | lat=41.387883 | long=2.191194 | directions=in Parc de la Ciutadella. {{rint|barcelona|metro}}{{station|Barceloneta|l4|}}{{rint|catalonia|rdc}}Estación de Francia{{rint|catalonia|r2n}}
+| phone= | tollfree= | fax=
+| hours= | price=Adults €21.40, lower prices for children & 65+
+| wikipedia=Barcelona Zoo | image=Zoo de Barcelona.JPG | wikidata=Q220013
+|lastedit=2024-03-18| content=This zoo was famous for its albino gorilla ''Snowflake'' prior to his death. Today this zoo still has many other features including a science museum inside the zoo.
+}}
+* {{see
+| name=Parc de la Ciutadella | alt= | url= | email=
+| address= | lat=41.388111 | long=2.187517 | directions=at the end of Carrer Princesa
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Parc de la Ciutadella | image=Parc de la Ciudadela, Barcelona.jpg | wikidata=Q301135
+| content=Barcelona's most central park, and includes a zoo, a lake and several museums. In fact, the park is so large, 74 acres, that the Catalan Parliament can be found in the centre of the park. It is a great place to enjoy games, sports or to spend a leisurely afternoon. It was built at the final part of the 19th century in the place that formerly occupied the fortress (''ciutadella'') built after the defeat of 1714. This fortress was hated by the citizens, and when the middle age walls were demolished, so was most of the fortress. Some buildings where conserved, as such as the church, and the gunpowder magazine. The new park was used as the place to hold the 1888 international expo, and some of the older modernist buildings are there, such as the Zoology Museum, the greenhouse and, following the avenue ''Passeig de Sant Joan'' (towards the mountain), the ''Arc del Triomf'', a modernist ''Arc de Triomphe''.
+}}
+
+[[File:PortVell.JPG|thumb|250px|''Rambla de Mar'' bridge in Port Vell (Old Port)]]
+* {{see
+| name=Port Vell | alt= | url= | email=
+| address= | lat=41.37675 | long=2.184639 | directions=walk down La Rambla until the monument to Columbus, the sea is just after it
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Port Vell | image=Port-Vell-Night.JPG | wikidata=Q1114612
+| content=The harbor was closed to the public until the 80s and received a complete makeover before the Olympics in 1992. Some old buildings related to the harbor still exist, such as the ''Tinglado'' near the Barceloneta quarter that is now a history museum. There are two main parts in the harbor: the ''Moll de la Fusta'', which are the decks that touch the city, and the Maremagnum, a newly created amusement centre and shopping mall, with an Aquarium, an IMAX cinema, discos, bars, restaurants. The clubs are situated on the top floor, which is accessed through the general shopping area via stairs and the like. Even out of season and on work nights you are sure to have a good time, as the clubs are always filled. It is located at the other side of the wooden bridge next to the Columbus monument.
+}}
+
+====Museums====
+* {{see
+| name=Museum of the History of Catalonia | alt=Museu d'Història de Catalunya (MHC) | url=http://www.mhcat.cat | email=
+| address=Plaça de Pau Vila, 3 | lat=41.38069 | long=2.18557 | directions={{rint|barcelona|metro}}{{station|Barceloneta|l4|}}{{rint|catalonia|rdc}}Estación de Francia{{rint|catalonia|r2n}}
+| phone= | tollfree=
+| hours=Tue–Sat 10:00-19:00, Sun 10:00-14:30 | price=€6 reductions for 65+, students; children -16 free. Free on the first Su each month
+| wikipedia=es:Museo de Historia de Cataluña | image=Magatzems generals del Dipòsit - vista general.JPG | wikidata=Q1753029
+| lastedit=2024-03-18
+| content=A must in order to understand the troubled and sad history of the Catalans.
+}}
+
+==Do==
+[[File:Barceloneta 2007.jpg|thumb|250px|The seafront at Barceloneta]]
+* {{do
+| name=Barceloneta Beach | alt=Platja de la Barceloneta | url= | email=
+| address= | lat=41.378419 | long=2.192417 | directions=10-15 minutes from M Barceloneta, or a few minutes from M Vila Olimpica/Ciutadela
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Playa de la Barceloneta | image=Somorrostro.JPG | wikidata=Q1053014
+| content=The beach stretches from the tip of Barceloneta in Port Vell and far away, passing Vila Olimpica and further. On warm summer days it will be crammed with people, and it might be a good idea to find a spot further away or go to a beach outside of Barcelona. There is nothing better than covering your toes with sand and lying upwards in the sun, and there is no better place to do this than on Barceloneta's famed beauty. Sit back, relax and enjoy.
+}}
+* {{do
+| name=La Rambla | alt= | url= | email=
+| address= | lat=41.381389 | long=2.173056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=La Rambla, Barcelona | image=La rambla.jpg | wikidata=Q850593
+| content=A gorgeous tree-lined pedestrian walkway, the busiest and most lively street of the city. Mostly occupied by tourists, expect to pay higher prices for food and drink which tends to be low-quality and/or inauthentic. Avoid the groups of people supposedly betting on a game played on a cardboard table, they are thieves. Head off into some of the side streets for a cheaper, more local, and authentic experience of Barcelona. Often called Las Ramblas, because it is actually a series of several different streets, the sections also have distinct feels. As you get closer to Placa Catalunya, you find more street performers doing stunts. In the middle, you will find street performers in costumes. Towards the pier, there are artists who will do pencil drawings, paintings, etc.
+}}
+* {{do
+| name=El Portal de l'Àngel | alt= | url= | email=
+| address= | lat=41.38646 | long=2.17196 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Portal de l'Àngel | image=Portal de l'Àngel - Barcelona (Catalunya).jpg | wikidata=Q2873850
+| lastedit=2017-11-05
+| content=Large pedestrian walkway with many new and stylish shops to browse in.
+}}
+* {{do
+| name=Sit on ''Rambla de Mar'' | alt= | url= | email=
+| address= | lat=41.375044 | long=2.181031 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=ca:Rambla de Mar | image=Port Vell Bridge (5844934930).jpg | wikidata=Q11944535
+| lastedit=2017-11-05
+| content=Cool your toes at the waters edge: with a book, sandwich or just for a short rest.
+}}
+* {{do
+| name=Wander the ''Barri Gotic'' | alt= | url= | email=
+| address= | lat=41.382778 | long=2.176944 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Gothic Quarter, Barcelona | image=Plaça del Rei 2074102277.jpg | wikidata=Q17154
+| lastedit=2017-11-05
+| content=2,000 years of history that remounts to the days when Barcelona was a Roman enclave, uncover charming squares and hidden gems where the locals hang out these days.
+}}
+* {{do
+| name=Enjoy your Sangria at ''La Plaça Reial'' | alt= | url= | email=
+| address= | lat=41.38 | long=2.175 | directions=Near the La Rambla Street
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça Reial | image=Barcelona - Plaça Reial.jpg | wikidata=Q1519964
+| lastedit=2017-11-05
+| content=Great place to sit, relax and drink.
+}}
+* {{do
+| name=Check out a Flamenco show at ''Los Torantos'' | alt= | url= | email=
+| address= | lat= | long= | directions=Placa Reial just off La Rambla
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-11-05
+| content=Tarantos is a small bar and theatre. If you just want a half hour taste of Flamenco then check it out. There are 30-minute shows of flamenco song and dance at 20:30, 21:30 and 22:30 nightly. There are plenty of other clubs on the Plaza Reial, but watch out for pickpockets in the early hours of the morning.
+}}
+* {{do
+| name=Walk around ''el Born'' | alt= | url= | email=
+| address= | lat=41.385397 | long=2.1841 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Passeig del Born Barcelona Catalonia.JPG | wikidata=Q3049748
+| lastedit=2017-11-05
+| content=A very popular area with great restaurants and places to have a few drinks. If your accommodation is on Rambla, Born is a great place to escape the crowds, enjoy a relaxed atmosphere and meet off-the-beaten track travellers and non-tourist-industry locals—especially in the evenings.
+}}
+* {{do
+| name=Jazz Si | alt= | url=http://www.tallerdemusics.com/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=In the Raval neighbourhood. Has a cheaper alternative to flamenco nights elsewhere.
+}}
+* {{do
+| name=Sip on a coffee in ''Plaça dels Àngels'' | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-11-05
+| content=During your coffee you can admire the whiteness of the [http://www.macba.es MACBA] and the best street skate tricks in town along street art.
+}}
+* {{do
+| name=Go to Teatre del Liceu | alt= | url=http://www.liceubarcelona.cat | email=
+| address= | lat=41.380278 | long=2.173611 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Liceu | wikidata=Q1130050
+| lastedit=2017-11-05
+| content=
+}}
+* {{do
+| name=Palau de la Musica Catalana | alt= | url=http://www.palaumusica.cat/ | email=
+| address= | lat=41.387667 | long=2.175278 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palau de la Música Catalana | image=Palau de la Música - Interior general.JPG | wikidata=Q327940
+| lastedit=2017-11-05
+| content=
+}}
+* {{do
+| name=Cook&Taste | alt=info@cookandtaste.net | url=http://www.cookandtaste.net | email=
+| address=Carrer del Paradís 3 | lat= | long= | directions=
+| phone=+34 93 302 13 20 | tollfree= | fax=
+| hours= | price=~€60 per person
+| content=Cooking class on traditional Spanish dishes. Get ingredients from La Boqueria; then together with a small group led by a professional chef, cook a few dishes: tortilla, paella and crema catalan; and enjoy the meal you prepared.
+}}
+* {{do
+| name=The Comedy Clubhouse | alt= | url=https://thecomedyclubhouse.es/ | email=info@thecomedyclubhouse.es
+| address=Carrer dels Canvis Nous, 10 | lat=41.38285 | long=2.18185 | directions=a short walk from Barceloneta o Jaume 1 metro stations
+| phone=+34 611 61 94 46 | tollfree=
+| hours=Thu-Sat 19:00-00:00 | price=€10-20 tickets depending on show
+| image=
+| lastedit=2025-12-09
+| content=A stand-up comedy venue in Barcelona. This is the original location, open 3 nights a week with stand-up comedy shows and improv comedy shows. In the past they have enjoyed performances from some of the greats of stand-up comedy including: Louis CK, Trevor Noah, Mark Normand, Michelle Wolf, Kyla Cobbler, Mike Rice.
+}}
+* {{do
+| name=The Clubhouse Laietana | alt= | url=https://thecomedyclubhouse.es/ | email=info@thecomedyclubhouse.es
+| address=Via Laietana 6 | lat=41.38285 | long=2.18185 | directions=a short walk from Barceloneta o Jaume 1 metro stations
+| phone=+34 611619446 | tollfree=
+| hours=Daily 18:30-00:00 (open later on Fri Sat) | price=€0 - 30, depending on the night
+| image=
+| lastedit=2025-12-09
+| content=The new venue of The Comedy Clubhouse, opened in 2025 with a full kitchen with serving North American soul food as well as producing stand-up comedy shows every day of the week and live music, karaoke, pub quizzes etc. Many of the events are completely free, although you are encouraged to eat and drink, whereas the higher end events that they do that feature the best local comedians or international touring comedians can cost up to around €30 at times. It's strongly recommended to book in advance as it often sells out (especially on a Friday or Saturday night).
+}}
+
+==Buy==
+* '''La Central del Raval''' is a bookshop with a large selection of books on art, architecture and design. C/ Elisabets, 6 (between MACBA and La Ramblas). [http://www.lacentral.com/]
+* {{buy
+| name=Fnac | alt= | url=http://www.fnac.es/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Sells books, music, games, and many other interesting items. Fnac is in the El Triangle shopping centre in Plaza Catalunya (Opposite El Corte Inglés).
+}}
+* {{buy
+| name=Maremagnum | alt= | url=https://maremagnum.klepierre.es/ | email=
+| address= | lat=41.37517 | long=2.18274 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Maremagnum | image=Barcelona - Maremagnum 03.JPG | wikidata=Q19381034
+| content=Nice shopping mall by the sea at the end of The Ramblas. The only shopping mall in the city open on Sunday and public holidays. Clothes: mostly mass-market brands; no independent designers; only a few outlets of national chains
+}}
+* {{buy
+| name=Barcelona Escuela Mediterráneo | alt= | url=http://www.escuelamediterraneo.com | email=
+| address= | lat= | long= | directions=Sta. Mónica, 2
+| phone=+34 93 318 70 70 | tollfree=
+| hours=16 hr/week | price=€90
+| lastedit=2019-02-10
+| content=Offers Spanish-language classes. Easy to reach by metro and bus. Near the Ramblas and the beach.
+}}
+* {{buy | name=Art Montfalcon | url=http://www.montfalcon.com/ | email=art@montfalcom.com | address=Boters 4 (Final Portaferrisa) | lat= | long= | directions= | phone=+34 93 301 13 25 | tollfree= | fax= | hours= | price= | content=Probably the largest souvenir shop in the city at 1000 m². Almost no ordinary souvenir-shop trivialities; really good choice of creative and artistic souvenirs: watches, plates, jewellery, mugs. Creative mechanical toys: spiders etc. The only missing thing is Kukuxumusu, but there is a choice of other souvenir t-shirt brands.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=El Corte Ingles | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=There are a couple of this nationwide department store chain in the district.
+}}
+** {{buy
+| name= | url= | email=
+| address=Plaça de Catalunya, 14 | lat= | long= | directions=
+| phone= +34 933 063 800 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{buy
+| name= | url= | email=
+| address=Avinguda Portal De L'Àngel, 19-21 | lat= | long= | directions=
+| phone= +34 933 063 800 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* There is a lovely shop in Carrer Bisbe selling crafts including miniature versions of the dracs (dragons) and gigants (giants) that feature in Catalan processions and fiestas.
+* '''El Ingenio''', in Carrer Raurich, sells the real ones and is worth a visit just to look - you can also buy confetti, jokes, rubber snakes and other amusements.
+* {{buy | name=My Beautiful Parking | alt= | url=http://www.mybeautifulparking.com/ | email=peloton@mbp-bcn.com | address= | lat=41.384611 | long=2.178838 | directions= | phone=+34 931 867 365 | tollfree= | fax= | hours=Mon-Fri 11:00-20:00, Sat 11:00-21:00 | price= | content=The bike shop lends bikes too. It is specialised on creating fixies according the customers wishes.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* There is an underground mall somewhere between Placa del Pi and Born area, with a good selection of child shops.
+
+* {{buy
+| name=The Most Sustainable Souvenir Shop in the World | alt=La Tienda de Souvenirs Más Sostenible del Mundo | url= | email=
+| address=Carrer de les Semoleres, 3 | lat=41.38524 | long=2.17918 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-06-28
+| content=Operated by Naifactory Lab, this establishment sells souvenirs made locally with the environment in mind.
+}}
+===Food===
+* {{buy
+| name=La Boqueria Market | alt= | url=http://www.boqueria.info | email=
+| address= | lat=41.381944 | long=2.172111 | directions=going down La Rambla, is at your right hand
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=La Boqueria | wikidata=Q1334899
+| content=Tempt your tastebuds at this delightful food market where the food is plentiful, fresh and can be cooked to order in one of about five small restaurants. Also a place for fresh juices and some takeaway snacks. To avoid heavy crowds, or to buy the freshest perishables (e.g., seafood), go well before noon. At least in late Fall, Winter and early Spring months, La Boqueria is closed on Sundays.
+}}
+
+:* {{buy
+| name=Cansaladeria i Formatgeria Josep's | url=http://www.cansaladeriajosep.com | email=
+| address=stands 176-179 | lat= | long= | directions=
+| phone= +34 93 302 1880 | tollfree= | fax=
+| hours= | price=
+| content=Front-line stand featuring most of hams and meats a tourist needs. Accepts credit cards (!) and has vacuum packaging for any purchase so you don't worry through the rest of the day about smell of all the ''chorizos'' you bought.
+}}
+
+[[File:PiMarketBarcelona.jpg|thumb|Market at Plaça del Pi at night]]
+
+* {{buy
+| name=Happy Pills | url= | email=
+| address=C/. Els Arcs | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A petite candy store located next to the Cathedral Square noted for resembling a pharmacy and packaging their product in plastic medication bottles or first aid kits.
+}}
+
+===Clothes, shoes, and accessories===
+* {{buy | name=Comite | url=http://www.comitebarcelona.com {{dead link|December 2020}} | email= | address=Notariat, 8 (Raval) | lat= | long= | directions= | phone=+34 93 317-6883 | tollfree= | fax= | hours=Mon-Sat 12:00-20:30 | price= | content=A group of 7 designers sharing a space where they create and sell their women collections. For women, designers include Cecilia Sorensen, Julia Pelletier, Pia Kahila and Potipoti. For men: Jan iú Més, Bingo and potipoti.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=La Gauche Divine | url= | email=
+| address=Passage de la Pau, 7bis | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 11:00-14:00, 16:00-21:00 | price=
+| content=An incredible multiconcept store near La Rambla. An example of the Catalan design is the decoration of the shop with an exclusive combination of furniture from the 1960s and paintings and sculptures all around. The shop includes a little corner where you can have a drink while watching the latest trend publications and an inner patio with plants and sculptures. They have a lot of clothes and accessories for men and women, the most original pieces you can find in Barcelona. Don't miss the courreges mini dresses brought from Japan and the catwalks and special events they organize every month.
+}}
+* {{buy
+| name=Amateur | url= | email=amateur_bcn@yahoo.es
+| address=c/Riera Baixa 16, Raval | lat= | long= | directions=m. Liceu / Sant Antoni
+| phone=+34 93 329 1721 | tollfree= | fax=
+| hours=Mon-Sat 10:30-14:30, 16:30-20:30 | price=
+| content=Small boutique shop featuring several independent designers.
+}}
+* {{buy
+| name=Juan-Jo Gallery | url=http://www.juan-jo.com | email=info@juan-jo.com
+| address=C/Elisabets 20, El Raval. 50 meters to MACBA Museum. | lat= | long= | directions=m.Liceu/plaça Catalunya
+| phone= +34 933028900 | tollfree= | fax=
+| hours=11:00-20:30 | price=
+| content=Fashion leather. Jackets, bags, hats and complements designed and made in Barcelona with Spanish leather.
+}}
+* {{buy
+| name=Lluch Sabates | url= | email=
+| address=d'Avinyo 14 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Tempting Italian shoe store with gorgeous designs. Features ''oXs''.
+}}
+* {{buy
+| name=Miriam Ponsa | url= | email=
+| address=Career de la Princesa, 14 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique shop offering designer wares.
+}}
+* {{buy
+| name=Custo Barcelona | url=http://www.custo-barcelona.com/ {{dead link|December 2020}} | email=
+| address=Plaça Olles, 7 | lat= | long= | directions=
+| phone= +34 933 426 698 | tollfree= | fax=
+| hours= | price=
+| content=Popular designer clothing brand.
+}}
+* {{buy
+| name=Camper | url=http://www.camper.com/ | email=
+| address=Placa de Catalunya | lat= | long= | directions=at El Triangle shopping centre
+| phone= | tollfree= | fax=
+| hours=10:00-22:00, vacation mid Aug-5 Sep | price=
+| content=Standalone store having a wide choice of models and sizes.
+}}
+* {{buy
+| name=Atelier Madre - Manuel Dreesmann | alt=Atelier for Leather Goods and Bags | url=https://www.manuel-dreesmann.com | email=info@manuel-dreesmann.com
+| address=Carrer del Rec 20, 08003 Barcelona | lat=41.38568 | long=2.18244 | directions=
+| phone=+34 605 575 325 | tollfree=
+| hours=11:00-20:00 | price=€20-800
+| lastedit=2023-03-04
+| content=Atelier for modern minimalistic premium leather goods and bags. All products are traditionally made by hand in the atelier.
+}}
+
+==Eat==
+{{eatpricerange|Up to €10|€10 - €25|€25 and up}}
+
+You can eat for little money. Avoid ''La Rambla'', since the prices there are much higher and the quality is lower.
+
+===Budget===
+====Around the Cathedral de Barcelona====
+* {{eat
+| name=Conesa Entrepans | alt= | url=http://www.conesaentrepans.com/ | email=
+| address=Carrer de la Llibreteria, 1| lat=41.383057 | long=2.177068 | directions=in a corner of the Plaça Sant Jaume
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content=Cheap and very good sandwiches. Always with a lot of people. They have some tables inside. They close quite early at night (by Spanish standards).
+}}
+* {{eat
+| name=Travellers Nest Bar | alt=see details in Drink section | url=http://www.travelbar.com | email=
+| address=Calle Boqueria 27 | lat=41.381599| long=2.1744854 | directions=near the L3 metro Liceu
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content= They serve meals, a full English breakfast and 8oz Irish rump steaks all day with ingredients imported from the UK.
+}}
+* {{eat
+| name=Maoz Vegetarian | alt= | url= | email=
+| address=Carrer de Ferran, 13 | lat=41.3808069 | long= 2.1747354 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=
+| content=Offers excellent vegan falafel (including unlimited salad) for around €4. There are several around Barcelona including one on 95, La Rambla, about 10 minutes walk from Pl Catalunya.
+}}
+* {{eat
+| name=Mercado de La Boqueria| alt= | url=http://www.boqueria.info/Eng | email=
+| address=La Rambla, 91 | lat=41.3817535 | long= 2.1714313 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content=On the Rambla, and offering a wide variety of fresh, mainly raw foods. Some stall sells many kinds of well cooked ready to eat pasta, fresh fruit already sliced. When buying anything here head to the cheaper stalls at the back: you can save a fair bit.
+}}
+
+====Around the Rambla De Mar====
+
+* {{eat | name=Fres Co | alt= | url= | email=
+| address=Moll d'Espanya | lat=41.3758100 | long= 2.1824689 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content= in the shopping centre Maremagnum, store 59. An all-you-can-eat buffet including hot dishes and cold and drink. The bread isn't the greatest, although the vegetable quality is quite good, and the warm food isn't terrible either. Warm food includes whatever soup they have on display, some meats, and pizzas. The Maremagnum buffet has fruit juices, while the one on Plaza Catalunya has numerous desserts, such as an ice cream machine and flan, in additional to all kinds of beers, wines, and sodas.
+}}
+* {{eat
+| name=Bo de B | alt= | url= | email=
+| address=C/ Fusteria 14 & Carrer de la Mercè | lat=41.3811837 | long=2.1810704 | directions=near metro Barceloneta
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content=Excellent sandwiches made with freshly chopped/cooked/baked ingredients on fantastic baguette (chicken with avocado sauce is recommended), plates, omelettes and salads for reasonable prices (between €3.50 and 4.50 for a sandwich as of Jan 2016) and generous portions. Service can be a little slow (it's a small place) but it's worth the wait
+}}
+
+===Mid-range===
+* {{eat
+| name=BioCenter | alt= | url= | email=
+| address=C/Pintor Fortuny, 2 | lat=41.382626 | long=2.169308 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2022-05-01
+| content=It offers tasty vegetarian and vegan food.
+}}
+* {{eat
+| name=La Bombeta | alt= | url= | email=
+| address=Carrer de la Maquinista, 3 | lat=41.3805658 | long=2.1877114 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2022-05-01
+| content=Good tapas and more substantial dishes. A great alternative to the tourist traps along the waterfront. Very friendly.
+}}
+* {{eat
+| name=Vegetalia Gòtic | alt= | url=http://www.vegetalia.es/ | email=
+| address=Carrer dels Escudellers, 54 | lat=41.380393 | long=2.177692 | directions=
+| phone=+34 93 317 33 31 | tollfree=
+| hours=10:00-00:00 | price=
+ | lastedit=2023-02-05
+| content=Offers excellent organic vegetarian foods, as a complement to the restaurant there's a store carries the full range of Vegetalia products as well as other well-sourced organic foods. The staff are friendly and the prices reasonable.
+}}
+* {{eat
+| name=Agua | alt= | url= | email=
+| address=Olympic Port, Passeig Maritim de la Barceloneta, 30 | lat=41.3848620 | long=2.1960261 | directions=M. Barceloneta
+| phone=+34 93 225-1272 | tollfree= | fax=
+| hours=Lunch 13:30-16:00 (Sat Sun -17:00); dinner 20:30-00:00 (Fri Sat -01:00) | price=
+ | lastedit=2023-02-05
+| content=Creative cooking combining Catalonian traditions with Italian cuisine. The terrace outside showcases some great views of Barceloneta.
+}}
+* {{eat
+| name=Bar Bitácora | alt= | url= | email=
+| address=C/ Balboa, 1 | lat=41.3820976 | long=2.187678 | directions=Metro Barceloneta
+| phone=+34 933 19 11 10 | tollfree= | fax=
+| hours=Mon-Wed 10:00-24:00, Thu-Sat 10:00-02:00, Sun 10:00-17:00 | price=
+ | lastedit=2023-02-05
+| content=The bar serves consistently good tapas - patas bravas, platos del dias - for fair price. In the evening many come for a drink.
+}}
+* {{eat
+| name=Cal Pep | url=http://www.calpep.com | email=calpep@calpep.com
+| address=Placa de les Olles, 8 | lat= 41.3839345 | long=2.1833856 | directions=
+| phone=+34 93 310 79 61 | tollfree= | fax=
+| hours=Mon dinner time only; Tue-Sat lunch and dinner time. Closed in Aug | price=
+ | lastedit=2023-02-05
+| content=Legendary fish restaurant. With limited seating, the only seats readily available are at the bar if you arrive without a reservation and queue for a while. No menu available, just ask what they have today.
+}}
+* {{eat
+| name=Los Caracoles | alt= | url=http://www.loscaracoles.es | email=loscaracoles@loscaracoles.es
+| address=C/ Escudellers 14 | lat=41.3796496 | long=2.1764919 | directions=
+| phone= +34 933 012 041 | tollfree= | fax=
+| hours=Daily 13:00-00:00 | price=
+ | lastedit=2023-02-05
+| content=Los Caracoles which means "The Snails". You can spot the restaurant right away as it has a spit grill in the main entrance window roasting chickens and other meats. The restaurant was named after its specialty however they offer a wide variety of seafoods and roasted meat dishes.
+}}
+* {{eat
+| name=Bar Pinotxo | url=http://pinotxobar.com/ | email=
+| address=Mercat de la Boqueria, 466-470 | lat=41.3819472 | long=2.1720753 | directions=Located on the Rambla entrance to the Boqueria Market
+| phone= +34 933 171 731 | tollfree= | fax=
+| hours=06:30-16:00 | price=About €20
+ | lastedit=
+| content=The best Catalan dishes. No reservations. Always full, don't be surprised if you aren't able to sit.
+}}
+* {{eat
+| name=Restaurante La Boqueria | alt= | url=https://www.restaurantelaboqueria.com/ | email=hola@restaurantelaboqueria.com
+| address=Calle de La Boquería 17 | lat=41.3814584 | long= 2.1740239 | directions=
+| phone=+34 933 04 39 44 | tollfree=
+| hours=07:00–01:00 | price=
+ | lastedit=
+| content=An emblematic restaurant in the centre of Barcelona to enjoy the city's local cuisine. Approximately €20 per person to eat dishes like Paella or Tapas.
+}}
+* {{eat
+| name=Restaurante Italiano Rossini | alt= | url=https://www.restauranterossini.com/ | email=reservasrossini@grupodegusplus.com
+| address=Pl. Reial, 13 | lat=41.380064 | long=2.175857 | directions=M. L3 Liceu
+| phone=+34 933 43 58 09 | tollfree=
+| hours=Sun-Thu 12:00-01:30, Fri Sat 12:00-02:30 | price=
+| lastedit=2023-04-28
+| content=Authentic Italian food in Plaza Real. Homemade pizzas, fresh pasta, Mediterranean tapas, meat and fish. Live piano music every day from 20:00.
+}}
+* {{eat
+| name=My Way Lounge Restaurant | alt= | url=https://restaurantemyway.com/ | email=reservasmyway@grupodegusplus.com
+| address=C/ de les Heures, 4-10 | lat=41.380927 | long=2.175339 | directions=M. L3 Liceu
+| phone=+34 934 125 279 | tollfree=
+| hours=Sun-Thu 18:00-01:00, Fri Sat 18:00-03:00 | price=
+| lastedit=2023-04-28
+| content=Gourmet Mediterranean cuisine near Plaza Real. Elegant decoration inspired by Art Deco, with paintings by Tamara de Lempicka. It's also a cocktail bar.
+}}
+
+* {{eat
+| name=The Clubhouse Laietana & Nikki's | alt=The Clubhouse | url=https://thecomedyclubhouse.es/ | email=info@thecomedyclubhouse.es
+| address=Via Laietana 6 | lat=41.382850 | long=2.181850 | directions=a short walk from Barceloneta o Jaume 1 metro stations
+| phone=+34611619446 | tollfree=
+| hours=Daily 18:30-00:00 | price=€10-20
+| lastedit=2025-12-08
+| content=The Clubhouse has teamed up with Nikki's and now supply a variety of budget friendly North American soul food. Here you can get fried chicken burgers, fried chicken & waffles, mac & cheese and a whole bunch of other delicious options. They are open for dinner every day of the week.
+}}
+
+====Traditional Spanish food ====
+
+* {{eat
+| name=Can Culleretes | alt= | url= | email=
+| address=C/Quintana 5 | lat=41.3812245 | long= 2.1744159 | directions=from La Rambla, go to C/Ferran, and it's the first street at your left
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=Founded in 1786, it is the second oldest restaurant in Spain (after ''Casa Botín'' in [[Madrid]]). The prices are mid range and the quality is quite good for the price. They serve traditional Catalan food. But the most interesting from the restaurant is the decoration, an eclectic mix from all the times. A really good option if you don't have much time/money.
+}}
+* {{eat | name=La Dolca Herminia | alt= | url=http://www.ladolcaherminia.com/ | email= | address=C/Magdalenes, 27 | lat=41.386574 | long=2.174301 | directions=just off Laietana near junction with Carrer Comtal | phone=+34 933 170676 | tollfree= | hours=13:00-15:30, 19:30-23:30, closed Dec 24, 25 | price= | lastedit=2023-02-05 | content=Same chain as ''Les Quinze Nits''. No reservation accepted. Bit old-style and dark interior, judging by web site.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Els Quatre Gats | alt=Four Cats | url=http://www.4gats.com/web.html | email=4gats@4gats.com | address=Carrer Montsio, 3 bis | lat=41.3857930 | long=2.1736367 | directions= | phone=+34 93 302-41-40 | tollfree= | fax= | hours= | price=VAT not included | lastedit=2023-02-05 | content=Frequented by tourists, Els Quatre Gats, is the successor to the famous cafe where Gaudi drank and Picasso exhibited, in a fine Modernisme building by Puig i Cadafalch. The cooking is of a high quality (if it's not onion soup). The wine list (and wine recommendations) can be quite pricey. The decor is quite old fashioned, while the attentive staff are dressed formally. Local visitors for dinner are either over 40s or families with children. There is a menu del dia M-Sa 13:00-16:00.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Elx Restaurant | url=http://www.restaurantelx.com/ | email= | address=Carrer de Vila i Vilà, 71 | lat=41.3740086 | long=2.1691195 | directions=M. Paral-lel | phone=+34 93 441 30 89 | tollfree= | fax= | hours=Daily 13:00-03:00, without breaks | price= | lastedit=2023-02-05 | content=Valencian paella and Meditterian dishes. One of the few places available for tourists where paella is genuine enough.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==== Modern creative cuisine ====
+
+* {{eat
+| name=Café Silenus | url= | email=
+| address=Raval, C/Àngels 8 | lat=41.3819153 | long=2.1686978 | directions=M. Liceu
+| phone=+34 93 302 2680 | tollfree= | fax=
+| hours=Daily 13:00-16:00; Mon-Thu 20:45-23:30, Fri Sat 20:45-00:30 | price=
+ | lastedit=2023-02-05
+| content=Also has excellent lunch offers. A design restaurant just in front of the MACBA. Mediterranean and Japanese cuisine.
+}}
+
+====Non-Spanish cuisine ====
+
+* {{eat
+| name=Al Passatore | url= | email=
+| address=Pla del Palau, 8 | lat= 41.3833797| long=2.1829076 | directions=M. Barceloneta
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=Pasta, pizza and risotto in very generous portions for moderate prices. No-frills dishes, but wide choice. Simple interior. Bread should be asked for explicitly. For dinner, reservation essential
+}}
+* {{eat
+| name=Betawi | alt= | url= | email=
+| address=C/Montsio 6 | lat= 41.3857076 | long=2.1738162 | directions=In the Barrio Gotic
+| phone=+34 93 412 62 64 | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=a really tasty '''Indonesian''' restaurant. Portions aren't huge (average) but they know how to cook meat and fish to perfection
+}}
+* {{eat
+| name=Shunka | alt= | url= | email=
+| address=Carrer dels Sagristans, el Gòtic, 5 |lat= 41.3851338| long=2.1751913 | directions=next to the Cathedral. Between Urquinaona and Sant Jaume metro stations.
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=One of the most appreciated '''Japanese''' restaurants in town. Prior reservation is strongly advised.
+}}
+
+====Breakfast====
+
+* {{eat
+| name=Cafe de L'Opera | alt= | url= | email=
+| address=La Rambla 74 | lat=41.3809120 | long=2.1737152 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=A marvellous place to have a breakfast with fine strong coffee. As the owner insists on coffee and desserts, they are the core competence. The inside features 1920s decor.
+}}
+
+===Splurge===
+* {{eat
+| name=Bestial | alt= | url= | email=
+| address=C/Ramón Trias Fargas 2-4 | lat=41.3858720 | long=2.1977390 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-02-05
+| content=Fabulous lunch specials to be enjoyed on their great beach terrace on warm sunny days. Dinner tends to be quite expensive, thus lunch is the value for money option.
+}}
+* {{eat
+| name=7 Portes | alt=The Seven Doors | url=https://7portes.com/ca/ | email=admon@setportes.com
+| address=Passeig Isabel II, 14 | lat=41.382238 | long=2.183442 | directions=near the harbor; in the buildings between Born and Barceloneta
+| phone=+34 93 319 30 33 | tollfree=
+| hours=Daily 13:00-01:00 | price=
+| lastedit=2023-02-05
+| content=This is one of the oldest restaurants in Barcelona. Offers the best Catalan dishes around, at a good price. It's especially famous for its ''Paella Parellada'' (rich man's paella, so called because they take the shells off), which is really worth a try. The roast kid (goat) is also a great traditional Catalan dish.
+}}
+
+==Drink==
+
+===Cafes===
+
+*  {{drink
+| name=L'Antic Teatre | alt= | url=http://www.lanticteatre.com/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Screens special artistic productions. There is also a small café inside and outside operated by the association which makes for a great break from the noisy Barcelona downtown. It's only a few steps away from the ''Palau de la Música Catalana''.
+}}
+* '''La Clandestina''', C/Baixada de Viladecols 2bis (Behind the Post Office in Via Laietana). You can take tea, different fruit juices and vegetable sandwiches in a place that holds some cultural events and lends some books.
+* {{drink | name=Escriba | url=http://www.escriba.es | email=rambla@escriba.es | address=C/La Rambla 83 | lat=41.381527 | long=2.172627 | directions= | phone=+34 93 301 6027 | tollfree= | fax= | hours=Mon-Fri 08:00-15:00, 17:00-21:00; Sat Sun 08:00-21:00 | price= | content=Very old and beautiful confectionery.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* '''Otman''', C/Cirera 4 (''between C/Flassaders and C/Montcada''). In the ''Born'', very close to the Picasso museum, this Moroccan designer has a clothes shop where you can have a tea in a`relaxing ambient atmosphere. Medium prices.
+
+===Bars===
+* '''El Bosc de les Fades''', off La Rambla. Dubbed the "Tree Bar" by many English speaking tourists. This wax-museum bar features expert-crafted ambiance to look like a forest.
+* {{drink
+| name=Catwalk | alt= | url=http://www.clubcatwalk.net/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of the most popular nightclubs in the city, with the peak time around 02:00. They offer 2 floors with R&B and hip-hop styles mixed with House or Techno. A lot of teenagers go here.
+}}
+* {{drink
+| name=Comerç 24 | url=http://www.comerc24.com | email=info@comerc24.com
+| address=Carrer del Comerç 24, Born, Ciutat Vella | lat= | long= | directions=M. Arc de Triomf
+| phone=+34 93 319-2102 | tollfree= | fax=
+| hours= | price=
+| content=A fashion tapas bar. Very creative, very good.
+}}
+* '''La Concha''', La Concha, located off Carrer Nou de la Rambla on Carrer de Guàrdia, is a bohemian hole in the wall hookah bar. It has a Moroccan gay bar feel, but with a lively, mixed crowd of friendly 20- and 30-somethings drinking cocktails and smoking shisha. Definitely not touristy, and in a neighborhood that requires attention late at night, but friendly and fun for the traveller looking for a little local adventure.
+* {{drink
+| name=Danzantoria | url= | email=
+| address=Ramon Trias Fargas | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=House music fans come here for the pumping beats and funky decor. Offers two floors of dancing, and a terrace to chill out on between dances.
+}}
+* '''Dusk''', carrer Merce 23. Sexy bar and bistro inside centuries-old stone walls in Ciutat Vella/Barri Gotic. One block in from the Correos (Big Post Office at the end of Via Laietana), "Dusk" offers an upbeat bar and a more relaxed lounge in the back. It's a perfect place to get a delicious bite to eat to start the night off, or to finish the night with funky music and a Bailey's Martini. Overall, a perfect place to get a taste of both the old Gothic Quarter and the new, hip, contemporary Barcelona.
+* {{drink
+| name=La Fianna | url=http://www.lafianna.com {{dead link|December 2020}} | email=lafianna@yahoo.es
+| address=Banys Vells, 15 | lat= | long= | directions=Born
+| phone=+34 93 315 1810 | tollfree= | fax=
+| hours=Sun-Wed 18:00-01:30, Thu-Sat 18:00 to 02:30 | price=
+| content=One of the busiest bars in the neighborhood with a funky decor and a large selection of spirits. They also have a great dinner menu with an international selection.
+}}
+* '''Harlem''', C/Comptessa de Sobradiel (Behind the City Hall, ask there). Live music every night. You must buy at least one drink, but the entrance is usually free.
+* '''Jazz sí''' C/Requesens 2 (''Near Ronda St. Antoni''). Live music every day by the teachers and pupils of the music school next to it. Pop/Rock, Flamenco, Jazz, Latin music, etc., depending on the day. To get in, it costs €3 but you get a drink on arrival.
+* {{drink
+| name=Le Kashbar | url= | email=
+| address=Pl. Pau Vila | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=With a Moroccan decor, Le Kashbar is the perfect spot to chill out on cushions and take in the ambient music.
+}}
+* '''KULAS''' A cheaper alternative to Chupitos, they serve a selection of €1 shots and high quality cocktails in a cool chilled out cocktail bar. Passeig de Colom 7.
+* '''London Bar''', London Bar is basically a pub, but a pub that has been open since 1910 and used to be frequented by the likes of Dali, Picasso and Hemingway. The atmosphere is lively and friendly, it's a great place to just pop into and the prices aren't that bad, bottle beer €3 and a spirit + mixer at €6. There is also absinthe for the foolhardy!
+* {{drink
+| name=Opium | alt= | url=http://www.opiumbarcelona.com | email=reservas@opiumbarcelona.com
+| address=Passeig marítim de la Barceloneta, 34 | lat= | long= | directions=get off on L4 line on Marina Station
+| phone= +34 93 150 78 20 | tollfree=
+| hours=Sun-Thu 23:45-05:00, Fri Sat 23:45-06:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2018-12-01
+| content=Great club. Great music. Dance floor, lounge area, and outside bar.
+}}
+* '''L'Ovella Negra''', or the "Black Sheep" is a large dark tavern-like bar. Located in Carrer Sitges just off La Rambla. You can get cheap and delicious sangria for €10 before 23:00 and €13 after. Fun to sit around with friends or to partake in a game of futbolina (foosball).
+* {{drink
+| name=Cafè Milans | alt= | url=http://myspace.com/cafemilans | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Probably one of the most dynamic bars of the Gothic Area. DJ sessions, live exhibitions, art, and cocktails.
+}}
+* {{drink | name=RiBborn | alt= | url=http://www.ribborn.com | email= | address= | lat= | long= | directions= | phone=+34 93 310 71 48 | tollfree= | fax= | hours= | price= | content=C/Antic de Sant Joan 3. A hip bar in the heart of the ''Casc Antic'', a vibrant section of the ''Ciutat Vella'' with a variety of bars and restaurants. RiBborn offers "Funk you till you drop" hiphop jazz reggae and soul with dj Chocolito and guests, Tuesday-Sunday 22:00-03:00. Live music until 01:00 on most Sundays and the odd weeknight.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Shoko | alt= | url=http://www.shoko.biz/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Designed by a Feng Shui expert, Shoko serves you good karma all night. Depending on the night, the dj usually spins House or Hip Hop tunes.
+}}
+* {{drink
+| name=Club Sauvage | alt=former Sidecar Factory Club | url=https://sidecar.es/en/ | email=
+| address=Plaça Reial 7 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2024-08-21| content=One of the best choices for drinks and music in Casc Antic. Offers live music (4 or 5 nights a week, 22:00-00:30). Hosts DJ sessions every night (daily 00:30-04:30/05:00) with DJs of many different styles and from the most important clubs making people dance until the wee hours. Always a good atmosphere.
+}}
+* {{drink
+| name=Travel Bar | url=http://www.travelbar.com | email=
+| address=C/Boqueria 27 | lat= | long= | directions=Going down La Rambla, the street at the left from the Miró's painting on the floor
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Travel Bar is a good place to meet and talk with other people visiting the city. They offer free walking tours guided by long-term 'ex-pat' residents of the city every day at 11:00, 13:00 and 15:00. Has a nice, open terrace. Very much a backpackers' bar, this is a staple hang-out for many travellers. The Travel Bar has a range of activities for every night of the week (pub crawl-like activities are not advertised in the bar - staff 'invite' people they would like to join, otherwise you have to ask), Tapas and Flamenco nights, and a mean Catalan/Spanish paella cooking experience. This is a good place to hang out and meet other English speaking people. It does have some decent perks - notably, the €1 meals at 20:00 every night (again, you have to ask the bar staff to get this and buy 1 drink) and the free Wi-Fi plus free internet computers.
+}}
+* {{drink
+| name=Irish Pub Temple Bar | alt= | url=https://templebarbcn.com/en/ | email=
+| address=Carrer Ferran, 6 | lat=41.380496 | long=2.174528 | directions=M. L3 Liceu
+| phone=+34 933 01 74 18 | tollfree=
+| hours=Sun-Thu 12:30-02:00, Fri Sat 12:30-02:30 | price=
+| lastedit=2023-04-28
+| content=An Irish pub near Las Ramblas. A space where you can enjoy the best national and international beers, smash burgers, while you watch live games from our big screens.
+}}
+* {{drink
+| name=Irish Pub My Bar | alt= | url=https://mybar.es/ | email=
+| address=C/ de Ferran, 8 | lat=41.380585 | long=2.174610 | directions=M. L3 Liceu
+| phone=+34 932 50 86 72 | tollfree=
+| hours=Sun-Thu 11:30-02:00, Fri Sat 11:30-02:30 | price=
+| lastedit=2023-04-28
+| content=Authentic Irish pub to enjoy the best national and imported beers while you watch live games.
+}}
+'''Craft Beer'''
+*{{Drink|name=vegan Cat Bar|url=https://catbar.cat/|address=c/ de la Merce 29|lat=41.38111502|long=2.18095639|hours=18:00-23:30|lastedit=2025-06-08|content=Well chosen selection of craft beers with good selection of tasty vegan burgers and other dishes. (no fake meat)}}
+*{{drink | name=Black Lab Brewhouse & Kitchen | alt= | url=https://blacklab.es/brewhousebarcelona/ | email= | address=Palau del Mar, Pça. de Pau Vila, 1 | lat=41.381312 | long=2.185522 | directions= | phone= | tollfree= | hours= | price= | lastedit=2026-02-06 | content=Closed September 2025. Entry to be removed
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{Drink|name=Ølgod Brewpub|url=https://www.olgodbcn.com/|address=Carrer de l'Hospital, 74|lat=41.38023|long=216914|directions={{station|Liceu|l3}}|lastedit=2025-06-08|content=Craft ale mainly brewed on site.}}
+
+==Sleep==
+There are a lot of hotels, hostals, and pensions in ''Ciutat Vella''.
+
+Avoid accommodation on/very close to Ramblas: it's not noisy only from 07:00 to 08:30, seven days a week. Compared to Rambla, Born seems much more relaxed and off-the-beaten path district for accommodation.
+
+===Hostels===
+There are youth hostels that offer budget accommodation in dormitories.
+
+* {{sleep
+| name=Gothic Point Hostel | alt= | url=http://www.equity-point.com | email=info@gothicpoint.com
+| address=Carrer Vigatans, 5, | lat=41.384132 | long=2.179713 | directions=close to the Picasso Museum
+| phone=+34 932 312 045 | tollfree= | fax=
+| checkin= | checkout= | price=Prices range from €14 in low season to around €20 in high season
+| content=Unique dorm design with wooden cubicules allowing more privacy. Free breakfast, 20 minutes daily of free internet access, free Wi-Fi. Free lockers (padlock not included, but on sale in reception for €3).
+}}
+* {{sleep | name=Hostel Kabul | alt= | url=http://www.kabul.es | email=info@kabul.es | address=Plaça Reial, 17 | lat=41.3796698 | long=2.1752573 | directions= | phone=+34 933 185 190 | tollfree= | fax=+34 933 014 034 | checkin= | checkout= | price=dorm rooms €24 | content=Has increased its prices considerably to capitalise on its location, popularity and positive guidebook write ups. However it remains friendly and is a magnet for young travellers who come for the party atmosphere. Bookings are available through its web site.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hostel New York | alt= | url=http://hostelnybcn.com/en/ | email=
+| address=Carrer d'en Gignas, 6 | lat=41.380531 | long=2.179537 | directions=
+| phone=+34 933 150 304 | tollfree= | fax=
+| checkin= | checkout= | price=Under €20 per person
+| content=Youth hostel in Barcelona's Barri Gottic. Includes breakfast, internet, kitchen facilities, and a common room
+}}
+* {{sleep | name=Residencia Australia | url=http://www.residenciaustralia.com/ | email= | address=Ronda Universitat No 11 | lat= | long= | directions=Just off the ''Pla&ccedil;a de Catalunya'' | phone= | tollfree= | fax= | hours= | price=En-suite double rooms for around €60 | checkin= | checkout= | content=Clean, friendly and good value. Family orientated, they also offer ensuites with kitchenettes and small apartments starting at around €75 per night.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=The Welcome INN | alt= | url= | email=
+| address=Carrer Hospital, 93 | lat=41.380146 | long=2.169614 | directions=
+| phone=+34 664 127 664 | tollfree= | fax=
+| checkin= | checkout= | price=Prices at around €30 per person.
+| content=An alternative to the typical 'dorm bed' hostel. It offers private rooms (some ensuite doubles, triples, quads) in a large apartment with a modern design and common kitchen and living area.
+}}
+
+===Hostals and pensions===
+
+* {{sleep
+| name=Pension Alamar | alt= | url=http://www.pensioalamar.com | email=info@pensioalamar.com
+| address=C/ Comtessa de Sobradiel, 1 | lat=41.380838 | long=2.177959 | directions=Metro: Drassanes (L3); Jaume I (L4)
+| phone=+34 933 025 012 | tollfree=
+| checkin= | checkout= | price=Single rooms from €22; Double rooms from €36; Triple rooms from €55
+| content=Pensio Alamar is in the Gothic Quarter, in a pedestrian street near La Rambla. Facilities: kitchen, central heating, air conditioning, telephone, TV room, cradle available for babies up to 2 years, and close parking.
+}}
+* {{sleep | name=Hostal Quartier Gothic (Barcelona) | alt= | url=http://www.hostalquartiergothic.com {{dead link|December 2020}} | email= | address=Carrer d'Avinyó, 23-25 | lat=41.380820 | long=2.177387 | directions= | phone= | tollfree= | fax= | checkin= | checkout= | price=€27 person/night | content=The Hostal Quartier Gothic is in the Gothic Quarter near La Rambla
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Chic & Basic Tallers | alt= | url=http://www.chicandbasic.com/eng/localizacion_tallers_barcelona/ | email= | address=C/Tallers 82, Raval | lat=41.385238 | long=2.164505 | directions=Plaça Catalunya (L1, L3); Universitat (L1, L2) | phone= | tollfree= | fax= | checkin=Reception opens around 09:30 (officially 09:00) | checkout= | price=Add 7% VAT to web site prices | content=Designer-everything self-service pension with entirely white interiors. Personnel can be seen even less often than other travellers. Features: Lacus massage shower, 25" LCD TV and touch-operated lamps in rooms; fridge, bar chairs and Nespresso in the common area. Rooms feature balconies but are not too spacy; WC, shower and a wash-bowl are almost in the room space (and if you close shower you open WC); white floors are not cleaned during your stay--maybe this is why the place is regarded as low-fi alternative to ''Casa Camper''. Self-service breakfast available 24 hours a day in a common room with kitchen. Kitchen has a microwave, but not an oven. One common Internet station per floor (6 rooms); weak-signal slow-connection WiFi in some rooms.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Pension Barcelona City Ramblas | alt= | url=http://www.barcelonacityramblas.com/ | email= | address=Les Rambles, 133 | lat=41.385245 | long=2.169965 | directions= | phone=+34 934 87 97 62 | tollfree= | fax= | checkin= | checkout= | price= | content=In the central square of Barcelona with La Rambla. Clean rooms with shared bathroom.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Hotels===
+* {{sleep | name=Citadines Ramblas Barcelona | alt= | url=http://www.citadines.com/en/spain/barcelona/ramblas.html | email=barcelona@citadines.com | address=Ramblas 122 | lat=41.383805 | long=2.171435 | directions= | phone=+34 932 701 111 | tollfree= | fax=+34 9 3 412-7421 | checkin= | checkout= | price=Daily rates starts from €96 | content=All studios and apartments are air-conditioned and have bathrooms equipped with hairdryers, a kitchen, TV with satellite channels, a hi-fi system, a direct-line phone, and safe deposit box.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Grand Hotel Central | alt= | url=http://www.grandhotelcentral.com/ | email=
+| address=Via Laietana 30 | lat=41.385001 | long=2.177661 | directions=
+| phone=+34 932 957 900 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Close to the Born district, the Grand Hotel Central is in an elegant building dating back to 1926. The stylish bedrooms are generous in space and comfort and emphasise urban modernity through the use of cool, natural materials. Large windows provide rooms with magnificent views and a lot of natural light.
+}}
+* {{sleep
+| name=Hotel Barcelona Catedral | url=http://www.barcelonacatedral.com/ | email=hotel@barcelonacatedral.com
+| address=Carrer Dels Capellans 4 | lat= | long= | directions=
+| phone=+34 933 042 255 | tollfree= | fax=+34 93 304 23 66
+| hours= | price=
+| checkin= | checkout=
+| content=A 4-star boutique hotel in the centre. Every Sunday they offer free guided cultural walks through the Gothic quarter.
+}}
+* {{sleep | name=Hotel California | url=http://www.hotel-california-barcelona.com {{dead link|December 2020}} | email= | address=Carrer Rauric 14 | lat= | long= | directions= | phone=+34 933 177 776 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=Renovated gay friendly-budget hotel in the very centre of Barcelona, 100 metres from La Rambla and Placa Reial. Prices start at around €30 per person including breakfast.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Cuatro Naciones | url=http://www.h4n.com | email=
+| address=La Rambla 40 | lat= | long= | directions=
+| phone=+34 933 173 624 | tollfree= | fax=
+| hours= | price=From €80 for a double
+| checkin= | checkout=
+| content= On La Rambla. Rooms varying from single to quad size.
+}}
+* {{sleep
+| name=Hotel Lleó | alt= | url=http://www.hotel-lleo.com/ | email=
+| address=C/ Pelai, 22-24 | lat= | long= | directions=
+| phone=+34 933 181 312 | tollfree= | fax=+34 934 122 657
+| checkin= | checkout= | price=
+| content=Two steps from the Rambla, from Pla&ccedil;a Catalunya and from Pla&ccedil;a Universitat.
+}}
+* {{sleep | name=Hotel Medium Monegal | url=http://www.mediumhoteles.com/es/espana/barcelona/ramblas/hotel-medium-monegal | email=monegal@mediumhoteles.com | address=Pelai, 62 | lat= | long= | directions= | phone=+34 933 026 566 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=In the heart of the city, in the Plaza Catalunya, a low budget hotel with 50 rooms, some facing to the Ramblas.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=W Barcelona | url=http://www.w-barcelona.com | email=
+| address=Plaça de la Rosa dels Vents, 1 | lat=41.369377 | long=2.188318 | directions=
+| phone=+34 932 952 800 | tollfree= | fax=
+| hours= | price=€195
+| checkin=15:00 | checkout=12:00
+| content=Beachfront along Barceloneta boardwalk, the hotel has 473 rooms, including 67 suites, two WOW suites and one Extreme Wow Suite with 360-degree panoramic views.
+}}
+* {{sleep
+| name=Pullman Barcelona Skipper | alt= | url=http://www.pullman-barcelona-skipper.com/ | email=
+| address= | lat=41.38593 | long=2.19474 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=The Skipper is situated at the northwestern tip of Barceloneta's harbour and offers modern design, luxury features and views of either the harbour and sea or inland Barcelona.
+}}
+
+==Stay safe==
+Watch out for purse snatchers along the seafront, and never leave anything valuable unattended while going for a swim. On busy days there will usually be patrolling police along the beach. Thieves tend to steal peoples bags on the beach (they even attempt to do so while you are there with your bag). La Rambla as well is a smorgasbord for pickpockets. See [[Barcelona#Stay safe]] for more info on pickpocket tactics and other scams.
+
+{{usabledistrict}}
+{{geo|41.380833|2.173056}}
+{{IsPartOf|Barcelona}}

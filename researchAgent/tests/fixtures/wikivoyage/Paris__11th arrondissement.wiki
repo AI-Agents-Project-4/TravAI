@@ -1,0 +1,373 @@
+{{pagebanner|Paris 11e banner Place Leon Blum.png|pgname=11th arrondissement}}
+The '''11th Arrondissement''' is home to two quite different but equally blossoming centres of Parisian nightlife. The streets just northwest of Place de la Bastille are full of little bars which attract a mix of young suburban Parisians, expats, and foreigners.  Many have a Latin American theme. The restaurants, bars, and wine-bars around Rue Oberkampf in the north of the 11th and rue de Charonne near Avenue Ledru Rollin attract a more urban crowd and are perhaps closer to something traditionally Parisian, while capturing some of the grungy feel of drinking spots in up-and-coming inner city neighbourhoods everywhere.
+
+==Understand==
+[[File:Paris 11th - Quartiers.png|400px|thumbnail|right|''Quartiers'' of the 11th arrondisement]]
+In the 18th and 19th centuries, the 11th Arrondissement of Paris was an industrial area of factories and homes of factory workers. There was never an intent to build monuments other than local churches. Thus, there are few special places to ''see'' or unusual things to ''do''.
+
+It was not until the mid-2000s that young Parisians began to move into the 11th because apartments were less expensive there than in other Parisian areas. With this influx, restaurants and bars proliferated in two areas, along and to the north of rue de la Roquette and around rue Oberkampf. With its history, the 11th is a place to ''eat'' and ''drink''. Within the 11th are several boutique hotels, restaurants and bars set in former factories.
+
+As of 2015, the 11th arrondissement had about 150,000 residents, that is, 41,000 residents/km<sup>2</sup>, making it the most densely populated of all arrondissements of Paris (the next densest were the 18th and 20th, with about 33,000/km²) and of all the urban districts in Europe. Because of the population density, public transportation is widely available.
+
+Like each Paris arrondissement, the 11th is divided into administrative ''quartiers''.
+
+# '''Quartier de la Folie-Méricourt''' with the north border of la rue du Faubourg-du-Temple, to the east by le boulevard de Belleville, to the west by blvd du Temple and the south by rue Oberkampf. This quartier is quite lively with many restaurants and bars frequented by young and upscale customers. It is known as a ''''BoBo'''' quartier (''bourgeois'', ''bohemian''), or a ''hipster'' neighborhood. That is, those who support ''bohemian'' values but lead ''bourgeois'' lives.
+# '''Quartier Saint-Ambroise''' bordered to the north by rue Oberkampf, to the east by blvd Ménilmontant, west by blvd des Filles-du-Calvaire and part of blvd Beaumarchais plus to the south by rue du Chemin-Vert. This quartier is rather calm and residential.
+# '''Quartier de la Roquette''' has a border to the north of rue du Chemin-Vert, to the east by blvd Ménilmontant and a part of blvd Charonne, to the west by a part of blvd Beaumarchais and Place de la Bastille and part of rue du Faubourg-Saint-Antoine. Many bars and restaurants can be found along rue de la Roquette that attract a young crowd.
+# '''Quartier Sainte-Marguerite''' is bordered to the north and west by rue de Charonne, to the east by blvd Charonne, and the south by rue du Faubourg-Saint-Antoine. It is mainly a quiet residential area but there are some bars and restaurants along rue de Charonne and rue du Faubourg-Saint-Antoine worth researching.
+
+==Get in==
+{{Mapframe|48.8594|2.3794|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+===By Métro===
+Station {{marker|type=go|name={{station|République|3|5|8|9|11}}|long=48.86708|lat=2.365209}} is at the 11th arrondissement's northwestern corner. République is superbly well-connected and therefore very convenient to access the 11th arrondissement.
+
+Other ''métro'' stations that serve as major hubs allowing easy entry to the 11th arrondisement are {{marker|type=go|name={{station|Nation|1|2|6|9}}|lat=48.848827 | long= 2.3952}} and {{marker|type=go|name={{station|Bastille|1|5|8}}|long=48.85370|lat=2.3693}}
+
+==Get around==
+The 11th is densely populated and offers many connections by Metro and bus. Travel on foot is a viable solution
+
+==See==
+* {{see
+| name=Cirque d'Hiver | alt= | url=http://www.cirquedhiver.com | email=
+| address= | lat=48.863369 | long=2.367531 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Cirque d'hiver | image=P1020056 Paris XI Cirque d'Hiver reductwk.JPG | wikidata=Q1093108
+| content=Mainly used as a concert hall and venue for fashion shows today, the Cirque d'Hiver was built in 1852, as the name would suggest, as a winter venue for circuses.
+}}
+* {{see
+| name=Musée Edith Piaf | alt= | url=https://web.archive.org/web/20241003135821/https://www.museeedithpiaf.com/ | email=
+| address=5, rue Crespin du Gast | lat=48.86617 | long=2.38172 | directions=Métro Ménilmontant
+| phone=+33 1 43 55 52 72 | tollfree=
+| hours=Mon-Thu 13:00-18:00 (by ''appointment only'') | price=
+| wikipedia=Musée Édith Piaf | wikidata=Q3055415
+| content=
+}}
+* {{see
+| name=Place de la Bastille | alt= | url= | email=
+| address= | lat=48.853139 | long=2.369111 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Place de la Bastille | image=P1160484 Paris IV-XI-XII place de la Bastille rwk.jpg | wikidata=Q778784
+| lastedit=2018-10-02
+| content=
+}}
+[[File:Bataclan,_Paris_6_April_2008.jpg|thumb|300px|Bataclan Theatre]]
+* {{see
+| name=Rue Nicolas-Appert | alt= | url= | email=
+| address= | lat=48.8555 | long=2.3702 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Rue Nicolas-Appert | wikidata=Q3449300
+| content=This street is named in honor for Nicolas Appert, a French businessman who invented airtight food preservation. On January 7th, 2015, it was the site of the ''Charlie Hebdo'' terrorist attack, which resulted in the deaths of 12 people. A plaque in front of a former office building memorializes the victims of the satirical magazine's staff.
+}}
+
+==Do==
+* {{drink
+| name=Bataclan | alt=Ba-ta-clan | url=https://www.bataclan.fr/en/ | email=
+| address=50 blvd Voltaire | lat=48.8632 | long=2.37066 | directions=Métro Oberkampf
+| phone=+33 1 49 23 96 33 | tollfree=
+| hours= | price=
+| wikipedia=Bataclan (theatre)
+| lastedit=2019-10-06
+| content=Attend a concert or have a drink at this popular café-concert music hall inaugurated in 1865 featuring brightly painted Chinese architecture. Always attracting a young crowd, the Bataclan has regained the splendor it once enjoyed and now books many emerging hip and rock acts. The café on the ground floor is outstanding, perhaps even better than in the old days. A memorial honoring those 90 persons killed in a terrorist attack on 13 Nov 2015 is across the street in a small park.
+}}
+
+==Buy==
+* {{buy
+| name=Boulangerie Utopie | alt= | url=https://boulangerieutopie.com/ | email=
+| address=20 rue Jean Pierre Timbaud | lat=48.8655 | long=2.3688 | directions=Métro Oberkompf
+| phone=+33 9 82 50 74 48 | tollfree=
+| hours=Tue-Sun 07:00-20:00 | price=
+| lastedit=2022-05-13
+| content=This prize-winning "destination boulangerie" is worth a detour. There is always waiting line so be patient. Only four stools and a small bar. Diverse bakery of many breads and pastry selections. Pastries range from elegant to purely simple. Fresh sandwiches on rustic baguettes are excellent. Discount menu combinations offered at lunch. English spoken.
+}}
+* {{buy
+| name=Puzzle Michèle Wilson | alt= | url=https://puzzlemichelewilson.com/ | email=contact@wilsonjeux.fr
+| address=39 rue de la Folie Méricourt | lat=48.863649 | long=2.372301 | directions=Métro Oberkampf, Parmentier
+| phone= | tollfree=
+| hours=Tue-Sat 10:00-19:00 | price=
+| lastedit=2019-10-04
+| content=Hand-made wooden puzzles, games, brain teasers and original playing cards by a French artisan featuring jigsaw puzzles for adults and children since 1975.
+}}
+
+==Eat==
+
+===Oberkampf===
+====Budget====
+* {{eat
+| name=Aux Comptoirs des Indes | alt= | url= | email=
+| address=50 rue de la Fontaine Au Roi | lat=48.868102 | long=2.373324 | directions=Métro: Parmentier
+| phone=+33 1 48 05 45 76 | tollfree=
+| hours=Mon-Sat 12:00-14:30, 19:00-22:30 | price=€15
+| content=Indian.
+}}
+* {{eat
+| name=Avé Maria | alt= | url= | email=
+| address=1, rue Jacquard | lat=48.864687 | long=2.373071 | directions=Métro: Oberkampf
+| phone=+33 1 47 00 61 73 | tollfree=
+| hours= | price=€12-20
+| content=Brazilian favela chic. The friendly folks who run this place have been hosting Brasilian dance nights at various venues around town. But don't just come in to check out the posters; stay a while for the fantastic '''vegetarian friendly''' South American and international cuisine at reasonable prices.
+}}
+* {{eat
+| name=Soya Cantine Bio | alt= | url=https://www.soya-cantine-bio.fr/en/ | email=
+| address=20 rue de la Pierre Levée | lat=48.8683 | long=2.3700 | directions=
+| phone=+33 1 48 05 13 00 | tollfree=
+| hours= | price=€7-20
+| content=A true organic, vegetarian restaurant, and a good one. The tiny bit of preciousness about the place is more than overwhelmed by the laid-back atmosphere and warm welcome. There are daily specials, but the couscous-soy will keep you coming back. Also check out the lunch buffet, but maybe not if you're counting calories because it's hard not to go up for thirds.
+}}
+* {{eat
+| name=Caffe Panem | alt= | url=http://caffe-panem.blogspot.com/ | email=
+| address=18 Rue de Crussol | lat=48.864373 | long=2.368603 | directions=corner of Rue de Crussol and Rue de Malte, at Oberkampf Station
+| phone= | tollfree=
+| hours=08:30 - 17:00 | price=€8-20
+| lastedit=2019-10-04
+| content=Pasta and bruschetta featured in this small family-run café that serves good and cheap coffee (90 cents for an espresso cup), croissants and great home made sweets such as tiramisu (standard and with chestnut purée). Evenings feature pasta and toasted bruschetta.
+}}
+* {{eat
+| name=Banoi | alt= | url=http://Banoi.fr | email=
+| address=129 rue Amelot | lat=48.864339 | long=2.366588 | directions=Métro Oberkompf
+| phone=+33 1 71 93 48 75 | tollfree=
+| hours=Mon-Sat 12:00 - 14:30, 19:00 - 22:00 | price=€3 - 6.50
+| lastedit=2022-05-13
+| content=Tiny Vietnamese restaurant featuring fresh authentic Vietnamese spring rolls, soup and sandwich banh-mi. Mix and match tapas. Vietnamese drinks and beer. They do a huge take-out and delivery business.
+}}
+====Mid-Range====
+* {{eat | name=Clown Bar | alt= | url=http://www.clown-bar-paris.com/ | email= | address=114, rue Amelot | lat=48.863787 | long=2.367253 | directions=Métro Filles du Calvaire or Oberkampf | phone=+33 1 43 55 87 35 | tollfree= | hours=12:00-15:00 and 19:00-02:00 | price=The ''formule'' for lunch costs €13.50, while the dinner menu is €18.50. Ordering ''à la carte'' will cost you around €22 | content=The food served in this absolutely beautiful room is classic French. The decor is classic Circus, which makes sense since it's just two doors north of the building which has traditionally housed circuses passing through during the winter.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Terra Rosse | alt=Terre Rosse Pizza | url=https://terre-rosse.business.site/ | email= | address=14 rue des Goncourt | lat=48.868975 | long=2.371705 | directions=Métro: Goncourt, Parmentier, Belleville, Couronnes, République | phone=+33 77 32 96 80 | tollfree= | hours=Mon-Sat 10:30-22:30 | price=€10-22 without beverage | lastedit=2020-12-17 | content=Authentic Italian pizzeria, restaurant and deli, The chef's offerings are very authentic and fresh. Top selection of pizza, antipasti, pasti and piatti caldi. Spanish and Italian deli meats are featured. The Italian staff are warm and helpful.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Café Cannibale | alt= | url=https://www.cannibalecafe.com | email=
+| address=93 rue Jean-Pierre Timbaud | lat=48.8686 | long=2.3794 | directions=Métro: Parmentier
+| phone=+33 1 49 29 95 59 | tollfree=
+| hours= | price=
+| content=Very chic bar and café with DJ sets weekends; live music Friday and Saturday. Oysters direct from producers, seared octopus, ''chartouterie'', steaks and fish. Wide selection of wine, beer, whiskies and cocktails. Happy Hour 16:00-20:00. Brunch Sundays.
+}}
+
+===Bastille===
+{{infobox|Asie à la degustation|In rue de la Roquette near Place de la Bastille (''Métro: Bastille'') there are some small Asian shops, selling various dishes by weight, which provides the traveller an opportunity to sample at will: if you aren't sure about a particular dish just buy 50 g or so for tasting. White rice is available even though they do not display it, just ask for ''du riz blanc''.}}
+* {{eat
+| name=Le Bar à Soupes | alt= | url=http://www.lebarasoupes.com/ | email=
+| address=33 rue de Charonne | lat=48.853631 | long=2.375980 | directions=Métro: Bastille
+| phone=+33 1 43 57 53 79 | tollfree=
+| hours= | price=
+| lastedit=2019-10-04
+| content=A large selection of different soups (including some vegetarian options). There are a few new ones each day. All served with your choice of an equally wide selection of breads and cheeses.
+}}
+* {{eat
+| name=Le Café des Anges | alt= | url=https://www.cafedesangesparis.com/en/ | email=
+| address=66 rue de la Roquette | lat=48.855641 | long=2.374634 | directions=Métro: Bastille
+| phone=+33 1 47 00 63 | tollfree=
+| hours= | price=
+| content=Good variety of French café dishes with a few oriental offerings such as Bõ Bun. Quite a diverse menu. Some vegetarian, pasta and fish selections among the beef, pork and chicken dishes. Salads are fresh. Cocktails, beer, wine, whiskies, rums, cognac... the whole kitchen sink.
+}}
+* {{eat
+| name=Bistro Paul Bert | alt= | url=https://bistrotpaulbert.fr/en/home/ | email=
+| address=18 rue Paul Bert | lat=48.8524 | long=2.38505 | directions=Métro Faidherbe-Chaligny, Charonne
+| phone=+33 1 43 72 24 01 | tollfree=
+| hours=Tue-Fri 12:00-14:00, 19:30-23:00; open in August | price=€36-50; lunch ''prix fixe'' is €19 + drinks
+| lastedit=2019-10-05
+| content=A ''most classic'' Parisian bistro serving many first-time visitors to Paris and others who return. Appealing dishes are well plated and served, reliable and consistent from starter to dessert. This bistro is not a ''hidden gem'' as its well deserved reputation is widely known by tourists. Nevertheless if reservations are made in advance, seats are available and service remains excellent. The lunch menu is a remarkable value. Wine is diverse and served by the bottle or glass.
+}}
+
+==Drink==
+===Oberkampf===
+* {{drink
+| name=Chez Justine | alt= | url=https://justineparis.fr | email=
+| address=96 rue Oberkampf | lat=48.865881 | long=2.377876 | directions=Métro Parmentier
+| phone=+33 1 43 57 44 03 | tollfree=
+| hours=Mon-Fri 08:00-02:00, Sat Sun 09:00-02:00 | price=Draft beer at the bar is €5
+| lastedit=2019-10-04
+| content=Close to the centre of the Oberkampf nightlife zone, "Justine's place" functions as a restaurant & bar with mostly Italian food during the daytime early evening, but it's 22ː00-02ː00 which really makes the place. Most of the room is filled with big wooden plank tables which are just the thing for a lively conversation with friends, while the bar is comfy too, and attracts quite a crowd by the late evening. The decor is classic, understated, and classy.
+}}
+* {{drink
+| name=Grenier | alt= | url= | email=
+| address=152, rue Oberkampf | lat=48.8668 | long=2.3816 | directions=Métro Menilmontant
+| phone= | tollfree=
+| hours= | price=A basic beer will set you back €2
+| content=An excellent, but tiny dive bar with live bands upstairs in the hall some nights, but usually downstairs in the front window. This is a great place to hear Django Reinhardt-style jazz guitar playing (''Jazz Manouche'').
+}}
+* {{drink
+| name=Nouveau Casino et Café Charbon | url= | email=
+| address=109, rue Oberkampf | lat=48.865788 | long=2.377617 | directions=Métro Parmentier, across the street from Justine's
+| phone=+33 1 43 57 57 40 | tollfree= | fax=
+| hours= | price=Beer €5
+| content=The New Casino keeps rocking until dawn both in the bar downstairs and the medium-size dance hall upstairs, making it ''the'' favourite among young Parisians, especially after the other places in the neighbourhood have closed. The dance/concert hall features cutting-edge indie rock groups and cutting-edge electronica. The prices do reflect the hipness however.}}
+
+* {{drink | name=Le Perchoir | alt= | url=https://leperchoir.fr/en/location/le-perchoir-menilmontant | email= | address= | lat=48.865662 | long=2.382089 | directions=Métro Ménilmontant | phone= | tollfree= | hours=Daily 16:00-02:00 | price=Drinks €10-15 | lastedit=2019-10-04 | content=Rooftop bar on the 6th and 7th floors of an old industrial building with a view of Paris from the four corners of the terrace. Expect a wait to enter on Friday or Saturday evenings. Once on the roof, there are unfinished wood, plants and colored cushions. Winter-mode, inside are bar and informal restaurant. See and be seen. The ''Snack Shack'' serves typical bar food. A wide selection of cocktails are available. DJ Sets.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Bastille===
+[[File:Absinthe fountain.jpg|thumb|right|upright|Slowly dripping ice water from an absinthe fountain, La Fee Verte]]
+* {{drink
+| name=Entre Potes | alt= | url= | email=
+| address=14, rue de Charonne | lat=48.852757 | long=2.374556 | directions=
+| phone=+33 1 48 06 57 04 | tollfree=
+| hours= | price=
+| content=A good place to relax "among friends" as the name would suggest, thus making it a fairly representative Parisian bar, with notable cocktails.
+}}
+* {{drink
+| name=Les Marcheurs de Planete | alt= | url=http://www.lesmarcheursdeplanete.com/ | email=
+| address=73, rue de la Roquette | lat=48.856784 | long=2.377148 | directions=
+| phone=+33 1 43 48 90 98 | tollfree=
+| hours= | price=
+| content=French wine bar with good prices and atmosphere and a friendly staff.
+}}
+* {{drink
+| name=Moonshiner | alt= | url= | email=
+| address=5 Sedaine | lat=48.855904 | long=2.371237 | directions=Métro Bastille, Bréguet - Sabin; secret door within Da Vito pizzeria
+| phone= | tollfree=
+| hours=18:00-01:00 | price=Cocktails €10-14
+| lastedit=2019-10-05
+| content=Cool ''speakeasy'' bar with a secret entrance. Cross the small dining room of the pizzeria Da Vito and open the walk-in refrigerator door. You will enter into the bowels of an ancient American-style boiler room and bar. The interior welcomes brave visitors to a dim, classy and jazzy world. There you will find friendly steampunk bartenders making innovative cocktails. Try a cigar in the large Art Deco smokehouse... but ''shhhhh'', don't tell anyone.
+}}
+* {{eat
+| name=Les Petits Crus | alt= | url=http://www.lespetitscrus.com/ | email=
+| address=13 rue Saint-Sabin | lat=48.855497 | long=2.371839 | directions=
+| phone=+33 9 67 29 89 33 | tollfree=
+| hours=Mon-Sat 18:00-00:00 | price=€3.50-33
+| lastedit=2019-10-07
+| content=Les Petits Crus is a wine bar specializing in a marriage between wine and cheese. Matched combinations can be chosen among reasonably priced wine and cheese by ''theme'' in 4 or 6 test tubes of quality wine of your choosing, accompanied with matching cheese, bread, salad and cold cuts if desired. All wine is organic.
+}}
+* {{drink
+| name=La Fée Verte | alt= | url= | email=
+| address=108 rue de la Roquette | lat=48.856953 | long=2.378111 | directions=
+| phone=+33 1 43 72 31 24 | tollfree=
+| hours=07:00-02:00 | price=€7-25
+| lastedit=2019-10-07
+| content=La Fée Verte is an '''absinthe bar''' (and café) as it was known more than 100 years ago. Although no longer produced to be hallucinogenic, absinthe is an enjoyable alcoholic drink you prepare at your table. In the traditional French way, place a sugar cube on top of a specially designed slotted spoon over a small glass of absinthe. Next a large absinthe fountain with a crystal bowl of ice water and several small spouts is shared. Each person opens a valve to their spout and slowly drips the ice water onto the sugar cube until the cube is dissolved and the drink is diluted to their liking.
+}}
+* {{drink
+| name=Bluebird | alt= | url= | email=
+| address=12 rue Saint Bernard | lat=48.851441 | long=2.381706 | directions=
+| phone= | tollfree=
+| hours=18:00 - 02:00 | price=€3-13 bar food, €10-15 cocktails
+| lastedit=2022-05-12
+| content=A real gin bar but they serve many other drinks, specialty cocktails included. Bar food is available but do not come for the food. This place is about cocktails.
+}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Auberge Internationale des Jeunes | alt= | url=http://www.aijparis.com/ | email=
+| address=10 rue Trousseau | lat=48.851128 | long=2.378769 | directions=Métro Ledru-Rollin
+| phone=+33 1 47 00 21 08 | tollfree= | fax=+33 1 47 00 33 16
+| checkin= | checkout= | price=€13-16
+| content=Rooms available for 2-4 persons. Price Includes are breakfast, shower, pillow, blanket and bed sheet for the mattress, access to the luggage room use of safe deposit box at the front desk. Age limit 30 years.
+}}
+* {{sleep
+| name=Bastille Hostel | alt= | url=http://www.bastillehostel.com/ | email=
+| address=6 rue Trousseau | lat=48.851130 | long=2.378751 | directions=Métro Ledru-Rollin
+| phone=+33 1 47 00 62 00 | tollfree=
+| checkin= | checkout= | price=
+| content=This youth hostel features 29 rooms, some shared, some restricted to females only. Apartments available.
+}}
+* {{sleep
+| name=Hôtel Voltaire République | alt= | url=http://www.hvr-paris.com/ | email=
+| address=10, boul Voltaire | lat=48.865774 | long=2.366636 | directions=Métro République
+| phone=+33 1 47 00 21 47 | tollfree=
+| checkin= | checkout= | price=Beginning at €96
+| content=A few steps away from Republic Square. Local bakery, supermarket, laundry, and many other services are close to the hotel. All rooms are en suite, with TV and direct dial telephone. Wi-Fi is available in room.
+}}
+* {{sleep
+| name=Au Royal Mad | alt= | url= | email=
+| address=68 rue Sedaine | lat=48.858179 | long=2.377629 | directions=Voltaire metro
+| phone=+33 1 43 57 70 50 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=€59.40 for a twin/double, including city tax
+| lastedit=2016-07-07
+| content=Budget hotel, with free toiletries, fridge, microwave, and TV in the rooms, and toilets & showers in the corridors. A stone's throw from Place Léon Blum (supermarket, bars, etc.) and Voltaire metro. Friendly staff. There is a room set aside for leaving luggage on the last day. Powerful, free wifi.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Classics Hôtel | alt= | url=http://www.classics-hotel-paris-bastille.com/ | email=
+| address=131, rue de Charonne | lat=48.855115 | long=2.386581 | directions=Métro Charonne
+| phone=+33 1 44 64 34 34 | tollfree=
+| checkin= | checkout= | price=Beginning at €80
+| content=
+}}
+* {{sleep
+| name=Le Général Hôtel | alt= | url=http://www.legeneralhotel.com/ | email=
+| address=5-7, rue Rampon | lat=48.866441 | long=2.366874 | directions=near République and Oberkampf
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=3-star hotel. They've certainly put a certain amount of budget into graphic and interior design. Breakfast is not included.
+}}
+* {{sleep
+| name=Grand Hotel Français | alt= | url=http://www.grand-hotel-francais.fr/en/ | email=
+| address=223 blvd Voltaire | lat=48.851839 | long=2.390851 | directions=Métro Rue des Boulets , Boulets Montreuil
+| phone=+33 1 43 71 27 57 | tollfree=
+| checkin= | checkout= | price=
+| content=The Grand Hotel Français Paris has been operated by the same family for over 100 years. They're quite proud of their hotel-operations lore handed down through the generations.
+}}
+* {{sleep
+| name=Grand Hôtel Nouvel Opera | alt= | url=http://www.grand-hotel-nouvel-opera.com | email=
+| address=152 avenue Ledru-Rollin | lat=48.855557 | long=2.378685 | directions=Métro Voltaire
+| phone=+33 1 43 79 98 76 | tollfree=
+| checkin= | checkout= | price=Beginning at €75
+| content=3-star hotel.
+}}
+* {{sleep
+| name=Hôtel du Nord et de l'Est | alt= | url= | email=
+| address=49, rue de Malte | lat=48.866087 | long=2.36757 | directions=Métro République or Oberkampf
+| phone=+33 1 47 00 71 70 | tollfree=
+| checkin= | checkout= | price=Single €100, double €150
+| content=Found among a cluster of two-star hotels off of Place de la République, the North and East has been in the process lately of doing some renovation, bringing ''some'' of the rooms up to high three-star standards. Regardless of which type of room you book the place is quiet and cheerful and has Wi-Fi. It's a good value, and to top it off they often have vacancies when all of the hotels in more popular quarters are booked.
+}}
+* {{sleep
+| name=Hotel Hor Les Lumiéres | alt= | url=http://www.hotelhorleslumieres.com/ | email=
+| address=39 rue Jean-Pierre Timbaud | lat=48.866772 | long=2.372853 | directions=Métro Parmentier, République, Oberkampf
+| phone=+33 1 48 06 64 97 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=from €99
+| content=A budget hotel just a bit from République which offers a fitness centre, and free Wi-Fi, though "Le Marais" is a bit of a stretch.
+}}
+* {{sleep
+| name=Hôtel Fabric | alt= | url=http://hotelfabric.com | email=info@hotelfabric.com
+| address=31 rue de la Folie Méricourt | lat=48.863261 | long=2.372839 | directions=
+| phone=+33 1 43 57 27 00 | tollfree=
+| checkin=15:00-00:00 | checkout=12:00 | price=€190-280
+| lastedit=2019-10-06
+| content=Boutique hotel in an artistic neighborhood with 33 rooms is restyled in a 19th century textile factory that is both modern and characteristic of another era. The bold decor with brick walls and iron-works are comforting. Many services are available including fitness, hammam, massages, afternoon tea and concierge.
+}}
+* {{sleep | name=Albert's Hotel | alt= | url=https://www.angelyhotelparis.com/en/ | email=contact@albertshotelparis.com | address=22, rue du Grand-Prieuré | lat=48.866290 | long=2.368534 | directions=Métro Oberkampf or Répubique | phone=+33 1 48 07 55 25 | tollfree= | checkin=14:00 | checkout=12:00 | price=€130-300 | lastedit=2019-10-07 | content=Boutique hotel near many public transportation connections. Near lively neighborhoods but without the noise. Modernized bathrooms and bedrooms.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 2 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl1=[[Paris/20th arrondissement|20th arrondissement]]
+| directionr1=E
+| majorr1=END
+| minorr1=
+
+| image2=Paris m 3 jms.svg
+| imagesize2=22
+| directionl2=W
+| majorl2=[[Paris/2nd arrondissement|2nd arrondissement]]
+| minorl2=[[Paris/3rd arrondissement|3rd arrondissement]]
+| directionr2=E
+| majorr2=[[Paris/20th arrondissement|20th arrondissement]]
+| minorr2=
+
+| image3=Paris Metro 5.svg
+| imagesize3=22
+| directionl3=N
+| majorl3=[[Bobigny]]
+| minorl3='''[[Paris/3rd arrondissement|3rd arrondissement]]'''
+| directionr3=S
+| majorr3=[[Paris/13th arrondissement|13th arrondissement]]
+| minorr3=[[Paris/4th arrondissement|4th arrondissement]]
+}}
+
+{{usabledistrict}}
+{{geo|48.8594|2.3794|zoom=14}}
+{{IsPartOf|Paris}}

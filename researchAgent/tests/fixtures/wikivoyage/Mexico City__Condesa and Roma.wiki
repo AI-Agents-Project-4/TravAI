@@ -1,0 +1,686 @@
+{{pagebanner|Condesa and Roma Wikivoyage banner.jpg|pgname=Condesa and Roma}}
+The '''Condesa''' and '''Roma''' district of [[Mexico City]] is a residential and restaurant area on both sides of Insurgentes avenue (Condesa on the west side, Roma on the east side) between Viaducto Miguel Alemán in the south and Avenida Chapultepec in the north. It's a large area developed in the 1930s-1950s with mostly [[art deco architecture]], large parks, and a relaxed atmosphere. The area is popular with an eclectic artsy crowd who stay in the many small bed and breakfast inns and some of the city's most cutting edge [[Contemporary art]] galleries.
+
+==Understand==
+La Condesa consists of several colonias on the west side of Avenida Insurgentes. It was an extremely fashionable part of Mexico City during the Golden Age of Mexican cinema in the 1940s and 1950s when it was home to many film stars. Mexico City's first Bauhaus-type apartment building, the Edificio Basurto, was built in 1938 and was popular amongst entertainment industry figures. The 1985 earthquake hit the area hard, and many of the art deco and midcentury buildings were abandoned as residents moved to areas like [[Mexico City/Polanco|Polanco]] and [[Mexico City/Chapultepec|Lomas de Chapultepec]]. Due to the high availability of housing stock and fascinating architecture, the area was rediscovered by artists, musicians and other creative people in the mid-1990s, resulting an abundance of hip restaurants, cafes, and bars. Some of the pioneers have moved on to neighboring areas as rents increased, but the building boom has continued the neighborhood's tradition of exceptional architecture.
+
+Roma, on the opposite side of Insurgentes, has less greenery and is more urbanized, but has a similar flavor. Although it was developed at the same time as Condesa, it was more middle-class, with a large number of European immigrants who had fled the Spanish Civil War and the Holocaust, and despite the damage of the 1985 earthquake kept this character into the 2000s. It is going through a period of very fast real estate development, as prices and popularity are increasing. There are new bars and restaurants popping up every week, and it's well worth a visit.
+
+===Orientation===
+Condesa is focused around '''Avenida Amsterdam''', a large, oval street that used to be the track of the area's horse racetrack (thus the name for this colonia, ''Hipódromo Condesa''). Av. Amsterdam is long and slightly curving, making it easy to lose your direction while going along it. It's dotted with small roundabouts where other streets cross it, and a large part of the area inside it is taken up by the Parque México, with an open-air amphitheatre on one end, and small lanes amongst large trees and fountains on the other. There are several good restaurants and bars in this area, but it's the most residential, and least urban, of the Condesa.
+
+The other part of Condesa is Col. Condesa, a bit further away from Insurgentes, on the west side of Av. Nuevo León. This is much more heavily developed, and has an impressive assortment of bars, restaurants, and sidewalk cafes.
+
+Roma consists of two colonias: '''Roma Norte''' (''North'') and '''Roma Sur''' (''South''), divided by Coahuila street. Roma Norte is the most hip, while Roma Sur is quieter.
+
+==Get in==
+{{Mapframe|19.4151|-99.1483|zoom=13}}
+{{mapshapes|Q735042}}
+===By metro===
+
+Condesa and Roma don't have Metro stations directly inside the area, but there are a few stations at its periphery that will get you within a short walk of your destination.
+
+For Condesa, Metro stations '''Insurgentes''', '''Sevilla''', '''Chapultepec''' and '''Juanacatlan''' on Line 1 border along the north and west side of the area, and stations '''Patriotismo''' and '''Chilpancingo''' on Line 9 border the south.
+
+For Roma, stations '''Insurgentes''' and '''Cuahtemoc''' on Line 1 border the north, and stations '''Ninos Heroes''', '''Hospital General''' and '''Centro Medico''' on Line 3 border the east.
+
+===By metrobus===
+
+The Metrobús, which runs up and down Avenida Insurgentes, is a very convenient way of getting to Condesa and Roma.
+
+Line 1 travels along Av. Insurgentes (the division between Condesa and Roma). Stops serving this area are Insurgentes, Alvaro Obregon, Sonora, and Campeche.
+
+==Get around==
+[[File:Corredor Cultural Álvaro Obregón, Ciudad de México (32143559953).jpg|thumb|Ecobici station in Roma on Av Alvaro Obregon]]
+Condesa and Roma are very walkable, though some streets in Roma are poorly lit and a cautious traveler might avoid walking smaller streets at night.
+
+Taxis are available everywhere. The white taxis with magenta roofs are generally safe, but for added security, have hotel or restaurant staff call a radio taxi for you. Uber and other rideshare applications work extremely well in Mexico City.
+
+===By bike===
+Bicycling is increasingly popular in Mexico City where the city government establishes bike lanes in several downtown areas. Many Mexico City thoroughfares are too crowded to safely ride a bike, but Condesa and Roma have some wonderful neighborhood streets with lighter traffic where a bike can be safely ridden.
+
+The CDMX city government sponsors a bike loaner program called '''[https://ecobici.cdmx.gob.mx/ Ecobici]''', which includes more than 400 stations around the city where you can rent a bike, or return one that you picked up elsewhere. There are more than two dozen Ecobici stations scattered throughout Condesa and in both Roma Norte and Roma Sur.
+
+Dedicated bike lanes (''ciclovias'') run along Avenida Insurgentes, a major thoroughfare from Churrubusco to the [[Mexico City/Centro|Centro Historico]]. The bike lanes are physically separated from traffic lanes with low concrete barriers. However, given the extremely heavy congestion on this road, cyclists must be constantly alert for obstacles, incursions into bike lanes, and aggressive drivers at intersections. A secure bike storage facility (called a ''Bicipuerto'') is near the Glorieta de Los Insurgentes, where you can lock up your bike and take a Metro train to other parts of the city. ''See also [[Cycling in Mexico City]].''
+
+==See==
+[[File:Edificio San Martín on Avenida México, col. Hipódromo, Condesa, Mexico City.jpg|thumbnail|San Martin]]
+* {{see
+| name=Casa Museo Leonora Carrington | alt= | url=https://casaleonoracarrington.uam.mx/ | email=
+| address=Chihuahua 194, Roma Norte | lat=19.416974 | long=-99.162932 | directions=
+| phone= | tollfree=
+| hours=temporarily closed | price=
+| lastedit=2023-05-27
+| content=Home and studio of surrealist feminist artist Leonora Carrington. Born in Britain, Carrington lived in this Mexico City home for 60 years -- almost all of her artistically prolific career. Carrington is difficult to classify. She worked in Mexico, but was educated and raised in Great Britain, so she had none of the sense of "Mexicanidad" (Mexican identity) that permeates most modern art in Mexico. She was a surrealist and her work is best understood in an international context though she was readily accepted into the Mexican artistic community. A fascinating person and an immense talent.
+}}
+* {{see
+| name=Museo del Juguete Antiguo México | alt=Antique Toy Museum | url= | email=
+| address=Calle Dr Olvera 15, Doctores | lat=19.416285 | long=-99.144517 | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 09:00 - 17:00, Sat-Sun 09:00 - 16:00 | price=M$50
+| lastedit=2023-10-06
+| content=Huge collection of toys including dolls, action figures, model cars and trains, Barbies and lots more. Also provides walls to graffiti artists and is a popular place for urban artists to congregate.
+}}
+* {{see
+| name=Museo del Objeto (MODO) | url=http://www.elmodo.mx/
+| address=Colima 145, Roma Nte. | lat=19.420493605289202 | long=-99.15914333358691
+| phone=+52 55 5533 9635 | tollfree=
+| lastedit=2024-03-02
+| content=Delightfully quirky museum of "stuff". All the things that become important to people in today's society, from toys, to car decorations. The museum is exhibition focused with changing themes a few times each year so the museum is "evergreen" and never the same place twice. It closes for several weeks every few months to change exhibits, so check their web site to verify that they're open and what the current exhibition theme is. Past themes have included "Objects of Literature", "Gol! Objects of Futbol" (soccer). Small museum that's fun and won't take more than an hour to explore.
+}}
+* {{see
+| name=Casa Guillermo Tovar de Teresa | url=http://www.museosoumaya.org/inicio/exposiciones/casa-guillermo-tovar-de-teresa/
+| address=Vallodolid 52, Roma Nte.  | lat=19.420361176561094 | long=-99.16855344471314
+| phone=+52 55 1103 9800
+| hours=Daily 10:30 - 18:30
+| lastedit=2024-03-02
+| content=Period home dating from 1910. Guillermo Tovar de Teresa was a respected intellectual in early 20th century Mexico and was a noted literary figure who chronicled life in Mexico City. The home and its furnishings, including an eclectic art collection, were purchased by the Carlos Slim Foundation. The home was restored and opened for public tours. It is operated by the Museo Soumaya (whose main museum is in [[Mexico City/Polanco|Polanco]]). Allow about 1-2 hours for a visit.
+}}
+
+===Galleries===
+
+*{{see
+| name=OMR | alt= | url=http://galeriaomr.com/ | email=
+| address=Plaza Río de Janeiro 54, Col. Roma | lat=19.419235 | long=-99.158468 | directions=cross street Durango; three blocks from Insurgentes Metro station
+| phone=+52 55 5511 1179, +52 55 5207 1080 | tollfree=
+| hours=Tue-Fri 10:00 - 18:00, Sat 11:00 - 16:00 | price=Free admission
+| lastedit=2024-03-02
+| content=Six to eight different exhibitions rotate throughout the year in this converted house in the heart of the Roma district, focusing on contemporary art by emerging Mexican artists.
+}}
+* {{see
+| name=54 Gallery | alt= | url=http://54gallery.com.mx/ | email=
+| address=Av. Mexico 47 | lat=19.413226 | long=-99.170145 | directions=
+| phone=+52 55 3974 7211 | tollfree=
+| hours=Tue-Sun 10:00 - 18:00, closed Mon | price=
+| lastedit=2024-09-11
+| content=Modern gallery showcasing contemporary art (often avant garde pieces in non-traditional media). Many of the works are by established international artists, but there are also some pieces by well-known contemporary Mexico City artists that are quite often better than the overhyped, overpriced pieces from New York or Europe.
+}}
+* {{see
+| name=MAIA Contemporary | alt= | url=https://www.maiacontemporary.com/ | email=
+| address=Colima 159, Roma Norte | lat=19.420518 | long=-99.159761 | directions=
+| phone=+52 55 8902 4291 | tollfree=
+| hours=Tue-Sun 11:00 - 19:00, closed Mon | price=
+| lastedit=2024-09-11
+| content=Quiet 2-story gallery with a gorgeous spiral staircase. Features contemporary works by many of the city's most talented artists.
+}}
+* {{see
+| name=Mooni | alt= | url=http://www.moonigallery.com/ | email=
+| address=Fernando Montes de Oca 43, Colonia Condesa | lat=19.413957 | long=-99.174351 | directions=
+| phone=+52 55 4158 9418 | tollfree=
+| hours=Daily 11:00 - 19:00 | price=
+| lastedit=2025-07-15
+| content=Casual gallery with friendly, informative staff. Affordable prices on a large selection of contemporary art, most by local Mexico City artists.
+}}
+
+===Parks===
+[[File:Monument to Lázaro Cárdenas (outstretched hand welcoming Spanish immigrants), Parque España, col. Condesa, Condesa, Mexico City.jpg|thumbnail|Parque España]]
+
+* {{see
+| name=Parque México | alt= | url= | email=
+| address= | lat=19.412222 | long=-99.169167 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q3376971
+| lastedit=2026-03-12
+| content=The park at the center of La Condesa, the one that the neighborhood was built around, was once a horse racing track. The park was built in the early 1920s. The main square of the park hosts frequent music bands and they also have stalls selling handcrafts and clothing. The park has a famous fountain of a woman and also a clock erected by the Armenian community.
+}}
+
+* {{see
+| name=Parque España | alt= | url= | email=
+| address= | lat=19.415 | long=-99.171389 | directions=between Nuevo León, Sonora and Parque España streets
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q580662
+| lastedit=2019-03-30
+| content=This park was inaugurated on September 21st, 1921 to commemorate the 100th anniversary of the end of the Mexican War of Independence. It contains statues such as the monument to Lázaro Cárdenas. The park was designed by the pioneer of modern urban Mexico, architect José Luis Cuevas. It has a small lake with a rustic cement bridge that resembles a wooden bridge.
+}}
+
+* {{see
+| name=Fuente de Cibeles
+| address=Av. Oaxaca, Plaza de Madrid, Roma Nte | lat=19.42019928186246 | long=-99.16630038896253
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-02
+| content=Roundabout on a wide avenue featuring a large fountain with a replica of a famous statue of a goddess in [[Madrid]]. The fountain is a gathering point for the Spaniard ex-pat community who come to celebrate Spanish soccer victories and similar events. The nearby tree-lined streets are full of restaurants and lively pubs. 
+}}
+
+* {{see
+| name=Parque Rio de Janeiro 
+| address=Calle Orizaba, Roma Nte | lat=19.421170647670913 | long=-99.16047463131558 
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-02
+| content=Attractive, well-maintained urban plaza ringed by historic buildings. The park features a replica [[Sculptures|statue]] of Michelangelo's David. The part is a pleasant place to walk or just sit on the park benches feeding the pigeons. Favored by local dog walkers.
+}}
+
+==Do==
+* {{do
+| name=Arena Mexico | alt= | url=http://cmll.com/ | email=
+| address=Dr. Lavista 189, Doctores, Roma Nte | lat=19.428317 | long=-99.152318 | directions=
+| phone=+52 55 5588 0266 | tollfree=
+| hours= | price=
+| lastedit=2024-03-01
+| content=Mexico City's most popular forum for ''Lucha Libre'', the hugely popular wrestling sport of Mexico (and declared by UNESCO as part of the intangible cultural heritage of humanity). Matches are normally on Tuesday evenings and Sunday afternoons, but consult the website for current information.
+}}
+* {{do
+| name=Foro Shakespeare | alt= | url=http://www.foroshakespeare.com/ | email=
+| address=Zamora 7, Condesa | lat=19.419673 | long=-99.176460 | directions=
+| phone=+52 55 5256 0014 | tollfree=
+| hours=show times at 20:00 (see calendar for upcoming performances) | price=
+| lastedit=2024-03-03
+| content=Despite the name, the theatre rarely performs in English and almost never anything by the Bard. Foro Shakespeare is a performing arts venue with three stages performing contemporary drama in Spanish by latino playwrights. The main stage (''Primera'') seats 190 patrons, ''Espacio Urgente'' seats 58, and the smallest space, ''Teatrino'', seats just 38 in a very intimate setting. Foreign visitors will get the most out of it if they are fluent in Spanish and knowledgable in Hispanic culture and customs.
+}}
+
+==Buy==
+
+There are many small shops around Condesa, selling clothing from independent designers, crafts and trendy stuff. This place recalls the Palermo neighborhood in Buenos Aires or SOHO in New York. In Roma, trendy shops are interspersed with ice cream shops and bookstores along Av. Alvaro Obregon. A block away, Calle Colima has a number of trendy cutting-edge boutiques. 
+
+Roma also has two small malls, one by Insurgentes, the Plaza Insurgentes, and another on the east side of the area, by Avenida Cuauhtémoc, the Plaza Cuauhtémoc. Both have stores and Cinemex movie theaters.
+
+===Boutiques===
+
+*{{buy
+| name=ZiniK | alt=Radical Fashion | url=http://zinikcondesa.blogspot.com/ | email=
+| address=Amsterdam 12 | lat= | long= | directions=Col. Condesa
+| phone= +52 55533277 | tollfree= | fax=
+| hours=13:30-20:00 | price=
+| content=You can find exclusive designs and best prices.
+}}
+
+===Bookstores===
+
+Visit some of the nice book shops in the area, both Condesa and Roma attract highly literate residents who support some excellent independent bookstores.
+
+*{{buy | name=Librería Rosario Castellanos del Fondo de Cultura Económica (FCE) | alt= | url=http://www.fondodeculturaeconomica.com/ | email= | address=Tamaulipas 202, Col. Condesa | lat=19.407726 | long=-99.177479 | directions=cross street Benjamin Hill, in Centro Cultural Bella Epoca | phone= | tollfree= | hours=Daily 09:00 - 22:00 | price= | lastedit=2024-03-02 | content=One of the biggest bookstores in Latin America. Worth the stop just to see the gorgeous interior. You can spend hours just browsing through the shelves.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{buy
+| name=Cafebreria El Péndulo | alt= | url=http://www.pendulo.com/ | email=
+| address=Nuevo León 115, Col. Condesa | lat=19.410845 | long=-99.173026 | directions=cross street Vicente Suárez
+| phone=+52 55 5286 9493 | tollfree=
+| hours=Daily 08:00 - 23:00 | price=
+| lastedit=2024-03-02
+| content=Bookstore with a wide selection of books (almost all in Spanish, but a few English titles) and an on-site coffee shop. Many books on art and architecture.
+}}
+* {{buy
+| name=Under the Volcano | url=http://www.utvbks.com/
+| address=Celaya 25, Hipodromo, Col. Condesa | lat=19.4148278570899 | long=-99.16742292009538
+| phone=
+| hours=Daily 11:00 - 18:00 | price=
+| lastedit=2024-03-02
+| content=English-speaking travelers might want to check out this bookstore which is the only one in Mexico City to specialize in English-language books. They also sell used books and will accept your already-read discards for partial store credit.
+}}
+* {{buy
+| name=Casa Bosques | url=https://casabosques.net/ | email=librosyrevistas@casabosques.net
+| address=Cordoba 25, Roma Nte. | lat=19.423373664681634 | long=-99.15981246057032
+| directions=2 blocks from Metro Insurgentes (Gloria de la Insurgentes)
+| phone=+52 55 6378 2976
+| hours=  | price=
+| lastedit=2024-03-02
+| content=Stylish modernist bookstore with bright naturally lit interior and an eclectic selection of books and magazines in both Spanish and English. The best selection is books on architecture, art, and literature. If the door is locked, press the bell to get buzzed in. The store is on the second level.
+}}
+* {{buy
+| name=El Hallazgo | alt= | url=http://elhallazgo.mex.tl/ | email=
+| address=Av. Mazatlan 30 | lat=19.416699 | long=-99.175715 | directions=
+| phone=+52 555 211 6393 | tollfree=
+| hours=Daily 10ː00 - 21ː00 | price=
+| lastedit=2026-08-26
+| content=Eclectic used bookstore with a wide variety of books on various subjects on many languages of the world. Very well organized with helpful staff who know how to find anything of interest. Also buys used books.
+}}
+
+===Crafts===
+* {{buy
+| name=Mercado Alvaro Obregon | alt= | url= | email=
+| address= | lat=19.411228 | long=-99.117883 | directions=
+| phone= | tollfree= | fax=
+| hours=Sat 10:00-16:00 | price=
+| content=Along Alvaro Obregon Avenue, this market sells crafts, paintings and there is a unique stall selling fossils and meteorites.
+}}
+
+===Food===
+
+* {{buy
+| name=Mercado Medellin
+| address=Campeche 101, Roma | lat=19.410595 | long=-99.163380
+| hours=08:00 - 18:00
+| content=Fruit and vegetable market with a wide selection of unusual products used in Mexican regional recipes as well as cuisines from throughout Latin America. Many specialty vendors, some selling only chiles, others selling only coffees from Oaxaca, or food from Colombia. Street food fans will find regional dishes and inexpensive gourmet foods.
+}}
+* {{buy
+| name=Mercado Roma | alt= | url=http://mercadoroma.com/ | email=
+| address=Calle Queretaro 225, Roma Norte | lat=19.414440 | long=-99.164587 | directions=
+| phone= | tollfree=
+| hours=Daily 10:00 - 22:30 (until 01:30 Fri-Sat) | price=
+| lastedit=2024-09-11
+| content=Large fun marketplace that specializes in food stands (grab-n-go, mix-n-match meals). Artesanal beers, gourmet coffees, a large variety of tacos...you name it.
+}}
+
+==Eat==
+In addition to a lively restaurant scene, the area has some of the best street food in Mexico City.
+
+===Street food===
+Vendors usually concentrate along Avenida Insurgentes which runs between the neighborhoods, particularly next to major metro stations.
+
+The intersection of Av Insurgentes and Av Alvaro Obregon has a concentration of some of the city's favorite sidewalk taco stands. The intersection is widely known as a place to go if your stomach starts rumbling at 3am because the taco stands keep the grills sizzling all night long.
+
+===Condesa===
+[[File:FuenteDeLasCibelesP2v2.jpg|thumb|A number of restaurants and pubs are around the Fuente de las Cibeles, one of Roma's most popular parks]]
+Condesa has a developed restaurant scene, centered on a few blocks surrounding the triple-street intersection of Michoacán, Atlixco and Vincente Suárez, which can be pretty crowded during the day and very popular at night, especially on weekends. The restaurant area extends all along Michoacán from Tamaulipas to Mazatlan. You will find the majority of the restaurants listed below in this area.
+
+*{{eat
+| name=Café La Glória | alt= | url= | email=
+| address=Michoacán, Col. Condesa | lat=19.411777 | long=-99.175534 | directions=across from Primarossa
+| phone= | tollfree= | fax=
+| hours=Daily 13:00-23:00 | price=M$80-200
+| content=Reasonably priced Asian/Italian fusion with a Mexican touch, good bar and good coffee. The staff is laid back to the point of being unprofessional, don't worry about asking twice for your order. Try the pasta with chicken and sesame seed oil/soy sauce.
+}}
+*{{eat
+| name=El Jamil | alt= | url= | email=
+| address=Ámsterdam 306, Hipódromo | lat=19.41414 | long=-99.166967 | directions=
+| phone=+52 55 5564 9486 | tollfree=
+| hours=Daily 13:00 - 22:00 (hours may vary on Sun) | price=
+| lastedit=2024-03-02
+| content=Lebanese meze restaurant serving grilled meats like kebabs and all your Middle Eastern favorites like hummus and tabouleh. Very popular.
+}}
+*{{eat
+| name=El 10 | alt=El 'Diez' | url=http://www.eldiez.com.mx/ | email=
+| address=Alvaro Obregon 112, Col. Roma | lat=19.418258 | long=-99.159928 | directions=
+| phone=+52 55 5264 2636 | tollfree=
+| hours=Daily 13:00-23:00 (Fri-Sat until 00:00) | price=
+| lastedit=2024-03-02
+| content=Argentinian cuisine run by an Argentine owner, very good food at a very reasonable price. The bar is very popular at night.
+}}
+*{{eat
+| name=El Ocho | alt= | url=http://elocho.mx/ | email=
+| address=Avenida México 111, Hipodromo, Col. Condesa | lat=19.410481 | long=-99.169988 | directions=between cross streets Nuevo León and Amsterdam
+| phone=+52 55 5584 0032 | tollfree=
+| hours=Sun-Wed 08:00-24:00, Thu-Sat 08:00-01:00 | price=
+| lastedit=2024-03-02
+| content=This hip cafe has some good food and a pervasive retro look. Billing itself as a ''cafe recreativo'', it's got sudoku and word searches on the placemats, and pencils and scratch paper on every table; help yourself to the wall of board games and magazines.
+}}
+* {{eat
+| name=Esquina Común | url=https://www.instagram.com/esquinacomun/?hl=en
+| address=Fernando Montes de Oca 86, Col. Condesa | lat=19.41418994609001 | long=-99.17676497507061
+| phone=
+| hours=Fri-Sun 13:00 - 23:00, closed Mon-Thu | price=M$900
+| content=Vibrant small rooftop restaurant in Condesa with innovative dishes that couple traditional Mexican dishes with unusual accompaniments and flavors. Editors of the ''Michelin Guide'' reserved their highest praise for the fresh fish entrees. 
+}}
+*{{eat
+| name=Frutos Prohibidos | alt= | url=http://www.frutosprohibidos.com/ | email=
+| address=Amsterdam 244, Col. Condesa | lat=19.411120 | long=-99.168109 | directions=cross street Michoacán
+| phone=+52 55 5264 5808 | tollfree=
+| hours=Mon-Fri 08:00 - 22:00, Sat-Sun 09:00 - 19:00 | price=M$80-120
+| lastedit=2024-03-02
+| content=This fast-food place serves rolled sandwiches using flat thin white bread. Wide choice of salads.
+}}
+*{{eat
+| name=Green Grass | alt= | url=https://www.greengrass.mx/ | email=
+| address=Nuevo Leon #192, Col. Condesa | lat=19.406355 | long=-99.171710 | directions=between Tlaxcala and Baja California
+| phone=+52 55 6385 6080 | tollfree=
+| hours=Daily 11:00 - 22:00 | price=
+| lastedit=2024-03-02
+| content=Fresh salads made to order with fresh greens and other ingredients. Ten locations in D.F. When you're missing fresh veggies, this is the place to go!
+}}
+*{{eat
+| name=Hookah Lounge | alt= | url= | email=
+| address=Campeche 284, Col. Condesa | lat=19.408563 | long=-99.170755 | directions=
+| phone=+52 55 5584 1742 | tollfree=
+| hours=Daily 17:00 - 02:00 | price=
+| lastedit=2024-03-02
+| content=The club serves Middle Eastern food and flavored tobacco "hookahs" at your table. The music selection is extremely good ranging from Electro-arabic, to house.
+}}
+*{{eat
+| name=Parilladas Bariloche | alt= | url=http://www.parrilladasbariloche.com/ | email=
+| address=Amsterdam, Col. Hipódromo Condesa | lat=19.409677 | long=-99.171699 | directions=on the side of a small roundabout
+| phone=+52 55 5256 4143 | tollfree=
+| hours=Wed-Mon 13:00 - 21:00, closed Tue | price=M$150-250
+| lastedit=2024-03-02
+| content=This family-run restaurant is one of the cheapest places in the city to have good Argentinian/Uruguayan food. Start with some Provolone cheese and ''papas con amor'' (fried potato wedges with the peel still on). If you're hungry, also try the ''filete bariloche'' (for two people, about half a kilo of meat each), the ''bife bufalo'' or the ''arrachera''.
+}}
+* {{eat | name=Lardo | alt= | url=https://lardo.mx | email= | address=Agustín Melgar 6, Colonia Condesa | lat=19.418115 | long=-99.175268 | directions=at the intersection of Agustin Melgar, Avenida Mazatlan and Avenida Veracruz | phone=+52 55 5211 7731 | tollfree= | hours=Mon-Sat 08:00-23:00, Sun 08:00-17:00 | price= | lastedit=2020-11-24 | content=Creative Mediterranean food in a stylish restaurant owned by celebrity chef Elena Reygadas. Wood-burning oven. Lively corner location with open windows, plants and lots of light. Many unusual contemporary Mexican dishes like the insects mole. Variety of aguas frescas and kombucha.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Maque | alt= | url= | email=
+| address=C. Ozuluama 4, Hipódromo | lat=19.410867 | long=-99.171145 | directions=Across the street from Parque Mexico
+| phone=+52 55 5212 1440 | tollfree=
+| hours=08:00 - 21:00 | price=
+| lastedit=2023-05-27
+| content=Popular sidewalk coffee shop. Homemade pastries and outstanding people watching.
+}}
+* {{eat
+| name=Baldio | alt= | url=https://www.baldio.mx/ | email=
+| address=Antonio Sola 26, Colonia Condesa | lat=19.414877 | long=-99.173240 | directions=100 m from Parque Espana
+| phone=+52 55 4364 9852 | tollfree=
+| hours=Mon-Sat 13:00 - 23:00, closed Sun | price=M$1000
+| lastedit=2025-06-05
+| content=Chic contemporary Mexican restaurant with an upscale clientele and a reputation for sustainable business practices that earned them a coveted green star in the 2025 Michelin Guide. The restaurant is not a "vegan" restaurant, but they heavily emphasize vegetarian dishes using locally sourced produce grown in the chinampas of Xochimilco. The restaurant claims to have achieved zero waste in their operations.
+}}
+* {{eat
+| name=Gaba | alt= | url=https://gabarestaurante.com/ | email=
+| address=Av. Mazatlan 190 | lat=19.409608 | long=-99.179609 | directions=
+| phone=+52 559 107 8494 | tollfree=
+| hours=Mon-Sat 14ː00 - 16ː30 and 18ː00 - 22ː30, closed Sun | price=M$800
+| lastedit=2026-02-02
+| content=Innovative upscale restaurant serving nouveau Mexican cuisine in an intimate setting. Service is top-notch and waiters will patiently guide diners through the sometimes unusual dishes. The tomahawk pork chops are big enough to share but too delicious to actually do so. Excellent wine list that includes suggested pairings for some excellent Mexican wines from Baja.
+}}
+* {{eat
+| name=Vecchio Forno | alt= | url=http://vecchioforno.mx/ | email=
+| address=Av. Veracruz 38 | lat=19.419440 | long=-99.175079 | directions=
+| phone=+525555534940 | tollfree=
+| hours=Daily 13:00 - 23:30 | price=M$400
+| lastedit=2025-01-04
+| content=A slice of Italy just a couple blocks from Chapultepec Park. Pizzas, homemade pastas, veal piccata, in-house bakery, gelatos and an excellent wine selection.
+}}
+* {{eat
+| name=Los Loosers | alt= | url=https://www.instagram.com/wearelosloosers/ | email=facturas@losloosers.mx
+| address=Sinaloa 236 B | lat=19.41899 | long=-99.17460 | directions=
+| phone=+52 56 2052 4969 | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-03-16
+| content=A counter-culture vegan restaurant specializing in mushroom preparations and fermentation of all sorts, with inspiration from indigenous dishes.
+}}
+* {{eat
+| name=Mendl Delicatessen | alt= | url=http://mendl.mx/ | email=
+| address=Citlaltépetl 9, Hipódromo | lat=19.410389 | long=-99.171358 | directions=100 meters from Parque Mexico
+| phone=+52 559 347 9944 | tollfree=
+| hours=Daily 08ː00 - 18ː00 | price=M$250
+| lastedit=2026-08-26
+| content=Classic Jewish deli with in-house bakery serving huge sandwiches. Assortment of bagels made fresh daily.
+}}
+
+===Roma===
+Roma has historically had a smaller restaurant scene than Condesa, but this has been changing in the late 2010s and early 2020s, with a few restaurants moving to Roma and a few opening second locations there. Today, there are many places to eat without traveling to other parts of the city. A few are listed here, but you will also be able to discover many others on your own.
+
+*{{eat
+| name=El Califa | url= | email=
+| address=Av. Alvaro Obregon 174, Roma Nte. | lat=19.417697872107155 | long=-99.16258501824264 | directions=a block or two from Av. Nuevo León
+| phone= | tollfree= | fax=
+| hours=Sun-Wed 13:00-23:00, Thu-Sat 13:00-05:00 | price=M$100-200
+| content=Popular taco chain with various locations in Mexico City. A little overpriced, but very high quality tacos. The specialty is the ''gaonera'' (try the one with cheese), a large, thin slice of tender beef, roasted and placed on a tortilla. The house salsas are also notable for being made with fried tomatoes. After dinner, try the traditional Mexican coffee with cinnamon, ''café de olla''.
+}}
+*{{eat
+| name=BB Kfe | alt= | url= | email=
+| address=Tlaxcala 69, Col. Roma | lat=19.408291 | long=-99.163929 | directions=between Campeche and Coahuila, one block east of Insurgentes Sur
+| phone=+52 55 5219 7381 | tollfree=
+| hours=Mon-Fri 11:00-22:00, Sat 11:00-20:00, closed Sun | price=M$40-60
+| lastedit=2025-05-28
+| content=This small cafe offers excellent food at very low prices until 18:00. A set dinner includes a soup, a salad, a main dish, a small dessert, fruit flavored water, and coffee. The pasta dishes are good and portions are abundant.
+}}
+* {{eat
+| name=Mog | alt= | url= | email=
+| address=Obregon 40, Roma Nte. | lat=19.416512273658068 | long=-99.15506100475096
+| phone=+52 55 5264 1629
+| hours=Daily 13:00 - 00:00
+| lastedit=2024-03-02
+| content=Tasty authentic Japanese food at good prices in a very warm, randomly decorated place. A nice spot to hang out and have a drink or coffee/tea also. Impressive tea selection.
+}}
+* {{eat | name=Las Flautas | alt= | url=http://www.las-flautas.com/sucursales/tonala/ | email=contacto@las-flautas.com | address=Tonalá 130 | lat=19.41573 | long=-99.16189 | directions=Cuauhtemoc | phone=+52 55 5584 0369 | tollfree= | fax= | image=Las Flautas Colonia Roma.jpg | hours=Daily 09:00-22:00 | price=M$80-100 | content=Serves very good flautas and tacos de guisado. Delivery available.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Contramar | alt= | url=http://www.contramar.com.mx/ | email=
+| address=Calle Durango 200, Roma Nte | lat=19.419730 | long=-99.167150 | directions=on Plaza de Madrid
+| phone=+52 55 5514 3169 | tollfree=
+| hours=Daily 11:00 - 20:00 | price=
+| lastedit=2024-03-02
+| content=Hugely popular upscale seafood restaurant. Reservations recommended (can be made on opentable.com). Locals recommend the tuna tostadas.
+}}
+* {{eat
+| name=Fishers | alt= | url=https://fishers.com.mx/ | email=
+| address=Durango 197, Roma Nte | lat=19.420286 | long=-99.167321 | directions=on Plaza de Madrid
+| phone=+52 5555111774 | tollfree=
+| hours=Sun-Wed 09:30 - 20:00, Thu-Sat 09:30 - 00:00 | price=
+| lastedit=2024-03-02
+| content=Lively fresh seafood restaurant with a wide range of innovative dishes. Excellent cocktails. Live music. Both indoor and outdoor dining areas (outdoor is sometimes more peaceful if you want to be away from the music).
+}}
+* {{eat
+| name=Meroma | alt= | url=http://meroma.mx/ | email=
+| address=Colima 150, Roma Nte | lat=19.420215 | long=-99.159146 | directions=one block from Plaza Rio de Janeiro
+| phone=+52 55 5920 2654 | tollfree=
+| hours=Mon-Sat 13:00 - 23:00, closed Sun | price=
+| lastedit=2024-03-02
+| content=Trendy upscale restaurant serving nouveau Mexican cuisine. Modern, tranquil dining room. Good drinks, wide variety of dishes including beef, seafood, lamb and more.
+}}
+* {{eat
+| name=Sartoria | alt= | url=http://www.sartoria.mx/ | email=
+| address=Cda. Orizaba 42, Roma Nte | lat=19.422132 | long=-99.160416 | directions=
+| phone=+52 55 7265 3616 | tollfree=
+| hours=Daily 13:00 - 00:00 | price=
+| lastedit=2024-03-02
+| content=Contemporary Italian cuisine in a sophisticated modern setting. Fresh house-made pastas. Sustainable locally-sourced ingredients.
+}}
+* {{eat
+| name=El Pescadito Roma | alt= | url=http://www.elpescadito.mx/ | email=
+| address=Campeche 202, Roma Sur | lat=19.409471 | long=-99.167051 | directions=just off Insurgentes
+| phone=+52 55 2121 0969 | tollfree=
+| hours=Daily 11:00 - 20:00 | price=
+| lastedit=2024-03-02
+| content=Casual seafood lunch restaurant where you can get baja fish tacos at reasonable prices.
+}}
+* {{eat
+| name=Rosetta | alt= | url=https://rosetta.com.mx/ | email=
+| address=Colima 166, Roma Nte | lat=19.420278 | long=-99.159832 | directions=
+| phone=+52 55 5533 7804 | tollfree=
+| hours=Mon-Sat 13:00 - 23:00 (closes for 1 hour at 17:30), closed Sun | price=M$1000
+| lastedit=2025-05-29
+| content=A definite "splurge" restaurant, Rosetta is an upscale gourmet dining experience set in an historic mansion with period furnishings, elegant dining rooms, and carefully hovering waiters. Innovative modern Mexican cuisine with equally innovative drinks and desserts. One of the city's top dining spots, so reservations are strongly suggested. Awarded a Michelin star.
+}}
+* {{eat
+| name=Panadería Rosetta | alt= | url=https://www.facebook.com/panaderiarosetta/ | email=
+| address=Colima 179, Roma Nte | lat=19.41992 | long=-99.16046 | directions=
+| phone= | tollfree=
+| hours=7:00-21:00 | price=
+| wikidata=
+| lastedit=2026-03-16
+| content=A French-influenced bakery and cafe associated with the above restaurant, that quickly became famous for its flaky guava rolls. Get there early if you want a seat, as the line forms before it opens and doesn't let up, though it moves quickly for take-away pastries.
+}}
+* {{eat
+| name=Maximo | alt= | url=http://www.maximobistrot.com.mx/ | email=
+| address=Av. Álvaro Obregón 65 Bis, Roma Nte | lat=19.419267 | long=-99.158148 | directions=
+| phone=+52 55 5264 4291 | tollfree=
+| hours=Mon-Sat 13:00 - 22:00, closed Sun | price=M$1000+
+| lastedit=2025-06-05
+| content=Innovative contemporary Mexican cuisine with carefully considered dashes of French and Italian. Bright and inviting courtyard dining area. Awarded a Michelin star in 2025. Awarded Michelin's "Exceptional Cocktails" award in 2026 for innovative drinks like a corn husk martini. Reservations strongly suggested.
+}}
+
+==Drink==
+[[File:Advertising on the side of buildings, col. Condesa Hipódromo, Condesa, Mexico City.jpg|thumbnail|Advertising on the side of buildings, col. Condesa Hipódromo]]
+In Condesa, you will find a number of bars on the north end of Avenida Tamaulipas, in addition to the restaurant area mentioned above.
+
+===Condesa===
+* {{drink
+| name=Salon Malafama | alt= | url=https://salonmalafama.com/ | email=
+| address=Av Michoacán 78, Colonia Condesa | lat=19.411585 | long=-99.173708 | directions=
+| phone=+52 55 5553 5138 | tollfree=
+| hours=Sun-Wed 13:00 - 01:00, Thu-Sat 13:00 - 03:00 | price=
+| lastedit=2024-02-09
+| content=Trendy pool hall with a dozen billiards tables, cold beers, mezcal cocktails and a menu of burgers, fries, tacos and other light fare.
+}}
+
+* {{drink
+| name=La Clandestina | alt= | url=https://laclandestina.mx/ | email=
+| address=Alvaro Obregon 298, Condesa | lat=19.416461 | long=-99.169214 | directions=
+| phone=+52 55 5525 1100 | tollfree=
+| hours=Mon-Tue 18:30 - 01:00, Wed-Sat 18:30 - 02:00, closed Sun | price=
+| lastedit=2024-03-02
+| content=Dark, intimate mezcal bar with an extensive range of artesanal mezcals and their own house brand, ''Enmascarado'', which is available in bottles to go. A well-curated mezcal list explains a bit about the origins, manufacture, and sensory highlights of different mezcals. Excellent place to experiment with a sampler and learn a bit about the spirit.
+}}
+
+* {{drink
+| name=GinGin | url=http://www.gingin.mx/
+| address=Av. Oaxaca 87 | lat=19.419825203848426 | long=-99.16746991551258
+| phone=+52 551 484 9194
+| hours=Daily 16:00 - 03:00 | price=
+| lastedit=2025-01-29
+| content=Popular cocktail lounge with upscale atmosphere and creative cocktails. Reservations are a necessity and the place has a reputation for "losing" reservations, and overcharging (so check the bill carefully).
+}}
+* {{drink
+| name=Lagerbar Hercules | alt= | url= | email=
+| address=Campeche 322, Hipódromo | lat=19.408849 | long=-99.172774 | directions=
+| phone=+52 555 286 9334 | tollfree=
+| hours=Mon-Sat 13ː00 - 23ː30, Sun 13ː00 - 20ː00 | price=
+| lastedit=2026-02-02
+| content=Taproom for a Queretaro-based craft brewery specializing in an eclectic collection of predominantly European style lager beers. The most unusual is probably the Rye Lager. They also have a nice Schwarzbier, seasonal brews like Oktoberfest, and a Mexican Lager intended to emulate a Corona or Tecate. Good selection of bar bites and the crowd is an eclectic mix of young professionals, ex-pats and digital nomads.
+}}
+
+===Roma===
+[[File:Casa franca roma.jpg|thumb|Live jazz bands perform at Casa Franca in Roma]]
+*{{drink
+| name=Mama Rumba | alt= | url= | email=
+| address=Av. Medellin, Col. Roma | lat=19.413982 | long=-99.164930 | directions=one block from Insurgentes
+| phone=+52 55 5264 7823 | tollfree=
+| hours=Thu-Sat 18:00-03:00 | price=
+| lastedit=2024-02-09
+| content=One of the most popular [[Salsa dancing in Latin America|dance clubs/bars]] in the city, usually very full, plays salsa, merengue, and other Cuban music. There is another branch in San Angel, which is more popular with the younger crowd and can sometimes be hard to get into. Come early and get a free salsa lesson.
+}}
+
+* {{drink
+| name=Licoreria Limantour | alt= | url=http://limantour.tv/ | email=
+| address=Av. Álvaro Obregón 106, Roma Nte | lat=19.418276 | long=-99.159345 | directions=
+| phone=+52 55 5264 4122 | tollfree=
+| hours=Sun-Thu 18:00 - 00:00, Fri-Sat 15:00 - 02:00 | price=M$500
+| lastedit=2024-02-09
+| content=Claims to be "one of the world's top 50 bars", which seems rather dubious to me, but the cocktails ''are'' amazingly good! They have a wide assortment of spirits behind the bar with a mind-boggling selection of tequilas and mezcals. Upscale place with correspondingly upscale prices. Elegant atmosphere.
+}}
+
+* {{drink
+| name=Tlecan | alt= | url= | email=
+| address=Alvaro Obregon 228, Roma Nte | lat=19.417131 | long=-99.165462 | directions=at intersection with Av. Insurgentes
+| phone=+52 55 1334 4745 | tollfree=
+| hours=Daily 18:00 - 02:00 | price=
+| lastedit=2024-03-02
+| content=Small, intimate mescaleria that is just a few blocks from La Clandestina, with a similar focus and clientele, but a smaller, but exceptionally well focused mezcal list. Waiters are very knowledgable and can explain the types of maguey used by a particular brand and how it expresses itselfe in appearance, aroma, and flavor. In addition to outstanding artesanal mezcals from Oaxaca, they have a few bottles of mezcal sub-styles, such as ''bacanora'' (usually found only in Sonora) and ''raicilla'' (usually found only in Jalisco). A good bar for the curious epicure to learn about mezcal.
+}}
+
+* {{drink
+| name=Jazzatlan Capital | alt= | url=https://www.jazzatlan.club/capital | email=
+| address=Guanajuato 239, Roma Nte | lat=19.416131 | long=-99.164850 | directions=at intersection with Av. Insurgentes
+| phone=+52 55 6131 1119 | tollfree=
+| hours=Daily 18:00 - 02:00 | price=Cover M$400
+| lastedit=2024-03-02
+| content=Laid back club with a sort of retro-hipster vibe. The club is an offshoot of a popular club founded in Cholula. Features live jazz music nightly with an upstairs club (reservations required, can be made via Whatsapp) and a downstairs salon that becomes standing room only when a good band is in the house.
+}}
+
+* {{drink
+| name=Janis | alt= | url=https://janisroma.club/
+| address=Calle Queretaro , Roma Nte | lat=19.414428795246216 | long=-99.1641483041453
+| phone=+52 55 2176 6710 
+| hours=Wed-Sat 23:00 - 05:00, closed Sun-Tue | price=M$1000
+| lastedit=2025-01-29
+| content=Popular rock-oriented club named in tribute to Janis Joplin. Lively crowd, large drinks. Be aware they add a 20% tip on all bills.
+}}
+
+* {{drink
+| name=Mano Santa Mezcal | alt= | url=
+| address=Av. Insurgentes Sur 219, Roma Nte.  | lat=19.41994928301838 | long=-99.16446509250474
+| phone=+52 55 3662 6088
+| hours=Mon-Wed 18:00 - 02:00, Thu-Sun 15:00 - 02:00  | price=M$200
+| lastedit=2025-01-29
+| content=Hip contemporary bar specializing in mezcals with a wide variety of brands, many with very distinct flavor profiles. Many mezcal cocktails are offered including the classic mezcalhina, with a citric tang to it. Light bar snacks are available including a wonderful guacamole with chapulines (grasshoppers). A selection of local craft beers are available. English speaking staff available. Credit cards accepted.
+}}
+
+* {{drink
+| name=Casa Franca | alt= | url= | email=
+| address=Merida 109, Roma Norte | lat=19.419199 | long=-99.157517 | directions=
+| phone=+52 55 5208 2265 | tollfree=
+| hours=Tue-Sat 18ː00 - 02ː00, closed Sun-Mon | price=
+| lastedit=2025-12-01
+| content=Fun, funky jazz club hidden away in an old house on a side street off Alvaro Obregon. Live jazz bands and great cocktails keep the crowds coming. Small club so reservations are a must, otherwise you'll be warehoused in an upstairs bar where you can't see the band. No parking available, but you'll be drinking anyway, so Uber itǃ
+}}
+
+* {{drink
+| name=Falling Piano Brewing Co. | alt= | url=http://www.fallingpiano.mx/ | email=
+| address=Coahuila 99, Roma Nte | lat=19.412241 | long=-99.159934 | directions=
+| phone=+52 55 7705 6145 | tollfree=
+| hours=Daily 14ː00 - 22ː00 | price=M200
+| lastedit=2025-12-02
+| content=Large brewpub serving their house-brewed ales along with pizza, wings, and other light bar food.
+}}
+
+* {{drink
+| name=Club San Luis | alt= | url= | email=
+| address=San Luis Potosí 26, Roma Sur | lat=19.414865 | long=-99.155914 | directions=
+| phone=+52 555 574 2639 | tollfree=
+| hours=Mon-Sat 20ː00 - 04ː00, closed Sun | price=M$250 cover
+| lastedit=2026-02-02
+| content=Lively club that attracts a lot of foreign visitors who come for the live salsa bands. Unfortunately, the management is erratic and has an unprofessional reputation.
+}}
+
+==Sleep==
+*{{sleep
+| name=Hippodrome Hotel | alt= | url=https://hotelhippodrome.com/ | email=
+| address=Av. Mexico 188, Hipodromo | lat=19.413880 | long=-99.167986 | directions=
+| phone=+52 55 9316 2030 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$4000
+| lastedit=2024-03-01
+| content=Boutique hotel in a historic art deco landmark, offering luxurious accommodations and first-class service.
+}}
+*{{sleep
+| name=Condesa DF | alt= | url=https://www.condesadf.com/ | email=
+| address=Av. Veracruz 102 | lat=19.416417 | long=-99.172006 | directions=adjacent to Parque Espana
+| phone=+52 555 241 2600 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$8000
+| lastedit=2024-03-02
+| content=An amazing boutique hotel within walking distance of all the best bars, lounges, clubs and restaurants of Condesa. Also has a sushi bar rooftop bar, a chocolate lab, and a night club in the basement.
+}}
+*{{sleep
+| name=Hostel Condesa Chapultepec | alt= | url=http://www.hostelcondesachapultepec.com | email=
+| address=Cozumel #53-A Col. Roma Norte (between Colima and Durango) | lat=19.418357 | long=-99.17091 | directions=3 blocks from Sevilla's subway station
+| phone=+52 55 52-11-10-24 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$400
+| lastedit=2024-03-02
+| content=Hostel with shared dormitories. Cheapest lodging option in Condesa.
+}}
+*{{sleep
+| name=The Red Tree House | alt= | url=http://www.theredtreehouse.com | email=
+| address=Culiacan 6, Col. Condesa | lat=19.409175 | long=-99.171350 | directions=Culican between Amsterdam and Nuevo Leon
+| phone=+52 55 5584-3829 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$3000
+| lastedit=2024-03-02
+| content=16 beautiful units surrounding a peaceful courtyard. Rooms are reasonably priced and stylishly decorated. Many also have terraces. Breakfast includes the usual items plus a typical Mexican breakfast delicacy. Owners are friendly and very helpful with travel tips and assistance in arranging tours, etc.
+}}
+*{{sleep
+| name=Condesa Haus | alt= | url=http://www.condesahaus.com/ | email=
+| address=Cuernavaca 142 Col. Condesa | lat=19.410732 | long=-99.177242 | directions=2-3 blocks from Patriotismo Metro
+| phone=+52 310-622-4825 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=US$85-150
+| lastedit=2024-03-02
+| content=Condesa Haus is a lovely building of 8 suites and rooms near the Patriotismo Metro station. Each accommodation is beautifully and stylishly decorated, and the staff are wonderful. Special discount (no tax or fees) if you pay cash.
+}}
+* {{sleep
+| name=La Palomilla | alt= | url=https://www.lapalomillabnb.com/ | email=
+| address=Segunda Cda. Guadalajara 10, Roma Nte | lat=19.417893 | long=-99.172535 | directions=
+| phone=+52 55 7587 8995 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$4000
+| lastedit=2024-03-02
+| content=Comfortable and friendly bed and breakfast with eclectic decor and delicious breakfast included in room rates.
+}}
+* {{sleep
+| name=Brick Hotel | alt= | url=http://itbrickhotel.com/ | email=
+| address=Orizaba 95, Roma Nte | lat=19.419432 | long=-99.160215 | directions=
+| phone=+52 55 9155 7610 | tollfree=
+| checkin=15:00 | checkout=13:00 | price=M$5500
+| lastedit=2024-03-02
+| content=Upscale contemporary boutique hotel with first-class service and quiet, well-appointed rooms. Rooftop bar.
+}}
+* {{sleep
+| name=Hotel Lisboa | alt= | url=http://lisboahotel.com.mx/ | email=
+| address=Av. Cuauhtémoc 273, Roma Nte | lat=19.412807 | long=-99.154728 | directions=
+| phone=+52 55 5574 7088 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=
+| lastedit=2024-03-02
+| content=Large moderate hotel with spacious, clean rooms and good service.
+}}
+* {{sleep
+| name=Casa Decu | alt= | url=http://decuhotels.com/casa-decu | email=
+| address=Culiacan 10, Hipódromo Condesa | lat=19.409077 | long=-99.171228 | directions=6 block walk to Metro Chilpancingo station
+| phone= | tollfree=+52 55 6610 5746
+| checkin=15:00 | checkout=12:00 | price=M$2000
+| lastedit=2024-09-11
+| content=Architecture buffs will love the carefully restoration on this classic art deco landmark. The hotel is furnished with art deco style furnishings as well. Service is top notch and guests appreciated the rooftop terrace. Guests should be aware that the building does not have elevators or air conditioning, so if you need those amenities, another hotel might be a better choice.
+}}
+
+==Connect==
+Mexico City has excellent 5G coverage everywhere, including all parts of Condesa and Roma. Hotels and restaurants all have high-speed internet, most with free WiFi.
+
+{{guidedistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.4090|-99.1667}}

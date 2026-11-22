@@ -1,0 +1,167 @@
+{{pagebanner|Milpa Alta banner.jpg|pgname=Milpa Alta}}
+
+'''Milpa Alta''' is the second largest borough (''delegación'') in [[Mexico City]], but also its most rural, with farms and open spaces instead of crowds, avenues, and a never-ending concrete jungle. Milpa Alta is a traditional Aztec community where many locals speak ''Nahuatl'' as their first language. Foodies will not know what to order when faced with a dizzying variety of distinctive moles, all begging to be savored.
+
+==Understand==
+[[File:Milpa Alta - Stock IMG 1811 (24884632554).jpg|thumb|Field of nopal in Milpa Alta]]
+Instead of being organized into ''colonias'' like most of Mexico City, Milpa Alta consists of 12 ''pueblos'' (towns) which have both a Spanish and a Nahua name. Many colonias are large and have several ''bariios'' (neighborhoods) within them, but most barrios dispense with dual names and just use a Nahua name. 
+
+Nopal is grown on many farms throughout the area and is the largest agricultural commodity of the area. One of the biggest businesses is making ''mole'' for sale to restaurants and mercados throughout Mexico City. Dry blends are sold as well as a paste.
+
+===Towns of Milpa Alta===
+The following towns are part of Milpa Alta. Many have their own local traditions and festivals:
+{{mapgroup
+| name=Towns of Milpa Alta
+| height=300
+| target=Q936087
+}}
+* {{mapgroup-item|name=Villa Milpa Alta|wikidata=Q49901753}}
+* {{mapgroup-item|name=San Pablo Oztotepec|wikidata=Q590876}}
+* {{mapgroup-item|name=San Pedro Actopan|lat=19.2003|long=-99.05022}}
+* {{mapgroup-item|name=Santa Ana Tlacotenco|wikidata=Q49981573}}
+* {{mapgroup-item|name=San Bartolome Xicomulco|wikidata=Q72887065}}
+* {{mapgroup-item|name=San Francisco Tecoxpa|wikidata=Q20289318}}
+* {{mapgroup-item|name=San Lorenzo Tlacoyucan|wikidata=Q49981551}}
+* {{mapgroup-item|name=San Antonio Tecomitl|wikidata=Q6118383}}
+* {{mapgroup-item|name=San Jeronimo Miacantla|lat=19.190451261092782|long=-99.00619136935168}}
+
+==Get in==
+{{mapframe}}
+Milpa Alta is in the southern part of Mexico City, near [[Mexico City/Xochimilco|Xochimilco]]. It's about 40 km from the [[Mexico City/Centro|Centro Historico]]. The best way to get there is by Uber or taxi. You can get there by bus, but it can be a long, time consuming trip.
+
+===By bus===
+Take Metro to Taxquena. From here, you can take a Mexibus (faster) or an RTP bus (least recommended). The Mexibus costs about M$20 and takes 1 hour to get to Milpa Alta. Walk to Calz. Taxqueña y Av. de las Torres and catch the bus towards Milpa Alta Villa (bus may have destination of "Av. Mexico Norte"). 
+
+If you choose the RTP bus, get on bus 143 towards "Michoacan/Sonora" (relax, it doesn't really go to those states). The bus costs M$20 and takes 2 hours, stopping frequently.
+
+==See==
+
+* {{see
+| name=Museo del Cuartel Zapatista
+| address=San Pablo Oztotepec | lat=19.184686542136216 | long=-99.07295732024099
+| hours=Sat-Sun 09:00-18:00, Mon-Fri 10:00-14:00
+| content=Historic museum inside a former headquarters of Emilio Zapata's army during the [[Mexican Revolution]], contains numerous photos from the revolutionary era. Rarely open.
+}}
+* {{see
+| name=Museo Regional Altepepialcalli
+| address=Villa Milpa Alta | lat=19.193182270709222 | long=-99.02165739644504
+| phone=+52 55 5862 3150
+| content=Cultural center that hosts concerts and artistic events. Rotating arts exhibits.
+}}
+* {{see
+| name=La Casona | alt= | url= | email=
+| address=Sonora Sur 10, Villa Milpa Alta | lat=19.191439 | long=-99.022945 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2023-12-11
+| content=Historic home built in the late 19th century. Home of Rafael Coronel.(modern artist, painter, and son-in-law to Diego Rivera).
+}}
+* {{see
+| name=Templo de Nuestra Señora de la Asunción
+| address=Av. Mexico, Barrio Los Angeles, Villa Milpa Alta | lat=19.192665759985037 | long=-99.02257557606333
+| content=Historic 16th century church with a starkly austere exterior but a spectacular interior with a high arched ceiling on the nave with colorful domes and talavera tile. The church has a number of artworks dating to the viceregal era.
+}}
+
+==Do==
+[[File:Day of the Dead at Tecomitl Cemetery.jpg|thumb|Day of the Dead in San Antonio Tecómitl, Milpa Alta]]
+
+* {{do
+| name=Teuhtli Volcano
+| address=San Salvador Cuauhtenco  | lat=19.203882427920192 | long=-99.09694791207671
+| content=Small inactive volcano is a popular recreation area for hiking with great views from the summit, looking over fields of nopal and corn. 
+}}
+
+===Festivals===
+* '''Dia de la Santa Cruz''' - May 3, locals climb to top of the Teuhtli volcano to pray and leave offerings at the foot of a huge blue cross at the volcano's summit.
+* '''Mole Festival''' - October, San Pedro Actopan is Mexico's center of mole production and each year's festival lets visitors sample some of the most distinctive moles, from ''mole almendrado'' to ''pipian''.
+* '''[[Day of the Dead]]''' - November 1-2, balloon festival in San Agustin Ohtenco in which hundreds of paper balloons are launched to accompany the souls of the dead. In San Antonio Tecomitl, families start decorating tombs at dawn and sculpt images of skulls or religious figures. Families create elaborate floral arrangements (mostly from marigolds) and gather for three days of enjoying the company of their dearly departed.
+* '''Festival of Corn and Pulque''' - held each fall in the town of San Antonio Tecomitl. In addition to corn and pulque, there's a few other things to eat and drink, plus dancing, art, and music.
+
+==Buy==
+[[File:MoleSPA004.JPG|thumb|Mole store in San Pedro Actopan]]
+There are more than 20 ''mole'' shops in the town of San Pedro Actopan alone, and many dozens more throughout Milpa Alta. Prepared moles are sold in jars (or buckets) and include well-known types like ''mole poblano'', ''mole oaxequena'' or many other types. Mole is also sold in powdered form in a wide range of colors and flavors. The people in the mole stores are friendly and very helpful, but most speak only Spanish or Nahuatl.
+
+==Eat==
+* {{eat
+| name=El Familiar | alt= | url= | email=
+| address=Av. Cuitláhuac 7, San Pedro Atocpan | lat=19.202986 | long=-99.050240 | directions=
+| phone=+52 55 5844 2226 | tollfree=
+| hours=Tue-Sun 09:00 - 19:00, closed Mon | price=
+| lastedit=2024-01-26
+| content=Iconic local restaurant that has been in business for 50 years. 6 types of mole are prepared daily and can be served with various main courses, including chicken, enchiladas and more. The Enchiladas de mole rojo are recommended.
+}}
+* {{eat
+| name=La Joya | alt= | url=http://www.moleslajoya.com/ | email=
+| address=Cam. a San Bartolomé Xicomulco, San Pedro Atocpan | lat=19.206633 | long=-99.050841 | directions=
+| phone= | tollfree=
+| hours=Daily 08:00 - 19:00 | price=
+| lastedit=2024-01-26
+| content=Bright, cheery family-friendly restaurant serving regional Mexican cuisine, especially dishes with mole (though there are plenty of other options as well).
+}}
+* {{eat
+| name=Don Pancho | alt= | url=http://www.donpancho.com.mx/ | email=
+| address=Av. Hidalgo 68, San Pedro Atocpan | lat=19.205115 | long=-99.047026 | directions=
+| phone=+52 55 5844 2455 | tollfree=
+| hours=Daily 08:00 - 17:00 | price=
+| lastedit=2024-01-27
+| content=Inviting traditional restaurant serving regional cuisine, particularly moles, of which several varieties are prepared daily. They are known for their almond mole, a singularly unique dish that's well worth trying if you're in the area.
+}}
+* {{eat
+| name=Barbacoa Don Pancho | alt= | url=https://barbacoadonponcho.com/ | email=
+| address=Av Morelos Pte 350, Secc III, Milpa Alta, San Salvador Cuauhtenco | lat=19.198832 | long=-99.102312 | directions=
+| phone=+52 55 5548 0603 | tollfree=
+| hours=Sat-Mon 08:00 - 18:00, closed Tue-Fri | price=
+| lastedit=2024-01-27
+| content=Pleasant outdoor restaurant that serves pit-smoked barbacoa. Family friendly with a kids playscape and open green spaces.
+}}
+* {{eat
+| name=Ex Hacienda Tlaixco | alt= | url= | email=
+| address=Francisco I Madero 19, San Pedro Atocpan, Ocotitla | lat=19.203361 | long=-99.052450 | directions=
+| phone=+52 55 5844 2166 | tollfree=
+| hours=Tue-Sun 08:30 - 22:00, closed Mon | price=M$300
+| lastedit=2024-08-29
+| content=Upscale traditional Mexican restaurant in an [[Haciendas|historic hacienda]] with patio dining and a large outdoor garden with a children's play area. Plenty of free off-street parking. Naturally, the house specialty is mole and several varieties are prepared daily.
+}}
+* {{eat
+| name=Pozoleria Linda | alt= | url= | email=
+| address=Tabasco Pte 10, Villa Milpa Alta | lat=19.194597 | long=-99.022396 | directions=
+| phone= | tollfree=
+| hours=Thu-Sun 15:00 - 20:00, closed Mon-Wed | price=M$150
+| lastedit=2024-08-29
+| content=Big steaming bowls of red, white, or green pozole topped with most usual fixin's (onions are typical, but here provided only on request). The avocado tingas are recommended.
+}}
+
+==Drink==
+* {{drink
+| name=Pulques Artesanales Milpa Alta | alt= | url= | email=
+| address=Orizaba 168, Barrio Santa Cruz | lat=19.198494 | long=-99.010658 | directions=
+| phone= | tollfree=
+| hours=Sat-Sun 13:00 - 19:00, closed Mon-Fri | price=
+| lastedit=2024-08-29
+| content=Small pulqueria serving various flavors of curado pulque, some with unusual names, like Beso Negro, that will have you scratching your head in bewilderment until you try it...
+}}
+* {{drink
+| name=Cerveza Molitos | alt= | url= | email=
+| address=San Pedro Atocpan | lat=19.205139 | long=-99.046073 | directions=
+| phone=+52 55 2349 6169 | tollfree=
+| hours= | price=
+| lastedit=2024-08-29
+| content=Brewpub serving small-batch beers. Regular beers include ''Mayahuel'' (light-bodied blonde ale made with agave nectar), ''Triguena'' (light-bodied wheat ale, 5.2% alcohol), ''Vive'' (northeast IPA), and ''Kaffe Balam'' a robust stout at 6.5% alcohol.
+}}
+
+==Sleep==
+Milpa Alta is not a tourist area and there are few hotel options, though AirBnB rooms are available. Most visitors stay in other parts of Mexico City and visit Milpa Alta as a short day excursion. 
+
+* {{sleep
+| name=La Gran Palapa
+| address=Km 28.5 Carretera Xocjhimilco -Oaxtepec, Santa Ana Tlacotenco
+| lat=19.15460734428655 | long=-98.98678919140625
+| phone=+52 55 5844 1157
+| content=Recreational complex with cabanas and camping available, reservations required. Hiking area. Picnic area.
+}}
+
+==Connect==
+
+{{IsPartOf|Mexico City}}
+{{usabledistrict}}
+{{geo|19.194|-99.027}}

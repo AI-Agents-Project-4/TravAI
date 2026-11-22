@@ -1,0 +1,1 @@
+{"method": "GET", "url": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=GBP", "body": null, "saved_at": 1795367291.5296266, "text": "{\"amount\":1.0,\"base\":\"USD\",\"date\":\"2026-11-20\",\"rates\":{\"GBP\":0.76192}}"}

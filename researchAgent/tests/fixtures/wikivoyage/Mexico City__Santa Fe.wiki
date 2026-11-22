@@ -1,0 +1,286 @@
+{{pagebanner|Santa Fe Mexico City Wikivoyage banner.jpg|pgname=Santa Fe}}
+
+'''Santa Fe''' is in the western area of [[Mexico City]].  It is the newest and most modern district of the city, as almost all of it has been developed only in the past twenty years; this puts this district in stark contrast with Mexico City's other districts, especially the [[Mexico City/Centro|Centro Historico]].  Many multinational and Mexican companies alike are headquartered here, with multimillion-dollar skyscrapers.
+[[File:Vista aérea de la zona corporativa de Santa Fe.jpg|thumb|Aerial view of Santa Fe]]
+
+==Understand==
+Santa Fe was developed in the early 1990s on the remnants of an old landfill -- yes, a junk yard turned into a modern business district. It wasn't until the early 2000s that Santa Fe gained attention, radically different from the rest of the city, because of its ultramodern architecture and contrasting wealth lifestyle signs.
+
+The paranoia that the local authorities have against photographers in Mexico City goes double for Santa Fe.  Guards will yell "no photo" at you, or even shoo you away from a building if you as so much approach with a camera, tripod or no.
+The Dutch embassy building is nicknamed, "The Washing Machine Building" (or "Lavandería") due to its unusual contemporary architecture.
+
+==Get in==
+{{Mapframe|19.3636|-99.2694|zoom=14}}
+{{mapshapes|Q735042}}
+
+Santa Fe is not served by the Metro, so the only ways into the area are by car, taxi or bus. Cars and taxis are probably the fastest, but are certainly not the cheapest. However, Santa Fe is served by Mexico City's RTP network and much more frequently by ''pesero'' buses, which leave from {{marker|type=go|name=Tacubaya|lat=19.40283|long=-99.18702}} station (Metro Lines 1, 7 and 9) and take around 30-45 minutes to get there. Look for buses that say "Sta. Fe" in the window.
+
+You will recognize instantly when you are in Santa Fe, when the two-lane road widens to lessen stop-and-go traffic and grand office buildings replace stucco shanties. If you're on a ''pesero'', it will travel around the skyscrapers rather than go in between them; a good place to get off and look around is when the bus is on Avenida Vasco de Quiroga, or on the opposite end of the line of skyscrapers. Don't wait too long though, because the bus continues onward into the residential area of the hills.
+
+===By train===
+Sante Fe is served by the ''El Insurgente'' train, connecting Toluca to Mexico City.
+* {{go
+| name=Santa Fe Station | alt=El Insurgente | url=https://trenelinsurgente.mx/ | email=
+| address=Prol. Paseo de la Reforma | lat=19.363559 | long=-99.269048 | directions=
+| phone= | tollfree=
+| hours=Daily 06ː00 - 21ː00 | price=
+| lastedit=2025-12-01
+| content=Clean, modern, comfortable high-speed trains connecting Toluca and Mexico City. Be aware that fares must be paid in cash only (no credit cards accepted).
+}}
+
+===By cable caɹ===
+Mexico City's '''Cablebus''' Line 3 connects downtown areas near Chapultepec with Santa Fe.
+* {{go
+| name=Cablebus station Vasco de Quiroga | alt= | url= | email=
+| address=Vasco de Quiroga 1343 | lat=19.385016 | long=-99.231812 | directions=
+| phone= | tollfree=
+| hours=Daily 05ː00 - 23ː00 | price=
+| lastedit=2025-12-01
+| content=Cablebus line 3 provides direct service from the Constituyentes Metro station to Santa Fe. The clean, modern transit option is new as of 2025. The cable cars are a fast, affordable, safe, scenic way to travel between Santa Fe and Chapultepec, but lines at the station can be long.
+}}
+
+==See==
+If you just want to see a radically different side of Mexico City, Santa Fe is the place to be, with lots of skyscrapers and modern architecture. Also, take a stroll in the Alameda, the central park of Santa Fe.
+* {{see
+| name=Dutch Embassy | alt=La Lavadora | url= | email=
+| address= | lat=19.3688 | long=-99.2618 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=La Lavadora from the Sheraton Santa Fe - panoramio.jpg
+| lastedit=2018-09-15
+| content=The washing machine, an example of modern architecture.
+}}
+* {{see
+| name=Paso Florentino | alt= | url= | email=
+| address= | lat=19.3812623302876 | long=-99.23271285910887 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2021-05-11
+| content=A quite steep road with (reportedly) 45% slope. The street by itself isn't too interesting, but be careful driving down by car.
+}}
+
+==Do==
+
+There's not much to do; Santa Fe is a business district first and foremost, so during nights and weekends it looks like a ghost town.
+But you can visit Parque La Mexicana for a sort of World's Fair exhibition of modernist architecture that make up the Santa Fe skyline.
+* {{do
+| name=Parque La Mexicana | alt= | url=https://parquelamexicana.mx/ | email=
+| address=Av. Luis Barragan 505 | lat=19.357600 | long=-99.269779 | directions=
+| phone= | tollfree=
+| hours=Daily 05ː00 - 22ː00 | price=Free
+| lastedit=2025-12-01
+| content=Large urban park with wooded areas providing shade for gravel walking and jogging trails. The park has a skate park, playgrounds with modern playscapes, scenic waterways with ducks and park benches, and dog parks. Food vendors are available.
+}}
+
+==Buy==
+[[File:Lago_y_plataformas_de_césped.jpg|thumb|Santa Fe business district]]
+* {{buy
+| name=Centro Santa Fe | url=http://www.centrosantafe.com.mx/ | email=
+| address=Avenida Vasco de Quiroga | lat=19.3617 | long=-99.27287 | directions=
+| phone=+52 55 3003 4330 | tollfree= | fax= | image=Centro Santa Fe.jpg
+| hours=Sun-Fri 11:00-20:00, Sat 11:00-21:00; individual store hours vary | price=
+| content=This is the country's largest shopping center with more than 500 stores and a movie theater. Buy the unimaginable, from a t-shirt to a yacht. Anchor stores include Liverpool, El Palacio de Hierro, Sears and the first Saks Fifth Avenue in Mexico. Other remarkable stores include French Connection, Mango, Zara, Massimo Dutti, Armani, Hugo Boss, Tous, Scappino, and Chanel.
+}}
+* {{buy
+| name=Zentrika | alt= | url= | email=
+| address=Prolongación Vasco de Quiroga and Mario Pani St | lat=19.35955 | long=-99.27491 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Features an IMAX 3-D theater and a big food court.
+}}
+
+==Eat==
+
+* {{eat
+| name=Casa Prime | alt= | url=https://casaprime.mx/santa-fe/ | email=
+| address=Av. Santa Fe 428 | lat=19.36281055005208 | long=-99.2666210252792 | directions=
+| phone=+52 55 9990 5861 | tollfree=
+| hours=Daily 13:00 - 00:00 | price=M$1000
+| wikidata=
+| lastedit=2026-05-30
+| content=Glitzy upscale steak house for the expense account crowd.
+}}
+*{{eat
+| name=Los Canarios | url=http://loscanarios.com.mx/ | email=
+| address=Vasco de Quiroga 3508 | lat=19.362241401034826 | long=-99.27563326857923 | directions=
+| phone=+52 55 2167 8041 | tollfree= | fax=
+| hours=Daily 09:00 - 23:00 | price=M$200-350
+| lastedit=2026-05-30
+| content=Haute Mexican cuisine. Refined ambiance.
+}}
+*{{eat
+| name=Estoril Bistro | url=http://pricelesswithestoril.com/ | email=
+| address=Calle Gonzalez Camarena 999 1A | lat=19.36698633842558 | long=-99.26277440542289 | directions=
+| phone=+52 55 5292 1210 | tollfree= | fax=
+| hours=Daily 13:00 - 23:00 | price=M$550
+| lastedit=2026-05-30
+| content=Haute Mexican and international food.
+}}
+*{{eat
+| name=Ruben's Hamburgers | url=http://rubenshamburgers.com/ | email=
+| address=Calle Guillermo Gonzalez Camarena 900-Local 2 | lat=19.36603208328242 | long=-99.26327572076379 | directions=
+| phone=+52 55 5292 4930 | tollfree= | fax=
+| hours=Daily 13:00 - 20:00 | price=$300
+| lastedit=2026-05-30
+| content=Mesquite charbroiled sirloin hamburgers.
+}}
+*{{eat
+| name=La Buena Tierra | url=http://labuenatierra.com/ | email=
+| address=Vasco de Quiroga 3800 | lat=19.361538517204657 | long=-99.27566234389523 | directions=
+| phone= +52 55  21-67-40-37 | tollfree= | fax=
+| hours=Daily 09:00 - 21:00 | price=M$300-350
+| lastedit=2026-05-30
+| content=Healthy food.
+}}
+*{{eat
+| name=Fisher's | url=https://www.fishers.com.mx/ | email=
+| address=Antonio Dovali Jaime # 75-L-1 | lat=19.367117559992543 | long=-99.26023223425811  | directions=
+| phone=+52 55 5292 4830 | tollfree= | fax=
+| hours=Daily 09:30 - 23:00 | price=M$300-500
+| lastedit=2026-05-30
+| content=Seafood, refined ambiance.
+}}
+* {{eat
+| name=Restaurante Torino Santa Fe | alt= | url=https://restaurantetorino.com/ | email=
+| address=Vasco de Quiroga 3200 | lat=19.366254548532037 | long=-99.26475207148377 | directions=
+| phone=+52 55 5292 2486 | tollfree=
+| hours=Mon-Sat 08:00 - 23:00, Sun 09:00 - 18:00 | price=M$300
+| wikidata=
+| lastedit=2026-05-30
+| content=Family friendly Italian restaurant that also serves Mexican breakfast dishes. European style bakery. Valet parking available.
+}}
+* {{eat
+| name=Quattro Gastronomia Italiana | alt= | url=https://www.quattro.com.mx/ | email=
+| address=Av. Santa Fe 160 | lat=19.369026 | long=-99.261124 | directions=
+| phone=+52 55 9912 9205 | tollfree=
+| hours=Daily 13:00 - 23:00 | price=M$300
+| lastedit=2026-06-04
+| content=Upscale Italian restaurant in the JW Marriott hotel. Attentive service and delicious food.
+}}
+* {{eat
+| name=Guria | alt= | url=http://www.guria.mx/ | email=
+| address=Av. Javier Barros Sierra 555 | lat=19.367002 | long=-99.260695 | directions=Torre Acuario
+| phone=+52 55 5292 4647 | tollfree=
+| hours=Tue-Fri 13:30 - 22:00, Sat-Mon 13:30 - 18:00 | price=M$700
+| lastedit=2026-06-04
+| content=Spanish tapas served in a luxurious dining room. Menu and wine list are both limited, but service is attentive.
+}}
+
+==Drink==
+*{{drink
+| name=Sens | alt= | url=https://www.facebook.com/SensDF/ | email=
+| address=Paseo de los Tamarindos 90 Priv.01, Bosques de las Lomas, Cuajimalpa de Morelos, Arcos Bosques | lat=19.387964 | long=-99.251576 | directions=
+| phone=+52 55 5246 3580 | tollfree=
+| hours=Thu-Sat 23:00 - 05:00, closed Sun-Wed | price=
+| lastedit=2026-06-04
+| content=Modern nightclub with loud music, mostly reggaeton and Latin pop styles. Young crowd. Arrogantly rude management trying way too hard to be "exclusive".
+}}
+* {{drink
+| name=Black Dog | alt= | url= | email=
+| address=Vasco de Quiroga 3900, Lomas de Santa Fe | lat=19.36189752775126 | long=-99.27866870584278 | directions=Torre Diamante Santander
+| phone=+52 555 148 2525 | tollfree=
+| hours=Fri-Sat 18:00 - 03:00, closed Sun-Thu | price=M$250 (cover)
+| wikidata=
+| lastedit=2026-06-04
+| content=Cozy pub atmosphere with live bands playing mostly rock. Secure garage parking available. Unexceptional food includes steak platters, burritos, etc. 
+}}
+* {{drink
+| name=Cantina La 20 | alt= | url= | email=
+| address=Vasco de Quiroga 3800 | lat=19.36169471828803 | long=-99.27540691282898 | directions=Via Santa Fe
+| phone=+52 55 2167 8378 | tollfree=
+| hours=Opens daily at 13:00, closing time varies daily from 22:00 to 02:00 | price=M$300
+| wikidata=
+| lastedit=2026-06-04
+| content=Pub atmosphere with music videos playing on TVs and sometimes live music. Has a full menu with traditional Mexican food. 
+}}
+* {{drink
+| name=La Tabernicola | alt= | url=https://www.latabernicola.com/ | email=
+| address=Antonio Dovali Jaime 95 | lat=19.367320287743336 | long=-99.25988920720349 | directions=
+| phone= | tollfree=
+| hours=Daily 15:00 - 21:00 | price=M$300
+| wikidata=
+| lastedit=2026-06-04
+| content=Local craft brewery with about a dozen house beers on tap. The flagship beer is a light-bodied Mexican lager in the style of Sol or Corona but the best beers are their darker porters and stouts. Persephone is a classic milk stout with a smooth body and sweet, malty flavor. Bottled beers are also available. Light food, including sandwiches and tacos, is available. Occasional live music. Best place to drink beer in Santa Fe.
+}}
+
+==Sleep==
+
+*{{sleep
+| name=Camino Real Santa Fe | alt=formerly Vesta | url=https://www.caminoreal.com/en/caminoreal/camino-real-santa-fe-mexico | email=
+| address=Calle Guillermo Gonzalez Camarena 300 | lat=19.36758 | long=-99.26107 | directions=
+| phone=+52 55 5004 1616 | tollfree= | fax=
+| hours= | price=M$933
+| checkin= | checkout=
+| content=This appealing hotel tower in the shape of an arc holds its own in the Santa Fe array of buildings and has a cheery breakfast and spa/wellness center offering.
+}}
+*{{sleep
+| name=Distrito Capital | url=https://www.facebook.com/pages/Hotel-Distrito-Capital-Sta-Fe/224006361033066 | email=
+| address=Juan Salvador Agraz #37 | lat=19.35994 | long=-99.27963 | directions=
+| phone=+52 55 5257 1300 | tollfree= | fax=
+| hours= | price=
+| checkin=15:00 | checkout=12:00
+| content=This one is like a glass obelisk and should be easy to spot.
+}}
+*{{sleep
+| name=DoubleTree/Hilton Garden Inn | alt= | url=https://www.hilton.com/en/hotels/safgigi-hilton-garden-inn-mexico-city-santa-fe/ | email=
+| address=Calle 3 55 Col. | lat=19.36548 | long=-99.26248 | directions=
+| phone= +52 55  11-05-50-00 | tollfree= | fax=
+| checkin= | checkout= | price=~M$954
+| content=Interestingly, these two hotels share a space that used to be occupied by a Fiesta property and both cater to the adjacent Santa Fe convention center. [https://www.hilton.com/en/hotels/mexstdt-doubletree-mexico-city-santa-fe/ Doubletree website].
+}}
+*{{sleep
+| name=Haus Suites | url=https://www.hausuites.mx/ | email=
+| address=Cruz Manca, Prolongacion Paseo de la Reforma 1190 | lat=19.36067 | long=-99.26974 | directions=inside the Haus Santa Fe apartment building
+| phone=+52 55 5258 7100 | tollfree= | fax=
+| hours= | price=M$829
+| checkin= | checkout=
+| content=You can stay at this innovatively designed hotel and appreciate the architecture firsthand, or try out the indoor pool or free breakfast.
+}}
+*{{sleep
+| name=NH Hotel Santa Fe | url= | email=
+| address=Juan Salvador Agraz 44 | lat=19.35953 | long=-99.27821 | directions=
+| phone=+52 55 9177 7380 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Here you can sit at the rooftop bar/patio to take in the Santa Fe scene from up high.
+}}
+*{{sleep
+| name=Novotel Santa Fe | url= | email=
+| address=Antonio Dovali Jaime 75 | lat=19.36691 | long=-99.26013 | directions=
+| phone=+52 55 9177 7700 | tollfree= | fax=
+| hours= | price=M$1099
+| checkin= | checkout=
+| content=The architecture is not too inspiring, but there's an outdoor pool and restaurant (breakfast for a fee).
+}}
+*{{sleep
+| name=Sheraton Mexico City Santa Fe | url=https://www.marriott.com/hotels/travel/mexsi-sheraton-mexico-city-santa-fe/ | email=
+| address=Calle Guillermo Gonzalez Camarena | lat=19.36838 | long=-99.26126 | directions=
+| phone=+52 55 5258 8500 | tollfree= | fax=
+| hours= | price=M$1078
+| checkin= | checkout=
+| content=Such a demonstrative presence in Santa Fe. Here breakfast costs extra.
+}}
+*{{sleep
+| name=Stadia Suites | url=https://stadiasuites.com/mexicocity/en/home/ | email=
+| address=Juan Salvador Agraz 60 | lat=19.35892 | long=-99.27738 | directions=
+| phone=+52 55 5004 2000 | tollfree= | fax=
+| hours= | price=M$1057
+| checkin= | checkout=
+| content=This one is set apart by the big orange chair on top of the front entrance. Otherwise, its diminutive presence among the surrounding architectural giants and general appearance overall make it seem like a hotel in Minsk or something. All suites and good breakfast buffet though.
+}}
+* {{sleep
+| name=Live Aqua Bosques de Lomas | alt= | url= | email=
+| address=P.º de los Tamarindos 98 Col, Bosques de las Lomas | lat=19.387075 | long=-99.252945 | directions=
+| phone= | tollfree=800 50 45000
+| checkin=15:00 | checkout=12:00 | price=M$6000
+| lastedit=2025-07-15
+| content=First-class hotel with spacious, comfortable, well-appointed rooms. Excellent service with friendly staff. 24-hour gym, spa services available.
+}}
+
+==Connect==
+Cell phone services throughout Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of in Santa Fe (probably due to the presence of several large corporate offices). Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas/
+
+
+{{usabledistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.3687|-99.2888}}

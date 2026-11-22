@@ -1,0 +1,510 @@
+{{pagebanner|Zona_Rosa_Wikivoyage_banner.jpg|pgname=Zona Rosa}}
+'''Zona Rosa''' ("Pink Zone") is a business and entertainment district near the center of [[Mexico City]]. It is one of the city's most touristy areas, filled with hotels, dance clubs, restaurants, bars and live bands. It boasts a healthy [[LGBT Mexico City|gay population]] as well as a relatively high concentration of Korean immigrants. Mexico City's financial heart is also here, with the Mexican Stock Exchange building and the 35-story HSBC building next to the ''Angel de la Independencía'', amongst other banks with offices in this area.
+
+==Understand==
+[[File:Angel Monumento a la Independencia.jpg|thumb|Angel de la Independencia]]
+Zona Rosa (not to be confused with ''zona roja,'' a red light district) is clearly defined by Avenida Insurgentes to the east, Avenida Chapultepec to the south, Paseo de la Reforma to the north, and Calle Sevilla to the west. A lot of its characteristic style spills outward across these strictly-drawn boundaries. This article also covers:
+* '''Juárez''', the area to the east across Av Insurgentes. (Both Zona Rosa and Juárez are part of Colonia Juárez.)
+* '''Reforma''' is often used to describe the blocks that line the Paseo de la Reforma between the Alameda Central and Chapultepec Park.
+* '''Colonia Cuauhtémoc''', the area to the north across Paseo de la Reforma. (Not to be confused with the Cuauhtémoc borough, which also includes much of central Mexico City.)
+* '''Pequeño Seúl''' ("Little Seoul") is in the west part of Zona Rosa. Much of the city's Korean population lives in and around here.
+
+It used to be ''the'' place to go for nightlife in the city, but other areas, most notably [[Mexico City/Condesa|Condesa]], have surpassed it in trendiness. Nevertheless, there is still heavy tourist traffic, and you will easily find yourself accosted by people in the streets selling goods and services, be it dance and strip club promoters, tourist information from police officers, tours from taxi drivers, plus the usual crowd of street vendors, lottery vendors and beggars.
+
+==Get in==
+[[File:Glorieta de Insurgentes.JPG|thumb|Glorieta de Insurgentes]]
+'''Glorieta de Insurgentes''', the plaza-and-traffic circle at the intersection of Avenida Insurgentes and Avenida Chapultepec, is a transportation hub for the Metro and Metrobus and is an excellent stopping-off point.
+
+===By metro===
+You can hop off at {{marker|type=go|name=Insurgentes Station|lat=19.42376|long=-99.16290|image=Metro Insurgentes 01.JPG}} (Line 1, pink). The station exits in the plaza at the center of ''Glorieta de Insurgentes'', where good people-watching opportunities abound.
+
+===By bus===
+[[File:Metrobus-Glorieta-Insurgentes.JPG|thumb|Metrobus on Avenida de los Insurgentes]]
+If you are riding on Chapultepec Avenue, ask the driver to drop you at Florencia Avenue. Keep in mind though, that the MetroBus is usually packed.
+
+===By car===
+You can access the area using '''Avenida Niza''', '''Avenida Reforma''' or '''Avenida Insurgentes'''.
+
+There are several parking lots charging around M$14 an hour. Several restaurants have their own valet parking, charging between M$30-45. There are also parking meters charging M$10 an hour. Make sure you pay enough when using meters, as unlike other countries where the police will just leave a ticket on the dashboard, in Mexico City, they will put a wheel lock to violators and paying fines is a very expensive and troublesome process. Meters are off on Saturdays and Sundays.
+
+===By turibus===
+The double-decker hop-on and hop-off tourist bus that runs along '''Paseo de la Reforma''', and throughout many other areas of the city. You can depart Zona Rosa at the Angel de Independencia for connections to the pyramids, the south of the city and the normal tourist route. Be sure to check the schedule at the tourist information booth a few steps from the stop.
+
+==Get around==
+{{Mapframe|19.4279|-99.1669|zoom=15}}
+{{mapshapes|Q735042}}
+
+Walking is the best way to move around. The area has a few pedestrian-only streets, being Genova the main street where many restaurants and shops are located.
+
+===By bike===
+Bicycles are a good way to get around Zona Rosa and to get to places in adjacent districts. Zona Rosa is a very short ride to Chapultepec Park which has miles of dedicated bike paths that are great for recreational rides. The streets of Zona Rosa are generally safe to ride because they don't get heavy traffic flow.
+
+There are at least 10 '''Ecobici''' loaner bike stations in Zona Rosa with many along Paseo de la Reforma, at least 5 within 2 blocks of the Glorieta de Los Insurgentes (stations for Metro and Metrobus BRT), where there is also a '''Bicipuerto''' bike storage facility where you can leave your bike securely while you travel by Metro to other parts of the city.
+
+==See==
+[[File:Torre Mayor y anexo.JPG|thumb|Torre Mayor]]
+* {{see
+| name=Paseo de la Reforma | alt= | url= | email=
+| address= | lat=NA | long=NA | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q1478843
+| lastedit=2026-03-08
+| content=A long avenue with fine examples of architecture, numerous banks and offices, and spectacular monuments. Modeled after the great boulevards of Europe, it was to link the National Palace with the imperial residence, Chapultepec Castle. It is now lined with luxury restaurants and hotels, office buildings and public art exhibitions.
+}}
+** {{see
+| name=Monumento a Cuauhtémoc | alt=Monument to Cuauhtémoc | url= | email=
+| address= | lat=19.43105 | long=-99.15901 | directions=at Reforma and Avenida de los Insurgentes
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=MonumentCuitlahuacPaseo2.jpg | wikidata=Q6023002
+| lastedit=2017-01-28
+| content=Bust of Cuauhtémoc, the Aztec ruler of Tenochtitlan from 1520 to 1521 is displayed proudly.
+}}
+** {{see
+| name=Stock Exchange Museum | alt=Museo de la Bolsa Mexicana de Valores | url=https://www.mubo.com.mx/pages/default | email=
+| address=Paseo de la Reforma 255 | lat=19.430005 | long=-99.164373 | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 10:00 - 17:00, Sun 10:00 - 15:00, closed Sat | price=Free
+| lastedit=2024-01-28
+| content=Mexico's stock exchange, like its peers in other countries, is mostly electronic today, so the trading floor is mostly quiet and sparsely populated, but visiting Mexico's home of the Bolsa is a must for anyone interested in the wheeling and dealing of big business. The view inside is remarkable with walls of screens flashing stock prices and trading activity while looking straight up gives you a spectacular vista of the inside of the exchange's iconic glass dome. The museum has a number of exhibits describing the stock exchange's history and changes over time.
+}}
+** {{see
+| name=Monumento a la Independencia | alt=Ángel de la Independencia / Angel of Independence | url= | email=
+| address= | lat=19.42699 | long=-99.16765 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Angel Monumento a la Independencia.jpg | wikidata=Q928541
+| lastedit=2017-01-28
+| content=A victory column on a roundabout over Paseo de la Reforma in downtown Mexico City. El Ángel was built to commemorate the centennial of the beginning of [[Mexican War of Independence|Mexico's War of Independence]], celebrated in 1910.
+}}
+** {{see
+| name=Fuente de la Diana Cazadora | alt=Diana the Huntress Fountain | url= | email=
+| address=Paseo de la Reforma | lat=19.42512 | long=-99.17165 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Diana La Cazadora (De Aviones) (3229974717).jpg | wikidata=Q2323702
+| lastedit=2017-01-28
+| content=This fountain by Fernando Olaquibel was originally known as 'The Archer'. It depicts the beautiful Diana Cazadora aiming her arrow at infinity.
+}}
+** {{see | name=Torre Mayor | alt= | url=http://www.torremayor.com.mx/index.php/en/inicio-es | email= | address=Av Paseo De La Reforma 505 | lat=19.42421 | long=-99.17522 | directions= | phone=+52 55 5283 8000 | tollfree= | fax= | hours=Daily 24 hr | price= | image=Torre Mayor y anexo.JPG | wikidata=Q844813 | lastedit=2017-01-28 | content=The Torre Mayor stands on Paseo de la Reforma and soars 225 meters above the ground with 29 high-speed elevators.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+[[File:MX MM MUSEO NACIONAL DE LA REVOLUCIÓN (49726705452).jpg|thumb|National Museum of the Revolution]]
+* {{see
+| name=Monumento a la Revolución | alt= | url= | email=
+| address=Plaza de la República | lat=19.4361 | long=-99.1546 | directions=Metro: Revolución
+| phone=+52 55 5592 2038 | tollfree=
+| hours= | price=
+| image=Monumento_a_la_Revolución_Mexico.jpg | wikidata=Q1389520
+| lastedit=2025-06-02
+| content=Unveiled in 1938, this striking monument honors the heroes of the Mexican Revolution, including Pancho Villa, Francisco Madero, and Lázaro Cárdenas, whose tombs are housed within. Originally intended as a legislative chamber, construction was halted by the Revolution itself and later repurposed as a symbol of Mexican independence and resilience. Visitors can take a glass elevator to the 65m-high Paseo Linternilla, a lookout platform with a spiral staircase offering panoramic city views (not suitable for young children). A 360-degree observation deck is accessible without an all-access pass.
+}}
+** {{see
+| name=Paseo Cimentación | alt= | url= | email=
+| address=Plaza de la República | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 09:00-17:00, Sat Sun 09:00-19:00 | price=
+| lastedit=2025-06-02
+| content=An underground art gallery beneath the Monumento a la Revolución, showcasing temporary modern art exhibitions amid the monument’s massive steel beams. This unique space blends contemporary art with industrial architecture.
+}}
+** {{see
+| name=Museo Nacional de la Revolución | alt= | url= | email=
+| address=Plaza de la República | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 09:00-17:00, Sat Sun 09:00-19:00 | price=M$100
+| lastedit=2025-06-02
+| content=Located beneath the Monumento a la Revolución, this museum chronicles Mexico’s revolutionary history from 1857 to 1920, covering the struggle for human rights and the establishment of the post-revolutionary government. Exhibits include artifacts, documents, and multimedia displays, though all explanatory text is in Spanish. Housed in the monument’s basement, it offers a compelling look at the era’s key figures and events.
+}}
+* {{see
+| name=Museo de Cera | alt=Wax Museum | url=http://www.museodecera.com.mx/ | email=
+| address=Londres 6, Juárez | lat=19.429140 | long=-99.155476 | directions=
+| phone=+52 55 5546 7670 | tollfree=
+| hours=11:00 - 19:00 | price=M$170 (adults)
+| lastedit=2023-04-06
+| content=Fun wax museum full of historical figures and pop culture icons, both Mexican and international.
+}}
+* {{see
+| name=Museo de Chocolate | alt=Chocolate Museum | url=http://www.mucho.org.mx/ | email=
+| address=C. Milan 45, Juárez | lat=19.429904 | long=-99.157125 | directions=
+| phone=+52 55 5207 1467 | tollfree=
+| hours=11:00 - 17:00 | price=M$90
+| lastedit=2023-04-06
+| content=Explore the world of chocolate, from growing the beans through tasting candies or hot chocolate. A favorite of kids!
+}}
+* {{see
+| name=Colonia San Rafael | alt= | url= | email=
+| address= | lat= | long= | directions=west of Tabacalera
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q5148254
+| lastedit=2017-01-29
+| content=This neighborhood was established in the late 19th century as one of the first formal neighborhoods outside of the city center and initially catered to the wealthy of the Porfirio Díaz era. These early residents built large mansions, many with French influence, and many still remain. This neighborhood has now a large number of movie theatres, museums and galleries.
+}}
+** {{see
+| name=Museo Experimental el Eco | alt= | url=https://eleco.unam.mx/en/ | email=
+| address=Sullivan 43 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2876299
+| lastedit=
+| content=A contemporary art gallery, designed by sculptor Mathias Goeritz.
+}}
+** {{see
+| name=Mexico City National Cemetery | alt= | url=https://www.abmc.gov/cemeteries-memorials/about-mexico-city-national-cemetery/ | email=
+| address=Virginia Fabregas 31 | lat= | long= | directions=Colonia San Rafael
+| phone=+52 55 5546 0054 | tollfree= | fax=
+| hours=Daily 08:00-17:00, closed 25 Dec and 1 Jan | price=Free
+| wikidata=Q6826209
+| lastedit=2016-05-13
+| content=This U.S. military cemetery is the final resting place for 750 unknown American soldiers lost during the Mexican-American War between 1846 and 1848. Another 813 Americans are also interred here.
+}}
+* {{see
+| name=Aqueduct of Chapultepec | alt= | url= | email=
+| address=Av. Chapultepec | lat=19.423156 | long=-99.167759 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-05-12
+| content=It's often thought that the Spanish brought the skills necessary to build aqueducts to Mexico, but that theory is turned on its head by the Aqueduct of Chapultepec, which was built by the Aztecs (Mexica) in 1425....about a century before the first Spaniards would arrive. The aqueducts once brought water to the park for its botanical gardens and baths of the Aztec nobility.
+}}
+
+==Do==
+* {{do
+| name=Arena México | alt= | url=https://cmll.com/ | email=
+| address=Doctor Lavista 189, Colonia Doctores | lat= | long= | directions=enter through Av Chapultepec
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q641374
+| lastedit=
+| content=The most famous venue for ''lucha libre'' (Mexican wrestling).
+}}
+* {{do
+| name=Fronton Mexico | alt= | url=http://frontonmexico.com.mx/ | email=
+| address=Av. de la República 17, Tabacalera | lat=19.436952 | long=-99.15359 | directions=across the street from the monument to the Revolution (giant arch), Metro to Revolucion
+| phone=+52 55 5128 3411 | tollfree=
+| hours= | price=
+| lastedit=2023-06-06
+| content=Are you familiar with the sport of ''jai alai''? It's sometimes called the fastest sport in the world, and it does look fast (and hard). It's a traditional handball game from the Basque region of Spain. A "fronton" is a place where jai alai is played, and it's an unusual game that's worth seeking out for the experience. If you're not into sports as cultural experiences, then you might come here for a concert, or to sample the Spanish cuisine and innovative cocktails at the Zesta Punta restaurant, housed in the Fronton.
+}}
+
+==Buy==
+[[File:Jardin del Arte Sullivan.JPG|thumb|Jardín del Arte]]
+* {{buy
+| name=Plaza del Ángel | alt= | url= | email=
+| address=Calle Hamburgo and Amberes | lat=19.42489 | long=-99.16573 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This complex houses several antique shops and on Saturdays and Sundays, there are more informal dealers selling vintage stuff. Arrive early as dealers close around 16:00.
+}}
+* {{buy
+| name=Plaza La Rosa | alt= | url= | email=
+| address=Calle Amberes and Genova | lat=19.42574 | long=-99.16453 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Shopping precinct that has over 72 prestigious shops and boutiques, including Mango, Furor, Iker and others.
+}}
+* {{buy
+| name=Jardín del Arte | alt= | url= | email=
+| address=Rio Nevada | lat=19.43308 | long=-99.16242 | directions=between Sullivan and Manuel Villalongin
+| phone= | tollfree= | fax= | image=Jardin del Arte Sullivan.JPG
+| hours= | price=
+| content=Colorful market on Sundays with more than 100 artists exhibiting and selling their paintings and sculptures.
+}}
+* {{buy
+| name=Reforma 222 | alt= | url=http://www.codigoreforma222.com.mx/ | email=
+| address=Paseo de la Reforma 222 | lat=19.42863 | long=-99.16169 | directions=
+| phone=+52 55 5525 0602 | tollfree= | fax=
+| hours=Daily | price=
+| image=Complejo Reforma 222.jpg | wikidata=Q11702494
+| content=This shopping complex designed by Mexican architect Teodoro González de León has a number of international chain stores, restaurants, and a cinema.
+}}
+* {{buy
+| name=Mercado Insurgentes | alt= | url= | email=
+| address=Londres 148 | lat=19.424682 | long=-99.165595 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Marketplace specializing in [[Mexican artesanias]] with a few vendors selling regional Mexican cuisine. Good place to shop for meaningful souvenirs.
+}}
+
+==Eat==
+If you're looking for fast food chain restaurants or internet cafes, they're practically on every corner in Zona Rosa.
+
+===Street food===
+* {{eat
+| name=Food District | alt= | url= | email=
+| address=C. Río Lerma 310 | lat=19.425766 | long=-99.174816 | directions=
+| phone= | tollfree=
+| hours=Daily 08:30 - 22:00 | price=M$100
+| lastedit=2023-11-13
+| content=Tacos, burgers, pizza, sushi, fries. Five food vendors with a shared table area where you can sit and eat.
+}}
+
+===Budget===
+*{{eat
+| name=Los Pancho's Bar | url= | email=
+| address=Av. Chapultepec | lat=19.423765 | long= -99.164128 | directions=on north side of street, between Insurgentes station and Amberes; around the corner from Best Western Royal Hotel
+| phone= | tollfree= | fax=
+| hours= | price=M$45-65
+| content=This restaurant is a lot bigger than it looks, but on this crowded sidewalk of Avenida Chapultepec just west of the station you might almost miss it. They tape a photocopy of their menu above every table, but don't let that fool you--the staff are professional and the food is great, especially at these prices. It's Mexican cuisine with a creative streak. The house tortilla chips and salsa are excellent, and can fill you right up before your meal even arrives! On the cheap end, quesadillas are M$14, flautas (chicken or beef) are $10, and you can get a very large and very satisfying ''torta'' (there are a few varieties) with fries for $30; most other meals start with soup and rice before getting to the main dish and go for an average $50, though there are a few dishes that are as high as $180.
+}}
+*{{eat
+| name=Cafe Ventura | url= | email=
+| address=corner of calles Hamburgo and Genova | lat=19.426519 | long= -99.164315 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A nice place to have breakfast or lunch.  You can sit inside or on the patio.  They have great meal specials for about M$50.  For breakfast try the chicken chilaquiles, or you can just get pancakes.
+}}
+* {{eat
+| name=Nadefo | alt=Na De Fo | url= | email=
+| address=Liverpool 183 | lat=19.423528 | long=-99.166514 | directions=Metro to Glorieta Insurgentes
+| phone= | tollfree=
+| hours=Daily 12:00 - 23:00 | price=M$200
+| lastedit=2024-07-27
+| content=Korean barbecue restaurant where diners gather around big tables, each with its own grill. Many cuts of meat to choose from including ribs and tongue. The clientele leans heavily towards Korean businessmen, attesting to the authenticity of the cooking.
+}}
+
+===Mid-range===
+*{{eat
+| name=El Dragón | alt= | url= | email=
+| address=Calle Hamburgo | lat=19.427569 | long=-99.163896 | directions=between Niza and Copenhague
+| phone= | tollfree=
+| hours=Daily 11:00-22:00 | price=M$150-250
+| lastedit=2023-11-13
+| content=Mid-priced Peking style Chinese food, semi-formal atmosphere. The Peking duck is the specialty, also try the beef in orange peel sauce.
+}}
+*{{eat
+| name=Beatricita | alt= | url= | email=
+| address=Calle Londres 190-D | lat=19.423919 | long=-99.167043 | directions=between Florencia and Varsovia
+| phone=+52 55 5511 4213 | tollfree=
+| hours=Mon-Sat 10:00-18:00 | price=M$150
+| lastedit=2023-11-13
+| content=The best tacos in the city. Established by Beatriz Muciño Reyes, who decided to immigrate into the city in 1887 alongside her brother Claudio, hoping for a better life. In the morning, you may enjoy a complete breakfast for $42, which includes: juice, coffee and the pastry of your choice; 2 tacos or eggs in any way you may think of, ''chilaquiles'' with eggs or chicken or pork rinds in green salsa. For lunch, there's a menu which includes: soup, rice, and the plate of your choice among 9 typical Mexican dishes, a soda and dessert for just $47. Don't forget to drop by on Viernes Pozolero(Fridays). On weekends, you cannot miss the ''Pancita en Cascabel'' (cow guts cooked in cascabel chili sauce) or a mushroom soup.
+}}
+*{{eat
+| name=La Cicciolina | alt=Cicciolina | url= | email=
+| address=Rio Nilo 90 | lat=19.426839 | long=-99.170471 | directions=Reforma with Rio Nilo, one block from Angel-Statue
+| phone=+52 55149553 | tollfree=
+| hours=07:00-23:30 | price=
+| content=La Cicciolina, is a Bistro, Café and Gourmet Shop just one block from "El Angel" at the heart of México opened by a German/Argentinien couple, they make personalized Pizza, they way you tell them and have everyday a special menu. Also nice place to have a coffee and little talk, don't miss their Illy coffee and offers gourmet.
+}}
+* {{eat
+| name=El Pialadero de Guadalajara | alt= | url=https://www.elpialaderodeguadalajara.mx/ | email=
+| address=Hamburgo 332 | lat=19.421857 | long=-99.174240 | directions=Metro to Chapultepec
+| phone=+52 55 5211 7708 | tollfree=
+| hours=Daily 10:00 - 21:00 | price=M$200
+| lastedit=2024-07-27
+| content=Traditional restaurant serving regional dishes of Jalisco including ''birria'', ''carne en su jugo'' and more. Fun atmosphere and fast, friendly service.
+}}
+* {{eat
+| name=Rouge Boheme | alt= | url= | email=
+| address=Copenhague 29, Juárez | lat=19.427731 | long=-99.163751 | directions=
+| phone=+52 55 5511 9704 | tollfree=
+| hours=Mon-Sat 08:00 - 23:00, closed Sun | price=
+| lastedit=2023-11-13
+| content=French cuisine with hospitable Mexican service. Delicious crepes and coffee in the morning.
+}}
+*{{eat
+| name=Parrilla Quilmes | alt= | url= | email=
+| address=Rio Panuco 96 | lat=19.430647 | long=-99.167718 | directions=
+| phone=+52 55 1313 8304 | tollfree=
+| hours=Daily 13:00-21:00 | price=M$200-300
+| lastedit=2024-03-02
+| content=Authentic family-run Argentinian restaurant with wonderful meat, and good Italian pizza. Try the arrachera, and the four cheeses pizza. ''The Economist'' magazine calls it the place where carnivores with good karma meet their destiny.
+}}
+
+===Splurge===
+* {{eat
+| name=Ling Ling | alt= | url=https://hakkasangroup.com/venues/ling-ling-mexico-city/ | email=
+| address=Paseo de la Reforma 509 | lat=19.424006 | long=-99.175723 | directions=
+| phone=+52 55 3279 9204 | tollfree=
+| hours=Daily 13ː00 - 00ː00 | price=M$1000
+| lastedit=2026-02-03
+| content=Breathtaking views of the Mexico City skyline from the 56th floor of Mexico City's 3rd tallest  [[Skyscrapers|skyscraper]]. The food is mostly Asian with a large selection of sushi available. Creative drinks. Reservations are a must.
+}}
+
+==Drink==
+Zona Rosa is probably the only area in Mexico City that really never sleeps. It's a great place to start and end your night. Mexico´s Zona Rosa is also known as a meeting point for [[LGBT Mexico City|Mexico City's thriving gay community]].
+*{{drink
+| name=Bar Milan | alt= | url= | email=
+| address=Calle Milan, Col. Juárez | lat=19.430892 | long=-99.156538 | directions=corner with General Prim, a few blocks from the corner of Insurgentes and Reforma
+| phone= | tollfree=
+| hours=Wed-Sat 18:00-03:00 | price=M$60-300
+| lastedit=2024-01-28
+| content=Popular with a bohemian crowd, Bar Milan has a very relaxed and unpretentious atmosphere. It has a tendency to get overcrowded however. Plays electronic music and rock W Th, more Spanish language rock and Latin music F Sa. The mojito is the specialty cocktail. Note: Cash needs to be changed into ''milagros'', the in-bar currency, before use, bartenders and waiters don't accept cash. Larger-denomination milagro bills can be changed back when leaving.
+}}
+
+* {{drink
+| name=Tokyo | alt= | url=https://edokobayashi.com/index.php/tokyo-music-bar/ | email=
+| address=Rio Panuco 132 | lat=19.429816 | long=-99.169612 | directions=
+| phone= | tollfree=
+| hours=19:00 - 02:00 | price=
+| lastedit=2023-11-13
+| content=Cocktail bar with an enormous collection of music on vinyl. DJ keeps the tunes spinning while you keep sipping some of the tastiest but most expensive drinks in Zona Rosa. Fun atmosphere. Food available.
+}}
+* {{drink
+| name=Handshake Speakeasy | alt= | url= | email=
+| address=C. Amberes 65, Juárez | lat=19.424580 | long=-99.164873 | directions=Metro to Insurgentes
+| phone= | tollfree=
+| hours=Daily 18:00 - 01:00 | price=
+| lastedit=2024-10-25
+| content=Classy traditional bar with a 1900s look and feel. Innovative and amazingly prepares cocktails. Named by ''50 Best'' as the number 1 best bar in the world. (Go there and you'll see why they may be right about that). Reservations are highly recommended, but be aware that if you're not there within a few minutes of your reserved time, you lose your table.
+}}
+===Pulquerias===
+
+* {{drink
+| name=Pulqueria Spiritu Santo | url=https://m.facebook.com/pulqueriaspiritusanto/
+| address=Eje 1 Poniente, Rosales 5BC, Tabacalera | lat=19.43854790554172 | long=-99.14946384054853
+| directions=3 blocks from Metro Revolucion station (toward the Alameda)
+| phone= | tollfree=
+| hours=Sun-Wed 14:00 - 22:00, Thu 14:00 - 24:00, Fri Sat 14:00 - 01:30
+| lastedit=2024-01-28
+| content=Traditional pulqueria with a young, Bohemian crowd. Serves natural and cured pulques with a variety of innovative flavors including several fruit flavored pulques such as apple and mango. Come in when they're not too busy and the servers will be happy to offer samples of different flavors so you can see which ones you like best. 
+}}
+
+===Dance===
+
+In Amberes street, there are a few places to go and let loose on the dance floor.
+
+===Gay-friendly===
+
+The Zona Rosa is also a very gay-friendly area. In the information kiosks you'll find many guides with gay places to visit in the zone. A good first stop is the BGay cafe on Amberes (a street which also has several other gay bars and clubs). See [[LGBT Mexico City]] for more gay-friendly bars and clubs.
+
+==Sleep==
+[[File:Diana La Cazadora (De Aviones) (3229974717).jpg|thumb|Fuente de la Diana Cazadora]]
+Some of Mexico City's most renowned hotels are located in Zona Rosa.
+
+===Hostels===
+
+*{{sleep
+| name=Hostelling International Zona Rosa | url= | email=
+| address=Cerrada de Hamburgo # 156, building 5, Col. Juárez | lat= | long= | directions=slightly hidden, walk up Hamburgo and turn right into the alley after the 7-11
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Awesome location, very nice staff, within walking distance to the Metro at Insugentes.
+}}
+
+===Budget===
+* {{sleep
+| name=Royal Reforma | alt= | url=http://www.hotelroyalreforma.com/ | email=
+| address=Calle Amberes 78 | lat=19.424082636721923 | long=-99.1643142775086 | directions=
+| phone=+52 55 9149 3000 | tollfree= | fax=
+| checkin=15:00 | checkout=12:00 | price=M$1100
+| wikidata=
+| lastedit=2026-06-02
+| content=Moderate hotel that can be hit or miss depending on whether your room is on a recently renovated floor or not. Rooftop terrace with excellent city panoramas. 10-meter walk to Glorieta de los Insurgentes, which has a Metro station and Metrobus BRT stop.
+}}
+
+===Mid-range===
+*{{sleep
+| name=Royal Reforma | alt= | url=https://hotelroyalreforma.com/ | email=
+| address=Amberes 78, Col. Juárez | lat=19.424189 | long=-99.164223 | directions=
+| phone=+52 55 9149 3000 | tollfree=
+| checkin= | checkout= | price=US$80-120
+| content=A bit pricey if booked direct. Two in-house restaurants, as well as penthouse poolside bar. Standard room sizes, very clean, with TV, desk, and minibar (fee for minibar use). Free wi-fi throughout the hotel. Since the hotel is a 17-story tower, and the rooms are on floors 5 and up (ground-4th fl.: parking garage), street noise is not an issue.
+}}
+* {{sleep
+| name=Hotel El Ejecutivo | alt= | url=http://hotelelejecutivo.com.mx/ | email=info@hotelelejecutivo.com.mx
+| address=Calle Viena, 8 | lat=19.43082 | long=-99.15744 | directions=2 blocks from Paseo Reforma
+| phone=+52 5566 6422 | tollfree=01 800 444 1002 | fax=
+| checkin=15:00 | checkout=12:00 | price=
+| lastedit=2016-05-20
+| content=Excellent value for US$50 – must book on the website for this deal. It will cost over US$100 if you walk up. Just print your receipt and present it at the front desk. Rooms and restaurant are clean and in new condition. Bell hop (Mauricio) is very helpful with anything you need.
+}}
+*{{sleep
+| name=Hotel Geneve | alt= | url=http://www.hotelgeneve.com.mx | email=
+| address=Londres 130, Col. Juárez | lat=19.425427 | long=-99.163755 | directions=two blocks from Insurgentes metro station
+| phone=+52 55 5080 0800, +52 55 5080 0831 | tollfree=
+| checkin= | checkout= | price=
+| content=This top end hotel is in the heart of Zona Rosa, making it a prestigious address to stay in. While the hotel has been around since 1907, constant renovations maintain its luxurious interior with dark wood paneling and corkscrew Solomonic columns.
+}}
+*{{sleep
+| name=Holiday Inn Express | alt= | url=http://www.ichotelsgroup.com/h/d/ex/1/en/hotel/mexre | email=
+| address=Paseo de la Reforma 208 | lat=19.429410 | long=-99.161647 | directions=
+| phone=+52 55 9150 5900 | tollfree=
+| checkin= | checkout= | price=
+| content=Inexpensive but surprisingly good value with clean rooms, friendly staff and a great location, just across the street from the WTC. Price includes a free continental breakfast.
+}}
+*{{sleep
+| name=Hotel NH | alt= | url= | email=
+| address=Liverpool 155, Col. Juárez | lat=19.424369 | long=-99.165016 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=US$81
+| content=Modern hotel with a great location. First rate service and the staff are very professional. Hotel has an outdoor heated swimming pool, fitness center and wireless internet access.
+}}
+*{{sleep | name=Hotel Plaza Madrid | alt= | url=http://m.plazamadridhotel.com/ | email=plazamadrid@hotmail.com | address=C/ Madrid 15 | lat=19.43363 | long=-99.15673 | directions=Tabacalera; a couple blocks from Paseo Reforma | phone=+52 55 5705 0836 | tollfree= | fax= | checkin=13:00 | checkout=13:00 | price=From M$552 singles, M$592 doubles | lastedit=2016-05-20 | content=1970s Sheik Hotel. Free wi-fi in the lobby. Excellent breakfast buffet and full bar until 23:00.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Galeria Plaza | alt= | url=https://www.galeriaplazahotels.com.mx/en/reforma/ | email=
+| address=Hamburgo 195, Col. Juarez | lat=19.425304 | long=-99.167263 | directions=
+| phone=+52 55 5230 1717 | tollfree=
+| checkin=15:00 | checkout=14:00 | price=M$750
+| lastedit=2022-11-09
+| content=An elegant hotel that's a bit past its prime, but well maintained and at moderate prices, it can be a bargain. Rooftop pool, onsite restaurants. Short walk to Paseo de Reforma.
+}}
+*{{sleep | name=Sheraton María Isabel | alt= | url=http://www.sheratonmariaisabel.com/ | email= | address=Paseo de la Reforma 325, Col. Cuauhtémoc | lat=19.428194 | long=-99.166900 | directions=in the Plaza de la Independencia | phone=+52 55 5242 5555 | tollfree= | checkin= | checkout= | price= | content=Decent, but not impressive 4 star hotel located in the heart of Zona Rosa, next to the HSBC tower and facing "El Ángel" (Monumento a la Independencia) in the heart of the banking district. The bedrooms are of a good size and it has a good gym and pool.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Bristol | alt= | url= | email=
+| address=Plaza Necaxa 17, Cuauhtémoc | lat=19.431751 | long=-99.166690 | directions=
+| phone=+52 55 5533 6060 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=M$800
+| lastedit=2023-04-06
+| content=Older hotel in a quiet location a few blocks off Reforma. Some facilities are dated and cry out for renovation or maintenance, but large rooms, good location, and low prices compensate for any shortcomings.
+}}
+* {{sleep
+| name=Sofitel Mexico City Reforma | alt= | url=http://sofitel.accor.com/ | email=
+| address=Paseo de la Reforma 297 | lat=19.428676 | long=-99.166331 | directions=
+| phone=+52 55 8660 0500 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=
+| lastedit=2026-06-02
+| content=Upscale hotel with spacious, well-appointed rooms. On-site restaurant. Swimming pool with sauna and a small gym.
+}}
+
+===Splurge===
+
+*{{sleep
+| name=Le Méridien Mexico City | alt= | url=https://www.marriott.com/hotels/travel/mexdm-le-meridien-mexico-city/ | email=
+| address=Paseo de la Reforma 69, Col. Tabacalera | lat=19.433869 | long=-99.154275 | directions=
+| phone=+52 55 5061 3000 | tollfree=
+| checkin= | checkout= | price=
+| content=The suites are larger than average, with 2 large flat panel TVs in each room, and a spectacular view from the 17th floor. The building contains an indoor pool and the free breakfast is mouthwatering and delicious, with the cook preparing fresh and local treats. Price also includes 2 hours of free cocktails with light snacks every night.
+}}
+* {{sleep
+| name=Four Seasons Mexico City | alt= | url=http://www.fourseasons.com/mexico/ | email=
+| address=Paseo de la Reforma 500 | lat=19.423382 | long=-99.173803 | directions=
+| phone=+52 55 5230 1818 | tollfree=
+| checkin=15:00 | checkout=13:00 | price=M$10000+/night
+| lastedit=2022-11-09
+| content=Venerable luxury hotel set around a lushly landscaped courtyard. Full spa services, elegant dining rooms.
+}}
+*{{sleep
+| name=El patio 77 | alt= | url=http://www.elpatio77.com/ | email=elpatio77@gmail.com
+| address=García Icazbalceta, 77, Col San Rafael | lat=19.441769 | long=-99.164162 | directions=3 blocks from metro station San Cosme, line #2 blue
+| phone=+52 55 55928452, +52 15554550332 | tollfree=
+| checkin= | checkout= | price=M$1400+
+| content=El patio 77 is the first eco-friendly B&B in Mexico City. This only 8 rooms' eco-friendly B&B is a huge French style mansion from the 19th century.
+}}
+* {{sleep
+| name=Marquis Reforma | alt= | url=http://www.marquisreforma.com | email=divctos@marquisreforma.com
+| address=Paseo de la Reforma 465 | lat=19.42492 | long=-99.17349 | directions=Colonia Cuauhtémoc
+| phone=+52 55 5229 1200 x4152 | tollfree= | fax=+52 55 5229 1212
+| checkin= | checkout= | price=From M$4000
+| lastedit=2024-03-03
+| content=This 5-star hotel is one of Mexico City's finest. Built in the Art Deco style, it has an exclusive feel through its high standards of fittings and furnishings. Ice sculptures are frequently used as decorations in this area. There are excellent views to be had of the woods and castle of Chapultepec, as well as the Glorietta de Diana Cazadora.
+}}
+* {{sleep
+| name=St. Regis Mexico City | alt= | url= | email=
+| address=Av. Paseo de la Reforma 439, Cuauhtémoc | lat=19.426125 | long=-99.172119 | directions=
+| phone=+52 55 5228 1818 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$10000
+| lastedit=2023-04-06
+| content=High-end luxury hotel in a modern high-rise tower 2 blocks from the Angel de Independencia monument.
+}}
+
+==Connect==
+Cell phone services in Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of in Zona Rosa. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas, including the Glorieta de Insurgentes and nearby Chapultepec Park.
+
+
+{{usabledistrict}}
+{{geo|19.425797|-99.164150}}
+{{IsPartOf|Mexico City}}

@@ -1,0 +1,190 @@
+{{pagebanner|Esquilino-San_Giovanni_Wikivoyage_banner.jpg}}
+[[File:Facade San Giovanni in Laterano 2006-09-07.jpg|thumb|300px|San Giovanni in Laterano]]
+'''Esquilino''' and '''San Giovanni''' are adjacent neighborhoods in [[Rome]].
+
+'''Esquilino''' is named for the Esquiline hill on which it stands. It lies south of the Termini station and is centred more or less on the Piazza Vittorio Emmanuele II. It is now partly a Chinese immigrant neighbourhood, and specialty groceries and shoe stores abound. '''San Giovanni''' is named after the Basilica, which is the Roman Catholic cathedral of Rome. The area is south-east of the Esquiline.
+
+==Get in==
+{{Mapframe|41.89178|12.50712|width=600|height=600|zoom=15}}
+{{Mapmask|41.8832,12.5032|41.8832,12.5033|41.8835,12.5037|41.8838,12.5043|41.8838,12.5042|41.8840,12.5046|41.8840,12.5046|41.8840,12.5047|41.8841,12.5047|41.8842,12.5052|41.8845,12.5061|41.8849,12.5056|41.8851,12.5070|41.8851,12.5071|41.8856,12.5084|41.8856,12.5084|41.8856,12.5086|41.8856,12.5086|41.8857,12.5088|41.8857,12.5089|41.8858,12.5089|41.8860,12.5097|41.8860,12.5098|41.8860,12.5099|41.8860,12.5099|41.8864,12.5111|41.8865,12.5111|41.8866,12.5114|41.8865,12.5114|41.8865,12.5115|41.8866,12.5115|41.8867,12.5118|41.8866,12.5118|41.8867,12.5119|41.8867,12.5119|41.8868,12.5124|41.8868,12.5123|41.8869,12.5127|41.8870,12.5127|41.8872,12.5135|41.8872,12.5135|41.8872,12.5136|41.8872,12.5135|41.8873,12.5139|41.8873,12.5139|41.8873,12.5140|41.8873,12.5140|41.8876,12.5147|41.8874,12.5149|41.8873,12.5152|41.8874,12.5154|41.8876,12.5155|41.8876,12.5163|41.8878,12.5177|41.8882,12.5180|41.8882,12.5180|41.8891,12.5189|41.8892,12.5188|41.8891,12.5188|41.8894,12.5182|41.8895,12.5182|41.8895,12.5181|41.8895,12.5181|41.8904,12.5160|41.8905,12.5160|41.8905,12.5159|41.8905,12.5159|41.8907,12.5154|41.8907,12.5154|41.8909,12.5149|41.8918,12.5155|41.8919,12.5154|41.8921,12.5153|41.8926,12.5149|41.8929,12.5143|41.8940,12.5124|41.8935,12.5120|41.9008,12.4998|41.8983,12.4970|41.8982,12.4969|41.8969,12.4984|41.8969,12.4986|41.8970,12.4990|41.8968,12.4992|41.8920,12.5019|41.8872,12.5046|41.8871,12.5046|41.8870,12.5044|41.8869,12.5043|41.8867,12.5041|41.8864,12.5040|41.8856,12.5029|41.8832,12.5032}}
+{{mapshapes|Q237480}}
+
+Metro Line A connects {{marker|type=go|name=Termini|wikidata=Q754485}} {{rint|rome|a}} {{rint|rome|c}} station with the basilica of San Giovanni. There are also several buses from the downtown area, best caught at Piazza Venezia or at {{marker|type=go|name=Colosseo|wikidata=Q1229235}} {{rint|rome|b}} {{rint|rome|c}} station by the Colosseum, where you can connect with Metro Line B.
+
+Porta Maggiore can be considered the '''tram hub of Rome''', with four of the city's six remaining tram lines passing through. As such, any place in Rome that has a tram stop is connected to Porta Maggiore directly or with just one transfer.
+
+==See==
+* {{see
+| name=Santa Maria Maggiore | alt= | url=http://www.vatican.va/various/basiliche/sm_maggiore/index_fr.html | email=
+| address=Via Liberiana 27 | lat=41.8975 | long=12.498611 | directions=
+| phone=+39 06483195 | tollfree=
+| hours= | price=
+| wikipedia=Basilica di Santa Maria Maggiore | image=Santa maria maggiore 051218-01.JPG | wikidata=Q186282
+| content=Built in the 9th century, this ancient basilica crowns the top of the Esquiline Hill. Tons of gold decorate the interior together with impressive mosaics (particularly when the floodlights are turned on), and there is a museum on the premises. If you are in Rome on Corpus Christi (Corpus Domini), which is the Thursday after the 8th Sunday after Easter, an early-evening service is held in San Giovanni by the Pope followed by a procession along Via Merulana to Santa Maria. Good opportunity for a close up view of the Pope. <br /><br />This is a very large church with lots to see, as for example, the main part of the church has two layers of mosaics and paintings high on the walls, the altar and apse are spectacular, and then there are several more or less large chapels you won't want to miss, including the one with the amazing golden baptismal font. Allow at least an hour if not an hour and a half or more to visit the interior, even if you do not take any special tours, and also allow time to view the exterior from all sides. Overall, at least 2 hours would not be too much time to allot.
+}}
+* {{see
+| name=San Giovanni in Laterano | alt= | url=http://www.vatican.va/various/basiliche/san_giovanni/index_it.htm | email=
+| address=Piazza di San Giovanni Laterano | lat=41.885906 | long=12.506156 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Archbasilica of St. John Lateran | image=Facade San Giovanni in Laterano 2006-09-07.jpg | wikidata=Q84090
+| content=This is the cathedral church of Rome and first of the major basilicas. It's also the Pope's (as Bishop of Rome) Church. As such it ranks above all other churches in the Roman Catholic Church, even above St. Peter's. Be sure to check out the 4th-century baptistery (still in use - in Piazza di San Giovanni, slightly apart from the main basilica) and the medieval cloister (brilliant Cosmati columns)
+}}
+* {{see
+| name=Scala Sancta | alt= | url=http://www.scala-santa.it/ {{dead link|December 2020}} | email=
+| address= | lat=41.88722 | long=12.50694 | directions=North-east of the basilica, across the road
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Scala Sancta | image=Scala Santa 1.jpg | wikidata=Q1768461
+| content=The Scala Sancta (Holy Stairs) is, according to Roman Catholic tradition, the staircase used by Jesus Christ to approach Pontius Pilate to be sentenced to death. Attracts numerous pilgrims who climb the stairs on their knees.
+}}
+[[Image:San giovanni baptistry.jpg|thumb|200px|The Baptistery of San Giovanni: Superb inside!]]
+* {{see
+| name=Santa Croce in Gerusalemme | alt= | url=http://www.santacroceroma.it/ | email=
+| address=Piazza Santa Croce in Gerusalemme, 12 | lat=41.887778 | long=12.516389 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Santa Croce in Gerusalemme | image=Santa Croce in Gerusalemme facade.jpg | wikidata=Q685940
+| content=It was constructed to hold relics of the Passion of Jesus. They include two thorns of his crown, part of a nail and three small wooden pieces of the Cross. The authenticity of these relics is much disputed, however.
+}}
+* {{see | name=National Museum of Musical Instruments | alt=Museo Nazionale degli Strumenti Musicali | url=http://museostrumentimusicali.beniculturali.it/ | email= | address=Piazza Santa Croce in Gerusalemme, 9/A | lat=41.8889 | long=12.5147 | directions= | phone= | tollfree= | fax= | hours=Tue-Sun 09:00-19:00, Mon closed (ticket office closes 30 min earlier) | price=€5 adults, €2.50 concessions | wikipedia=Museo nazionale degli strumenti musicali | image=Piano-forte Erard 1781.JPG | wikidata=Q954216 | lastedit=2016-02-24 | content=Next door to Santa Croce. A collection of around 3000 pieces, although only a third of these are displayed.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo della Liberazione | alt= | url=http://www.viatasso.eu/ | email=
+| address=Via Tasso 145 | lat=41.888521 | long=12.506449 | directions=Manzoni metro station on Line A
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 09:00-13:15, 14:15-20:00; Sat Sun holidays 09:00-20:00 (last entry: 19:15) | price=Free
+| wikipedia=Museum of the Liberation of Rome | image=Museo di Via Tasso - first floor hall.jpg | wikidata=Q3868477
+| lastedit=2019-05-23
+| content=This small museum records the liberation of Rome from German occupation during the Second World War. During the occupation the building was used as a prison. Stair lifts and chair lifts available for wheelchair users (call ahead).
+}}
+[[Image:San Giovanni1.jpg|thumb|200px| Old meets "new" in Piazza San Giovanni]]
+*{{see
+| name=Porta Maggiore | alt= | url= | email=
+| address= | lat=41.891457 | long=12.515242 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Porta Maggiore | image=Porta Maggiore 030106.JPG | wikidata=Q751318
+| content=Impressive gate built by Claudius in AD 52 and formed by the arches of two aqueducts. It was subsequently incorporated into the Aurelian walls. Nearby is the "Baker's tomb", erected for himself and his wife by a freed slave who became a rich baker. Note the friezes round the top representing the stages of breadmaking.
+}}
+
+==Do==
+Movies are shown and some performances are held for free in Piazza Vittorio during the summer.
+
+==Buy==
+* {{buy
+| name=Mercato Esquilino | alt= | url= | email=
+| address= | lat=41.89579 | long=12.50612 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An indoor market of ancient provenance that has moved from its longtime outdoor home all the way round the outside of Piazza Vittorio; it is still only a couple of blocks east of the piazza. The mercato is divided into a food section, with good and cheap produce, meat, and fish, and a clothing section, with clothes of all kinds, shoes, luggage, etc., at low prices and generally not fabulous quality. Get there in the morning for food; it's generally closed by afternoon.
+}}
+
+==Eat==
+[[File:Interior of Santa Maria Maggiore (Rome).jpg|thumb|Nave of Santa Maria Maggiore]]
+There are a lot of Chinese and Indian restaurants, but you will also find many typical ''trattorie''.
+
+* {{eat | name=Palazzo del Freddo | alt=Gelateria Fassi | url=http://www.palazzodelfreddo.it/uk/index.htm | email= | address=Via Principe Eugenio 65 | lat=41.89365 | long=12.50789 | directions=just south-east of Piazza Vittorio Emanuele | phone=+39 06 4464740 | tollfree= | fax= | hours= | price= | content=Ice cream: not as marvellous as Giolitti or San Crispino but still worth trying. Prices are reasonable, quality good. Old ice cream making equipment on display.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Ristorante Baia Chia | alt= | url=http://www.ristorantebaiachia.it/ | email=
+| address=via Machiavelli 5 | lat=41.89167 | long=12.50245 | directions=corner of Via Machiavelli and Via Merulana
+| phone= | tollfree= | fax=
+| hours=closed Sundays | price=
+| content=Good value Sardinian fish restaurant. Seafood antipasto, three pasta dishes, grilled fish and dessert for around €40. Don't try to order, just let them bring it to your table. Excellent Sardinian wines extra.
+}}
+*{{eat
+| name=Panella L’Arte del Pane | alt= | url=http://www.panellaroma.com/ | email=
+| address=Via Merulana 54 | lat=41.89425 | long=12.50089 | directions=5 mins from Santa Maria Maggiore
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Very upmarket (with matching prices) baker. Great window displays but you may find the taste doesn't match the appearance.
+}}
+* {{eat
+| name=Aquila Nera, Ristorante Pizzeria | url= | email=
+| address=Via Principe Amedeo 49-5 | lat=41.89904 | long=12.49975 | directions=near Via Cavour and Termini station, close to the corner of Via Amedeo and Via Daniele Manin, next to Hotel California
+| phone= | tollfree= | fax=
+| hours= | price=€25-35 for dinner including wine and bottled water
+| content=A street side restaurant with excellent food, attentive service and warm atmosphere.  Eat outside or inside, depending on the weather.  Try the fish fillet baked in potato which should please anyone who likes fish - it is excellent.  Their marketing says they are a pub, perhaps to pull in tourists hankering after home but this is an Italian restaurant.  The waiters hustle passers by into becoming satisfied diners. The white table cloths, linen and cutlery are presentable.  The menu is varied and does not stress pizza, though they do have it.  There are a variety of meat and fish dishes and pasta.  The house wine is modest but good value.  There seems to be no wine list.
+}}
+
+==Drink==
+
+==Sleep==
+[[File:Mosaic of Santa Croce in Gerusalemme (Rome).jpg|thumb|Ceiling mosaic of Santa Croce in Gerusalemme]]
+
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS' DISCRETION,
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES
+-->
+
+===Budget===
+* {{sleep
+| name=Domus Ferruccio | alt= | url=https://domusferruccio.com/ | email=info@domusferruccio.com
+| address=Via Ferruccio 44 | lat=41.8928398 | long=12.5040051 | directions=2 min walk from Vittorio Emanuele metro (Line A), 10 min from Termini
+| phone=+39 327 236 9135 | tollfree= | fax=
+| checkin=14:00 | checkout=11:00 | price=€60-160
+| lastedit=2026-09-26
+| content=Seven-room guesthouse in a 19th-century building, with a two-room annex around the corner on Via Conte Verde. All rooms have a private bathroom, air conditioning and Wi-Fi; shared kitchen, washing machine, lift and roof terrace. The host meets guests on arrival; self check-in after 22:00. Guests must be 10 or older, unless the whole annex is booked.
+}}
+* {{sleep
+| name=Dream Station B&B | alt= | url=http://www.dreamstation.it | email=roma.dreamstation@gmail.com
+| address=Via Giolitti 119 | lat= | long= | directions=
+| phone= | tollfree=
+| checkin=14:00 | checkout=11:00 | price=€44-119
+| lastedit=2026-01-30
+| content=Bathroom ensuite, free Wi-Fi, air conditioning.
+}}
+* {{sleep
+| name=Hotel Taormina | alt= | url=http://www.hoteltaormina.net | email=
+| address=Via Principe Eugenio, 51 | lat=41.893699 | long=12.507692 | directions=
+| phone=+39 06 4464754 | tollfree=
+| checkin= | checkout= | price=€60 for a double/twin, €75 for a triple and €40 for a single
+| content=Large two-star hotel of with 51 bedrooms divided in single, double, twin and triple. All rooms with private bath, flat screen TV and air conditioning.
+}}
+* {{sleep
+| name=Mosaic Hostel | alt= | url=http://www.hostelmosaic.com | email=
+| address=Via Carlo Cattaneo 23, 1st Floor, | lat=41.906521 | long=12.500441 | directions=
+| phone=+39 06 4470 4592 | tollfree=
+| checkin= | checkout= | price=€20-26
+| content=A dorm-style hostel.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hilton Garden Inn Rome Colosseum | alt= | url=https://www.hilton.com/en/hotels/ciaiygi-hilton-garden-inn-rome-colosseum/?SEO_id=GMB-EMEA-GI-CIAIYGI | email=
+| address=Via Emanuele Filiberto 173 | lat=41.889892 | long=12.506742 | directions=
+| phone=+39 06-770121 | tollfree= | fax=+39 06-7008740
+| checkin= | checkout= | price=From €123 including breakfast
+| content=Housed in a modern building in very a central position. Wifi, Pay and sat TV are among each bedroom facilities.
+}}
+
+<!-- ===Splurge===-->
+
+==Go next==
+* [[Rome/Nomentano]] &mdash; for the nearby Porta Maggiore
+
+{{routebox
+| image1=Metropolitana di Roma - logo linea A.svg
+| imagesize1=33
+| caption1=Rome Metro Line A
+| directionl1=W
+| majorl1=[[Rome/North|North Rome]]
+| minorl1=[[Rome/Modern Center|Modern Center]]
+| directionr1=E
+| majorr1=END
+| minorr1=[[Rome/South|South Rome]]
+}}
+
+{{geo|41.895556|12.496667}}
+{{IsPartOf|Rome}}
+{{usabledistrict}}
+{{RelatedWikipedia|Esquiline Hill|rel=y}}

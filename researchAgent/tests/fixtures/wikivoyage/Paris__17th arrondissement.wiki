@@ -1,0 +1,205 @@
+{{pagebanner|Paris 17e Wikivoyage Banner.png|pgname=17th arrondissement}}
+
+The '''17th arrondissement''' of Paris lies (slightly) off the beaten path, directly north of the Arc de Triomphe. If you want to see Paris at some of its finest, wealthiest, and most eclectic, this is the place to go. There are no major sights to see or museums to visit, just amazing Haussmannian architecture, countless restaurants, and that quintessential Parisian atmosphere you always imagined.
+
+But beyond this postcard introduction, the neighborhoods that make up the 17th arrondissement have different characteristics. The southwestern areas, commonly referred to as ''Wagram-Monceau-Ternes'', feel like an extension of the Champs Élysées and 16th arrondissement, with high-end shopping galore and fancy apartments. The central area of ''Batignolles'' is quite different, with a grungy bohemian feel, lots of bars and bistros which are popular with ''bobos'' (short for ''bohemian-bourgeois'' aka "hipsters") from the 17th and elsewhere, and plenty of green spaces. Finally, the Épinettes neighbourhood, at the eastern end, is more "rough around the edges" and has quite a lot in common with the neighbouring 18th arrondissement, but still offers a plethora of ethnic cuisines, cheap stores, and excellent bars.
+
+==Get in==
+[[File:L'escalier du Palais des Congrés à Paris.jpg|thumb|250x250px|Palais des Congrès]]
+
+===By plane===
+Although the 17th is not particularly close to any of the Paris airports, it is there where airport buses from [[Charles de Gaulle Airport]] (Les Cars Airfrance) and Beauvais-Tille Airport (the official shuttle bus) land, stopping at Porte Maillot (Les Cars also stop at Place de l'Étoile). If you want to start exploring right after getting off your airport shuttle bus, or head to the hotel without having to transfer further, the 17th is where you can start your Paris adventure.
+
+===By Transiliens===
+The suburban Transilien train lines J and L cross the district on their way to ''Gare Saint-Lazare'', but only Transilien J stops within the 17th at ''Pont-Cardinet''. If you arrive on Transilien L, you have to go back a short distance from ''Saint-Lazare'' to find yourself in the 17th.
+
+[[File:RER CDG Station, Paris December 2006.jpg|thumbnail|right|The Charles de Gaulle station of the RER welcomes one with retrofuturistic chic]]
+===By RER===
+RER lines A and C cross in the 17th, but do not share a common station - the Line A runs from west to east along the southern boundary of the district, with a station at ''Place Charles de Gaulle'', while the Line C runs from South to North closer to the western border of the district with stops at ''Neuilly – Porte Maillot'', ''Pereire – Levallois'' and ''Porte de Clichy''.
+
+===By Métro===
+Line 1 has stops at Charles de Gaulle - Étoile and Porte Maillot. 
+
+Line 2 has stops at Charles de Gaulle - Étoile, Ternes, Courcelles, Monceau, Villiers, Rome, and Place de Clichy. 
+
+Line 3 has stops at Porte de Champerret, Pereire, Wagram, Malesherbes, and Villiers.
+
+Line 6 has a stop at Charles de Gaulle - Étoile.
+
+Line 13 has stops at Porte de Clichy, Brochant, Porte de Saint-Ouen, Guy Môquet, La Fourche, and Place de Clichy. 
+
+Line 14 has stops at Pont-Cardinet and Porte de Clichy.
+
+==See==
+Make sure you admire the many '''luxurious townhouses''' along the avenues, and relax in hidden small parks and squares sprinkled throughout the area. Many of Paris's upper class live in this district, and the architecture proudly shows this!
+
+* {{See|name=Parc Clichy Batignolles Martin Luther King|url=https://www.paris.fr/lieux/parc-clichy-batignolles-martin-luther-king-2817|address=147 rue Cardinet|lat=48.8913|long=2.3143|directions=between the stations Pont Cardinet, Brochant and Porte de Clichy|hours=Mon-Fri 07:00-21:30; Sat Sun 08:00-21:30|price=Free|lastedit=2026-06-18|content=The largest park in the 17th, completed in 2020. It has various installations for kids and sports. It's a good spot to see flowering trees during spring.|image=Parc Martin Luther King - Eolienne.jpg|wikidata=Q2739499}}
+* {{See|name=Château des Ternes|address=17 Rue Pierre Demours|lat=48.8807|long=2.2932|directions=close to the Ternes metro station|lastedit=2026-06-18|content=The last remains of a castle dating from the 16th century|image=Paris 17 - Château des Ternes -364.JPG|wikidata=Q15940143}}
+
+==Do==
+* {{do
+| name=Le Palais des Congrès de Paris | alt= | url=https://www.viparis.com/nos-lieux/palais-des-congres-de-paris | email=
+| address=2 Place de la Porte Maillot | lat=48.879162 | long=2.283469 | directions=accessible from the Porte Maillot station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palais des congrès de Paris | image=| wikidata=Q1781591
+|lastedit=2026-06-19| content=A large convention center and concert venue.
+}}
+
+==Buy==
+*{{buy
+| name=Marché des Batignolles | alt= | url=https://www.paris.fr/lieux/marche-couvert-batignolles-5517 | email=
+| address=31 Rue des Moines | lat=48.8893 | long=2.3197 | directions=close to the Brochant metro station
+| phone= | tollfree=
+| hours=Tue-Fri 08:30-14:00 and 16ː00-20:30, Sat 08:30-20:30, Sun 08:30-14:00 | price=
+| lastedit=2026-06-19
+| content=This covered market is known for its organic produce, and has fish and meat and a supermarket (G20) as well.
+}}
+*{{Buy|name=Marché Poncelet|address=Rue Poncelet|directions=near the Ternes metro station|lat=48.8794|long=2.2976|hours=Tue-Sat 09:00-19:00, Sun 09:00-12:00|lastedit=2026-06-19|content=A shopping streets with many stalls and small shops.}}
+*{{Buy|name=Marché de Lévis|url=https://www.marchedelevis.com/|address=Rue de Lévis|directions=close to the Villiers metro station|lat=48.8825|long=2.3151|lastedit=2026-06-19|content=A famous shopping street with more than 80 stalls and shops.}}
+
+==Eat==
+[[File:Le Petit Poucet, 5 Place de Clichy, 75017 Paris 2012.jpg|thumbnail|right|The typical bistros that Paris is famous for grace almost every corner in the 17th arrondissement, and can be enjoyed without the touristy atmosphere found elsewhere]]
+Though the diversity of cuisine is definitely a notch below the rest of Paris, the 17th arrondissement represents probably the best opportunity to experience true Parisian and French food. The area does house some of the finest Algerian and World cuisine in Paris. If you want a twist on French wine and food, go try some!
+* {{eat | name=Brasserie Wepler | alt= | url=http://www.wepler.com | email= | address=14, Place de Clichy | lat=48.8838 | long=2.3275 | directions=Metro Place de Clichy | phone=+33 1 45 22 13 42 | tollfree= | hours= | price=Menu from €27 | lastedit=2026-08-01 | content=Excellent service, open late, seafood specialities. It is closed for renovations.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{Eat|name=Restaurant Brigitte|url=https://www.restaurantbrigitte.fr/|address=16 avenue de Villiers|lat=48.8820|long=2.3139|directions=Between the Villiers and Malesherbes metro stations|phone=+33 1 47 63 25 61|hours=Mon-Sat 12:00-14:30 then 19:30-22:30, Sun 12:00-14:30 then 19:30-22:00|price=Meals between 25€ and 95€|lastedit=2026-08-15|content=Finely prepared french cuisine served in a fancy bistrot environment. One of the notable point of this restaurant is their large collection of Chartreuse liquors.}}
+* {{Eat|name=A Jean Bart|url=https://brasserie-ajeanbart.eatbu.com/|address=2 rue Jouffroy D'abbans|lat=48.8873|long=2.3134|directions=Opposite of the Pont Cardinet train station|phone=+33 1 47 63 23 46|hours=Sun-Fri 07:00-01:00|price=Meals between 15€ and 35€|lastedit=2026-08-15|content=A typical Parisian brasserie, with all the classic food options. Croques monsieur are available at the counter.}}
+
+==Drink==
+*{{drink
+| name=Le Bar Belge | url= | email=
+| address=75 avenue de Saint Ouen | lat=48.8924 | long=2.3270 | directions=Métro Guy Moquet
+| phone=+33 1 46 27 41 01 | tollfree= | fax=
+| hours=Mon-Sat 06:00-02:00, Sun 10:00-02:00 | price=
+|lastedit=2026-08-01| content=Opened in 1954 as Paris was finally recovering from the occupation, the Bar Belge serves dozens of different Belgian beers, ales, and lambics in a locals-dominated, but very friendly room. They also have ''Vlaams Frites'', the original "french" fries. Free Wi-Fi.}}
+*{{drink
+| name=Les Caves Populaires | url= | email=
+| address=22, rue des Dames | lat=48.8848 | long=2.3245 | directions=Métro Place de Clichy
+| phone=+33 1 53 04 08 32 | tollfree= | fax=
+| hours=Daily 08:30-02ː00 | price=
+|lastedit=2026-08-01| content=A major bobo hangout, this one specialises in wine as opposed to the more beer-oriented Lush.}}
+
+{{mapframe|layer=W}}
+
+*
+*{{drink
+| name=Lush | url= | email=
+| address=16, rue des Dames | lat=48.8852 | long=2.3252 | directions=Métro Place de Clichy
+| phone=+33 1 43 87 49 46 | tollfree= | fax=
+| hours=Daily 17:00-02:00 | price=
+|lastedit=2026-08-01| content=Grungy atmosphere and a well thought out selection of beers and tunes have made this a popular space with the bobo crowd. There's not much in the way of furniture, so it's standing room only when the place gets hopping. Of course that means you can fit more hipsters per square metre.}}
+
+==Sleep==
+[[File:Panorama Concorde Lafayette south.jpg|thumbnail|right|View of Paris from the Hyatt Regency hotel]]
+Hotels and other accommodation facilities in the 17th are mostly to be found clustered at the extremities of the arrondissement, near the attractions - the Place de l'Étoile the Palais du Congress and Place de Clichy (Montmartre). Those provide reasonable connections to the rest of Paris, especially Place de l'Étoile. While cheaper accommodation can be found deeper into the 17th, do make sure that it has effective transportation connections you will need to visit your points of interest.
+
+===Budget===
+
+===Mid-range===
+* {{sleep
+| name=Hôtel Acacias Etoile | alt= | url=https://www.arcotel-acaciasetoile.com/en/ | email=contact@acaciasetoile.fr
+| address=11 rue des Acacias | lat=48.87661 | long=2.2908 | directions=Métro Argentine
+| phone=+33 1 43 80 60 22 | tollfree= | fax=+33 1 48 88 96 40
+| checkin= | checkout= | price=€100-250; breakfast is €12 extra
+|lastedit=2026-08-01| content=A clean, well-run hotel in the side streets near Place Charles de Gaulle. The staff is friendly, the rooms aren't large, but they are immaculate.
+}}
+* {{sleep
+| name=Mercure Paris Arc de Triomphe Etoile | alt= | url=https://all.accor.com/hotel/0372/index.en.shtml | email=
+| address=27, avenue des Ternes | lat=48.87829 | long=2.29498 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=€180-250
+|lastedit=2026-08-01| content=Modern rooms featuring frosted glass and stiff curtain dividers between sleeping areas and bathrooms, which may not be to everybody's liking. The most expensive rooms enjoy terraces with views over the 17th all the way to La Défense.
+}}
+* {{sleep
+| name=Novotel Paris 17 Porte d'Asnières | alt= | url=https://all.accor.com/hotel/4987/index.en.shtml | email=
+| address=34, avenue Porte d'Asnières| lat=48.89194 | long=2.30240 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=€145-200
+|lastedit=2026-08-01| content=A typical Novotel in a faraway corner of the 17th, not really close to anything nor particularly conveniently located.
+}}
+* {{sleep
+| name=Hotel L'Eldorado | alt= | url=https://hoteleldoradoparis.com/ | email=
+| address=18, rue des Dames | lat=48.88501 | long=2.32492 | directions=Métro Place de Clichy
+| phone=+33 1 45 22 35 21 | tollfree= | fax=
+| checkin= | checkout= | price=€150-250
+|lastedit=2026-08-01| content=A former ''maison de rendez-vous'', a home to the kept women of the 19th century bourgeois. Now a 4-star hotel.
+}}
+
+[[File:Renaissance Arc De Triomphe Paris Room 416 n03.jpg|thumbnail|right|The 17th arrondissement has perhaps the largest supply of modern-style, large hotel rooms in entire Paris]]
+
+===Splurge===
+* {{sleep | name=Hyatt Regency Paris Étoile | alt=former Concorde Lafayette | url=https://www.hyatt.com/en-US/hotel/france/hyatt-regency-paris-etoile/parhr | email= | address=3, place du Général Kœnig | lat=48.880556 | long=2.284444 | directions=Métro Porte Maillot | phone=+33 1 40 68 12 34 | tollfree= | checkin= | checkout= | price=€250-500 | wikidata=Q3142395 | lastedit=2026-08-01 | content=The tallest hotel in Paris is the lone skyscraper in the northwest of Paris, adjacent to the Palais du Congres. It enjoys an unobstructed line of sight towards the Eiffel Tower from the rooms facing it and its top-floor bar. After Hyatt took over the property, it is being gradually updated, but still not entirely up to the best Hyatt worldwide standards.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Le Méridien Paris Arc de Triomphe | alt= | url=https://www.marriott.com/en-us/hotels/parmd-le-meridien-paris-arc-de-triomphe/overview/ | email=standard@lemeridienparis.com
+| address=81 boulevard Gouvion Saint Cyr | lat=48.8794 | long=2.285 | directions=metro/RER Porte Maillot
+| phone=+33 1 40 68 34 34 | tollfree=+33 1 40 68 34 34
+|fax=+33 1 40 68 34 75| checkin= | checkout= | price=€200-300
+| wikidata=Q3224950
+|lastedit=2026-08-01| content=The first Le Meridien in the world, built in 1972 to cater for Air France passengers arriving on the newly-acquired widebody jets. Behind the distinctive 1970s facade are updated rooms and common areas with contemporary design and facilities. The hotel faces the Palais du Congres and caters mostly for business travellers. This is the largest hotel by room count in Paris, with 1,025 rooms of various types. The less expensive Classic and Deluxe rooms have more dated decor, the Urban and Executive rooms have been thoroughly updated to 21st century standards.
+}}
+* {{sleep
+| name=Renaissance Paris Arc de Triomphe | alt= | url=https://www.marriott.com/en-us/hotels/parwg-renaissance-paris-arc-de-triomphe-hotel/overview/ | email=reception@renaissanceparisarc.com
+| address=39 Avenue de Wagram | lat=48.87708 | long=2.29714 | directions=Métro Charles de Gaulle-Étoile
+| phone= | tollfree=+33 1 55 37 55 37 | fax=+33 1 55 37 55 38
+| checkin= | checkout= | price=€430-475
+|lastedit=2026-08-01| content=The Renaissance is a thoroughly modern property with floor-to-ceiling windows in the posh Avenue Wagram, just a short walk from Place de l'Étoile. The building was designed by the same Christian de Portzamparc who gave the Palais du Congres its current appearance.
+}}
+
+==Connect==
+* {{listing
+| name=Le Bar Belge | url= | email=
+| address= | lat= | long= | directions=see Drink listing
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Free Wi-Fi for customers.}}
+
+==Go next==
+{{routebox
+| image1=Paris Metro 1.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/La Défense|La Défense]]
+| minorl1=[[Paris/16th arrondissement|16th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorr1=[[Paris/8th arrondissement|8th arrondissement]]
+
+| image2=Paris m 2 jms.svg
+| imagesize2=22
+| directionl2=W
+| majorl2=[[Paris/16th arrondissement|16th arrondissement]]
+| minorl2=
+| directionr2=E
+| majorr2=[[Paris/11th arrondissement|11th arrondissement]]
+| minorr2='''[[Paris/18th arrondissement|18th arrondissement]]'''
+
+| image3=Paris m 3 jms.svg
+| imagesize3=22
+| directionl3=W
+| majorl3=[[Levallois-Perret]]
+| minorl3=
+| directionr3=E
+| majorr3=[[Paris/2nd arrondissement|2nd arrondissement]]
+| minorr3=[[Paris/8th arrondissement|8th arrondissement]]
+}}
+
+{{usabledistrict}}
+{{geo|48.8869|2.3088|zoom=14}}
+{{IsPartOf|Paris}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Mapmask |48.8875,2.3256 |48.9010,2.3301 |48.9010,2.3302 |48.9008,2.3216 |48.9008,2.3204 |48.8997,2.3187 |48.8996,2.3185 |48.8981,2.3134 |48.8978,2.3123 |48.8960,2.3077 |48.8960,2.3076 |48.8902,2.2956 |48.8899,2.2950 |48.8895,2.2917 |48.8895,2.2915 |48.8867,2.2860 |48.8866,2.2857 |48.8831,2.2812 |48.8829,2.2809 |48.8787,2.2800 |48.8787,2.2798 |48.8742,2.2938 |48.8738,2.2950 |48.8778,2.2980 |48.8781,2.2982 |48.8796,2.3054 |48.8803,2.3086 |48.8813,2.3165 |48.8813,2.3167 |48.8835,2.3272 |48.8835,2.3274 |48.8875,2.3256}}

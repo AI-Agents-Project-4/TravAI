@@ -1,0 +1,2823 @@
+{
+  "request_id": "group-of-four",
+  "status": "ok",
+  "generated_at": "2026-11-22T21:20:38Z",
+  "currency": "USD",
+  "advisories": [
+    {
+      "level": "normal",
+      "region": "Iceland",
+      "summary": "Exercise normal precaution in Iceland . Iceland is generally a safe destination for travelers. Iceland regularly experiences quickly changing weather, dangerous natural features, active volcanoes, and earthquakes. Review our information on weather and natural disasters in Iceland. Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings. Most crimes against f",
+      "map_data_reliability": "good",
+      "source_url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isl.html",
+      "retrieved_at": "2026-11-22T21:20:38Z"
+    }
+  ],
+  "flights": [
+    {
+      "id": "fl-9ce287b6c38c47",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "SEA",
+          "to": "DTW",
+          "depart_at": "2027-09-08T09:40:00",
+          "arrive_at": "2027-09-08T17:01:00",
+          "carrier": "Delta",
+          "flight_number": "DL2324"
+        },
+        {
+          "from": "DTW",
+          "to": "KEF",
+          "depart_at": "2027-09-08T21:59:00",
+          "arrive_at": "2027-09-09T07:40:00",
+          "carrier": "Delta",
+          "flight_number": "DL342"
+        },
+        {
+          "from": "KEF",
+          "to": "JFK",
+          "depart_at": "2027-09-14T11:25:00",
+          "arrive_at": "2027-09-14T13:27:00",
+          "carrier": "Delta",
+          "flight_number": "DL247"
+        },
+        {
+          "from": "JFK",
+          "to": "SEA",
+          "depart_at": "2027-09-14T16:00:00",
+          "arrive_at": "2027-09-14T19:23:00",
+          "carrier": "Delta",
+          "flight_number": "DL740"
+        }
+      ],
+      "duration_minutes": 1798,
+      "stops": 2,
+      "cabin": "economy",
+      "price": {
+        "amount": 2925.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:25:35.774874Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.klm.nl/exchange/deeplink?country=US&language=en&target=/search/landing/metasearch&tp=2924.36&curr=USD&deviationValue=5&connections=SEA:A:20270908@0940:KL7578:T:TKN00LBR:ECONOMY%3EDTW:A:20270908@2159:KL6175:T:TKN00LBR:ECONOMY%3EKEF:A-KEF:A:20270914@1125:KL6044:T:TKN00LBR:ECONOMY%3EJFK:A:20270914@1600:KL5613:T:TKN00LBR:ECONOMY%3ESEA:A&pax=4:0:0:0:0:0:0:0&cabinClass=ECONOMY&mp=GO&msp=GoogleFlights&utm_source=GoogleFlights&utm_medium=Metasearch&utm_campaign=US_en_C_AlwaysOn&utm_content=SLS_Organic_Unknown&utm_term=Unknown",
+        "provider": "ignav:KLM"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 2
+    },
+    {
+      "id": "fl-5b2d748da9e445",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "SEA",
+          "to": "DTW",
+          "depart_at": "2027-09-08T09:40:00",
+          "arrive_at": "2027-09-08T17:01:00",
+          "carrier": "Delta",
+          "flight_number": "DL2324"
+        },
+        {
+          "from": "DTW",
+          "to": "KEF",
+          "depart_at": "2027-09-08T21:59:00",
+          "arrive_at": "2027-09-09T07:40:00",
+          "carrier": "Delta",
+          "flight_number": "DL342"
+        },
+        {
+          "from": "KEF",
+          "to": "JFK",
+          "depart_at": "2027-09-14T11:25:00",
+          "arrive_at": "2027-09-14T13:27:00",
+          "carrier": "Delta",
+          "flight_number": "DL247"
+        },
+        {
+          "from": "JFK",
+          "to": "SEA",
+          "depart_at": "2027-09-14T18:30:00",
+          "arrive_at": "2027-09-14T22:02:00",
+          "carrier": "Delta",
+          "flight_number": "DL688"
+        }
+      ],
+      "duration_minutes": 1957,
+      "stops": 2,
+      "cabin": "economy",
+      "price": {
+        "amount": 2925.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:25:35.774874Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.klm.nl/exchange/deeplink?country=US&language=en&target=/search/landing/metasearch&tp=2924.36&curr=USD&deviationValue=5&connections=SEA:A:20270908@0940:KL7578:T:TKN00LBR:ECONOMY%3EDTW:A:20270908@2159:KL6175:T:TKN00LBR:ECONOMY%3EKEF:A-KEF:A:20270914@1125:KL6044:T:TKN00LBR:ECONOMY%3EJFK:A:20270914@1830:KL5611:T:TKN00LBR:ECONOMY%3ESEA:A&pax=4:0:0:0:0:0:0:0&cabinClass=ECONOMY&mp=GO&msp=GoogleFlights&utm_source=GoogleFlights&utm_medium=Metasearch&utm_campaign=US_en_C_AlwaysOn&utm_content=SLS_Organic_Unknown&utm_term=Unknown",
+        "provider": "ignav:KLM"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 2
+    },
+    {
+      "id": "fl-dd387515168c46",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "SEA",
+          "to": "KEF",
+          "depart_at": "2027-09-08T19:00:00",
+          "arrive_at": "2027-09-09T09:25:00",
+          "carrier": "Icelandair",
+          "flight_number": "FI682"
+        },
+        {
+          "from": "KEF",
+          "to": "SEA",
+          "depart_at": "2027-09-14T10:40:00",
+          "arrive_at": "2027-09-14T11:45:00",
+          "carrier": "Icelandair",
+          "flight_number": "FI685"
+        }
+      ],
+      "duration_minutes": 930,
+      "stops": 0,
+      "cabin": "economy",
+      "price": {
+        "amount": 2974.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:25:35.774874Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://api.icelandair.com/booking/selectAirOffer/?Adult=4&PointOfSaleCountry=US&DisplayedPrice=2973.96&DisplayedPriceCurrency=USD&UserLanguage=en&UserCurrency=USD&TripType=RoundTrip&Slice1=1&Slice2=2&FareFamily1=LIGHT&Carrier1=FI&DepartureDate1=2027-09-08&Origin1=SEA&Destination1=KEF&FlightNumber1=682&FareFamily2=LIGHT&Carrier2=FI&DepartureDate2=2027-09-14&Origin2=KEF&Destination2=SEA&FlightNumber2=685&gclid=AAcRjHJQ_rDJVJcueCiTeRyG3kR9SaJypf5ZOOZMwvVtA3vi8-Rs0aS3IQvkmq1WqNu6EYk5ElVOw-eS0Y0TF9DmRj9rTd2L3vZZZdrZpMol4D79QBs&gclsrc=gf",
+        "provider": "ignav:Icelandair"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 1
+    }
+  ],
+  "lodging": [
+    {
+      "id": "ho-ChoQ0JP1wpnG85",
+      "name": "Castle House Luxury Apartments",
+      "type": "apartment",
+      "location": {
+        "lat": 64.14434051513672,
+        "lng": -21.938430786132812
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.683514,
+      "review_count": 4102,
+      "price": {
+        "amount": 201.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1203.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=Castle%20House%20Luxury%20Apartments%20Reykjavik%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    },
+    {
+      "id": "ho-ChoQysf-3ICxr8",
+      "name": "Downtown artists apartment - Great lovely price NOW",
+      "type": "apartment",
+      "location": {
+        "lat": 64.14183044433594,
+        "lng": -21.91827964782715
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.8,
+      "review_count": 52,
+      "price": {
+        "amount": 179.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1076.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=Downtown%20artists%20apartment%20-%20Great%20lovely%20price%20NOW%20Reykjavik%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    },
+    {
+      "id": "ho-ChcIpM-Hu8vxtO",
+      "name": "Hotel Reykjavík Grand",
+      "type": "hotel",
+      "location": {
+        "lat": 64.1425375,
+        "lng": -21.891222799999998
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.3,
+      "review_count": 2304,
+      "price": {
+        "amount": 249.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1494.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.islandshotel.is/hotels-in-iceland/hotel-reykjavik-grand/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChgImr-57bikv6",
+      "name": "Reykjavík Marina - Berjaya Iceland Hotels",
+      "type": "hotel",
+      "location": {
+        "lat": 64.1509149,
+        "lng": -21.945713299999998
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.5,
+      "review_count": 1541,
+      "price": {
+        "amount": 255.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1527.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.icelandhotelcollectionbyberjaya.com/en/hotels/reykjavik/reykjavik-marina",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoI8-Dy7bPxgP",
+      "name": "ALVA Hotel Brautarholt",
+      "type": "hotel",
+      "location": {
+        "lat": 64.141346,
+        "lng": -21.9040061
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 3.8,
+      "review_count": 106,
+      "price": {
+        "amount": 220.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1320.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://alva.is/hotel/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIh4jRv6LZmM",
+      "name": "Hotel Reykjavík Askja",
+      "type": "hotel",
+      "location": {
+        "lat": 64.1308067,
+        "lng": -21.932756299999998
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.1,
+      "review_count": 1603,
+      "price": {
+        "amount": 276.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1656.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.islandshotel.is/hotels-in-iceland/hotel-reykjavik-askja/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIr9W3nuDE-J",
+      "name": "Reykjavik Lights by Keahotels",
+      "type": "hotel",
+      "location": {
+        "lat": 64.1393461,
+        "lng": -21.8817792
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.5,
+      "review_count": 1370,
+      "price": {
+        "amount": 216.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1293.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.reykjaviklights.is/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoQ2MHvqbT6n4",
+      "name": "ALVA Apartments Snorrabraut",
+      "type": "apartment",
+      "location": {
+        "lat": 64.13725280761719,
+        "lng": -21.92235565185547
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.7285714,
+      "review_count": 42,
+      "price": {
+        "amount": 154.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 922.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=ALVA%20Apartments%20Snorrabraut%20Reykjavik%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    },
+    {
+      "id": "ho-ChkIqor31quv_L",
+      "name": "Hotel Reykjavík Saga",
+      "type": "hotel",
+      "location": {
+        "lat": 64.1459929,
+        "lng": -21.9387159
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.8,
+      "review_count": 396,
+      "price": {
+        "amount": 379.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 2272.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.islandshotel.is/hotels-in-iceland/hotel-reykjavik-saga",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkI5M6D9KzMqc",
+      "name": "Hilton Reykjavik",
+      "type": "hotel",
+      "location": {
+        "lat": 64.139832,
+        "lng": -21.888804
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.4,
+      "review_count": 2328,
+      "price": {
+        "amount": 307.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1840.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.hilton.com/en/hotels/kefhfhi-hilton-reykjavik/?SEO_id=GMB-EMEA-HI-KEFHFHI",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoIwfyVxNP785",
+      "name": "Day Dream Vesturgata17",
+      "type": "hotel",
+      "location": {
+        "lat": 64.149621,
+        "lng": -21.943846
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 3.7,
+      "review_count": 39,
+      "price": {
+        "amount": 195.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1171.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=Day%20Dream%20Vesturgata17%20Reykjavik%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    },
+    {
+      "id": "ho-ChkQ08Xhmcjwwf",
+      "name": "Black Pearl Luxury Apartments",
+      "type": "apartment",
+      "location": {
+        "lat": 64.1496810913086,
+        "lng": -21.94243049621582
+      },
+      "area": "Reykjavik",
+      "check_in": "2027-09-08",
+      "check_out": "2027-09-14",
+      "rating": 4.9,
+      "review_count": 2370,
+      "price": {
+        "amount": 332.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1993.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:38Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=Black%20Pearl%20Luxury%20Apartments%20Reykjavik%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-510c73277dc6",
+      "name": "The Black Cone (Monument to Civil Disobedience)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A public sculpture in Reykjavik serving as a monument to civil disobedience.",
+      "location": {
+        "lat": 64.1470329,
+        "lng": -21.9405287
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/3891077137",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Svarta keilan, minnisvarði um borgaralega óhlýðni"
+    },
+    {
+      "id": "act-510b32b89c01",
+      "name": "Face of the Sun",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A public artwork in Reykjavik known in English as Face of the Sun.",
+      "location": {
+        "lat": 64.146097,
+        "lng": -21.9375246
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://safneign.listasafnreykjavikur.is/is/verk/H-064",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Andlit Sólar"
+    },
+    {
+      "id": "act-51d06ba285ba",
+      "name": "The Unknown Bureaucrat",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A public sculpture in central Reykjavik depicting an anonymous civil servant.",
+      "location": {
+        "lat": 64.1457834,
+        "lng": -21.9403461
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4342611900",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Minnisvarði um óþekkta embættismanninn"
+    },
+    {
+      "id": "act-512dd4f59f90",
+      "name": "Jón Sigurðsson Statue",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A statue honoring Jón Sigurðsson, a leader of the Icelandic independence movement.",
+      "location": {
+        "lat": 64.1471915,
+        "lng": -21.9397068
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/1110038051",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Jón Sigurðsson"
+    },
+    {
+      "id": "act-512df9e989f8",
+      "name": "Hub of Reykjavík",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A public artwork in Reykjavik known as Hub of Reykjavík.",
+      "location": {
+        "lat": 64.1485973,
+        "lng": -21.9412924
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4342611892",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Miðja Reykjavikur"
+    },
+    {
+      "id": "act-51b9d8fedf22",
+      "name": "Prospect",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A public artwork in Reykjavik known in English as Prospect.",
+      "location": {
+        "lat": 64.148676,
+        "lng": -21.9419384
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4342611895",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Horfur"
+    },
+    {
+      "id": "act-51bef73768af",
+      "name": "Memorial to French Sailors",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A memorial in Reykjavik commemorating French sailors.",
+      "location": {
+        "lat": 64.1446715,
+        "lng": -21.947989
+      },
+      "area": "Vesturbær",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/9566490617",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Minnisvarði yfir Frakkneska sjómenn"
+    },
+    {
+      "id": "act-51ad174339d1",
+      "name": "Ingibjörg H. Bjarnason Monument",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "A monument in Reykjavik dedicated to Ingibjörg H. Bjarnason.",
+      "location": {
+        "lat": 64.1468772,
+        "lng": -21.9406925
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/3891077143",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Ingibjörg H. Bjarnason"
+    },
+    {
+      "id": "act-511b1c0a211b",
+      "name": "Víkurgarður (Old Reykjavik Cemetery)",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "A historic old cemetery in central Reykjavik.",
+      "location": {
+        "lat": 64.1473829,
+        "lng": -21.9418125
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/1497398808",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Víkurgarður"
+    },
+    {
+      "id": "act-51fc485ba670",
+      "name": "National Gallery of Iceland",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Iceland's national art museum in Reykjavik.",
+      "location": {
+        "lat": 64.1441073,
+        "lng": -21.9392189
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 2500,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 20.03
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.listasafn.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official page lists National Gallery of Iceland adults 2.500 kr. Combined ticket with Einar Jónsson Museum is 2.900 kr. Cheapest standard adult ticket is 2,500."
+      },
+      "name_local": "Listasafn Íslands",
+      "price_source": {
+        "url": "https://www.listasafn.is/cn/opening-hours-and-prices",
+        "provider": "web_search"
+      },
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51a93528f5c0",
+      "name": "Reykjavik Art Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A municipal art museum in Reykjavik.",
+      "location": {
+        "lat": 64.1490648,
+        "lng": -21.9404443
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 2550,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 20.43
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://listasafnreykjavikur.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official page lists Adults 2.550 kr. The ticket is valid for 24 hours at all three Reykjavik Art Museum locations."
+      },
+      "name_local": "Listasafn Reykjavíkur",
+      "price_source": {
+        "url": "https://listasafnreykjavikur.is/en/admission",
+        "provider": "web_search"
+      },
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51d8a66730fc",
+      "name": "Reykjavik Museum of Photography",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Reykjavik dedicated to photography.",
+      "location": {
+        "lat": 64.1493077,
+        "lng": -21.9413481
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 28.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://borgarsogusafn.is/ljosmyndasafn",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Ljósmyndasafn Reykjavíkur",
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "13:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "13:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-512865adfc8d",
+      "name": "Icelandic Phallological Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Reykjavik dedicated to phallic specimens of mammals.",
+      "location": {
+        "lat": 64.1484683,
+        "lng": -21.9357603
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 3900,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 31.24
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.phallus.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "The museum's official site states adult admission of 3,900 ISK at its Hafnartorg location. Third-party sites list lower figures, which look outdated."
+      },
+      "name_local": "Hið Íslenzka Reðasafn",
+      "price_source": {
+        "url": "https://phallus.is/history",
+        "provider": "web_search"
+      },
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      }
+    },
+    {
+      "id": "act-51615022c5ba",
+      "name": "National Museum of Iceland",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Iceland's national museum of cultural history in Reykjavik.",
+      "location": {
+        "lat": 64.1419542,
+        "lng": -21.9481629
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 3300,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 26.43
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.natmus.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official homepage lists Adults / Annual pass 3,300 ISK. The older FAQ page says 2,500 ISK, so it is likely outdated. The homepage is the more recent source."
+      },
+      "name_local": "Þjóðminjasafn Íslands",
+      "price_source": {
+        "url": "https://www.thjodminjasafn.is/english/",
+        "provider": "web_search"
+      },
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51483e1a78cc",
+      "name": "Einar Jónsson Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Reykjavik dedicated to the sculptor Einar Jónsson.",
+      "location": {
+        "lat": 64.1418867,
+        "lng": -21.9289178
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 1500,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 12.02
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.lej.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official National Gallery of Iceland ticket page lists general admission for the Einar Jónsson Museum at 1,500 ISK. Seniors and students pay less, and under-18s are free."
+      },
+      "name_local": "Listasafn Einars Jónssonar",
+      "price_source": {
+        "url": "https://www.listasafn.is/en/tickets/",
+        "provider": "web_search"
+      },
+      "hours": {
+        "tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51ceca2227e7",
+      "name": "Whales of Iceland",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "An exhibition in Reykjavik about whales.",
+      "location": {
+        "lat": 64.1557079,
+        "lng": -21.9488396
+      },
+      "area": "Vesturbær",
+      "price": {
+        "amount": 4000,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 32.04
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.whalesoficeland.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official site lists adult admission at 4,000 ISK. The old price of 4,300 ISK is crossed out, and the page mentions a limited-time special offer. If the offer ends, the price may return to 4,300 ISK."
+      },
+      "name_local": "Hvalasýningin",
+      "price_source": {
+        "url": "https://whalesoficeland.is",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-5150262488a9",
+      "name": "Museum of Design and Applied Art",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A design museum in Reykjavik area.",
+      "location": {
+        "lat": 64.0890499,
+        "lng": -21.9205556
+      },
+      "area": "Reykjavik",
+      "price": {
+        "amount": 1000,
+        "currency": "ISK",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.0080102,
+        "amount_normalized": 8.01
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.honnunarsafn.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "The museum's site states adult admission is 1,000 kr. The museum is in Garðabær, near Reykjavik."
+      },
+      "name_local": "Hönnunarsafn Íslands",
+      "price_source": {
+        "url": "https://honnunarsafn.is/en",
+        "provider": "web_search"
+      },
+      "hours": {
+        "tue": {
+          "open": "12:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51ba37d78177",
+      "name": "Reykjavík Cathedral",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "The Lutheran cathedral in central Reykjavik.",
+      "location": {
+        "lat": 64.1466535,
+        "lng": -21.9392866
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/87377712",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Dómkirkjan"
+    },
+    {
+      "id": "act-51471a2ae83c",
+      "name": "Hallgrímskirkja",
+      "name_source": "original",
+      "category": "culture",
+      "description": "A large Lutheran church in Reykjavik with a tower offering city views.",
+      "location": {
+        "lat": 64.1417951,
+        "lng": -21.9267103
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 21.6,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.hallgrimskirkja.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "tue": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "wed": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "thu": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "fri": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "sat": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "sun": {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      }
+    },
+    {
+      "id": "act-510157e9dfc1",
+      "name": "Kyiv Square",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A small public square in Reykjavik named Kyiv Square.",
+      "location": {
+        "lat": 64.1476584,
+        "lng": -21.9443588
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/312086566",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Kænugarður"
+    },
+    {
+      "id": "act-51dc78b6771a",
+      "name": "Hljómskálagarður Park",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A public park in Reykjavik near the city pond.",
+      "location": {
+        "lat": 64.1409703,
+        "lng": -21.9416623
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/52275277",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Hljómskálagarðurinn"
+    },
+    {
+      "id": "act-51bff02dd1d4",
+      "name": "Klambratún Park",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A public park in Reykjavik.",
+      "location": {
+        "lat": 64.1370404,
+        "lng": -21.9133755
+      },
+      "area": "Hlíðar",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/13253293",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Klambratún"
+    },
+    {
+      "id": "act-51355007f4e2",
+      "name": "Sculpture Garden",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A garden in Reykjavik displaying sculptures.",
+      "location": {
+        "lat": 64.1417865,
+        "lng": -21.9292174
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/37680009",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Höggmyndagarðurinn"
+    },
+    {
+      "id": "act-513ee70d2fa4",
+      "name": "Reykjavik Family Park and Zoo",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "A family park with farm animals in Reykjavik.",
+      "location": {
+        "lat": 64.1386375,
+        "lng": -21.8715016
+      },
+      "area": "Laugardalur",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "https://mu.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Fjölskyldu- og húsdýragarðurinn"
+    },
+    {
+      "id": "act-5183400a8cba",
+      "name": "Parliament Garden (Alþingisgarðurinn)",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "A small public garden next to the Icelandic parliament in Reykjavik.",
+      "location": {
+        "lat": 64.146537,
+        "lng": -21.940345
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/84324800",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Alþingisgarðurinn"
+    },
+    {
+      "id": "act-51b4d194f837",
+      "name": "Fish Market",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "Well-known Reykjavik restaurant serving Icelandic seafood and fusion dishes with Asian influences.",
+      "location": {
+        "lat": 64.1477313,
+        "lng": -21.9422603
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://fiskmarkadurinn.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Fiskmarkaðurinn",
+      "hours": {
+        "sun": {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        "mon": {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        "tue": {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        "wed": {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        "thu": {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        "fri": {
+          "open": "18:00",
+          "close": "23:35"
+        },
+        "sat": {
+          "open": "18:00",
+          "close": "23:35"
+        }
+      }
+    },
+    {
+      "id": "act-51ddc2a9c596",
+      "name": "Dirty Burger & Ribs",
+      "name_source": "original",
+      "category": "food",
+      "description": "Casual restaurant serving burgers and ribs.",
+      "location": {
+        "lat": 64.1477051,
+        "lng": -21.9398006
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://dbr.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      }
+    },
+    {
+      "id": "act-5153af5b04c6",
+      "name": "101 Bistro",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant in central Reykjavik (postcode 101) serving bistro-style meals.",
+      "location": {
+        "lat": 64.1480068,
+        "lng": -21.9405215
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://101bistro.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51cca843b813",
+      "name": "Hressó",
+      "name_source": "original",
+      "category": "food",
+      "description": "Casual café-restaurant in downtown Reykjavik with a menu of everyday dishes.",
+      "location": {
+        "lat": 64.1473724,
+        "lng": -21.9378009
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://hresso.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "tue": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "wed": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "thu": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "fri": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "sat": {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        "sun": {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      }
+    },
+    {
+      "id": "act-51e7d95141ea",
+      "name": "Hard Rock Cafe",
+      "name_source": "original",
+      "category": "food",
+      "description": "Reykjavik location of the international rock-themed restaurant chain serving American-style food.",
+      "location": {
+        "lat": 64.1469665,
+        "lng": -21.9371682
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://hardrock.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-5186504aad9c",
+      "name": "La Barceloneta",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant with a Spanish-style tapas and seafood menu.",
+      "location": {
+        "lat": 64.1463101,
+        "lng": -21.9398907
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/6795799685",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "wed": {
+          "open": "17:30",
+          "close": "21:30"
+        },
+        "thu": {
+          "open": "17:30",
+          "close": "21:30"
+        },
+        "fri": {
+          "open": "17:30",
+          "close": "21:30"
+        },
+        "sat": {
+          "open": "17:30",
+          "close": "21:30"
+        },
+        "sun": {
+          "open": "17:30",
+          "close": "21:30"
+        }
+      }
+    },
+    {
+      "id": "act-510c61904f23",
+      "name": "Icelandic Street Food",
+      "name_source": "original",
+      "category": "food",
+      "description": "Casual eatery known for Icelandic dishes such as lamb soup served in bread bowls.",
+      "location": {
+        "lat": 64.1464497,
+        "lng": -21.9380388
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.icelandicfoods.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-51a425451acb",
+      "name": "Shalimar",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant serving Indian and Pakistani cuisine.",
+      "location": {
+        "lat": 64.1478842,
+        "lng": -21.9405991
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 50.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/286588682",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "11:30",
+          "close": "22:30"
+        },
+        "tue": {
+          "open": "11:30",
+          "close": "22:30"
+        },
+        "wed": {
+          "open": "11:30",
+          "close": "22:30"
+        },
+        "thu": {
+          "open": "11:30",
+          "close": "22:30"
+        },
+        "fri": {
+          "open": "11:30",
+          "close": "22:30"
+        },
+        "sat": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "16:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-512fede588c6",
+      "name": "Pablo Discobar",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "Disco-themed cocktail bar in central Reykjavik.",
+      "location": {
+        "lat": 64.1481537,
+        "lng": -21.9405294
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.burro.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "fri": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "sat": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "sun": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "mon": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "tue": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "wed": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "thu": {
+          "open": "16:00",
+          "close": "01:00"
+        }
+      }
+    },
+    {
+      "id": "act-51b0fe74a84b",
+      "name": "Uppsalir",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in central Reykjavik.",
+      "location": {
+        "lat": 64.1474475,
+        "lng": -21.9425607
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://en.hotelcentrum.is/about-us/uppsalir",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-5193d04ce60e",
+      "name": "Skúli Craft Bar",
+      "name_source": "llm_translation",
+      "category": "nightlife",
+      "description": "Pub specializing in Icelandic and international craft beers.",
+      "location": {
+        "lat": 64.1475268,
+        "lng": -21.9416336
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.skulicraftbar.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Skúli Craft",
+      "hours": {
+        "sun": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "mon": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51651bb80375",
+      "name": "The English Pub",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "British-style pub in downtown Reykjavik with live music and sports on screen.",
+      "location": {
+        "lat": 64.1475636,
+        "lng": -21.9392855
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.enskibarinn.is",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "04:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "04:00"
+        }
+      }
+    },
+    {
+      "id": "act-51ff9d488b8e",
+      "name": "Tjarnarbarinn",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in central Reykjavik.",
+      "location": {
+        "lat": 64.1461514,
+        "lng": -21.9435813
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/3781008370",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "17:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-519213dcfe4b",
+      "name": "Bad Mickey",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in the Reykjavik area.",
+      "location": {
+        "lat": 64.1471929,
+        "lng": -21.9386596
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 54.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.instagram.com/badmickeybar",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-51dbb7a4b448",
+      "name": "Kolaportið Flea Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "Indoor flea market near Reykjavik harbor selling secondhand goods, books, crafts and Icelandic food items.",
+      "location": {
+        "lat": 64.1488381,
+        "lng": -21.9386094
+      },
+      "area": "Miðborg",
+      "price": {
+        "amount": 18.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://kolaportid.is/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Kolaportið",
+      "hours": {
+        "sat": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-dt19a4bf445d",
+      "name": "Golden Circle (Þingvellir, Geysir, Gullfoss)",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "The classic standard organized bus tour loops through Þingvellir National Park, the Geysir geothermal area and the huge Gullfoss waterfall.",
+      "location": {
+        "lat": 64.3266103,
+        "lng": -20.1216821
+      },
+      "area": "Reykjavik",
+      "price": {
+        "amount": 126.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 240,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Circle%20%28%C3%9Eingvellir%2C%20Geysir%2C%20Gullfoss%29%20Reykjavik",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 480
+    },
+    {
+      "id": "act-dt84c53bec47",
+      "name": "Blue Lagoon",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "Regular scheduled buses run from Reykjavik's BSÍ terminal to this geothermal spa on the Reykjanes Peninsula (booking ahead is required).",
+      "location": {
+        "lat": 63.8791684,
+        "lng": -22.4443196
+      },
+      "area": "Reykjavik",
+      "price": {
+        "amount": 126.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 180,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Lagoon%20Reykjavik",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 150
+    },
+    {
+      "id": "act-dtc8deb39f94",
+      "name": "South Coast (Seljalandsfoss, Skógafoss, Reynisfjara)",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "A full-day organized coach tour to the south coast's waterfalls and the black sand beach at Reynisfjara near Vík.",
+      "location": {
+        "lat": 63.5321038,
+        "lng": -19.511292
+      },
+      "area": "Reykjavik",
+      "price": {
+        "amount": 126.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.8 for cost tier 4. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 240,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=South%20Coast%20%28Seljalandsfoss%2C%20Sk%C3%B3gafoss%2C%20Reynisfjara%29%20Reykjavik",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 600
+    }
+  ],
+  "ground_transport": [
+    {
+      "id": "gt-apt-KEF",
+      "mode": "taxi",
+      "from": "KEF airport",
+      "to": "Reykjavik",
+      "from_geo": {
+        "lat": 63.9969408,
+        "lng": -22.627909
+      },
+      "to_geo": {
+        "lat": 64.145981,
+        "lng": -21.9422367
+      },
+      "distance_km": 51.2,
+      "duration_minutes": 40,
+      "price": {
+        "amount": 173.09,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Taxi estimate: $4 base + $1.80/km, scaled by country cost tier. Public transit is usually cheaper.",
+        "price_layer": "category_estimate"
+      },
+      "source": {
+        "url": "https://www.rome2rio.com/map/KEF%20airport/Reykjavik",
+        "provider": "geoapify_routing"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Road route from Geoapify (may be inaccurate where map data is uncertain, and border waits are not included); fare is an estimate."
+      }
+    },
+    {
+      "id": "gt-car-rental",
+      "mode": "drive",
+      "from": "Reykjavik",
+      "to": "Reykjavik",
+      "duration_minutes": 0,
+      "price": {
+        "amount": 648.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "estimate_method": "Rental car estimate: $60/day x 6 days, scaled by cost tier; excludes fuel and insurance.",
+        "price_layer": "category_estimate"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=car%20rental%20Reykjavik",
+        "provider": "estimate"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Estimate only; no rental price source."
+      }
+    }
+  ],
+  "feasibility": {
+    "budget": 9000.0,
+    "estimated_minimum_total": 9345.0,
+    "verdict": "very_tight",
+    "reasoning": "Cheapest realistic combination comes to about 9,345 USD against a budget of 9,000 (104%). Largest cost: food and local transport (3,360). Flight and lodging use live prices; food and local transport are estimates set high. Activities are not included. The estimate is slightly over budget but within its margin of error; it may only work with the cheapest flights, lodging and meals, and the planner should say so.",
+    "breakdown": {
+      "flights": 2925.0,
+      "car_rental": 648.0,
+      "lodging": 2412.0,
+      "food_and_local_transport": 3360.0
+    }
+  },
+  "gaps": [
+    {
+      "category": "flights",
+      "reason": "Ignav found no fares SEA->RKV on 2027-09-08",
+      "source_attempted": "ignav"
+    }
+  ],
+  "notes": [
+    "KEF (Keflavík International) is the main international airport, about 50 km from Reykjavik. RKV (Reykjavík Domestic) is closer to the city but mainly serves domestic flights and flights to Greenland and the Faroe Islands.",
+    "Iceland is very expensive for visitors. The daily cost covers food and local transport only.",
+    "Dates: 2027-09-08 to 2027-09-14; 6 night(s) of lodging. Flight prices are totals for all 4 traveler(s).",
+    "Hotel prices are per room for up to 2 adults; the feasibility estimate assumes ceil(travelers/2) rooms."
+  ],
+  "_schema_errors": []
+}

@@ -1,0 +1,286 @@
+{{pagebanner|Paris 9e Wikivoyage Banner.png|pgname=9th arrondissement}}
+The '''9th arrondissement''' of [[Paris]] is a diverse, "in between" section of the French capital. The '''''Grands Boulevards''''' area of shopping thoroughfares and flagship department stores (as well as the original '''Opera''' - hence the common name for the district) is to be found in the southern part of the arrondissement (shared with the [[Paris/2nd_arrondissement|2nd]] and the [[Paris/8th_arrondissement|8th]]). By way of contrast, the fading '''red-light'''  and cheap shopping district of '''Pigalle''' is in the north of the 9th, closely adjoining Montmartre on the hill above in the [[Paris/18th_arrondissement|18th]]. In between the two, relatively-speaking, lies a traveller's no-man's-land / ''terra incognita'' - though the streets around St Lazare used to be the Impressionists stronghold in Paris.
+
+==Get in==
+[[Image:Opera PoesieLyrique.JPG|thumb|250px|Detail of the Palais Garnier]]
+===''By Métro''===
+
+Main stations are: {{station|Opéra|3|7|8}}, {{station|Chaussée d'Antin La Fayette|7|9}}, {{station|Grands Boulevards|8|9}}, {{station|Le Peletier|7}}, {{station|Notre-Dame-de-Lorette|12}}, {{station|Richelieu-Drouot|8|9}}.
+
+==See==
+{{Mapframe|48.8772|2.3382|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+[[Image:Opera house Paris.jpg|thumb|250px|Opéra Garnier]]
+
+As with the other 19 arrondissements of Paris there are a lot of little commemorative plaques scattered around on the houses of the 9th. One example is the site of the first public demonstration of the Lumiere brother's moving picture projection system which is marked by a pair of commemorative plaques at 14, boul des Capucines between rue Scribe and rue Edward VIII.
+
+* {{see
+| name=Musée Grévin | alt= | url=http://www.grevin-paris.com/ | email=
+| address=10, boul Montmartre | lat=48.871667 | long=2.342222 | directions=
+| phone=+33 1 47 70 85 05 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Musée Grévin | image=Grevin musee facade.jpg | wikidata=Q1265070
+| content=The Musée Grévin is a waxwork museum with some 500 characters arranged in scenes from the history of France and modern life.
+}}
+* {{see
+| name=Musée Gustave Moreau | alt= | url=http://www.musee-moreau.fr | email=
+| address=14, rue de la Rochefoucauld | lat=48.878 | long=2.33436 | directions=Métro: Trinité
+| phone=+33 1 48 74 38 50 | tollfree= | fax=+33 1 48 74 18 71
+| hours=Wed-Mon, 10ː00-12.45 and 14ː00-17ː15 | price=€4 (some reductions on offer)
+| wikipedia=Musée national Gustave Moreau | image=Paris musée Gustave-Moreau, 19 mai 2013.jpg | wikidata=Q2296362
+| content=The house of the symbolist painter has now become a museum to his life and work.
+}}
+* {{see
+| name=Opéra Garnier | alt= | url=http://www.operadeparis.fr | email=
+| address=place de l'Opéra | lat=48.871944 | long=2.331667 | directions={{station|Opéra|3|7|8}}
+| phone= | tollfree= | fax=
+| hours=Daily, 10ː00-16:30 | price=€7. The cheapest seats for actual performances can go as low as €6 if you book early
+| wikipedia=Palais Garnier | image=Paris Opera full frontal architecture, May 2009.jpg | wikidata=Q187840
+| content=The magnificent setting of ''The Phantom of the Opera'', the inside is as opulent as the outside. However, since the opening of the Opera Bastille (''[[Paris/12th arrondissement|12th]]'') in 1989, the Palais Garnier has been reserved mostly for dance performances, particularly ballet.
+}}
+
+==Do==
+Admire the skyline from the roofs of '''Printemps''' or the '''Galeries Lafayette'''. There's also a hot air balloon at Parc André Citroën (southwest Paris), but not on windy days.
+
+* {{do
+| name=les Grands Boulevards | alt=Boulevards of Paris | url= | email=
+| address= | lat=48.87136 | long=2.34393 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Boulevards of Paris | image=Blv-haussmann-lafayette.jpg | wikidata=Q1543046
+| content=Go shopping at the ''grands magasins'' (department stores).
+}}
+* {{do
+| name=Olympia | alt=Olympia Hall | url=http://www.olympiahall.com | email=
+| address=28, boul des Capucines | lat=48.870278 | long=2.328333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Olympia (Paris) | image=Olympia facade.jpg | wikidata=Q915451
+| content=A music hall, which houses concerts for an older crowd. Be sure to tip the usher €2 or so.
+}}
+* {{do
+| name=Théâtre Édouard VII | alt= | url=http://www.theatreedouard7.com | email=contact@theatreedouard7.com
+| address=10 place Édouard VII | lat=48.8713 | long=2.3294 | directions=Métro Opéra. Between the Madeleine and the Opéra
+| phone=+33 1 47 42 35 71 | tollfree= | fax=
+| hours= | price=€20-55
+| wikipedia=Théâtre Édouard VII | image=P1190871 Paris IX theatre Edouard VII rwk.jpg | wikidata=Q3527938
+| content=French theatre, for those with command of the language.
+}}
+
+==Buy==
+Particularly interesting in this area are the covered passageways built in the 19th century, charming early versions of the shopping mall. There are several in the vicinity of boulevard Haussmann and rue Vivienne, including passage Jouffroy and passage Verdeau, and across the boulevard Haussmann in the [[Paris/2nd arrondissement#buy|2nd arrondissement]], the passage des Panoramas.
+
+The department stores along the boulevard Haussmann are overpriced compared to smaller specialty shops. For a more interesting selection and better quality-price ratio, venture out to the innumerable shopping streets in Paris. Make sure to say ''bonjour'' on entering and ''merci, au revoir'' on leaving. For more information on common courtesy in Paris, see the main [[Paris]] article.
+
+* {{buy
+| name=Galeries Lafayette | url=http://www.galerieslafayette.com | email=
+| address=40, boul Haussmann | lat=48.87366 | long=2.33218 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=|wikidata=Q3094686
+| content=Founded in 1894, and is the flagship store of the department store chain. The ''gourmet'' section is a Paris institution that takes up an entire floor, featuring (among many other things) several competing vendors of deluxe baguettes, a few hundred types of cheese, and an entire aisle devoted to mustard. Depending on your home country you may be eligible for a 10% discount for all goods (you just need to show a flyer that is attached to tourist office Paris maps).}}
+* {{buy
+| name=Printemps | alt= | url=http://www.printemps.com/ | email=
+| address=64, boul Haussmann | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Eat==
+If you're in the southern part of the neighbourhood, you might also consider arrondissements [[Paris/2nd_arrondissement|2]] or [[Paris/8th_arrondissement|8]] - neither are more than a short walking distance. You could also visit the food section of any of the ''grands magasins'', or one of the smaller ''traiteurs'' (shops selling prepared food), and pick up the ingredients for a ''piquenique'' in the square Louis XVI on boulevard Haussmann and rue Pasquier; square de la Trinité, at the top of rue de la chaussée d'Antan--free concerts in the church at 12:30 most Thursdays; or the square du Montholon on rue de la Fayette between rue Cadet and rue du faubourg Poissonière. Otherwise, here are some good eating options:
+
+* {{eat
+| name=Bouillon Chartier | alt= | url=https://www.bouillon-chartier.com/en/grands-boulevards/ | email=grandsboulevards@bouillon-chartier.com
+| address=7, rue du Faubourg Montmartre | lat=48.864339 | long=2.343058 | directions=Métro: Grand Boulevard
+| phone=+33 1 47 70 86 29 | tollfree=
+| hours=11:30-midnight | price=€17.50 for 3-course daily menu
+| content=Since 1896. Menu changes regularly. Historic building and interior. Classically dressed servers. Satisfying, cheap food. Traditional, representative French cooking; don't expect innovative, haute cuisine. Usually the line is bigger than the reputation. Continuous service without reservations.
+}}
+* {{eat
+| name=La Marmite | url= | email=
+| address=2, boul de Clichy | lat= | long= | directions=Métro: Pigalle
+| phone=+33 1 42 55 83 42 | tollfree= | fax=
+| hours= | price=Especially good lunch deals
+| content=Nice sunny place for having lunch.}}
+*{{eat
+| name=L'Opéra Restaurant | alt= | url=https://www.lesrestos.com/restaurant/decouvrir/restaurant-l-opera/2137851646 | email=
+| address=place Jacques Rouché | lat= | long= | directions=Palais Garnier
+| phone=+33 1 42 68 86 80 | tollfree=
+| hours=07ː00-24ː00 | price=€60-70
+| content=A modern restaurant designed by Odile Decq opened in the 19th century Opéra Garnier and convenient to Galeries Lafayette or Printemps.
+}}
+* {{eat
+| name=Pizzeria Da Carmine | url= | email=
+| address=61, rue des Martyrs | lat= | long= | directions=Métro: Pigalle
+| phone=+33 1 48 78 28 01 | tollfree= | fax=
+| hours=Closed Sun, Mon | price=
+| content=Good (real) Italian restaurant/pizzeria. Does not accept credit cards.}}
+* {{eat
+| name=Pizza Marzano | alt=Pizza Express | url= | email=
+| address=30, boul des Italiens | lat= | long= | directions=Métro: Opéra
+| phone=+33 1 47 70 33 33 | tollfree= | fax=
+| hours=Daily, 11.30-24ː00| price=
+| content=UK travellers will be familiar with the above-average pizza / pasta menu, speedy table service and very reasonable prices. This outlet has a large ''al fresco'' area for the warmer months.}}
+
+[[Image:Paris 9th arrondissement map with listings 2.png|thumb|350px|Map of the 9th Arrondissement]]
+
+* {{eat
+| name=Le Roi du Pot-au-Feu | url= | email=
+| address=34, rue Vignon | lat= | long= | directions=Métro: Madeleine or Havre-Caumartin
+| phone=+33 1 47 42 37 10 | tollfree= | fax=
+| hours= | price=€35
+| content=The menu is very short, but the meals are big and good. The best pot-au-feu in the world. Very nice, typical Parisian atmosphere.}}
+* {{eat
+| name=Juste | alt= | url=https://juste-producteur.com/ | email=
+| address=48 Rue Laffitte | lat=48.875198 | long=2.338584 | directions=
+| phone=+33 9 82 33 93 47 | tollfree=
+| hours=Tue - Sat 12:00-14:30, 18:30, 22:30 | price=€9 - 50
+| lastedit=2022-05-13
+| content=Super fresh, simply served and cheap seafood by a fish monger / restaurateur. Takeout, Outdoor Seating. Arrive at noon to avoid lines. Review the menu on-line before arriving to order quickly at the counter. Raw oysters, bulots (sea snails), ''pinces de tourteau'' (crab claws). 50cl of house wine at a special Friday price. There are plenty of paper napkins and a bucket in the center table hole for shells.
+}}
+
+==Drink==
+* {{drink
+| name=Bar des Roses | url= | email=
+| address=1, rue de Vintimille | lat= | long= | directions=
+| phone=+33 1 49 70 09 22 | tollfree= | fax=
+| hours= | price=
+| content=}}
+* {{drink
+| name=Le Café Zéphyr | url= | email=
+| address=12, boul Montmartre | lat= | long= | directions=Métro Grands Boulevards
+| phone=+33 1 47 70 80 14 | tollfree= | fax=
+| hours= | price=
+| content=A typical ''brasserie'' with a fine choice of simple food (salads, etc.).}}
+* {{buy
+| name=I Golosi | url= | email=
+| address=6, rue Grange Batelière | lat= | long= | directions=Métro Grands Boulevards
+| phone=+33 1 48 24 18 63 | tollfree= | fax=
+| hours= | price=
+| content=On a quiet side street, a good Italian wine bar and shop where you can buy the wines you will have tasted.}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Hotel de Lille | url= | email=
+| address=2, rue du Montholon | lat= | long= | directions=Métro: Poissonière
+| phone=+33 1 47 70 38 76 | tollfree= | fax=+33 1 48 00 04 55
+| hours= | price=
+| checkin= | checkout=
+| content=Family-run, fairly Spartan, near the ''Gare du Nord''. The area around this train station, worked by street prostitutes, is not very pleasant at night.}}
+* {{sleep
+| name=Perfect Hotel & Hostel | url=http://www.paris-hostel.biz | email=
+| address=39, rue Rodier | lat= | long= | directions=Métro: Anvers
+| phone=+33 1 42 81 18 86 | tollfree= | fax=+33 1 42 85 01 38
+| hours= | price=
+| checkin= | checkout=
+| content=The Perfect advertises bargain rates for backpackers and families.}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Best Western Opéra d'Antin | url=http://www.parishoteloperadantin.com/| email= reservation@operadantin.com
+| address=75, rue de Provence | lat=48.8743 | long=2.33197 | directions=Metro Chaussée d'Antin–La Fayette / Havre Caumartin / Auber
+| phone=+33 1 48 74 12 99 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=When you exit Hotel Best Western Opéra d’Antin and leave the large department stores behind you (Galeries Lafayette & Le Printemps), just cross boulevard Haussmann and you will find yourself before the Opera Garnier.}}
+* {{sleep | name=Hotel George Opera | url=http://www.astotel.com/uk/hotel-george-opera-paris.php | email=hotel.george@astotel.com | address=46, rue Notre Dame de Lorette | lat=48.8794 | long=2.3365 | directions=Metro Saint Georges | phone=+33 1 48 74 03 29 | tollfree= | fax=+33 1 45 26 28 14 | hours= | price= | checkin= | checkout= | content=Friendly and English speaking staff. Free Wi-Fi in the rooms.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Diva Opera | alt= | url=http://www.diva-opera.com/en/ | email=
+| address=11, rue de Trevise | lat= | long= | directions=Metro Grands Boulevards, Cadet
+| phone=+33 1 47 70 12 90 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=A three-star on a quiet street, yet close to bistros, supermarkets.
+}}
+* {{sleep
+| name=Hotel Jules | url=http://www.hoteljules.com | email=reservations@hoteljules.com
+| address=49-51, rue La Fayette | lat= | long= | directions=Metro Le Palletier
+| phone=+33 1 42 85 05 44 | tollfree= | fax=
+| hours= | price=
+| checkin=13ː00 | checkout=11ː00
+| content=3 star hotel between Gare Saint Lazare and Gare du Nord.}}
+* {{sleep
+| name=Hotel Langlois | alt=Hotel des Croisés | url=http://www.hotel-langlois.com | email=
+| address=63, rue Sant-Lazare | lat= | long= | directions=Metro: Porte de la Chapelle
+| phone=+33 1 48 74 78 24 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content= They serve a decent breakfast in the morning, but there is also a boulangerie and a bar down the street.}}
+* {{sleep
+| name=Hotel Secret de Paris | alt= | url=http://www.hotel-design-secret-de-paris.com/en/ | email=hotel@hotelsecretdeparis.com
+| address=2 rue de Parme | lat=48.88134 | long=2.32836 | directions=
+| phone=+33 1 53 16 33 33 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2015-09-03
+| content=Boutique hotel of 29 rooms.
+}}
+* {{sleep
+| name=Hotel La Tour d'Auvergne | alt=Hotel Montmartre | url= | email=
+| address=10, rue de la Tour d'Auvergne | lat= | long= | directions=Metro Anvers, Poissonnière, Cadet
+| phone=+33 1 48 78 61 60 | tollfree=
+| checkin= | checkout= | price=
+| content=On a street full of surprises. A few steps away from Montmartre, rue des Martyrs, Opéra, and avenue Trudaine.
+}}
+* {{sleep
+| name=Paris Hotel | url= | email=
+| address=23, rue Henri Monnier | lat= | long= | directions=Metro Pigalle or Saint Georges, both 400 m away
+| phone=+33 1 42 85 43 43 | tollfree= | fax=
+| hours= | price=Double room with a shower €85
+| checkin= | checkout=
+| content=3 star near Pigalle. The rooms are of decent quality and the views of the street are charming and typically Parisian (lots of balconies and shutters at the front, and a pleasant garden view at the back.) There's free Wi-Fi in the rooms and a nice breakfast room. The street can get a little noisy at night, but that's typical of the area and probably not enough to keep you awake but you should be aware in case you happen to be a light sleeper. There is a Renault parking garage round the corner which charged €52 for 72 hours.}}
+* {{sleep
+| name=Quality Hotel Axel | alt=Charm Hotel | url=http://www.hotel-paris-axel.com/ | email=axelopera@my-paris-hotel.com
+| address=15, rue Montyon | lat= | long= | directions=
+| phone =+33 1 45 72 66 66 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Hôtel Saint Petersbourg Opéra | alt= | url=https://www.hotelsaintpetersbourg.com | email=info@hotelpeters.com
+| address=35 rue Caumartin | lat=48.87167 | long=2.32814 | directions=RER A - Auber / Paris Metro : Line 3 and 9 : Havre-Caumartin. Line 3, 7, and 8 : Opéra. Line 8, 12, and 14 - La Madeleine
+| phone=+33 1 42 66 60 38 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2018-03-08
+| content=Founded in 1860, this elegant historic hotel was upgraded in 2016 to become a four-star hotel after a refit of some of its most important sections.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hôtel Scribe | alt= | url= | email=
+| address=1, rue Scribe | lat= | long= | directions=
+| phone=+33 1 44 71 24 24 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Crown jewel in the Sofitel chain and owned by Pakistan's national carrier PIA, this elegantly redecorated 4 star hotel hasn't lost any of its charm since it was first opened in 1895. All rooms are sound proofed and come with Wi-Fi. The apartments have a separate entrance and they can provide you with a nanny if needed.
+}}
+* {{sleep
+| name=Intercontinental Paris Le Grand | alt= | url=http://www.ihg.com/intercontinental/hotels/gb/en/paris/parhb/hoteldetail | email=legrand.reservation@ihg.com
+| address=2 Rue Scribe | lat= | long= | directions=
+| phone=+33-1-40073232 | tollfree=
+| checkin=2PM | checkout=Noon | price={{EUR|390}}
+| wikidata=Q943103
+| content=This 4.5 star hotel is equipped with a health and fitness center, spa facilities, and standard internet service. It has a classic Parisian feel and a views of the Eiffel Tower.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 3.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Levallois-Perret]]
+| minorl1=[[Paris/8th arrondissement|8th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/20th arrondissement|20th arrondissement]]
+| minorr1='''[[Paris/2nd arrondissement|2nd arrondissement]]'''
+}}
+
+
+
+
+{{guidedistrict}}
+{{geo|48.8772|2.3382|zoom=15}}
+{{IsPartOf|Paris}}

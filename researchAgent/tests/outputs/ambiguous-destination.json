@@ -1,0 +1,4750 @@
+{
+  "request_id": "ambiguous-destination",
+  "status": "ok",
+  "generated_at": "2026-11-22T21:20:39Z",
+  "currency": "USD",
+  "advisories": [
+    {
+      "level": "caution",
+      "region": "France",
+      "summary": "Exercise increased caution in France due to terrorism and unrest . Violence and rioting have recently occurred in France and may continue. Avoid demonstrations and areas of unrest. Stay away from areas with large crowds or significant police activity. Pickpocketing and phone thefts are common, especially in crowded places. Terrorist groups continue to plan possible attacks in France and may attack",
+      "map_data_reliability": "good",
+      "source_url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fra.html",
+      "retrieved_at": "2026-11-22T21:20:39Z"
+    }
+  ],
+  "flights": [
+    {
+      "id": "fl-528b879b567a43",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "SEA",
+          "depart_at": "2027-04-20T12:00:00",
+          "arrive_at": "2027-04-20T14:07:00",
+          "carrier": "Alaska",
+          "flight_number": "AS682"
+        },
+        {
+          "from": "SEA",
+          "to": "FRA",
+          "depart_at": "2027-04-20T17:45:00",
+          "arrive_at": "2027-04-21T12:50:00",
+          "carrier": "Condor",
+          "flight_number": "DE2033"
+        },
+        {
+          "from": "FRA",
+          "to": "CDG",
+          "depart_at": "2027-04-21T14:35:00",
+          "arrive_at": "2027-04-21T15:55:00",
+          "carrier": "Condor",
+          "flight_number": "DE4304"
+        },
+        {
+          "from": "CDG",
+          "to": "FRA",
+          "depart_at": "2027-04-25T07:05:00",
+          "arrive_at": "2027-04-25T08:20:00",
+          "carrier": "Condor",
+          "flight_number": "DE4301"
+        },
+        {
+          "from": "FRA",
+          "to": "JFK",
+          "depart_at": "2027-04-25T11:55:00",
+          "arrive_at": "2027-04-25T14:35:00",
+          "carrier": "Condor",
+          "flight_number": "DE2016"
+        },
+        {
+          "from": "JFK",
+          "to": "DEN",
+          "depart_at": "2027-04-25T20:19:00",
+          "arrive_at": "2027-04-25T22:59:00",
+          "carrier": "JetBlue",
+          "flight_number": "B697"
+        }
+      ],
+      "duration_minutes": 2629,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 843.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:38.527668Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://prf.hn/click/camref:1101l4IpD/destination:https://www.condor.com/tca/us/flight/search?origin=DEN&destination=CDG&outboundDate=2027-04-20&inboundDate=2027-04-25&adults=1&children=0&infants=0&currency=USD&action=confirmFlights&compartment=Y&tariff=SPO&outboundFlightNumber=DE2033&outboundDepartureTime=1200&outboundArrivalTime=1555&inboundCompartment=Y&inboundTariff=SPO&inboundFlightNumber=DE2016&inboundDepartureTime=0705&inboundArrivalTime=2259&gclid=AAcRjHLQUjUWjpJehTjP3pEGPYiTgfWcuLPZpMF50cOEY-5eOQGPoYTQ32XmSKoZAijrRUCGiig1Ij7nJ7n1p3U5bGY5qTBce_Abh_NF3AhAYXQ93Cc&gclsrc=gf",
+        "provider": "ignav:Condor"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 3
+    },
+    {
+      "id": "fl-bedb2cbe17ac4d",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "IST",
+          "depart_at": "2027-04-20T20:25:00",
+          "arrive_at": "2027-04-21T17:05:00",
+          "carrier": "Turkish Airlines",
+          "flight_number": "TK202"
+        },
+        {
+          "from": "IST",
+          "to": "CDG",
+          "depart_at": "2027-04-21T19:45:00",
+          "arrive_at": "2027-04-21T22:35:00",
+          "carrier": "Turkish Airlines",
+          "flight_number": "TK1829"
+        },
+        {
+          "from": "CDG",
+          "to": "IST",
+          "depart_at": "2027-04-25T19:40:00",
+          "arrive_at": "2027-04-26T00:05:00",
+          "carrier": "Turkish Airlines",
+          "flight_number": "TK1828"
+        },
+        {
+          "from": "IST",
+          "to": "DEN",
+          "depart_at": "2027-04-26T14:50:00",
+          "arrive_at": "2027-04-26T18:20:00",
+          "carrier": "Turkish Airlines",
+          "flight_number": "TK201"
+        }
+      ],
+      "duration_minutes": 2930,
+      "stops": 2,
+      "cabin": "economy",
+      "price": {
+        "amount": 858.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:38.527668Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://rdr.btrck.com/aff_c?offer_id=62&aff_id=1025&aff_click_id=8305e6c3-9e1c-47d0-9ae9-0097f042ff0b&aff_sub=nocampaign&aff_sub2=metasearch&aff_sub3=DEN&aff_sub4=CDG&aff_sub5=ECONOMY,ECONOMY&url=https://www.turkishairlines.com/en-us/flights/booking/deeplinkprofile?D%3D1%26dom%3D0%26prc%3D857.89%26cur%3DUSD%26lp%3DPROM%26retd%3D250427%26f1%3DTK1828,TK201%26so1%3D1%26fb1%3DULVCLR,ULVCLR%26bc1%3DCL%26f0%3DTK202,TK1829%26dep%3DDEN%26dst%3DCDG%26depd%3D200427%26pas%3DA:1%26so0%3D1%26cc%3DECONOMY,ECONOMY%26fb0%3DULVCLR,ULVCLR%26bc0%3DCL%26utm_medium%3Dmetasearch%26utm_source%3Dgoogleflight%26utm_domain%3Dflights.google.us%26gclid%3DAAcRjHKr9yC5DPs3m3k2wo57pDlwMeQO26sPm4CviUKNWVcNITKSM17drHQy5NfkqcPVMqdJnzEcDWsjq1ayaTCgbEHfkVdGhKnAaZxvrA9-RNTBD-Y%26gclsrc%3Dgf%26adp_cid%3D%7Btransaction_id%7D%26adp_oid%3D62%26adp_meta_name%3Dgoogleflight%26adp_partner_aff_click_id%3D8305e6c3-9e1c-47d0-9ae9-0097f042ff0b",
+        "provider": "ignav:Turkish Airlines"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 2
+    },
+    {
+      "id": "fl-d4ec4c68ad9743",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "YUL",
+          "depart_at": "2027-04-20T11:25:00",
+          "arrive_at": "2027-04-20T17:07:00",
+          "carrier": "Air Canada",
+          "flight_number": "AC1074"
+        },
+        {
+          "from": "YUL",
+          "to": "CDG",
+          "depart_at": "2027-04-20T18:20:00",
+          "arrive_at": "2027-04-21T07:05:00",
+          "carrier": "Air Canada",
+          "flight_number": "AC874"
+        },
+        {
+          "from": "CDG",
+          "to": "FRA",
+          "depart_at": "2027-04-25T10:30:00",
+          "arrive_at": "2027-04-25T11:45:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1043"
+        },
+        {
+          "from": "FRA",
+          "to": "DEN",
+          "depart_at": "2027-04-25T13:30:00",
+          "arrive_at": "2027-04-25T15:40:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH446"
+        }
+      ],
+      "duration_minutes": 1490,
+      "stops": 2,
+      "cabin": "economy",
+      "price": {
+        "amount": 1324.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:38.527668Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.united.com/ual/en/us/Booking/SearchInjection/VendorQueryPinDown?encodedParameters=f89df15c-798a-4939-aa39-8583ad47966b%5E67c063d1-6aab-45ae-9fb6-1c0ef52e1cd3&Name=Google-Web&gclid=AAcRjHLEu7FGdoFJDpF59sboMwbnblEBOsn8j9F5SOn08EfzuMs_ozf8a6T2Cq5cjZw-6yYDS76yUfI5eEf8tSC3EAHrGAsFEhIfxKyAdpd6JT3Y4E4&gclsrc=gf",
+        "provider": "ignav:United"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 2
+    },
+    {
+      "id": "fl-22239de14c5041",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "BOS",
+          "depart_at": "2027-04-20T13:35:00",
+          "arrive_at": "2027-04-20T19:29:00",
+          "carrier": "JetBlue",
+          "flight_number": "B6394"
+        },
+        {
+          "from": "BOS",
+          "to": "LIS",
+          "depart_at": "2027-04-20T22:15:00",
+          "arrive_at": "2027-04-21T09:50:00",
+          "carrier": "Tap Air Portugal",
+          "flight_number": "TP216"
+        },
+        {
+          "from": "LIS",
+          "to": "ORY",
+          "depart_at": "2027-04-21T12:25:00",
+          "arrive_at": "2027-04-21T15:50:00",
+          "carrier": "Tap Air Portugal",
+          "flight_number": "TP434"
+        },
+        {
+          "from": "ORY",
+          "to": "BCN",
+          "depart_at": "2027-04-25T20:10:00",
+          "arrive_at": "2027-04-25T21:55:00",
+          "carrier": "Vueling",
+          "flight_number": "VY8027"
+        },
+        {
+          "from": "BCN",
+          "to": "LHR",
+          "depart_at": "2027-04-26T07:30:00",
+          "arrive_at": "2027-04-26T09:10:00",
+          "carrier": "Vueling",
+          "flight_number": "VY7640"
+        },
+        {
+          "from": "LHR",
+          "to": "DEN",
+          "depart_at": "2027-04-26T13:35:00",
+          "arrive_at": "2027-04-26T16:30:00",
+          "carrier": "British Airways",
+          "flight_number": "BA219"
+        }
+      ],
+      "duration_minutes": 2795,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 1301.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:48.753834Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://booking.flytap.com/booking/flights-external/deeplink?language=en&market=US&origin=DEN&destination=ORY&depDate=20.04.2027&flightType=single&adt=1&chd=0&inf=0&flightSelect=%7B%22outbound%22:%5B%7B%22arrivalAirport%22:%22BOS%22,%22arrivalDateTime%22:%222027-04-20T19:29:00.000Z%22,%22departureAirport%22:%22DEN%22,%22departureDateTime%22:%222027-04-20T13:35:00.000Z%22,%22fareBasis%22:%22AK0DSI0E%22,%22flightNumber%22:%22394%22,%22operationCarrier%22:%22B6%22%7D,%7B%22arrivalAirport%22:%22LIS%22,%22arrivalDateTime%22:%222027-04-21T09:50:00.000Z%22,%22departureAirport%22:%22BOS%22,%22departureDateTime%22:%222027-04-20T22:15:00.000Z%22,%22fareBasis%22:%22AK0DSI0E%22,%22flightNumber%22:%22216%22,%22operationCarrier%22:%22TP%22%7D,%7B%22arrivalAirport%22:%22ORY%22,%22arrivalDateTime%22:%222027-04-21T15:50:00.000Z%22,%22departureAirport%22:%22LIS%22,%22departureDateTime%22:%222027-04-21T12:25:00.000Z%22,%22fareBasis%22:%22AK0DSI0E%22,%22flightNumber%22:%22434%22,%22operationCarrier%22:%22TP%22%7D%5D,%22totalPrice%22:%22592.20%22,%22currency%22:%22USD%22%7D&networkName=GOOGLEFS&utm_source=googleflights&utm_medium=metasearcher&utm_content=coresearch&utm_campaign=googleflights&gclid=AAcRjHKau2zRQY3aQq0tNBDN6soC95KyfjYqcgm94-ac5wPheRr2EX-yN9-gYDz86jQecRUsLdk-rZLHkfemoFIhrqtFNB5rmIxYAU4smCPsFMLqK00&gclsrc=gf",
+        "provider": "ignav:Tap Air Portugal"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      },
+      "return_segment_start_index": 3
+    },
+    {
+      "id": "fl-c91846c079b94c",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "BOS",
+          "depart_at": "2027-04-20T09:35:00",
+          "arrive_at": "2027-04-20T15:32:00",
+          "carrier": "United",
+          "flight_number": "UA1232"
+        },
+        {
+          "from": "BOS",
+          "to": "FCO",
+          "depart_at": "2027-04-20T17:05:00",
+          "arrive_at": "2027-04-21T07:05:00",
+          "carrier": "ITA",
+          "flight_number": "AZ615"
+        },
+        {
+          "from": "FCO",
+          "to": "LIN",
+          "depart_at": "2027-04-21T15:00:00",
+          "arrive_at": "2027-04-21T16:10:00",
+          "carrier": "ITA",
+          "flight_number": "AZ2038"
+        },
+        {
+          "from": "LIN",
+          "to": "ORY",
+          "depart_at": "2027-04-21T17:05:00",
+          "arrive_at": "2027-04-21T18:30:00",
+          "carrier": "ITA",
+          "flight_number": "AZ352"
+        },
+        {
+          "from": "ORY",
+          "to": "LIN",
+          "depart_at": "2027-04-25T19:20:00",
+          "arrive_at": "2027-04-25T20:45:00",
+          "carrier": "ITA",
+          "flight_number": "AZ353"
+        },
+        {
+          "from": "LIN",
+          "to": "FCO",
+          "depart_at": "2027-04-26T06:30:00",
+          "arrive_at": "2027-04-26T07:40:00",
+          "carrier": "ITA",
+          "flight_number": "AZ2013"
+        },
+        {
+          "from": "FCO",
+          "to": "BOS",
+          "depart_at": "2027-04-26T10:25:00",
+          "arrive_at": "2027-04-26T13:40:00",
+          "carrier": "ITA",
+          "flight_number": "AZ614"
+        },
+        {
+          "from": "BOS",
+          "to": "DEN",
+          "depart_at": "2027-04-26T15:39:00",
+          "arrive_at": "2027-04-26T18:26:00",
+          "carrier": "United",
+          "flight_number": "UA2297"
+        }
+      ],
+      "duration_minutes": 3361,
+      "stops": 6,
+      "cabin": "economy",
+      "price": {
+        "amount": 1527.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:48.753834Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://ad.doubleclick.net/ddm/clk/509395740;316681822;o?https://www.ita-airways.com/deeplink/partner?OriginOut1=DEN&DestinationOut1=BOS&DepartureOut1=2027-04-20T09:35:00&ArrivalOut1=2027-04-20T15:32:00&BookingClassOut1=E&FlightOut1=AZ4386&FareBasisOut1=WLPN26B2&OperatingFlightOut1=UA1232&OriginOut2=BOS&DestinationOut2=FCO&DepartureOut2=2027-04-20T17:05:00&ArrivalOut2=2027-04-21T07:05:00&BookingClassOut2=E&FlightOut2=AZ615&FareBasisOut2=WLPN26B2&OperatingFlightOut2=AZ615&OriginOut3=FCO&DestinationOut3=LIN&DepartureOut3=2027-04-21T15:00:00&ArrivalOut3=2027-04-21T16:10:00&BookingClassOut3=E&FlightOut3=AZ2038&FareBasisOut3=WLPN26B2&OperatingFlightOut3=AZ2038&OriginOut4=LIN&DestinationOut4=ORY&DepartureOut4=2027-04-21T17:05:00&ArrivalOut4=2027-04-21T18:30:00&BookingClassOut4=E&FlightOut4=AZ352&FareBasisOut4=WLPN26B2&OperatingFlightOut4=AZ352&OriginRet1=ORY&DestinationRet1=LIN&DepartureRet1=2027-04-25T19:20:00&ArrivalRet1=2027-04-25T20:45:00&BookingClassRet1=E&FlightRet1=AZ353&FareBasisRet1=WLPN26B2&OperatingFlightRet1=AZ353&OriginRet2=LIN&DestinationRet2=FCO&DepartureRet2=2027-04-26T06:30:00&ArrivalRet2=2027-04-26T07:40:00&BookingClassRet2=E&FlightRet2=AZ2013&FareBasisRet2=WLPN26B2&OperatingFlightRet2=AZ2013&OriginRet3=FCO&DestinationRet3=BOS&DepartureRet3=2027-04-26T10:25:00&ArrivalRet3=2027-04-26T13:40:00&BookingClassRet3=E&FlightRet3=AZ614&FareBasisRet3=WLPN26B2&OperatingFlightRet3=AZ614&OriginRet4=BOS&DestinationRet4=DEN&DepartureRet4=2027-04-26T15:39:00&ArrivalRet4=2027-04-26T18:26:00&BookingClassRet4=E&FlightRet4=AZ4374&FareBasisRet4=WLPN26B2&OperatingFlightRet4=UA2297&PaxAdult=1&OfferedPrice=1526.79&OfferedPriceCurrency=USD&Mode=CART&partnerId=8&Language=en&Country=US&ENC=cf8f86eba34650bcdcbb8a3125033c03ddae34a68865b0b100338e8409f221e7&dwmwr=utm_medium%3Dfse%26utm_source%3Dgoogle%26utm_campaign%3Daz_001_en_DEN-ORY_desktop%26utm_term%3Dgoogle%26utm_content%3Deconomy_light",
+        "provider": "ignav:ITA"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 4
+    },
+    {
+      "id": "fl-53b7001686774c",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "ORD",
+          "depart_at": "2027-04-20T12:24:00",
+          "arrive_at": "2027-04-20T16:00:00",
+          "carrier": "American",
+          "flight_number": "AA2276"
+        },
+        {
+          "from": "ORD",
+          "to": "MAD",
+          "depart_at": "2027-04-20T16:55:00",
+          "arrive_at": "2027-04-21T08:20:00",
+          "carrier": "Iberia",
+          "flight_number": "IB342"
+        },
+        {
+          "from": "MAD",
+          "to": "ORY",
+          "depart_at": "2027-04-21T09:55:00",
+          "arrive_at": "2027-04-21T11:55:00",
+          "carrier": "Iberia",
+          "flight_number": "IB571"
+        },
+        {
+          "from": "ORY",
+          "to": "MAD",
+          "depart_at": "2027-04-25T07:25:00",
+          "arrive_at": "2027-04-25T09:30:00",
+          "carrier": "Iberia",
+          "flight_number": "IB584"
+        },
+        {
+          "from": "MAD",
+          "to": "LHR",
+          "depart_at": "2027-04-25T10:30:00",
+          "arrive_at": "2027-04-25T11:55:00",
+          "carrier": "British Airways",
+          "flight_number": "BA457"
+        },
+        {
+          "from": "LHR",
+          "to": "DEN",
+          "depart_at": "2027-04-25T13:35:00",
+          "arrive_at": "2027-04-25T16:30:00",
+          "carrier": "British Airways",
+          "flight_number": "BA219"
+        }
+      ],
+      "duration_minutes": 1956,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 1589.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:28:48.753834Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.aa.com/goto/metasearch?ITEN=GOOGLE,HyzA8Y6uOv6IABYkqABD-----vtbgm21-n1AAAAAGsDJlcGV5O-A,US,roundTrip,4,A1S0C0I0Y0L0,2,DEN,0,ORY,0,false,1808245440000,false,1808630700000,0,0,775.00,1,%23AA%7C2276%7CB%7CDEN%7CORD%7C1808245440000%7C0%7CSLX5T1BV%23AA%7C8754%7CS%7CORD%7CMAD%7C1808258100000%7C0%7CSLX5T1BV%23AA%7C8831%7CS%7CMAD%7CORY%7C1808294100000%7C0%7CSLX5T1BV%23AA%7C8577%7CM%7CORY%7CMAD%7C1808630700000%7C1%7CMLW8T1BV%23AA%7C6801%7CM%7CMAD%7CLHR%7C1808641800000%7C1%7CMLW8T1BV%23AA%7C6970%7CM%7CLHR%7CDEN%7C1808656500000%7C1%7CMLW8T1BV&locale=en_US&c=MSE%7CGFS%7C20261122%7CDST%7CDST%7CWEB%7C%7CBSSMMM%7CBSSMMM%7CGFSE-0_1_0_1&dp=true&gclid=AAcRjHLGsZDtr4BL8sA5_KlSEz2m74zQq9NnmexUArNfb-W8e5VWJ7km3rCg5R6ko1FDJTAUgllmPR3iWbv7ImN1dOkx_pPBME6rDnOJYB9mtnnUN2g&gclsrc=gf",
+        "provider": "ignav:American"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 3
+    }
+  ],
+  "lodging": [
+    {
+      "id": "ho-ChcI68-PnpaM2K",
+      "name": "Le Bon Hôtel",
+      "type": "hotel",
+      "location": {
+        "lat": 48.8861358,
+        "lng": 2.2610694
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 3.7,
+      "review_count": 568,
+      "price": {
+        "amount": 83.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 417.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.bonhotel.fr/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkQyqvhwqbr7d",
+      "name": "Studio Montmartre",
+      "type": "apartment",
+      "location": {
+        "lat": 48.8939208984375,
+        "lng": 2.3301498889923096
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": null,
+      "review_count": null,
+      "price": {
+        "amount": 70.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 350.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.google.com/search?q=Studio%20Montmartre%20Paris%20hotel",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "no direct booking link; search link"
+      }
+    },
+    {
+      "id": "ho-ChoItaueo7LGyu",
+      "name": "Hôtel Le Marianne - Champs Elysées - Paris 8e",
+      "type": "hotel",
+      "location": {
+        "lat": 48.872623399999995,
+        "lng": 2.3075741
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.5,
+      "review_count": 280,
+      "price": {
+        "amount": 281.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1406.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.lemarianne.com/fr/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_marianne",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoI2_fRn6bMr4",
+      "name": "Hotel La Lanterne & Spa by Timhotel",
+      "type": "hotel",
+      "location": {
+        "lat": 48.848973099999995,
+        "lng": 2.3485652999999997
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.6,
+      "review_count": 1091,
+      "price": {
+        "amount": 178.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 889.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.hotel-la-lanterne.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChgIzOOHou-x6d",
+      "name": "Hôtel Louvre Richelieu",
+      "type": "hotel",
+      "location": {
+        "lat": 48.8665026,
+        "lng": 2.3371606
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.1,
+      "review_count": 231,
+      "price": {
+        "amount": 170.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 848.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.louvre-richelieu.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoIldqPi5yBhY",
+      "name": "Hotel Lautrec Opera",
+      "type": "hotel",
+      "location": {
+        "lat": 48.8711607,
+        "lng": 2.3386049
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 3.6,
+      "review_count": 578,
+      "price": {
+        "amount": 190.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 948.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://paris-hotel-lautrec.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoI-_Dd1NfxrZ",
+      "name": "Hôtel Maison Mère",
+      "type": "hotel",
+      "location": {
+        "lat": 48.8771324,
+        "lng": 2.3451367
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.7,
+      "review_count": 787,
+      "price": {
+        "amount": 231.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1153.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.maisonmere.co/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkInMKgie3-lY",
+      "name": "The People",
+      "type": "hotel",
+      "location": {
+        "lat": 48.8501611,
+        "lng": 2.3628378999999997
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4,
+      "review_count": 1969,
+      "price": {
+        "amount": 71.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 353.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.thepeoplehostel.com/fr/destinations/paris-marais/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkI9PjDtp7n4s",
+      "name": "Hôtel Lodge In Mis Paris 13",
+      "type": "hotel",
+      "location": {
+        "lat": 48.82109,
+        "lng": 2.3766069
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 3.4,
+      "review_count": 2312,
+      "price": {
+        "amount": 77.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 386.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.lodgein.travel/?utm_source=google&utm_medium=organique&utm_campaign=mybusiness&utm_content=",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIoJir0LaYmN",
+      "name": "Eklo Hotels Paris Porte de Versailles",
+      "type": "hotel",
+      "location": {
+        "lat": 48.827280699999996,
+        "lng": 2.2907861
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4,
+      "review_count": 1859,
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 208.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.eklohotels.com/fr/paris-versailles",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoIlZ2T59Xe6M",
+      "name": "Maison Bréguet",
+      "type": "hotel",
+      "location": {
+        "lat": 48.856537599999996,
+        "lng": 2.3720243
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.4,
+      "review_count": 936,
+      "price": {
+        "amount": 314.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1568.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.maisonbreguet.com/?utm_source=google&utm_medium=organic&utm_campaign=my_business",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChcIgs27zq7I5_",
+      "name": "Hotel Du Jeu De Paume",
+      "type": "hotel",
+      "location": {
+        "lat": 48.852087499999996,
+        "lng": 2.3561805
+      },
+      "area": "Paris",
+      "check_in": "2027-04-20",
+      "check_out": "2027-04-25",
+      "rating": 4.7,
+      "review_count": 576,
+      "price": {
+        "amount": 207.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 1033.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.jeudepaumehotel.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-wv3702f095dc",
+      "name": "Maison Européenne de la Photographie",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Paris museum in the Marais devoted to contemporary photography, with changing exhibitions.",
+      "location": {
+        "lat": 48.8551395,
+        "lng": 2.3567364
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 9.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 9.89,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.mep-fr.org/english/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Maison Européene de la Photographie': \"Admission €9\""
+      },
+      "name_local": "Maison Européene de la Photographie",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv3a09e828ca",
+      "name": "Château de Vincennes",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A large medieval royal fortress on the eastern edge of Paris, with a tall keep and a Gothic chapel.",
+      "location": {
+        "lat": 48.842778,
+        "lng": 2.435833
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 9.5,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 10.44,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.chateau-de-vincennes.fr/en",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Château de Vincennes': \"€9.50, free for EU residents under 26\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/12th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv52f9d3431f",
+      "name": "Cinema Museum (Cinémathèque Française)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum about the history of cinema, associated with the Cinémathèque française in eastern Paris.",
+      "location": {
+        "lat": 48.83725042,
+        "lng": 2.38252145612
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.cinematheque.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Cinema Museum': \"Exhibition: Adult €12, Reduced €9.50, U18 €6: Museum Adult €10, Reduced&18-35 €7.50, U18 €5. Joint tickets available\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Cinema Museum",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/12th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv684db2b7ae",
+      "name": "Catacombs of Paris",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "Underground ossuary tunnels holding the remains of millions of Parisians.",
+      "location": {
+        "lat": 48.83397,
+        "lng": 2.33245
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 18.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 19.78,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.catacombes.paris.fr",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Les Catacombes de Paris': \"Adults (audioguide incl.): , Reduced rate (audioguide incl.): , Children (8 to 17 yo): ; Adults (same day “last minute”): , Reduced rate (same day “last minute”): , Children (under 18): free; Audioguide:\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Les Catacombes de Paris",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/14th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv23cd39e2c0",
+      "name": "Henri Cartier-Bresson Foundation",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A photography foundation showing the work of Henri Cartier-Bresson and other photographers.",
+      "location": {
+        "lat": 48.8367,
+        "lng": 2.3216
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 6.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 6.59,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://henricartierbresson.org/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Fondation Henri-Cartier-Bresson': \"€6\""
+      },
+      "name_local": "Fondation Henri-Cartier-Bresson",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/14th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv3a64d91bd1",
+      "name": "Museum of the Liberation of Paris – General Leclerc – Jean Moulin Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum on the Second World War, the Liberation of Paris, and the figures of General Leclerc and Jean Moulin.",
+      "location": {
+        "lat": 48.834167,
+        "lng": 2.331621
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.museeliberation-leclerc-moulin.paris.fr/en",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'The Liberation of Paris, General Leclerc Museum, Jean Moulin Museum': \"Free\""
+      },
+      "name_local": "The Liberation of Paris, General Leclerc Museum, Jean Moulin Museum",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/14th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv8708dd977f",
+      "name": "Pasteur Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum dedicated to Louis Pasteur, located at the Pasteur Institute in Paris.",
+      "location": {
+        "lat": 48.84028,
+        "lng": 2.31139
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 14.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 15.39,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.pasteur.fr/fr/institut-pasteur/musee-pasteur",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée Pasteur': \"Entry €14, students €7\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée Pasteur",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/15th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv285b026b29",
+      "name": "Balloon of Paris (Ballon de Paris)",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A tethered balloon offering aerial views of Paris, located in Parc André Citroën.",
+      "location": {
+        "lat": 48.841389,
+        "lng": 2.274167
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.ballondeparis.com",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Ballon de Paris': \"€12\""
+      },
+      "name_local": "Ballon de Paris",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/15th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvd2e3ab0df4",
+      "name": "Montparnasse Tower Observation Deck",
+      "name_source": "osm_name_en",
+      "category": "other",
+      "description": "A rooftop observation deck atop the Montparnasse Tower with panoramic views of Paris.",
+      "location": {
+        "lat": 48.84198,
+        "lng": 2.32181
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 15.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 16.48,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.tourmontparnasse56.com/en/#/home",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Tour Montparnasse, Top deck': \"€15\""
+      },
+      "name_local": "Tour Montparnasse, Top deck",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/15th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv89f8f585a9",
+      "name": "Marmottan Monet Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Paris art museum known for its large collection of works by Claude Monet.",
+      "location": {
+        "lat": 48.859361,
+        "lng": 2.2675
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.marmottan.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée Marmottan': \"€12; children under 18 and students under 25 €8.50; children under 7 and people with disabilities free\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée Marmottan",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv39d7d3bac8",
+      "name": "Musée en Herbe",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Paris museum offering art exhibitions and activities aimed at children and families.",
+      "location": {
+        "lat": 48.87769,
+        "lng": 2.26876
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 8.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.79,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.musee-en-herbe.com",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée en Herbe': \"€4 for the exhibitions, €8 for the workshops, but add €2.70 for entrance to the garden. Some discounts are available\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvd587ae70e0",
+      "name": "Palais de Tokyo",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A contemporary art centre in Paris with large, changing exhibitions.",
+      "location": {
+        "lat": 48.864167,
+        "lng": 2.297222
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.palaisdetokyo.com",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Palais de Tokyo': \"€12 adults, €9 concessions\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvc45eee1025",
+      "name": "Museum of Modern Art of the City of Paris",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A municipal museum of modern and contemporary art in Paris.",
+      "location": {
+        "lat": 48.863889,
+        "lng": 2.297222
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://mam.paris.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée d'Art Moderne de la Ville de Paris': \"Free, temporary exhibitions have various charges\""
+      },
+      "name_local": "Musée d'Art Moderne de la Ville de Paris",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv9aa04fce28",
+      "name": "Dapper Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Paris museum that was known for exhibitions of African art.",
+      "location": {
+        "lat": 48.871667,
+        "lng": 2.288056
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 6.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 6.59,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.dapper.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée Dapper': \"Adults €6, concessional rate €4, free on the last Wednesday of each month\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée Dapper",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvf978d6ebce",
+      "name": "National Maritime Museum (Musée national de la Marine)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A national museum of maritime history, housed at the Palais de Chaillot.",
+      "location": {
+        "lat": 48.862217,
+        "lng": 2.288247
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.musee-marine.fr/paris",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée Nationale de la Marine': \"€12 at ticket office, €11 online. Free to under eighteens\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée Nationale de la Marine",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvba239b0292",
+      "name": "Museum of Mankind (Musée de l'Homme)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "An anthropology and natural history museum at the Palais de Chaillot.",
+      "location": {
+        "lat": 48.862217,
+        "lng": 2.288247
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 10.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 10.99,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.museedelhomme.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée de l'Homme': \"€10 adult, €7 reductions\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée de l'Homme",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv737bdf6283",
+      "name": "City of Architecture and Heritage",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum and cultural centre dedicated to architecture and heritage, at the Palais de Chaillot.",
+      "location": {
+        "lat": 48.862823,
+        "lng": 2.288369
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 8.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.79,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.citedelarchitecture.fr",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Cité de l'architecture & du patrimoine': \"€8 adult, €6 reduced\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Cité de l'architecture & du patrimoine",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvd26aa23e5a",
+      "name": "Martin Luther King Park (Clichy-Batignolles)",
+      "name_source": "osm_name_en",
+      "category": "nature",
+      "description": "A public park in the Clichy-Batignolles district of northwest Paris.",
+      "location": {
+        "lat": 48.8913,
+        "lng": 2.3143
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/parc-clichy-batignolles-martin-luther-king-2817",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Parc Clichy Batignolles Martin Luther King': \"Free\""
+      },
+      "name_local": "Parc Clichy Batignolles Martin Luther King",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/17th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv83f74e90a2",
+      "name": "Dalí Paris (Espace Dalí)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Montmartre museum devoted to the art of Salvador Dalí.",
+      "location": {
+        "lat": 48.886528,
+        "lng": 2.339722
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 11.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 12.09,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.daliparis.com/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Espace Dali': \"Admission €11 adults, €7 seniors 60+, €6 children and students under 26, free for children under 8\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Espace Dali",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/18th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv4fa582cf4d",
+      "name": "Moulin Rouge",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "A famous Paris cabaret in Pigalle known for its revue shows.",
+      "location": {
+        "lat": 48.884167,
+        "lng": 2.332222
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 95.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 104.41,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 150,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.moulinrouge.fr",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Le Moulin Rouge': \"It's not cheap: the 21:00 show costs €95 and the 23:00 show costs €89\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Le Moulin Rouge",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/18th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvae30fed29d",
+      "name": "City of Science and Industry",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A large science museum in Parc de la Villette in northeast Paris.",
+      "location": {
+        "lat": 48.895556,
+        "lng": 2.388056
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 15.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 16.48,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 180,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.cite-sciences.fr/english/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Cité des Sciences et de l'Industrie': \"Adults (25+) €15, youths (6-25) €12, children (2-5) €4, free under 2\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Cité des Sciences et de l'Industrie",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/19th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvbd52deba62",
+      "name": "Conciergerie",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A former royal palace and prison on the Île de la Cité, now open to visitors.",
+      "location": {
+        "lat": 48.856389,
+        "lng": 2.345556
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 6.1,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 6.7,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://conciergerie.monuments-nationaux.fr/en/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'La Conciergerie': \"Booking Required.€6.10, concessions and guided tours available, under-18 free, Passion Monuments pass accepted\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "La Conciergerie",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv1d13b0d84d",
+      "name": "Sainte-Chapelle",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A Gothic royal chapel on the Île de la Cité known for its stained glass.",
+      "location": {
+        "lat": 48.855369,
+        "lng": 2.345028
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 22,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 24.18
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.sainte-chapelle.fr/en/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "The official site lists 'Price: 22€' for Sainte-Chapelle admission, with free entry for EU residents under 26. The page gives no seasonal breakdown. Third-party sources suggested lower winter prices (about 15 €), but I could not confirm that on an official page."
+      },
+      "price_source": {
+        "url": "https://www.sainte-chapelle.fr/en",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-wv6bdd5fd2ab",
+      "name": "Louvre Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "One of the world's largest art museums, housed in a former royal palace in Paris.",
+      "location": {
+        "lat": 48.861089,
+        "lng": 2.33575
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 22,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 24.18
+      },
+      "duration_minutes": 240,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.louvre.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official Louvre page lists €22 for EEA residents/citizens and €32 for non-EEA visitors. Cheapest standard adult ticket reported (€22)."
+      },
+      "name_local": "Musée du Louvre",
+      "price_source": {
+        "url": "https://www.louvre.fr/en/visit/hours-admission/tickets-and-prices",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-wv0b3cd1cc0d",
+      "name": "Musée de l'Orangerie",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in the Tuileries Garden, known for Monet's Water Lilies panels.",
+      "location": {
+        "lat": 48.863833,
+        "lng": 2.32225
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 11,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 12.09
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.musee-orangerie.fr",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Visit Paris Region (regional tourism board) lists plein tarif €12.50 for a timed ticket, or €11 when bought on site. Cheapest option reported (€11 on-site). The museum's own site returned 403, so the price comes from this page."
+      },
+      "name_local": "L'Orangerie",
+      "price_source": {
+        "url": "https://www.visitparisregion.com/fr/musee-de-l-orangerie",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-wva027d956e2",
+      "name": "Musée en Herbe",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Paris museum offering art exhibitions and activities aimed at children and families.",
+      "location": {
+        "lat": 48.865069,
+        "lng": 2.341858
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 8.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.79,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.musee-en-herbe.com",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée en Herbe': \"€4 for the exhibitions, €8 for the workshops, but add €2.70 for entrance to the garden. Some discounts are available\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/16th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv39553e67e4",
+      "name": "Bourse de Commerce – Pinault Collection",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A contemporary art museum in the historic former Paris commodity exchange building.",
+      "location": {
+        "lat": 48.862731,
+        "lng": 2.342778
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 14.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 15.39,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.pinaultcollection.com/en/boursedecommerce",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Bourse de commerce - Pinault Collection': \"€14 full price, €10 reductions, free first Saturday of month after 17:00\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Bourse de commerce - Pinault Collection",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wva803097e61",
+      "name": "Cartier Foundation for Contemporary Art",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A contemporary art foundation in Paris presenting exhibitions of modern artists.",
+      "location": {
+        "lat": 48.862399,
+        "lng": 2.33734
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 15.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 16.48,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.fondationcartier.com/en",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Cartier Foundation for contempory art': \"Full €15, Reduced €10,\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Cartier Foundation for contempory art",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv931d5a88a9",
+      "name": "Père Lachaise Cemetery",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A large historic cemetery in eastern Paris with the graves of many famous figures.",
+      "location": {
+        "lat": 48.861944,
+        "lng": 2.394167
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/equipements/cimetiere-du-pere-lachaise-4080",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official City of Paris page says access is free (\"accès libre et gratuit\")."
+      },
+      "name_local": "Cimetière du Père Lachaise",
+      "price_source": {
+        "url": "https://www.paris.fr/lieux/cimetiere-du-pere-lachaise-4080",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-wv6db0470212",
+      "name": "National Library of France",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "France's national library, with a major site in the Paris 13th arrondissement.",
+      "location": {
+        "lat": 48.8666,
+        "lng": 2.3382
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 15,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 16.48
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://bibliotheque.inha.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "BnF has no single admission fee. The cheapest paid standard adult option is a 1-day public library reading ticket at €5 (plein tarif), while the Richelieu museum and temporary exhibitions are €15 plein tarif. Prices apply from 1 Sept 2026. Amount reported is €15 for the museum visit. Correction: the cheapest adult ticket is the €5 library day ticket, so €5 is the stated lowest price."
+      },
+      "name_local": "la Bibliothèque Nationale de France",
+      "price_source": {
+        "url": "https://www.bnf.fr/fr/tarifs-dacces-aux-bibliotheques-et-loffre-culturelle",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-wvdd5e66a4a9",
+      "name": "Tour Jean-sans-Peur",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A surviving medieval tower of the late 14th century in central Paris, associated with the Duke of Burgundy John the Fearless.",
+      "location": {
+        "lat": 48.8643,
+        "lng": 2.34806
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 8.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.79,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'La Tour Jean-sans-Peur': \"€5; students €3; guided tour, €8\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "La Tour Jean-sans-Peur",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvbbb58aa145",
+      "name": "Carnavalet Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum dedicated to the history of Paris, housed in historic mansions in the Marais.",
+      "location": {
+        "lat": 48.8575,
+        "lng": 2.362222
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 22.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://carnavalet.paris.fr/en",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Musée Carnavalet"
+    },
+    {
+      "id": "act-wv18c13992c6",
+      "name": "Cognacq-Jay Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum of 18th-century art and decorative objects in the Marais.",
+      "location": {
+        "lat": 48.858194,
+        "lng": 2.361389
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 8.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.79,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.museecognacqjay.paris.fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée Cognacq-Jay': \"€6-€8\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée Cognacq-Jay",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/3rd_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvb608a05155",
+      "name": "Musée des Arts et Métiers",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum of science and technology with collections of scientific instruments and inventions.",
+      "location": {
+        "lat": 48.866111,
+        "lng": 2.355278
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.arts-et-metiers.net",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée des Arts et Métiers': \"€9-€12\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/3rd_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv86b9fb94d0",
+      "name": "Notre-Dame de Paris",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "The medieval Gothic cathedral on the Île de la Cité, one of Paris's best-known landmarks.",
+      "location": {
+        "lat": 48.853,
+        "lng": 2.3498
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.notredamedeparis.fr/en/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Notre-Dame de Paris': \"free but booking is recommended as queues can be long.\""
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv35ee3ab9b0",
+      "name": "Shoah Memorial",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum and memorial in the Marais dedicated to the history of the Holocaust.",
+      "location": {
+        "lat": 48.854846,
+        "lng": 2.356196
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 22.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.memorialdelashoah.org/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Mémorial de la Shoah"
+    },
+    {
+      "id": "act-wv889ca39e4c",
+      "name": "Victor Hugo House",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "The former apartment of writer Victor Hugo on Place des Vosges, now a museum.",
+      "location": {
+        "lat": 48.854722,
+        "lng": 2.366111
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.maisonsvictorhugo.paris.fr",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Maison de Victor Hugo': \"Free\""
+      },
+      "name_local": "Maison de Victor Hugo",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv72c540d024",
+      "name": "European House of Photography (MEP)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A photography museum and exhibition space in the Marais.",
+      "location": {
+        "lat": 48.855274,
+        "lng": 2.359293
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 13.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 14.29,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.mep-fr.org/en/homepage/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'MEP – Maison Européenne de la Photographie': \"Full €13, Reduced €9 (+ €1 online)\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "MEP – Maison Européenne de la Photographie",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv180ee61a9b",
+      "name": "Panthéon",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A neoclassical monument in the Latin Quarter serving as a mausoleum for notable French figures.",
+      "location": {
+        "lat": 48.846111,
+        "lng": 2.345833
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://pantheon.monuments-nationaux.fr/fr/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wvaa18f9be20",
+      "name": "Jardin des Plantes",
+      "name_source": "osm_name_en",
+      "category": "nature",
+      "description": "The main botanical garden of Paris, with gardens, greenhouses and natural history institutions.",
+      "location": {
+        "lat": 48.843889,
+        "lng": 2.359722
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:39Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.mnhn.fr/museum/foffice/tous/tous/GuideDecouverte/lieuxVisiter/LieuxAVisiter/FLieuAVisiter.xsp?AE_ID214&INFO_ID21&LIEU_ID158&MAN_ID273&SITE_ID10&idx1&navliste",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Jardin des Plantes': \"free\""
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/5th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-51bc048dacee",
+      "name": "Archaeological Crypt of the Notre-Dame Forecourt",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "An underground archaeological site beneath the square in front of Notre-Dame, showing remains from Roman times onward.",
+      "location": {
+        "lat": 48.8536005,
+        "lng": 2.3481491
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 11,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 12.09
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://crypte.paris.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official crypt site (Paris Musées) states full rate 11 €."
+      },
+      "name_local": "Crypte archéologique du parvis Notre-Dame",
+      "price_source": {
+        "url": "https://www.crypte.paris.fr/en/visit/ticket-prices",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-51688e5143c0",
+      "name": "Notre-Dame",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "Tourist attraction entry for Notre-Dame cathedral on the Île de la Cité; likely duplicates another entry.",
+      "location": {
+        "lat": 48.8532381,
+        "lng": 2.3470464
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/7883928585",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Notre Dame"
+    },
+    {
+      "id": "act-51bb4b3d66fb",
+      "name": "Monument to Pope John Paul II",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A monument to Pope John Paul II near Notre-Dame.",
+      "location": {
+        "lat": 48.8524831,
+        "lng": 2.3496006
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4631150053",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Monument au Pape Jean-Paul II"
+    },
+    {
+      "id": "act-51fc82273e88",
+      "name": "Bust of Carlo Goldoni",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A bust honoring the Italian playwright Carlo Goldoni.",
+      "location": {
+        "lat": 48.852525,
+        "lng": 2.3508458
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4631205166",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Buste de Carlo Goldoni"
+    },
+    {
+      "id": "act-51cd7f66dc28",
+      "name": "Charlemagne and His Leudes",
+      "name_source": "llm_translation",
+      "category": "culture",
+      "description": "A sculpture group of Charlemagne with his followers, located near Notre-Dame.",
+      "location": {
+        "lat": 48.8530897,
+        "lng": 2.3482225
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/664190173",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Charlemagne et ses leudes"
+    },
+    {
+      "id": "act-519dbcc804fc",
+      "name": "Gallery of Kings",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "The row of royal statues on the facade of Notre-Dame de Paris.",
+      "location": {
+        "lat": 48.8532766,
+        "lng": 2.3491135
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/6419399963",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Galerie des Rois"
+    },
+    {
+      "id": "act-51f1af2f2306",
+      "name": "West Rose Window",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "The large rose window on the west facade of Notre-Dame.",
+      "location": {
+        "lat": 48.8532431,
+        "lng": 2.3491328
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/6419399960",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Rosace Ouest"
+    },
+    {
+      "id": "act-5159ebf0c8cf",
+      "name": "Cluny Museum (National Museum of the Middle Ages)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum of medieval art in the Latin Quarter, known for The Lady and the Unicorn tapestries.",
+      "location": {
+        "lat": 48.8506495,
+        "lng": 2.3435643
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 7.5,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 8.24,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.musee-moyenage.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Musée National Du Moyen Âge': \"€7.50 (€5.50 reduced rate, free under 18, museum card accepted)\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Musée de Cluny",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/5th_arrondissement",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-51e0f320d4cb",
+      "name": "Centre Pompidou",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A modern and contemporary art museum and cultural centre in the Beaubourg area.",
+      "location": {
+        "lat": 48.8604964,
+        "lng": 2.3524221
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 22.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 150,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.centrepompidou.fr",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Centre Georges Pompidou"
+    },
+    {
+      "id": "act-516d6d86c036",
+      "name": "Mineralogy Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum of minerals and gems in the Latin Quarter.",
+      "location": {
+        "lat": 48.8453935,
+        "lng": 2.3394599
+      },
+      "area": "6th Arrondissement",
+      "price": {
+        "amount": 7,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 7.69
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.musee.minesparis.psl.eu",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Official museum page states full price 7 € (reduced 4 €, free under 26)."
+      },
+      "name_local": "Musée de Minéralogie",
+      "price_source": {
+        "url": "https://www.minesparis.psl.eu/musee/le-musee/horaires-tarifs/",
+        "provider": "web_search"
+      },
+      "hours": {
+        "tue": {
+          "open": "13:30",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "13:30",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "13:30",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "13:30",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "12:30"
+        }
+      }
+    },
+    {
+      "id": "act-513ad23b6ee0",
+      "name": "Brancusi's Studio",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A reconstruction of sculptor Constantin Brancusi's studio next to the Centre Pompidou.",
+      "location": {
+        "lat": 48.8613894,
+        "lng": 2.3519821
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 22.4,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/55503399",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Atelier Brancusi",
+      "hours": {
+        "mon": {
+          "open": "14:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "14:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "14:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "14:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "14:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "14:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-51e6cc76853e",
+      "name": "Adam Mickiewicz Museum",
+      "name_source": "llm_translation",
+      "category": "museum",
+      "description": "A museum dedicated to the Polish poet Adam Mickiewicz.",
+      "location": {
+        "lat": 48.8513494,
+        "lng": 2.355588
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "osm_fee"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.ibpp.eu/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "OSM fee=no; name translated by LLM"
+      },
+      "name_local": "Musée Adam Mickiewicz",
+      "price_source": {
+        "url": "https://www.openstreetmap.org/node/1426016793",
+        "provider": "osm"
+      },
+      "hours": {
+        "tue": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-519c6d6e4c4f",
+      "name": "Boleslas Biegas Museum",
+      "name_source": "llm_translation",
+      "category": "museum",
+      "description": "A small museum devoted to the Polish artist Boleslas Biegas.",
+      "location": {
+        "lat": 48.8513131,
+        "lng": 2.35562
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "osm_fee"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://ibpp.eu/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "OSM fee=no; name translated by LLM"
+      },
+      "name_local": "Musée Boleslas Biegas",
+      "price_source": {
+        "url": "https://www.openstreetmap.org/node/4679772363",
+        "provider": "osm"
+      },
+      "hours": {
+        "tue": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-5197e6d54a7d",
+      "name": "Saint-Merri Church",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A Gothic church near the Centre Pompidou.",
+      "location": {
+        "lat": 48.8590829,
+        "lng": 2.3508047
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.saintmerry.org/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Église Saint-Merri",
+      "hours": {
+        "mon": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-51a5fb30cfe8",
+      "name": "Saint-Julien-le-Pauvre Church",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "A small medieval church in the Latin Quarter.",
+      "location": {
+        "lat": 48.8520486,
+        "lng": 2.3471337
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.sjlp-paris.org",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Église Saint-Julien-le-Pauvre",
+      "hours": {
+        "mon": {
+          "open": "10:30",
+          "close": "13:00"
+        },
+        "tue": {
+          "open": "10:30",
+          "close": "13:00"
+        },
+        "wed": {
+          "open": "10:30",
+          "close": "13:00"
+        },
+        "thu": {
+          "open": "10:30",
+          "close": "13:00"
+        },
+        "fri": {
+          "open": "10:30",
+          "close": "13:00"
+        },
+        "sat": {
+          "open": "10:30",
+          "close": "14:00"
+        },
+        "sun": {
+          "open": "09:45",
+          "close": "13:00"
+        }
+      }
+    },
+    {
+      "id": "act-51c81188ffc4",
+      "name": "Saint-Étienne-du-Mont Church",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "A church beside the Panthéon on the Montagne Sainte-Geneviève.",
+      "location": {
+        "lat": 48.8465502,
+        "lng": 2.348017
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.saintetiennedumont.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Église Saint-Étienne-du-Mont",
+      "hours": {
+        "mon": {
+          "open": "06:30",
+          "close": "19:30"
+        },
+        "tue": {
+          "open": "08:45",
+          "close": "19:45"
+        },
+        "wed": {
+          "open": "08:45",
+          "close": "22:00"
+        },
+        "thu": {
+          "open": "08:45",
+          "close": "19:45"
+        },
+        "fri": {
+          "open": "08:45",
+          "close": "19:45"
+        },
+        "sat": {
+          "open": "08:45",
+          "close": "12:00"
+        },
+        "sun": {
+          "open": "08:45",
+          "close": "12:15"
+        }
+      }
+    },
+    {
+      "id": "act-51ef1fd9d40b",
+      "name": "Saint-Séverin Church",
+      "name_source": "llm_translation",
+      "category": "history",
+      "description": "A Gothic church in the Latin Quarter.",
+      "location": {
+        "lat": 48.8520938,
+        "lng": 2.3457122
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 16.8,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/19740659",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Église Saint-Séverin",
+      "hours": {
+        "mon": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "tue": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "wed": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "thu": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "fri": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "sat": {
+          "open": "09:30",
+          "close": "13:00"
+        },
+        "sun": {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      }
+    },
+    {
+      "id": "act-51949dd92de4",
+      "name": "Square du Vert-Galant",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "A small park at the western tip of the Île de la Cité.",
+      "location": {
+        "lat": 48.8574066,
+        "lng": 2.3403279
+      },
+      "area": "1st Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/square-du-vert-galant-2825",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Square du Vert Galant",
+      "hours": {
+        "mon": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sat": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sun": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      }
+    },
+    {
+      "id": "act-511c78f23c72",
+      "name": "Square Jean XXIII",
+      "name_source": "original",
+      "category": "outdoors",
+      "description": "Small public garden square behind Notre-Dame Cathedral on the Île de la Cité.",
+      "location": {
+        "lat": 48.8523474,
+        "lng": 2.3512693
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/square-jean-xxiii-35",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-5110e8170a53",
+      "name": "Square de l'Île-de-France",
+      "name_source": "original",
+      "category": "outdoors",
+      "description": "Small park at the eastern tip of the Île de la Cité, beside the Deportation Memorial.",
+      "location": {
+        "lat": 48.852088,
+        "lng": 2.3522269
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "http://equipement.paris.fr/square-de-l-ile-de-france-32",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-51b2b4fcec0b",
+      "name": "Federico García Lorca Garden",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "Public garden in Paris named after the Spanish poet Federico García Lorca.",
+      "location": {
+        "lat": 48.8547188,
+        "lng": 2.3532394
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/jardin-federico-garcia-lorca-1204",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Jardin Federico-García-Lorca"
+    },
+    {
+      "id": "act-5105b36fb537",
+      "name": "Garden of the Combattants de la Nueve",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "Public garden named in honor of the Spanish Republican soldiers of La Nueve who helped liberate Paris in 1944.",
+      "location": {
+        "lat": 48.8557654,
+        "lng": 2.3521069
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/jardin-des-combattants-de-la-nueve-17991",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Jardin des Combattants-de-la-Nueve"
+    },
+    {
+      "id": "act-51b049c851ca",
+      "name": "Tropical Aquarium",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Aquarium displaying tropical fish and marine life.",
+      "location": {
+        "lat": 48.8351982,
+        "lng": 2.4090773
+      },
+      "area": "12th Arrondissement",
+      "price": {
+        "amount": 12,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.aquarium-tropical.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Page (regional tourism board) lists 'Plein tarif : 12 €' (reduced 9 €; free under 26). Aquarium-only ticket; the official palais-portedoree.fr page was not reachable to confirm."
+      },
+      "name_local": "Aquarium tropical",
+      "price_source": {
+        "url": "https://www.visitparisregion.com/fr/aquarium-tropical-du-palais-de-la-porte-doree",
+        "provider": "web_search"
+      }
+    },
+    {
+      "id": "act-51e215c50ce8",
+      "name": "Aquarium de Paris – Cinéaqua",
+      "name_source": "llm_translation",
+      "category": "entertainment",
+      "description": "Aquarium and cinema complex near the Trocadéro, with marine species and film screenings.",
+      "location": {
+        "lat": 48.8622176,
+        "lng": 2.2909672
+      },
+      "area": "Chaillot",
+      "price": {
+        "amount": 49.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.cineaqua.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Aquarium de Paris - Cinéaqua"
+    },
+    {
+      "id": "act-516f3bd14305",
+      "name": "Jardin d'Acclimatation",
+      "name_source": "original",
+      "category": "entertainment",
+      "description": "Amusement park and garden in the Bois de Boulogne, popular with families.",
+      "location": {
+        "lat": 48.8780985,
+        "lng": 2.2648884
+      },
+      "area": "16th Arrondissement",
+      "price": {
+        "amount": 49.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 210,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.jardindacclimatation.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-5154c4e9245b",
+      "name": "Au Vieux Paris d'Arcole",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant serving French cuisine near Notre-Dame on the Île de la Cité.",
+      "location": {
+        "lat": 48.8542243,
+        "lng": 2.3502715
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://auvieuxparis.fr/le-restaurant.html",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "14:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "14:00"
+        }
+      }
+    },
+    {
+      "id": "act-51ff3c0d1824",
+      "name": "Au Bougnat",
+      "name_source": "original",
+      "category": "food",
+      "description": "Traditional French restaurant in central Paris.",
+      "location": {
+        "lat": 48.8543,
+        "lng": 2.3501665
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://aubougnat.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "09:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "09:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "09:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "09:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "09:00",
+          "close": "23:59"
+        }
+      }
+    },
+    {
+      "id": "act-51238f96b9af",
+      "name": "Hon Ki",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant in central Paris.",
+      "location": {
+        "lat": 48.8519867,
+        "lng": 2.3484797
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.honki.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "15:00"
+        }
+      }
+    },
+    {
+      "id": "act-5150b12083cb",
+      "name": "Le Grenier de Notre Dame",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant near Notre-Dame, in the Latin Quarter.",
+      "location": {
+        "lat": 48.8519408,
+        "lng": 2.3485327
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 12.0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "fx_rate": 1.099,
+        "amount_normalized": 13.19,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://legrenierdenotredame.shop/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Le Grenier de Notre Dame': \"Dinners start at €12\""
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Paris/5th_arrondissement",
+        "provider": "wikivoyage"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51e5aeca2a11",
+      "name": "Café Leone",
+      "name_source": "original",
+      "category": "food",
+      "description": "Café-restaurant in central Paris.",
+      "location": {
+        "lat": 48.8546263,
+        "lng": 2.3501304
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://cafe-leone.fr",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "09:30",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "09:30",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51cc5944b9d9",
+      "name": "Red Grill",
+      "name_source": "original",
+      "category": "food",
+      "description": "Grill restaurant in central Paris.",
+      "location": {
+        "lat": 48.8528191,
+        "lng": 2.3461184
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://redgrill.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      }
+    },
+    {
+      "id": "act-51ec5e3821be",
+      "name": "Les Deux Colombes",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant in central Paris.",
+      "location": {
+        "lat": 48.8546805,
+        "lng": 2.3504603
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://lesdeuxcolombes.fr",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "tue": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-516511d43abb",
+      "name": "Le Petit Châtelet",
+      "name_source": "original",
+      "category": "food",
+      "description": "Restaurant in central Paris near the Petit Pont and Latin Quarter.",
+      "location": {
+        "lat": 48.8526239,
+        "lng": 2.3470368
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/6862401758",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "14:30"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "14:30"
+        }
+      }
+    },
+    {
+      "id": "act-51e35531f037",
+      "name": "Caveau de la Huchette",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Historic cellar jazz club in the Latin Quarter, known for live swing and dancing.",
+      "location": {
+        "lat": 48.8527871,
+        "lng": 2.3462981
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 150,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.caveaudelahuchette.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-510c570740dc",
+      "name": "Aux Trois Mailletz",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Multi-level bar and live music venue in the Latin Quarter.",
+      "location": {
+        "lat": 48.8521796,
+        "lng": 2.3466115
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.lestroismailletz.fr/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-51cde506431d",
+      "name": "Caveau des Oubliettes",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Medieval-style cellar bar in the Latin Quarter with live music.",
+      "location": {
+        "lat": 48.8520047,
+        "lng": 2.3467355
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.caveau-des-oubliettes.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "wed": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "thu": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "fri": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "sat": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "sun": {
+          "open": "17:30",
+          "close": "02:00"
+        }
+      }
+    },
+    {
+      "id": "act-51558e249c71",
+      "name": "Georges Café",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in central Paris.",
+      "location": {
+        "lat": 48.852867,
+        "lng": 2.3464081
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/2927812404",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "tue": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "wed": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "thu": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "fri": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "sat": {
+          "open": "00:00",
+          "close": "03:00"
+        },
+        "sun": {
+          "open": "00:00",
+          "close": "03:00"
+        }
+      }
+    },
+    {
+      "id": "act-518ef85ff8d2",
+      "name": "Saint's",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in central Paris.",
+      "location": {
+        "lat": 48.8524019,
+        "lng": 2.3465938
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/3085086583",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "tue": {
+          "open": "17:00",
+          "close": "06:00"
+        },
+        "wed": {
+          "open": "17:00",
+          "close": "06:00"
+        },
+        "thu": {
+          "open": "17:00",
+          "close": "06:00"
+        },
+        "fri": {
+          "open": "17:00",
+          "close": "06:00"
+        },
+        "sat": {
+          "open": "17:00",
+          "close": "06:00"
+        },
+        "sun": {
+          "open": "17:00",
+          "close": "06:00"
+        }
+      }
+    },
+    {
+      "id": "act-51a2d11dc4ce",
+      "name": "O'jason",
+      "name_source": "original",
+      "category": "nightlife",
+      "description": "Bar in central Paris.",
+      "location": {
+        "lat": 48.8529319,
+        "lng": 2.3460975
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 42.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/2534780397",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        "tue": {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        "wed": {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        "thu": {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        "fri": {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        "sat": {
+          "open": "00:00",
+          "close": "04:00"
+        },
+        "sun": {
+          "open": "00:00",
+          "close": "04:00"
+        }
+      }
+    },
+    {
+      "id": "act-5157f5f075fe",
+      "name": "Queen Elizabeth II Flower Market",
+      "name_source": "osm_name_en",
+      "category": "shopping",
+      "description": "Flower market on the Île de la Cité, known for plants and flowers; it hosts a bird market on Sundays.",
+      "location": {
+        "lat": 48.8554644,
+        "lng": 2.3476602
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "price_layer": "web_search"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/marche-aux-fleurs-reine-elizabeth-ii-4506",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Visit Paris Region page's Prices section lists the market as 'Free'. Open-air market, no admission charge."
+      },
+      "name_local": "Marché aux fleurs Reine-Elizabeth-II",
+      "price_source": {
+        "url": "https://www.visitparisregion.com/en/marche-aux-fleurs-reine-elizabeth-ii",
+        "provider": "web_search"
+      },
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "sat": {
+          "open": "08:00",
+          "close": "19:30"
+        },
+        "sun": {
+          "open": "08:00",
+          "close": "19:30"
+        }
+      }
+    },
+    {
+      "id": "act-51c03e7b2653",
+      "name": "Marché des Enfants Rouges",
+      "name_source": "llm_translation",
+      "category": "food",
+      "description": "Covered market in the Marais with food stalls and prepared-meal vendors, one of Paris's oldest.",
+      "location": {
+        "lat": 48.8627951,
+        "lng": 2.361973
+      },
+      "area": "3rd Arrondissement",
+      "price": {
+        "amount": 39.2,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/marche-couvert-des-enfants-rouges-5461",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Marché couvert des Enfants Rouges",
+      "hours": {
+        "tue": {
+          "open": "08:30",
+          "close": "20:30"
+        },
+        "wed": {
+          "open": "08:30",
+          "close": "20:30"
+        },
+        "thu": {
+          "open": "08:30",
+          "close": "21:30"
+        },
+        "fri": {
+          "open": "08:30",
+          "close": "20:30"
+        },
+        "sat": {
+          "open": "08:30",
+          "close": "20:30"
+        },
+        "sun": {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-5100a2850ec9",
+      "name": "Maubert Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "Open-air food market at Place Maubert in the Latin Quarter.",
+      "location": {
+        "lat": 48.8499088,
+        "lng": 2.3485468
+      },
+      "area": "5th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/marche-maubert-5463",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Marché Maubert",
+      "hours": {
+        "tue": {
+          "open": "07:00",
+          "close": "13:30"
+        },
+        "thu": {
+          "open": "07:00",
+          "close": "13:30"
+        },
+        "sat": {
+          "open": "07:00",
+          "close": "14:30"
+        }
+      }
+    },
+    {
+      "id": "act-51267b3a0d07",
+      "name": "Baudoyer Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "Open-air food market at Place Baudoyer near the Paris city hall.",
+      "location": {
+        "lat": 48.8563394,
+        "lng": 2.3554822
+      },
+      "area": "4th Arrondissement",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.paris.fr/lieux/marche-baudoyer-5462",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Marché Baudoyer",
+      "hours": {
+        "wed": {
+          "open": "10:00",
+          "close": "20:30"
+        },
+        "sat": {
+          "open": "07:00",
+          "close": "14:30"
+        }
+      }
+    },
+    {
+      "id": "act-dt299fc2a7b0",
+      "name": "Versailles",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "Explore Louis XIV's opulent palace, the Hall of Mirrors and the vast gardens, reached in about 40–60 minutes each way by RER C.",
+      "location": {
+        "lat": 48.8044252,
+        "lng": 2.1202853
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 98.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 330,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Versailles%20Paris",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 120
+    },
+    {
+      "id": "act-dt14efa07b56",
+      "name": "Giverny (Monet's House and Gardens)",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "Visit Claude Monet's pink house and water-lily garden, reached by train from Paris Saint-Lazare to Vernon plus a shuttle or bike ride (the site is open roughly April to early November, so it is closed",
+      "location": {
+        "lat": 49.0753489,
+        "lng": 1.5337884
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 98.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 240,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Giverny%20%28Monet%27s%20House%20and%20Gardens%29%20Paris",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 240
+    },
+    {
+      "id": "act-dtd04417c2f1",
+      "name": "Reims and Champagne Houses",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "Tour the coronation cathedral and a Champagne cellar such as Taittinger or Pommery, with a TGV or TER from Paris taking about 45–60 minutes each way.",
+      "location": {
+        "lat": 49.252721,
+        "lng": 4.029483
+      },
+      "area": "Paris",
+      "price": {
+        "amount": 98.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 1.4 for cost tier 3. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 360,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Reims%20and%20Champagne%20Houses%20Paris",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 240
+    }
+  ],
+  "ground_transport": [
+    {
+      "id": "gt-apt-CDG",
+      "mode": "taxi",
+      "from": "CDG airport",
+      "to": "Paris",
+      "from_geo": {
+        "lat": 49.0031,
+        "lng": 2.5156
+      },
+      "to_geo": {
+        "lat": 48.8534951,
+        "lng": 2.3483915
+      },
+      "distance_km": 36.1,
+      "duration_minutes": 32,
+      "price": {
+        "amount": 96.57,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:40Z",
+        "estimate_method": "Taxi estimate: $4 base + $1.80/km, scaled by country cost tier. Public transit is usually cheaper.",
+        "price_layer": "category_estimate"
+      },
+      "source": {
+        "url": "https://www.rome2rio.com/map/CDG%20airport/Paris",
+        "provider": "geoapify_routing"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Road route from Geoapify (may be inaccurate where map data is uncertain, and border waits are not included); fare is an estimate."
+      }
+    }
+  ],
+  "feasibility": {
+    "budget": 3000.0,
+    "estimated_minimum_total": 1828.0,
+    "verdict": "comfortable",
+    "reasoning": "Cheapest realistic combination comes to about 1,828 USD against a budget of 3,000 (61%). Largest cost: flights (843). Flight and lodging use live prices; food and local transport are estimates set high. Activities are not included.",
+    "breakdown": {
+      "flights": 843.0,
+      "lodging": 385.0,
+      "food_and_local_transport": 600.0
+    }
+  },
+  "gaps": [],
+  "notes": [
+    "Origin DEN is already an IATA code (Denver International Airport).",
+    "Paris is served by Charles de Gaulle (CDG) and Orly (ORY); CDG handles most intercontinental flights.",
+    "Assumption for 'Paris': Paris interpreted as Paris, France (the most famous Paris).",
+    "Dates: 2027-04-20 to 2027-04-25; 5 night(s) of lodging. Flight prices are totals for all 1 traveler(s)."
+  ],
+  "_schema_errors": []
+}

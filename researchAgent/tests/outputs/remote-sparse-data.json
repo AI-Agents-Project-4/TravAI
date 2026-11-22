@@ -1,0 +1,33 @@
+{
+  "request_id": "remote-sparse-data",
+  "status": "error",
+  "generated_at": "2026-11-22T21:20:40Z",
+  "currency": "USD",
+  "advisories": [],
+  "flights": [],
+  "lodging": [],
+  "activities": [],
+  "ground_transport": [],
+  "feasibility": {
+    "budget": 6000.0,
+    "estimated_minimum_total": null,
+    "verdict": "unknown",
+    "reasoning": "Not computed."
+  },
+  "gaps": [
+    {
+      "category": "other",
+      "reason": "Could not locate Edinburgh of the Seven Seas",
+      "source_attempted": "geoapify"
+    }
+  ],
+  "notes": [
+    "Tristan da Cunha has no airport and no scheduled commercial air service, so airports is empty.",
+    "Access is only by ship, typically about 6 days each way from Cape Town, South Africa (CPT). Departures are infrequent, and a few fishing and supply vessels and some expedition cruises also call. Landing depends on weather and permission from the island administration. Visitors need advance approval, and berths are limited.",
+    "From DEN, fly to Cape Town (CPT), usually via a hub such as Johannesburg, London, or Doha. Then take a ship from Cape Town. Saint Helena (HLE) has flights from Johannesburg, but no ship links it to Tristan da Cunha on a regular schedule.",
+    "Daily cost is an estimate. The island uses the British pound, and food and lodging are mostly arranged through homestays. Ship passage is a separate and substantial cost.",
+    "The State Department advisory may be listed under a different name or grouped with the UK. Please verify.",
+    "Assumption for 'Tristan da Cunha': Interpreted as the island's only settlement, Edinburgh of the Seven Seas. The island has no airport."
+  ],
+  "_schema_errors": []
+}

@@ -1,0 +1,657 @@
+{{pagebanner|Old Rome banner.jpg}}
+[[Image:Neptune fountain.jpg|thumb|350px|The Fountain of Neptune at the center of the Piazza Navona]]
+
+'''Old Rome''' is the historic medieval and renaissance center of [[Rome]]. While the oldest section of Rome is at the [[Rome/Colosseo|Forum]], and the [[Rome/Modern Center|Modern Center]] has shifted to the Via Veneto, Old Rome remains the city's most charming district, with lovely piazzas (squares) and streets to wander and find small cafes and restaurants. Old Rome includes the neighborhoods of Navona, Campo de' Fiori, Pantheon, and the Ghetto.
+
+==Get in==
+{{Mapframe|41.89790|12.47473|zoom=15|width=520|height=560|layer=M|lang=en}}
+{{Mapmask|41.9018,12.4654|41.9020,12.4682|41.9023,12.4702|41.9029,12.4721|41.9034,12.4730|41.9028,12.4733|41.9027,12.4734|41.9026,12.4736|41.9023,12.4737|41.9020,12.4739|41.9018,12.4739|41.9018,12.4742|41.9018,12.4743|41.9017,12.4743|41.9017,12.4750|41.9016,12.4754|41.9016,12.4755|41.9016,12.4758|41.9015,12.4761|41.9015,12.4762|41.9014,12.4763|41.9013,12.4764|41.9012,12.4764|41.9012,12.4765|41.9012,12.4766|41.9012,12.4767|41.9011,12.4769|41.9020,12.4774|41.9022,12.4776|41.9022,12.4776|41.9024,12.4777|41.9025,12.4778|41.9030,12.4777|41.9030,12.4777|41.9033,12.4778|41.9034,12.4778|41.9035,12.4779|41.9035,12.4779|41.9036,12.4783|41.9037,12.4791|41.9037,12.4793|41.9039,12.4800|41.9039,12.4801|41.9042,12.4811|41.9044,12.4820|41.9046,12.4830|41.9047,12.4834|41.9047,12.4834|41.9046,12.4835|41.9039,12.4843|41.9038,12.4844|41.9039,12.4845|41.9040,12.4854|41.9040,12.4854|41.9040,12.4857|41.9036,12.4855|41.9028,12.4855|41.9014,12.4802|41.8983,12.4815|41.8981,12.4809|41.8976,12.4791|41.8975,12.4788|41.8975,12.4787|41.8959,12.4789|41.8946,12.4804|41.8938,12.4794|41.8934,12.4791|41.8924,12.4785|41.8915,12.4787|41.8913,12.4786|41.8913,12.4785|41.8913,12.4785|41.8910,12.4781|41.8914,12.4772|41.8915,12.4768|41.8915,12.4765|41.8915,12.4764|41.8914,12.4757|41.8912,12.4750|41.8910,12.4749|41.8911,12.4738|41.8912,12.4730|41.8916,12.4718|41.8937,12.4690|41.8963,12.4657|41.8966,12.4655|41.8982,12.4641|41.8991,12.4637|41.8996,12.4636|41.8999,12.4635|41.9003,12.4636|41.9007,12.4638|41.9011,12.4642|41.9018,12.4654}}
+{{mapshapes|Q237480}}
+<!--
+The official boundaries do not completely match the district map in [[Rome]], so this mapshape is currently commented out:
+{{Mapshape|wikidata=Q1110986,Q2052302,Q1814200,Q261246,Q2223960,Q1329671,Q2223892}}
+-->
+From Termini station, take the 64 bus. Be careful as this route is popular with [[pickpockets]]. The Old Rome area is served by several stops between Piazza Venezia and the River Tiber. Or, take one of the many other buses serving Piazza Venezia.
+
+==See==
+
+===Ancient Rome===
+
+[[Image:Ancient Pantheon.jpg|thumb|260px|The Piazza of the Pantheon]]
+[[Image:Rome (Italy, October 2019) - 275 (50589571796).jpg|thumb|right|260px|Roof of the Pantheon]]
+* {{see
+| name=The Pantheon | alt=Basilica of St. Mary and the Martyrs | url=https://www.pantheonroma.com/home-eng/ | email=info@pantheonroma.com
+| address=Piazza della Rotonda | lat=41.898561 | long=12.47685 | directions=
+| phone=+39 347 8205204 | tollfree= | fax=
+| hours=Mon-Sat 08:00-19:30, Sun 09:00-18:00, public holidays 09:00-13:00, closed Jan 1, May 1, Dec 25 | price=Under 25 years old €2, over 25 €5 
+| wikipedia=Pantheon, Rome | image=Pantheon Front.jpg | wikidata=Q99309
+| lastedit=2024-05-19
+| content=It was built in 27 BCE, by Augustus' right hand man Marcus Agrippa, and later remodeled by the Emperor Hadrian (AD 125-128). This ancient temple was built as a temple to all the gods of the Roman state but has served as a Christian church since the 7th century. It is the only building from the Graeco-Roman world which has remained substantially intact and in continuous use throughout to the present day, and as it is still a functioning church, silence is requested during your visit. The Pantheon is celebrated for its large dome. From inside you'll see traces of the former bronze ceiling, melted down during the reign of Pope Urban VIII to make weapons for the fortification of the Castel Sant' Angelo. The hole in the center of the ceiling, though, is an original feature designed for architectural reasons (the dome would collapse without it.) If it happens to be '''raining''', you should definitely go to the Pantheon to see the rain pouring into the building through the hole in the ceiling. There are holes in the ground that drain the water. The spectacular doors are Romans, but not the original. The original bronze beams of the pronao were melted down by Pope Urban VIII and might have been used to create Bernini's Baldacchino, or canopy, in Saint Peter's. The dome is the largest masonry dome in the world, larger than that of Saint Peter. The building now appears to be built in a depression, but this was not the original appearance. The street level at the sides and rear has risen about {{convert|10|m|ft}} since its construction due to the accumulation of debris from 2,000 years of settlement. This has necessitated the maintenance of the deep trench that keeps the building from being buried. The Pantheon was free for many years, but fees began being charged in 2023.
+}}
+
+[[Image:Largo Argentina.JPG|thumb|right|250px|Largo di Torre Argentina]]
+
+* {{see
+| name=Largo di Torre Argentina | alt= | url= | email=
+| address= | lat=41.89528 | long=12.47694 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Largo di Torre Argentina | image=Largo di Torre Argentina 4.jpg | wikidata=Q1541068
+| content=Not, as commonly believed, named after the country but after the city of Strasbourg (''Argentoratum'' in Latin), from which came a courtesan of Pope Alexander VI who lived nearby. Four Roman Republican-era temples, Pompey's theater and a Roman public toilet ("Latrina") have been excavated. The Pompey Theater is the site where Julius Caesar was stabbed to death by senators in 44 BC. The largo is also home to a large number of cats which are tended by the [https://www.gattidiroma.net/web/en/ local animal rights organization] - purportedly a jab at Mussolini who excavated the area and is said to have hated cats. As of September 2024 no cats could be seen at least from the street.
+}}
+* {{see
+| name=Temple of Hadrian | alt= | url= | email=
+| address=La Borsa, Piazza di Pietra | lat=41.9 | long=12.479444 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Temple of Hadrian | image=Roma, Piazza di Pietra - Tempio di Adriano.JPG | wikidata=Q431062
+| content=The temple of the Emperor Hadrian was consecrated in 145 AD by Emperor Antoninus Pius. The remains of the antique temple were incorporated into a new building that served as the Papal Customs House. It was finished around 1690 and today accommodates the Stock Exchange (''Borsa'').
+}}
+
+===Churches===
+* {{see
+| name=Sant'Andrea della Valle | alt= | url= | email=
+| address=Corso Vittorio Emanuele II | lat=41.896464 | long=12.474339 | directions=Bus: 46-62-64-916-916F-n46-n98-n904
+| phone=+39 06 6861339 | tollfree= | fax=+39 06 6877897
+| hours=Mon-Sat 15:00-19:30, Sun 08:00-19:30 | price=
+| wikidata=Q1631593
+| content=Minor basilica in 17th-century baroque style with good art inside. In a smaller Italian city, this might be a prime attraction, but in Rome, with its abundance of great churches, this is merely a pleasant church of secondary interest to visit if you are in the area.
+}}
+* {{see | name=Sant'Ivo alla Sapienza | alt= | url=http://www.sivoallasapienza.eu/ | email= | address=Corso del Rinascimento, 40 | lat=41.898221 | long=12.474734 | directions= | phone=+39 066864987 | tollfree= | fax= | hours=Sun 09:00-12:00, closed Jul and Aug | price= | wikipedia=Sant'Ivo alla Sapienza | image=Palazzo della Sapienza.jpg | wikidata=Q1324617 | content=This little church is hard to find but well worth the extra effort although it is often closed when you get there. One of Borromini's masterpieces. It is located only a block from Piazza Navona, but not usually visible from the street, as you must enter the courtyard of an old palazzo to reach the church. Sant'Ivo is a small church the dome of which is shaped like the Star of David, but with every other point rounded. The steeple seen from the outside looks like it has a staircase wrapped around it that ascends to heaven. As the church was commissioned by the Barberini family that produced a number of popes and whose family symbol was the bee—some say the steeple resembles the stinger of the insect.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Santa Maria sopra Minerva | alt= | url=http://www.basilicaminerva.it/ | email=
+| address=Piazza della Minerva, 42 | lat=41.898056 | long=12.478333 | directions=
+| phone=+39 066793926 | tollfree= | fax=
+| hours=Mon-Sat 07:00-19:00, Sun 08:00-13:00, 15:00-19:00, monastery Mon-Sat 09:00-12:00, 16:00-18:30 | price=
+| wikipedia=Santa Maria sopra Minerva | image=Roma-Santa Maria sopra Minerva.jpg | wikidata=Q823685
+| content=This church is literally right next to the Pantheon. It is one of Rome's only Gothic churches, and well worth looking inside, although its plain square façade makes it look inconspicuous from outside. Excellent stained glass windows.
+}}
+* {{see
+| name=San Luigi dei Francesi | alt= | url=http://www.saintlouis-rome.net | email=
+| address=Piazza San Luigi dei Francesi, 5 | lat=41.899583 | long=12.474667 | directions=
+| phone=+39 066882718 | tollfree= | fax=
+| hours=08:00-12:00, 15:30-19:00, closed Thu afternoon | price=
+| wikipedia=San Luigi dei Francesi | image=Rome San Luigi dei Franchesi 10-01-2011 12-04-21.JPG | wikidata=Q638283
+| content=This church is roughly halfway between Piazza Navona and the Pantheon. It is most notable for a side chapel which contains three Caravaggio masterworks: "The Calling of St. Matthew", "St. Matthew and the Angel" and "Martyrdom of St. Matthew".
+}}
+* {{see
+| name=Sant'Ignazio | alt= | url= | email=
+| address=8 A Via del Caravita | lat=41.899 | long=12.479778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Sant'Ignazio Church, Rome | image=Santo Inácio - Roma.jpg | wikidata=Q1465674
+| lastedit=2015-12-31
+| content=Between the Pantheon and Via del Corso. A stunning example of Baroque art. The ceiling frescoes are especially fine, including a trompe l'oeil dome by the master Andrea Pozzo.
+}}
+* {{see
+| name=Sant'Agnese in Agone | alt= | url=http://www.santagneseinagone.org/ | email=
+| address=Piazza Navona | lat=41.898889 | long=12.4725 | directions=
+| phone=+39 0668192134 | tollfree= | fax=
+| hours=Tue-Sat 09:00-12:00, 16:00-19:00 | price=
+| wikipedia=Sant'Agnese in Agone | image=Roma s Agnese in Agone 2011-08-07.jpg | wikidata=Q1192577
+| content=By Borromini, reputed to be on the spot where St. Agnes was martyred in the 4th century AD. This lovely basilica church is small with an almost circular interior. It is undergoing rehabilitation and the facade and dome are hidden in scaffolding. It seems to be open only until noon.
+}}
+* {{see
+| name=Santa Maria dell'Anima | alt= | url=http://www.santa-maria-anima.it | email=
+| address=Via Santa Maria dell'Anima, 66 | lat=41.900056 | long=12.471611 | directions=
+| phone=+39 066828181 | tollfree=
+| hours=09:00-13:00, 15:00-19:00 | price=
+| wikipedia=Santa Maria dell'Anima | image=Rome Santa Maria dell'Anima gevel 10-01-2010 11-18-53.JPG | wikidata=Q2140145
+| content=Contains the tomb of Pope Adrian VI, the last non-Italian pope before Pope John Paul II.
+}}
+* {{see
+| name=Santa Maria della Pace | alt= | url= | email=
+| address=Vicolo dell'Arco della Pace, 5 | lat=41.899889 | long=12.471639 | directions=
+| phone=+39 066861156 | tollfree= | fax=
+| hours=Tue-Fri 10:00-12:00 | price=
+| wikipedia=Santa Maria della Pace | image=Ponte- Chiesa di S.Maria della Pace.jpg | wikidata=Q1514683
+| content=The church was built by order of Pope Sixtus VI (della Rovere). The campanile was erected in 1504 by Bramante and the church has frescoes of the four sibyls by Raphael in its interior.
+}}
+
+===Historical squares and streets===
+* {{see
+| name=Campo de' Fiori | alt= | url= | email=
+| address= | lat=41.8956 | long=12.47217 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Campo de' Fiori | image=Brunostatue.jpg | wikidata=Q28303
+| content=If it is sunny, you'll catch a few young people and older gentlemen sitting at the base of a statue in the middle of the open space. The statue is a brooding, hooded Giordano Bruno—an excommunicated Dominican monk and one of the earliest cosmologists who held the idea of an infinite universe. He was burnt at the stake for heresy on this spot on 17 February 1600. The piazza is used as a marketplace during the day, and party central for college students and tourists at night. When the sky gets dark and the street lamps go on, the Campo de' Fiori fills with people and lovers wander arm in arm in the crowd. Over the buzzing of conversation and the occasional burst of laughter you may hear a young vocalist belt out ''O Sole Mio'' at the top of his lungs as change plunks into his accordion case.
+}}
+* {{see
+| name=Piazza Navona | alt= | url= | email=
+| address= | lat=41.898889 | long=12.473056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza Navona | image=Paolo Monti - Servizio fotografico (Roma, 1966) - BEIC 6329173.jpg | wikidata=Q463400
+| content=The pride of Baroque Rome, was established towards the end of the 15th century, and preserves the shape of the ancient Stadium of Domitian. The buildings surrounding the square stand where the spectators once sat, watching the spectacle of the naumachiae (battles among ships). The square remains completely unspoilt by traffic and modern buildings. Today, the square is an immensely popular place to sip a cappuccino, shop, and watch street performers. Behind the piazza at the northern end, you can still see remains of the Roman athletic stadium well below the current ground level. Amongst the various monuments of the square, look especially for the two Baroque masterpieces by Bernini and Borromini.
+}}
+* {{see
+| name=Piazza Colonna | alt= | url= | email=
+| address= | lat=41.901056 | long=12.479917 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza Colonna | image=PiazzaColonna.jpg | wikidata=Q63785
+| content=Where the building of the Italian Government, Palazzo Chigi is situated. Also there is a marvelous carved column—hence the name—dating back to Imperial Rome.
+}}
+[[Image:Piazza Minerva.JPG|thumb|right|250px|Bernini's elephant statue outside the Minerva church]]
+* {{see
+| name=Piazza della Minerva | alt= | url= | email=
+| address= | lat=41.89806 | long=12.4775 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza della Minerva | image=Piazza della Minerva und Pantheon.jpg | wikidata=Q2518575
+| content=A small piazza just behind the Pantheon. The centerpiece is a statue of an elephant by Bernini with an ancient obelisk on its back.
+}}
+* {{see
+| name=Piazza di Sant'Ignazio | alt= | url= | email=
+| address= | lat=41.89931 | long=12.47965 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Piazza sant Ignazio Rome.jpg | wikidata=Q1120890
+| content=Small and attractive piazza tucked away in a neighborhood near Pantheon.
+}}
+* {{see
+| name=Piazza di Monte Citorio | alt= | url= | email=
+| address= | lat=41.900833 | long=12.478611 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza di Monte Citorio | image=Montecitorio Palace (5832341767).jpg | wikidata=Q2579746
+| content=Where you can find the building of the House of Representatives.
+}}
+[[Image:Via Giulia.JPG|thumb|250px|right|Via Giulia]]
+* {{see
+| name=Piazza di Pasquino | alt= | url= | email=
+| address= | lat=41.89795 | long=12.47214 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q57710200
+| content=Small piazza about 20 m (65 ft) from Piazza Navona, behind the Brazilian Embassy. There is a statue named "Pasquino", according to a legend named after a tailor who used to work nearby and had a reputation for complaining. The statue has been used for the past three centuries as a place to hang messages, complaints and other opinions which have to be shared with the neighborhood. The statue is probably an ancient Roman portrait of Hercules.
+}}
+* {{see
+| name=Via Giulia | alt= | url= | email=
+| address= | lat=41.89417 | long=12.47007 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Via Giulia | image=ViaGiulia.jpg | wikidata=Q782187
+| content=An example of urban planning that goes back to Pope Julius II, who, in 1508, envisioned it as a street that would connect all major government buildings. It is around a kilometer long and is in a straight line, an unusual feature for the time. It is lined with some interesting palaces but these days is more known for its antique shops. Via Giulia runs parallel with and one block from the River Tiber.
+}}
+* {{see
+| name=Via de Coronari | alt=Street of the Rosary Dealers | url= | email=
+| address= | lat=41.9008 | long=12.4696 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Via dei Coronari | wikidata=Q1032187
+| content=In the Middle Ages pilgrims on their way to St. Peter's had to pass through the Via dei Coronari in order to cross the Tiber at Ponte St. Angelo. The street got its name from the people who sold rosaries to the pilgrims. It follows the ancient Via Recta which led from what is today Piazza Colonna to the Tiber. In the 15th century Pope Sixtus IV initiated the construction of private buildings. Today, several houses dating back to the 15th and 16th century may be seen. House nr. 156/157 is said to have been the House of Fiametta, the mistress of Cesare Borgia.
+}}
+* {{see
+| name=Via del Governo Vecchio | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q57710319
+| content=The street is named after the Palazzo del Governo Vecchio, the seat of the Papal government in the 17th and 18th centuries. It was part of the ''Via papalis'' which connected St. John Lateran and St. Peter's. Houses nr. 104 and 106 date to the 15th century and there are some houses from the 16th century as well. The palace on nr. 123 was intended to be the residence of Bramante. The Palazzo del Governo Vecchio is situated just opposite.
+}}
+* {{see
+| name=The Ghetto | alt= | url= | email=
+| address= | lat=41.8924 | long=12.4775 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Roman Ghetto | image=ViaRuaInGhettoByRoeslerFranz.jpg | wikidata=Q527647
+| lastedit=2015-12-05
+| content=The Ghetto lies between the island in the River Tiber and the Theatre of Marcellus and includes Rome’s synagogue. It was established in 1555 as a result of a Papal Bull by Pope Paul IV that required all Jews to live in the area, considered one of the least desirable quarters of the city, as it was subject to constant flooding by the river. The area was originally enclosed by walls and gates that were only open during the day. With the end of the Papal States in 1870, the requirement that Jews live in the Ghetto came to an end. The walls were torn down in 1888 and much of the ghetto was demolished. However, there is still much to see, including walls of buildings that incorporate Roman ruins, and there are several good Jewish restaurants.
+}}
+
+===Historical buildings===
+* {{see
+| name=Palazzo della Cancelleria | alt= | url= | email=
+| address=Corso Vittorio Emanuele II | lat=41.896687 | long=12.471521 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palazzo della Cancelleria | image=Parione - palazzo Riario o Cancelleria nuova 1628.JPG | wikidata=Q2031943
+| content=This remarkable building served as the site of the Apostolic Chancellery, or offices of the Pope, for centuries, and now houses a Vatican court. Tucked behind the facade is also the Basilica of San Lorenzo in Damaso, an ancient Roman house church rebuilt in the 15th century.
+}}
+[[File:Palais Farnese.jpg|thumb|right|250px|Palazzo Farnese]]
+* {{see
+| name=Palazzo Farnese | alt= | url= | email=
+| address=Piazza Farnese, 67 | lat=41.894722 | long=12.470833 | directions=
+| phone=+39 06 68892818 | tollfree= | fax=
+| hours=phone for opening times | price=
+| wikipedia=Palazzo Farnese | image=Palais Farnese.jpg | wikidata=Q848386
+| content=Since 1871 this has been the French Embassy. This 16th-century palace contains an important fresco cycle by Annibale Carracci and houses a library of collections by the French school in Rome, particularly on Roman archaeology. Note the two beautiful fountains in the piazza.
+}}
+* {{see
+| name=Palazzo della Sapienza | alt= | url= | email=
+| address=Corso Rinascimento, 9 | lat=41.89817 | long=12.47455 | directions=Bus 70 81, 87, 492; Close to Piazza Navona
+| phone=+39 06 686 4987 | tollfree= | fax=
+| hours= | price=
+| image=Sant'Ivo alla Sapienza 1 (14861857063).jpg | wikidata=Q3891484
+| content=This building housed the University of Rome from the middle of the 15th century until 1935. The splendid interior courtyard was created by Giacomo della Porta. The inside church of Sant'Ivo (see above) is one of the masterpieces of the architect Borromini.
+}}
+* {{see | name=Palazzo Altemps | alt=Branch of the Roman National Museum | url=https://museonazionaleromano.beniculturali.it/en/palazzo-altemps/ | email= | address=Via Sant' Apollinare 8 | lat=41.901337 | long=12.472968 | directions=Bus 70, 81, 87, 492 | phone=+39 06 6897091 | tollfree= | hours=Tue-Sun 09:00-19:45 | price=€15 (less for EU citizens of ages 18-24) gives admission to this and the three other National Museums of Rome | image=Roma 2011 08 07 Palazzo Altemps.jpg | wikidata=Q1094986 | content=Simple and elegant lines make up this building, whose construction began in 1480 for Count Girolamo Riario, nephew of Papa Sisto IV, and was taken up by architect Martino Longhi for the new owner, Cardinal Marco Sittico Altemps. Today it houses one of the branches of the National Museum of Rome, showcasing ancient and Renaissance sculptures, and the results of the 16th/17th-century fashion for 'completing' ancient sculptures missing heads or arms.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Palazzo Taverna | alt= | url= | email=
+| address=Via di Monte Giordano | lat=41.89976 | long=12.46870 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Ponte - palazzo Taverna degli Orsini a Monte Giordano - cortile e fontana dell'acqua Paola 00607.JPG | wikidata=Q20088659
+| content=The building is in one of the most hidden corners of the city center among Piazza Navona and Castel Sant'Angelo. It served as residence for the Orsini family. Nowadays it is private property and one can only glance at the courtyard and the amazing fountain inside, erected in 1618 by architect Antonio Casoni. However, the brief moment is worth it.
+}}
+* {{see
+| name=Palazzo Crivelli | url= | email=
+| address=Via dei Banchi Vecchi, 22 | lat=41.89792 | long=12.46719 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This building also known as the Doll House was built in the 16th century. It is unique for the quantity and quality of the decorations—lions' heads, satyrs and disfigured heads that adorn the facade attributed to the sculptor Giulio Mazzoni.
+}}
+* {{see
+| name=Palazzo Spada | alt= | url= | email=
+| address=Piazza Capo di Ferro | lat=41.893889 | long=12.471667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palazzo Spada | image=Palazzo spada1.jpg | wikidata=Q1058475
+| content=This building was erected in the 16th century for Cardinal Girolamo Capodiferro. One century later it was acquired by another powerful Cardinal, Bernardino Spada, and was restored by Borromini, who created the forced perspective optical illusion in the arcaded courtyard.
+}}
+* {{see
+| name=Palazzo Madama | alt= | url=http://www.senato.it | email=
+| address=Corso del Rinascimento | lat=41.899192 | long=12.474278 | directions=
+| phone=+39 0667061 | tollfree=
+| hours=every 1st Sat in a month 10:00-18:00 | price=
+| wikipedia=Palazzo Madama | image=Palazzo madama.JPG | wikidata=Q1755046
+| content=This palace of the 16th century was erected by the famous Medici family. It was the residence of Cardinals Giovanni and Giuliano Medici, later Pope Leo X. and Clement VII. Catherine de Medici, Pope Clement VII's niece lived here until her marriage in 1553 with Prince Henry, the son of King Francis I of France. The palace is named after Madama Margerita of Austria, the illegitimate daughter of Emperor Charles V. Since 1871 it has been the seat of the Italian Senate.
+}}
+* {{see
+| name=Palazzo Massimo alle Colonne | alt= | url= | email=
+| address=Corso Vittorio Emanuele, 141 | lat=41.896667 | long=12.473611 | directions=
+| phone= | tollfree= | fax=
+| hours=chapel only open on March 16 07:00-12:00 | price=
+| wikipedia=Palazzo Massimo alle Colonne | image=Palazzo Massimo alle Colonne.jpg | wikidata=Q1521924
+| content=The palace was built by the architect Baldassare Peruzzi on behalf of the Massimo family. The former palace was destroyed during the pillage of Rome in 1527. The Massimo family can be traced back to Quintus Fabius Maximus who defeated Hannibal in the 3rd century BC. The building is open to the public on March 16, only in order to commemorate the miraculous reanimation of Paolo Massimo by St. Philip Neri in 1538.
+}}
+* {{see
+| name=Palazzo del Collegio Romano | alt= | url= | email=
+| address=Piazza del Collegio Romano | lat=41.89807 | long=12.48027 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Roman College | image=CollegioRomano.jpg | wikidata=Q2157592
+| content=The Collegio Romano was a college of the Jesuit order. Many popes, cardinals and bishops were educated here. Since 1870 it has been a secular (non-monastic) school. The coat of arms on the doorway is that of Pope Gregory XIII (1572–1585). The tower was erected in 1787 and served as an observatory. Until 1925 all clocks in Rome were set after that of the Collegio Romano.
+}}
+* {{see
+| name=Hosteria dell'Orso | alt=Bear's Inn | url= | email=
+| address=Via dei Soldati, 25 | lat=41.90197 | long=12.47233 | directions=bus 70, 81, 116, 186, 204, 280, 492,628
+| phone= | tollfree=
+| hours=Mon-Sat 08:00-13:00 | price=
+| content=A historical inn where reputedly the Italian poet Dante Aligheri and French travellers of the 16th century, including the poets François Rabelais and Michel de Montaigne, stayed.
+}}
+
+===Fountains===
+* {{see
+| name=Fontana dei Quattro Fiumi | alt=Fountain of the Four Rivers | url= | email=
+| address=Piazza Navona | lat=41.898953 | long=12.473075 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fontana dei Quattro Fiumi | image=Vierstroemebrunnen Piazza Navona Rom.jpg | wikidata=Q655470
+| content=By Bernini, in the very centre of Piazza Navona. Incorporates an Egyptian obelisk and symbolises four of the world's great rivers (the Ganges, the Nile, the Danube and the Plata), representing the four continents known at the time.
+}}
+* {{see
+| name=Fontana del Moro | alt=Fountain of the Moor | url= | email=
+| address=Piazza Navona | lat=41.898141 | long=12.473146 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fontana del Moro | image=Moor Fountain.jpg | wikidata=Q1435824
+| content=At the southern end of the Piazza, designed by Bernini but the main statue of the Moor was done by Giacomo della Porta and the other statues are 19th-century copies of the originals.
+}}
+* {{see
+| name=Fontana del Nettuno | alt=Fountain of Neptune | url= | email=
+| address= | lat=41.899803 | long=12.473 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fountain of Neptune, Rome | image=Fontana del Nettuno (14819197075).jpg | wikidata=Q1759793
+| content=A 19th-century addition to the square, made to balance the Fontana del Moro.
+}}
+* {{see
+| name=Fontanella del Facchino | alt=(Fountain of the Porter) | url= | email=
+| address=Via Lata | lat=41.898303 | long=12.481378 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Il Facchino | image=Fontana del facchino a via Lata.JPG | wikidata=Q3968656
+| content=Like Pasquino, the Facchino is one of the so-called "speaking figures" which are peculiar to Rome. He is looking out of the Banco di Roma building. The man depicted is holding a barrel in his hands and is carrying water. It is sometimes said that he is looking similar to Martin Luther, but more probably a porter who died while carrying a barrel is depicted here.
+}}
+* {{see
+| name=Fontana delle Tartarughe | alt=Turtle fountain | url= | email=
+| address=Piazza Mattei | lat=41.893806 | long=12.4775 | directions=just to the north of the Ghetto
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fontana delle Tartarughe | image=The Turtle Fountain.jpg | wikidata=Q936296
+| lastedit=2015-12-05
+| content=A pleasant fountain in an out-of-the-way square. It was originally meant to have four dolphins rather than turtles but the dolphins proved to be too large for the water pressure so the turtles were added as an afterthought.
+}}
+
+===Museums===
+* {{see
+| name=Museo Napoleonico | alt=Napoleonic Museum | url=http://www.museonapoleonico.it | email=
+| address=Piazza di Ponte Umberto, 1 | lat=41.901842 | long=12.471967 | directions=bus 70, 81, 87, 116, 186, 280, 492
+| phone=+39 0668806286 | tollfree=
+| hours=Tue-Sun 09:00-19:00, closed Jan 1, May 1 Dec 25 | price=
+| image=Ponte - v Zanardelli Museo napoleonico 1280292.JPG | wikidata=Q15141205
+| lastedit=2021-04-21
+| content=The museum is dedicated to Napoleon Bonaparte and his family. After Napoleon's death in 1821 the Pope gave permission to his family to settle down in Rome. His sister married Prince Camillo Borghese.
+}}
+* {{see
+| name=Palazzo Altemps | alt=branch of the National Museum of Rome (Museo Nazionale Romano) | url=http://archeoroma.beniculturali.it/en/museums/national-roman-museum-palazzo-altemps {{dead link|December 2020}} | email=
+| address=Piazza Sant'Apollinare, 46 | lat=41.901337 | long=12.472968 | directions=
+| phone=+39 0639967700 | tollfree= | fax=
+| hours=Tue-Sun 09:00-19:30, closed Jan 1, Dec 25 | price=€10 adult, €6.50 EU citizens age 18-24 for access to all four National Museum of Rome sites
+| image=Roma 2011 08 07 Palazzo Altemps.jpg | wikidata=Q1094986
+| content=See Historical Buildings.
+}}
+* {{see | name=Crypta Balbi | alt=branch of the National Museum of Rome (Museo Nazionale Romano) | url=http://archeoroma.beniculturali.it/musei/museo-nazionale-romano-crypta-balbi {{dead link|December 2020}} | email= | address=Via delle Botteghe Oscure, 31 | lat=41.8944 | long=12.4786 | directions= | phone=+39 06 39967700 | tollfree= | fax= | hours=Tue-Sun 09:00-19:45, closed Jan1, Dec 25 | price=€10 adult, €6.50 EU citizens age 18-24 for access to all four National Museum of Rome sites | image=Pigna-s Angelo - via delle Botteghe oscure - crypta Balbi 00738.JPG | wikidata=Q3005742 | content=This museum is built on top of the excavation site of the Balbi Crypt, a building from the first century A.D. which underwent considerable modifications in the following centuries. Through the building's history, the museum gives us glimpses of what Roman life across the ages was like. Free visits of the ruins are possible. The Essedra ruins are only accessible on Saturdays and Sundays, at 10:45, 11:45, 12:45, 14:45 and 15:45.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Columns, obelisks and statues===
+* {{see
+| name=Column of Marcus Aurelius | alt= | url= | email=
+| address= | lat=41.900833 | long=12.479861 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Column of Marcus Aurelius | image=Kolumna Aureliusza.jpg | wikidata=Q265384
+| content=
+}}
+* {{see
+| name=Obelisco di Montecitorio | alt=Montecitorio Obelisk | url= | email=
+| address= | lat=41.9006 | long=12.4787 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Obelisk of Montecitorio | image=Obelisk of montecitorio arp.jpg | wikidata=Q740755
+| content=An ancient Egyptian obelisk brought to Rome in 10 BC.
+}}
+* {{see
+| name=Santa Maria Minerva Obelisk | alt= | url= | email=
+| address=Piazza della Minerva | lat=41.89797 | long=12.47753 | directions=bus 116 and all lines on Via del Corso and Corso Vittorio Emanuele II
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Elephant and Obelisk | image=Pulcino della Minerva (Leverich).jpg | wikidata=Q826635
+| content=One of Bernini's masterpieces, an obelisk on the back of an elephant.
+}}
+
+==Do==
+*Wander the stalls of the Campo de' Fiori market. From farm fresh vegetables to spices to kitchen implements—it is a colorful and busy place.
+*Wander around the side streets, particularly those between Piazza Navona and the river. There are still many artisans' shops and away from the tourist areas it is sometimes difficult to believe that you are in a major city.
+
+===Theatres===
+* {{do
+| name=Teatro Argentina | alt= | url=http://www.teatrodiroma.net/doc/3169/teatro-argentina | email=
+| address=Largo Argentina, 56 | lat=41.895583 | long=12.476167 | directions=
+| phone=+39 0668804601 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Teatro Argentina | image=S Eustachio - teatro Argentina 1010120.JPG | wikidata=Q588377
+| content=
+}}
+* {{do | name=Teatro Valle | alt= | url=http://www.teatrovalleoccupato.it | email= | address=Via del Teatro Valle, 21 | lat=41.8975 | long=12.475 | directions= | phone=+39 0668803794 | tollfree= | fax= | hours= | price= | wikipedia=Teatro Valle | image=Teatro valle.jpg | wikidata=Q1109934 | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Buy==
+
+* Campo de' Fiori is one of the oldest open air markets in Rome. The day starts as early as 03:30, when the first "fruttivendolo" drive up, and by 08:00, under wide umbrellas, tables overflow with an abundance of brightly colored fruit and vegetables. Organically home-grown by people who have, more often than not, been farming for generations. At the east end, near one of the best sandwich shops in all of Rome, is the flower stand absolutely bursting in color and fragrance. The "Campo" is filled with tourists, locals, families, school groups and musicians until 15:00, when the booths are taken down, packed into cars, carts and trucks with the produce and driven away, and a loud, white, behemoth of a street cleaner sweeps through the square, cleaning up leftover greens, wrappers and trash.
+* Via dei Giubonnari stretching from the south-east corner of Campo de' Fiori due west towards Via Arenula contains many funky, fashionable clothes shops, and other interesting boutiques.
+
+==Eat==
+'''Cooking for yourself'''. In Campo de' Fiori you won't have any trouble finding local food shops and there's also a food market right in the square in the morning. Cooking at home is cheap.
+
+===Budget===
+There are many budget restaurants in this district.
+* {{eat
+| name=Pizzeria da Baffetto | alt= | url= | email=
+| address=Via del Governo Vecchio, 114 | lat=41.8983 | long=12.4703 | directions=
+| phone=+39 06 6861617 | tollfree= | fax=
+| hours= | price=| lastedit=2022-05-01
+| content=Old-fashioned, family feel pizzeria near Piazza Navona and the Pantheon, unarguably serving some of the best pizzas in Rome. Usually crowded but well-worth the occasional queuing.
+}}
+* {{eat
+| name=Pasta In Corso | alt= | url=https://www.pastaincorso.it/ | email=
+| address=Corso Vittorio Emanuele II, 273-275 | lat=41.8987756 | long=12.4676357 | directions=
+| phone=+39 06 6880 7786 | tollfree=
+| hours= | price=
+| lastedit=2026-03-02 | content= There is another branch near the Pantheon, on Via della Maddalena, 43.}}
+
+* {{eat
+| name=Alfredo e Ada | alt= | url= | email=
+| address=Via dei Banchi Nuovi, 14 | lat=41.8996386 | long= 12.4673367 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Osteria Orbitelli | alt= | url= | email=
+| address=Vicolo Orbitelli, 13 | lat=41.8989211 | long=12.4654249 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Dar Filettaro a Santa Barbara | alt= | url= | email=
+| address=Largo dei Librari, 88 | lat=41.8946983 | long=12.4736512 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Pizza Zazà | alt= | url= | email=
+| address=Piazza di S. Eustachio, 49 | lat=41.8984250 | long=12.4754540 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+
+* {{eat
+| name=Alice | alt= | url=https://www.facebook.com/alicepizzaitalia/ | email=
+| address=Corso Vittorio Emanuele II, 35 | lat=41.89600 | long=12.47786| directions=
+| phone= | tollfree=
+| hours= | price=about €10 
+| wikidata=
+| lastedit=2024-09-14
+| content=Part of an Italian chain serving pizza al taglio (square pieces to be eaten by hand), dozens of pizzas to choose from.
+}}
+
+===Mid-range===
+* {{eat
+| name=Cul de Sac | url= | email=
+| address=Piazza Pasquino, 73 | lat=41.89767 | long=12.47212 | directions=Near Piazza Navona
+| phone=+39 06 68801094 | tollfree= | fax=
+| hours=Kitchen works until 01:00. In Aug, closed for 2 weeks | price=| lastedit=2022-05-01
+| content=One of the best enoteche (wine bars) in Rome, serving a wide range of small dishes. The pate selection is a must-try. However, off-hours service is slow.
+}}
+* {{eat | name=Il Bacaro | url=http://www.ilbacaro.com | email= | address=Via degli Spagnoli, 27 | lat=41.90102 | long=12.47539 | directions= | phone=+39 06 6872554 | tollfree= | fax= | hours= | price= | lastedit=2022-05-01 | content=You'd never know that you are three minutes walk from Piazza Navona and the Pantheon. Via degli Spagnoli is tiny, leafy and quiet. Il Bacaro seats about 24 inside and even fewer outside under the shade of an ancient vine. Great selection of wine. In general a great stop for a romantic meal in the Eternal City.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=La Taverna del Ghetto | alt= | url=http://www.latavernadelghetto.com | email=
+| address=Via Portico d'Ottavia, 8 | lat=41.8929 | long=12.4777 | directions=
+| phone=+39 06 68809771 | tollfree= | fax=
+| hours= | price=| lastedit=2022-05-01
+| content=Meat restaurant, excellent lamb dishes.
+}}
+* {{eat
+| name=Tapa Loca | url= | email=
+| address=Via di Tor Millina, 4 | lat=41.89925 | long=12.47154 | directions=near Piazza Navona
+| phone=+39 06 6832266 | tollfree= | fax=
+| hours= | price=
+| content=Spanish food.
+}}
+*{{eat
+| name=Taverna Lucifero | alt= | url= | email=
+| address=Via del Monte della Farina, 43 | lat=41.89488 | long=12.47495 | directions=small street off of Campo de' Fiori
+| phone=+39 06 68805536 | tollfree=
+| hours=18:00–about 22:00 | price=
+| lastedit=2022-05-01
+| content=A hole-in-the-wall Italian restaurant. As of summer 2012, not too crowded—it seems people haven't found it yet. All seating is inside. Don't miss the eggplant appetizer, mozzarella and tomato appetizer, limoncello liquor, tiramisu and chocolate mousse. Closes for entire month of August for holidays.
+}}
+* {{eat
+| name=BellaCarne Kosher Grill | alt= | url=http://www.bellacarne.it | email=info@bellacarne.it
+| address=via del Portico d'Ottavia, 51 | lat=41.89267 | long=12.47799 | directions=
+| phone=+39 06 68 33 104 | tollfree= | fax=
+| hours=12:00-16:00 and 18:30-00:00 | price=€30
+| content=Focused on the world of kosher meats, bringing back Jewish traditions and culture to the heart of Rome’s Jewish neighbourhood, along with the typical tastes and recipes from Rome’s Jewish cuisine.
+}}
+
+===Splurge===
+<br>
+
+===Bakeries===
+* {{eat
+| name=Forno di Campo de' Fiori | alt= | url= | email=
+| address=Campo de' Fiori | lat=41.8958 | long=12.4715 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A traditional bread shop that makes one of the best kinds of pizza bread in Rome. With your back to the Giordano Bruno statue in the middle of the square, the Forno is at the bottom of the square to the left. Good place to have lunch.
+}}
+
+===Ice cream===
+* {{eat
+| name=Della Palma | url= | email=
+| address=Via della Maddalena, 20 | lat=41.90055 | long=12.47649 | directions=at Via delle Coppelle
+| phone=+39 06 68806752 | tollfree= | fax=
+| hours= | price=
+| content=Located just a couple blocks north of the Pantheon, this is an excellent gelateria with 140 different flavors. Prices are very reasonable. Vegan soy gelato also available.
+}}
+* {{eat
+| name=Frigidarium | url= http://www.frigidarium-gelateria.com/ | email=
+| address=Via del Governo Vecchio, 112 | lat=41.89823 | long=12.47047 | directions=
+| phone=+39 3381800220 | tollfree= | fax=
+| hours= | price=
+| content=One of Rome's best artisanal gelaterias, but without the fussy attitude that marks some of the higher-class or more expensive locations. Excellent rotating flavors, all prepared on the spot. Their eponymous house flavor comes with a free cookie.
+}}
+* {{eat
+| name=Gelateria Giolitti | alt= | url=http://www.giolitti.it/en/ | email=
+| address=Via degli Uffici del Vicario, 40 | lat=41.90105 | long=12.47724 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=It opened in 1800, and is very popular amongst locals, tourists. The late Pope John Paul II was known to be a regular customer. Among the best ice cream in Rome. About €4 for a large cup and €2 for a regular cone.
+}}
+
+==Drink==
+* {{drink
+| name=Vineria Reggio | url= | email=
+| address=Campo de' Fiori | lat= | long= | directions=Half way along the south side of Campo.
+| phone= | tollfree= | fax=
+| hours=07:00-01:00 | price=
+| content=Great place to sit for an affordable drink.
+}}
+* {{drink
+| name=The Drunken Ship | url= | email=
+| address=Piazza Campo de' Fiori, 20/21 | lat=41.89569 | long=12.47155 | directions=southwest corner of Campo
+| phone=+39 06 6830 0535  | tollfree= | fax=
+| hours=07:00-01:00 | price=
+| content=Western bar.  Nice for a quiet afternoon drink but are usually quite noisy at night, with specials most nights to encourage business. Girls are encouraged to have fun by lying on the bar and allowing guys to drink shots off their chests.  Do ''not'' visit this bar on nights when England or English teams play football at Stadio Olimpico, because Italian lads often come here armed with knives to pick a fight.
+}}
+* {{drink
+| name=Caffè Novecento | url= | email=
+| address=Via del Governo Vecchio, 12 | lat=41.89923 | long=12.46891 | directions=behind the Pantheon and Piazza Navona
+| phone=+39 066865242 | tollfree= | fax=
+| hours=Closes at 22:00 | price=
+| content=Offers a very good variety of cakes, sweets, coffee and tea. The furnishing are nice, with couches as seats at some tables. Prices are mid-high range but worth every cent.
+}}
+* {{drink
+| name=Caffè Giolitti | url= | email=
+| address=Via degli Uffici del Vicario, 40 | lat=41.90106 | long=12.47724 | directions=behind the Pantheon and Piazza Navona
+| phone=+39 066991243 | tollfree= | fax=
+| hours=07:00-01:00 | price=
+| content=An elegant coffee house in the style of the Belle Epoque, opened 1900. It offers among the best ice cream in Rome.
+}}
+
+==Sleep==
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers
+3. Include expected range of prices for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close", "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING ON OUR ROME GUIDES
+-->
+
+*{{sleep | name=B&B Campo de'Fiori | url=http://www.bbcampodefiori.com/ {{dead link|December 2020}} | email= | address=Via dei Giubbonari, 43 | lat= | long= | directions=Near Piazza Campo de'Fiori | phone=+39 06 68892351 | tollfree= | fax=+39 06 68892351 | hours= | price=Twin: €100-180 | checkin= | checkout= | content=Modern design in a building dating back to 1600. Non smoking rooms with A/C, tv, safe, free Wi-Fi. Private bathroom with shower.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Hotel Ponte Sisto | url=http://www.hotelpontesisto.it/ | email=
+| address=Via dei Pettinari, 64 | lat= | long= | directions=Near Ponte Sisto
+| phone=+39 06 6863100 | tollfree= | fax=
+| hours= | price=Twin: €111
+| checkin= | checkout=
+| content=Peaceful and quiet, the 4-star Hotel Ponte Sisto in Rome is located in a completely renovated historic building, enveloped in a relaxing atmosphere with a splendid garden filled with luxuriant palm trees and flowers from all over the world.
+}}
+*{{sleep
+| name=Best Pantheon | url=http://www.bestbb.it/ | email=
+| address=c. Vittorio Emanuele II, 21 | lat= | long= | directions=Piazza Navona
+| phone=+39 33 58714840 | tollfree= | fax=
+| hours= | price=Doubles: €120-200
+| checkin= | checkout=
+| content=A relatively new B&B with very modern decor. Four rooms with A/C, satellite TV, and DVD players + movies.
+}}
+*{{sleep
+| name=FortySeven Hotel | url=http://www.fortysevenhotel.com/ | email=
+| address=Via Petroselli 47 | lat= | long= | directions=near Ponte Palatino
+| phone=+39 06 6787816 | tollfree= | fax=
+| hours= | price=€210-370
+| checkin= | checkout=
+| content=A modern hotel with quite spacious rooms, hot breakfast, nice fitness facility, and a rooftop restaurant/bar with gorgeous views.  Walking distance to Trastevere.
+}}
+*{{sleep
+| name=Maison Giulia | url=http://www.maisongiulia.it/ | email=
+| address=Via Giulia 189/A | lat=41.8935844374687 | long=12.470625042915344 | directions=
+| phone=+39 06 68808325 | tollfree= | fax=
+| hours= | price=Double room starting from €90
+| checkin= | checkout=
+| content=Guesthouse near Campo de Fiori and Trastevere.
+}}
+* {{sleep| name = Hotel Central Lodge| url = http://www.hotelcentrallodge.it| address = Via Buonarroti,19 262 Roma| content = | phone = +39 06 8901 4960 }} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep  | name = Hotel Flavia| url = http://www.hotelflavia.it | address=  Via Flavia, 40 79 Roma | content= | phone=+39 06 488 3037 }}
+* {{sleep  | name = Hotel Marco Polo| url = http://www.hotelmarcopoloroma.com | address=  Vía Magenta, 39 216 Roma | content= | phone=+39 06 447 4091 }}
+* {{sleep  | name = Hotel Relais Bocca di Leone| url = http://www.relaisboccadileone.com | address=  Via Bocca di Leone, 36 100 Roma | content= | phone=+39 06 69190994 }}
+* {{sleep  | name = Hotel Residenza KI| url = http://www.residenzakirome.com | address=  Via Rasella 53 237 Roma | content= | phone=+39 064 201 4488  }}
+* {{sleep  | name = Hotel King Suite Rooms Rome| url = http://www.romekingsuite.com | address=  Via Francesco Crispi 10 65 Roma | content= | phone=+39 064 566 5169 }}
+* {{sleep  | name = Hotel Suit Inn| url = http://www.suitinn19.it | address=  Piazza Mastai 19  285 Roma | content= | phone=+39 06 5833 2755 }}
+* {{sleep| name = Hotel Trevi Luxury Rooms| url = http://www.treviluxuryrooms.eu {{dead link|December 2020}}| address = Vicolo Scavolino 61, 263 Roma| content = | phone = +39 06 42014488 }} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep| name = Hotel Checkin Villa Angelina| url = https://www.checkinvillaangelina.com/es| address = Via Nomentana, 333 382 Roma| content = | phone = +39 068 41 76 75 }} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Portoghesi | url=http://www.hotelportoghesiroma.it/ | email=info@hotelportoghesiroma.it
+| address=Via dei Portoghesi, 1 | lat= | long= | directions=short walk north of Piazza Navona. Next to the church of S.Antonio dei Portoghesi.
+| phone=+39 06 6864231 | tollfree= | fax=+39 06 6876976
+| hours= | price=€160+
+| checkin= | checkout=
+| content=Externally attractive hotel in a relatively quiet area of a busy part of town.
+}}
+* {{sleep
+| name=Hotel Raphael | url=http://www.raphaelhotel.com/ | email=reservation@hotelraphael.it
+| address=Largo Febo, 2 | lat= | long= | directions=
+| phone=+39 06 682831 | tollfree= | fax=+39 06 6878993
+| hours= | price=€200-350
+| checkin= | checkout=
+| content=Behind an ivy-covered facade on a narrow side street behind the Piazza Navona. The first floor houses a collection of Mayan art and original ceramics by Picasso; the third floor and its rooms were designed by Richard Meier. The restaurant is ''expensive'' but of very high quality. The (also expensive) rooftop terrace and bar is beautiful and has excellent views over the city, particularly of the Vatican.
+}}
+* {{sleep | name=Pantheon Royal Suite | url=http://www.pantheonroyalsuite.com/ | email=info@pantheonroyalsuite.com | address=Piazza della rotonda 7 | lat= | long= | directions= | phone=+39 0668805002 | tollfree= | fax=+39 0668804365 | hours= | price=€110 - 210 | checkin= | checkout= | content=A boutique hotel beside the Pantheon. Rooms are modern and comfortable with clean linens. The receptionists are friendly and helpful.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Residenza Frattina | url=http://www.residenzafrattina.it/ | email=
+| address=Via Frattina 107 | lat= | long= | directions=
+| phone=+39 066783553 | tollfree= | fax=
+| hours= | price=Up to €300
+| checkin= | checkout=
+| content=Town House Hotel near the Vatican. Features 9 individual rooms with private bathrooms, decorated in classic Roman style. Tea and coffee maker, wi-fi internet, air conditioning, flat-screen satellite TV.
+}}
+* {{sleep
+| name=Passepartout | alt= | url= https://www.passepartoutrome.it/?utm_source=gbp&utm_medium=organic | email=
+| address= V. del Governo Vecchio, 118 | lat= 41.898407 | long= 12.470181 | directions=
+| phone= +39 350 993 4196 | tollfree= | fax=
+| checkin= | checkout= | price= 170-205 euro/night
+| wikidata=
+| lastedit=2026-03-30
+| content=Small hotel/guest house, around 10 rooms with private bathrooms, air conditioning, wi-fi/internet, and TV.
+}}
+
+==Connect==
+
+{{attribution|TripAdvisor user "Gabriella (Nabu)" }}
+
+{{guidedistrict}}
+{{IsPartOf|Rome}}
+
+{{geo|41.8992|12.4697}}

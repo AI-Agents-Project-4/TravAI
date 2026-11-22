@@ -1,0 +1,4707 @@
+{
+  "request_id": "ukraine-3d-1000-hard",
+  "status": "ok",
+  "generated_at": "2026-11-22T21:20:35Z",
+  "currency": "USD",
+  "advisories": [
+    {
+      "level": "do_not_travel",
+      "region": "Ukraine",
+      "summary": "Do not travel to Ukraine for any reason due to the Russia-Ukraine war . U.S. embassy operations The Embassy is open and operating in Kyiv; however, Embassy personnel are subject to movement, curfew, and activity restrictions, which may cause delays in provision of consular assistance to U.S. citizens outside of Kyiv. U.S. citizens seeking assistance, including routine services, should email KyivAC",
+      "map_data_reliability": "poor",
+      "source_url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ukr.html",
+      "retrieved_at": "2026-11-22T21:20:35Z"
+    }
+  ],
+  "flights": [
+    {
+      "id": "fl-b54612fed2c448",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "MUC",
+          "depart_at": "2027-04-10T16:00:00",
+          "arrive_at": "2027-04-11T09:35:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH481"
+        },
+        {
+          "from": "MUC",
+          "to": "WAW",
+          "depart_at": "2027-04-11T11:00:00",
+          "arrive_at": "2027-04-11T12:35:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1612"
+        },
+        {
+          "from": "WAW",
+          "to": "RZE",
+          "depart_at": "2027-04-11T15:10:00",
+          "arrive_at": "2027-04-11T16:05:00",
+          "carrier": "LOT",
+          "flight_number": "LO3807"
+        },
+        {
+          "from": "RZE",
+          "to": "WAW",
+          "depart_at": "2027-04-13T05:45:00",
+          "arrive_at": "2027-04-13T06:35:00",
+          "carrier": "LOT",
+          "flight_number": "LO3804"
+        },
+        {
+          "from": "WAW",
+          "to": "FRA",
+          "depart_at": "2027-04-13T09:35:00",
+          "arrive_at": "2027-04-13T11:20:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1343"
+        },
+        {
+          "from": "FRA",
+          "to": "DEN",
+          "depart_at": "2027-04-13T13:30:00",
+          "arrive_at": "2027-04-13T15:40:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH446"
+        }
+      ],
+      "duration_minutes": 2040,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 1305.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:30.927782Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.flighthub.com/checkout/gdeeplink?Adult=1&PointOfSaleCountry=US&DisplayedPrice=1287.19&DisplayedPriceCurrency=USD&UserLanguage=en&TripType=RoundTrip&Slice1=1,2,3&Slice2=4,5,6&Cabin1=Economy&Carrier1=LH&DepartureDate1=2027-04-10&Origin1=DEN&Destination1=MUC&BookingCode1=W&FlightNumber1=481&Cabin2=Economy&Carrier2=LH&DepartureDate2=2027-04-11&Origin2=MUC&Destination2=WAW&BookingCode2=W&FlightNumber2=1612&Cabin3=Economy&Carrier3=LO&DepartureDate3=2027-04-11&Origin3=WAW&Destination3=RZE&BookingCode3=T&FlightNumber3=3807&Cabin4=Economy&Carrier4=LO&DepartureDate4=2027-04-13&Origin4=RZE&Destination4=WAW&BookingCode4=L&FlightNumber4=3804&Cabin5=Economy&Carrier5=LH&DepartureDate5=2027-04-13&Origin5=WAW&Destination5=FRA&BookingCode5=L&FlightNumber5=1343&Cabin6=Economy&Carrier6=LH&DepartureDate6=2027-04-13&Origin6=FRA&Destination6=DEN&BookingCode6=L&FlightNumber6=446&t=1795368099&sig=AcuPjeudtqc81xLG7uyfeHIG5tS62M4wLPY4PKwXQNerK0QpcKEIoNe0NDuzsuQLPtNbYBZf5fY5_VICY2CSeDgs-lF20bPkCq12biazKzkOuFJDluG-KZFklMFJOTeCa1DG5GKDSWcoLgM8DjiusR9lRa8IDfh0-pDa0qg0e_R42eHballuYivBY6fk2N1iSi04_OgNwTfY29mgZYVHeLI5ghIq0G2evobyS-f9P3gHyVoOTg9ht_62bbslFCzMDu9Ic2773cyHKdZmnIIyckwrq8NkCG0XqAHQp7aD9E3QXDAI5Vm-GiHGDRv7vP4nDmENNkmi8FEIBMF-vzt_I9YI3UhjVAFuCuYQXWtevoadr9sKYmQm2OqRZyDqZvYcbis9st6onNBP2In4_7eIjlPJN6P5DOR9Cwkfn3CmEppjJwT0v0jYzOK_DO60y-0DdSReAS11wNQtVwzXVH2943Vj6R9UwyMyprO0oKhOs223VBEfu0tt8zpziHDbm5S1tvNWyig%3D&ReferralId=TEMP1&gclid=AAcRjHJG3w7JWDW9m-y-0EjzNX7CD4ObtKF9ByXb6NFSGKUcO2VKcJh7Ghau-aiTyttzBzmfBG3E5Y7AwcC7GMuDNjAf3E0_G4u7p6tKKk6tOjSXBi4D&gclsrc=gf",
+        "provider": "ignav:FlightHub"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 3
+    },
+    {
+      "id": "fl-a27d9b8b40e14d",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "FRA",
+          "depart_at": "2027-04-10T15:45:00",
+          "arrive_at": "2027-04-11T09:20:00",
+          "carrier": "United",
+          "flight_number": "UA182"
+        },
+        {
+          "from": "FRA",
+          "to": "WAW",
+          "depart_at": "2027-04-11T12:10:00",
+          "arrive_at": "2027-04-11T13:50:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1344"
+        },
+        {
+          "from": "WAW",
+          "to": "RZE",
+          "depart_at": "2027-04-11T15:10:00",
+          "arrive_at": "2027-04-11T16:05:00",
+          "carrier": "LOT",
+          "flight_number": "LO3807"
+        },
+        {
+          "from": "RZE",
+          "to": "WAW",
+          "depart_at": "2027-04-13T05:45:00",
+          "arrive_at": "2027-04-13T06:35:00",
+          "carrier": "LOT",
+          "flight_number": "LO3804"
+        },
+        {
+          "from": "WAW",
+          "to": "FRA",
+          "depart_at": "2027-04-13T09:35:00",
+          "arrive_at": "2027-04-13T11:20:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1343"
+        },
+        {
+          "from": "FRA",
+          "to": "DEN",
+          "depart_at": "2027-04-13T13:30:00",
+          "arrive_at": "2027-04-13T15:40:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH446"
+        }
+      ],
+      "duration_minutes": 2055,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 1314.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:30.927782Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.flighthub.com/checkout/gdeeplink?Adult=1&PointOfSaleCountry=US&DisplayedPrice=1296.79&DisplayedPriceCurrency=USD&UserLanguage=en&TripType=RoundTrip&Slice1=1,2,3&Slice2=4,5,6&Cabin1=Economy&Carrier1=LH&DepartureDate1=2027-04-10&Origin1=DEN&Destination1=FRA&BookingCode1=W&FlightNumber1=7582&Cabin2=Economy&Carrier2=LH&DepartureDate2=2027-04-11&Origin2=FRA&Destination2=WAW&BookingCode2=W&FlightNumber2=1344&Cabin3=Economy&Carrier3=LO&DepartureDate3=2027-04-11&Origin3=WAW&Destination3=RZE&BookingCode3=T&FlightNumber3=3807&Cabin4=Economy&Carrier4=LO&DepartureDate4=2027-04-13&Origin4=RZE&Destination4=WAW&BookingCode4=L&FlightNumber4=3804&Cabin5=Economy&Carrier5=LH&DepartureDate5=2027-04-13&Origin5=WAW&Destination5=FRA&BookingCode5=L&FlightNumber5=1343&Cabin6=Economy&Carrier6=LH&DepartureDate6=2027-04-13&Origin6=FRA&Destination6=DEN&BookingCode6=L&FlightNumber6=446&t=1795368099&sig=AcuPjeu1gtvsK1FieCK2oL3-deXkHzGJol5NLQWcFHYHF6uO7qKsoqssZrIrH96-kGbI7O-uIwkTMHP1N3_gT5iyZzcWJ-76-nEYUI2jvEsFw9Sp405J7Pt7--oEy5VdM5fbi-FG8X2D1kpIA2deyjW9qbsv1yQRyGzlvjiFmrUDdQ1rAxyEz7dGRCYK7LFWOE-3z3eI0QjnD3MKv1y9nXRVIDWPwQ3EDxlv_1pWVMuUPrX2yyoFOmTUeMjDeXQoBwx2HjoNjDzQVXrUe2o-mU75j5YhOYJYbUxUM17cf-WUcFEEYXDGeBGJlwOSn6OuQj0jEBmYZuaq6CWh0GbBcB-8ggaOsDQTy54npYOlwIBRBjTSo2Ng8-MCRoyQek4f4QPxn75sU8ef3ULfj4w13G627MA_RWBgUev4FUIl77KSXwaWh1IfeRpJj5V2zEro9v9kn4YnTTyIVXNLiXhGzquImB7SNh3ep9qx3SPSTf5lSAAZbHnG7H23umLitesBRl6D6S8%3D&ReferralId=TEMP1&gclid=AAcRjHJrmbJQJHXexVdOFXftzdkZIiGkzl-21l2eeEi5UZjWQjzeOm5A6hKYfGmKRMgt5dFcqdYiYGY5e89HDMP-gl0AkiPe6DsVHrYHoxfycUg287LQ&gclsrc=gf",
+        "provider": "ignav:FlightHub"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 3
+    },
+    {
+      "id": "fl-dd783349da2343",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "FRA",
+          "depart_at": "2027-04-10T15:45:00",
+          "arrive_at": "2027-04-11T09:20:00",
+          "carrier": "United",
+          "flight_number": "UA182"
+        },
+        {
+          "from": "FRA",
+          "to": "WAW",
+          "depart_at": "2027-04-11T12:10:00",
+          "arrive_at": "2027-04-11T13:50:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1344"
+        },
+        {
+          "from": "WAW",
+          "to": "RZE",
+          "depart_at": "2027-04-11T15:10:00",
+          "arrive_at": "2027-04-11T16:05:00",
+          "carrier": "LOT",
+          "flight_number": "LO3807"
+        },
+        {
+          "from": "RZE",
+          "to": "WAW",
+          "depart_at": "2027-04-13T05:45:00",
+          "arrive_at": "2027-04-13T06:35:00",
+          "carrier": "LOT",
+          "flight_number": "LO3804"
+        },
+        {
+          "from": "WAW",
+          "to": "FRA",
+          "depart_at": "2027-04-13T07:40:00",
+          "arrive_at": "2027-04-13T09:40:00",
+          "carrier": "LOT",
+          "flight_number": "LO381"
+        },
+        {
+          "from": "FRA",
+          "to": "DEN",
+          "depart_at": "2027-04-13T11:20:00",
+          "arrive_at": "2027-04-13T13:40:00",
+          "carrier": "United",
+          "flight_number": "UA181"
+        }
+      ],
+      "duration_minutes": 1935,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 1621.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:30.927782Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.flighthub.com/checkout/gdeeplink?Adult=1&PointOfSaleCountry=US&DisplayedPrice=1603.09&DisplayedPriceCurrency=USD&UserLanguage=en&TripType=RoundTrip&Slice1=1,2,3&Slice2=4,5,6&Cabin1=Economy&Carrier1=LH&DepartureDate1=2027-04-10&Origin1=DEN&Destination1=FRA&BookingCode1=W&FlightNumber1=7582&Cabin2=Economy&Carrier2=LH&DepartureDate2=2027-04-11&Origin2=FRA&Destination2=WAW&BookingCode2=W&FlightNumber2=1344&Cabin3=Economy&Carrier3=LO&DepartureDate3=2027-04-11&Origin3=WAW&Destination3=RZE&BookingCode3=T&FlightNumber3=3807&Cabin4=Economy&Carrier4=LO&DepartureDate4=2027-04-13&Origin4=RZE&Destination4=WAW&BookingCode4=T&FlightNumber4=3804&Cabin5=Economy&Carrier5=LH&DepartureDate5=2027-04-13&Origin5=WAW&Destination5=FRA&BookingCode5=W&FlightNumber5=6143&Cabin6=Economy&Carrier6=LH&DepartureDate6=2027-04-13&Origin6=FRA&Destination6=DEN&BookingCode6=W&FlightNumber6=7586&t=1795368098&sig=AcuPjeunKwiPN5xngOooPZg3brh-vZZpdu3VPbQozY4qTWpxSWEx46yr8nH2MOjk-XnIXTehyN6Q5j76sD2VxS5pft3KfbSaERDiHPbjayqo9PHYDQslXOTLU-r2m7qvteBnflU53K9dflyblmk8WDNlEOSm39dpNq_mS9gUcjYSvE2rgC8FAuC7-Eao_VWb_vsUNH6MGq5S11ud1DODr3sanihHeQP5NzbhlLNtiw4A3WVks6tRBczt0uFYUp3J96zs9BZQif0CQ9f0ZZycJHLz1AUxotSt76f0LMq188KnfjrNF1C2mNa2OlYGV3LRgJ9uDb_Mnw9pHDbBxaCYtnPCTyDD0slHkY8mQLAaQ7EUr8mcESpPGPrYC7e-jEBAZIOY-CGlRq5V3x5egCn9C7-7eRqqRUk7NSiRyd6haTALL4CDL5hdTC_oWcHnjIm6e3AUD8BqlXPT3O8MqHsPw0FIT8AVH2Rvpy7QlXOzyP8XPx4nzK3K4__CXl7Aqrau-aNMKZo%3D&ReferralId=TEMP1&gclid=AAcRjHKS4nWcVTY1FFqXHcoI_E3esexOQou1WQvtehcSHl0IPC-OZssp0Cmp3tBlV7cYLtfZh0MgDscSVmZd3iWAKdmvKrMz5RjZMgbBiQzNP_qKxA88&gclsrc=gf",
+        "provider": "ignav:FlightHub"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 3
+    },
+    {
+      "id": "fl-2c5f39db68ec41",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "SFO",
+          "depart_at": "2027-04-10T17:44:00",
+          "arrive_at": "2027-04-10T19:37:00",
+          "carrier": "United",
+          "flight_number": "UA1007"
+        },
+        {
+          "from": "SFO",
+          "to": "SEA",
+          "depart_at": "2027-04-10T21:10:00",
+          "arrive_at": "2027-04-10T23:30:00",
+          "carrier": "United",
+          "flight_number": "UA1007"
+        },
+        {
+          "from": "SEA",
+          "to": "MUC",
+          "depart_at": "2027-04-11T18:50:00",
+          "arrive_at": "2027-04-12T14:00:00",
+          "carrier": "Discover Airlines",
+          "flight_number": "4Y83"
+        },
+        {
+          "from": "MUC",
+          "to": "KRK",
+          "depart_at": "2027-04-12T22:10:00",
+          "arrive_at": "2027-04-12T23:30:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1626"
+        },
+        {
+          "from": "KRK",
+          "to": "MUC",
+          "depart_at": "2027-04-13T13:25:00",
+          "arrive_at": "2027-04-13T14:50:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1623"
+        },
+        {
+          "from": "MUC",
+          "to": "DEN",
+          "depart_at": "2027-04-13T16:15:00",
+          "arrive_at": "2027-04-13T18:55:00",
+          "carrier": "United",
+          "flight_number": "UA761"
+        }
+      ],
+      "duration_minutes": 3556,
+      "stops": 4,
+      "cabin": "economy",
+      "price": {
+        "amount": 746.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:46.952527Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.united.com/ual/en/us/Booking/SearchInjection/VendorQueryPinDown?encodedParameters=a01f0c79-d82c-48e7-8772-b736cbf07f9e%5Ec7aa1bb0-df25-493f-9950-e27bd682bc46&Name=Google-Web&gclid=AAcRjHKecEVe8tPquky_b9KMhfmSWTJ4CtBaaMgdK3B17DPrFXW1TgzEz263CKn8MFSRNuQsSn4HCMtrChtktxAzng5sIfpfoEW5Sv0tyoyzyH3sXDg&gclsrc=gf",
+        "provider": "ignav:United"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 4
+    },
+    {
+      "id": "fl-bf86fef2800f40",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "SFO",
+          "depart_at": "2027-04-10T17:44:00",
+          "arrive_at": "2027-04-10T19:37:00",
+          "carrier": "United",
+          "flight_number": "UA1007"
+        },
+        {
+          "from": "SFO",
+          "to": "SEA",
+          "depart_at": "2027-04-10T21:10:00",
+          "arrive_at": "2027-04-10T23:30:00",
+          "carrier": "United",
+          "flight_number": "UA1007"
+        },
+        {
+          "from": "SEA",
+          "to": "MUC",
+          "depart_at": "2027-04-11T18:50:00",
+          "arrive_at": "2027-04-12T14:00:00",
+          "carrier": "Discover Airlines",
+          "flight_number": "4Y83"
+        },
+        {
+          "from": "MUC",
+          "to": "KRK",
+          "depart_at": "2027-04-12T22:10:00",
+          "arrive_at": "2027-04-12T23:30:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1626"
+        },
+        {
+          "from": "KRK",
+          "to": "FRA",
+          "depart_at": "2027-04-13T13:55:00",
+          "arrive_at": "2027-04-13T15:35:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1367"
+        },
+        {
+          "from": "FRA",
+          "to": "ORD",
+          "depart_at": "2027-04-13T17:20:00",
+          "arrive_at": "2027-04-13T19:55:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH432"
+        },
+        {
+          "from": "ORD",
+          "to": "DEN",
+          "depart_at": "2027-04-13T21:30:00",
+          "arrive_at": "2027-04-13T23:31:00",
+          "carrier": "United",
+          "flight_number": "UA590"
+        }
+      ],
+      "duration_minutes": 3802,
+      "stops": 5,
+      "cabin": "economy",
+      "price": {
+        "amount": 747.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:46.952527Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.united.com/ual/en/us/Booking/SearchInjection/VendorQueryPinDown?encodedParameters=5273a697-0f88-4248-926f-fb17196826ec%5Ea8caa1f3-518a-4dae-a9e8-b0bf21c139de&Name=Google-Web&gclid=AAcRjHL7noiFEV_hRTDRwDyMHiuVOKLlAvDTgYC98FoEg6YfVmKiq1zezNr75qHA3d-3CYciaBi1DVuAA4hD1C80avHLZNs3eFMuiFCN4VKWDGturzM&gclsrc=gf",
+        "provider": "ignav:United"
+      },
+      "confidence": {
+        "level": "high",
+        "verified": true
+      },
+      "return_segment_start_index": 4
+    },
+    {
+      "id": "fl-5feac408a38a4c",
+      "direction": "round_trip",
+      "segments": [
+        {
+          "from": "DEN",
+          "to": "YUL",
+          "depart_at": "2027-04-10T11:25:00",
+          "arrive_at": "2027-04-10T17:07:00",
+          "carrier": "Air Canada",
+          "flight_number": "AC1074"
+        },
+        {
+          "from": "YUL",
+          "to": "FRA",
+          "depart_at": "2027-04-10T18:05:00",
+          "arrive_at": "2027-04-11T07:10:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH479"
+        },
+        {
+          "from": "FRA",
+          "to": "KRK",
+          "depart_at": "2027-04-11T08:50:00",
+          "arrive_at": "2027-04-11T10:25:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1362"
+        },
+        {
+          "from": "KRK",
+          "to": "MUC",
+          "depart_at": "2027-04-13T13:25:00",
+          "arrive_at": "2027-04-13T14:50:00",
+          "carrier": "Lufthansa",
+          "flight_number": "LH1623"
+        },
+        {
+          "from": "MUC",
+          "to": "DEN",
+          "depart_at": "2027-04-13T16:15:00",
+          "arrive_at": "2027-04-13T18:55:00",
+          "carrier": "United",
+          "flight_number": "UA761"
+        }
+      ],
+      "duration_minutes": 1710,
+      "stops": 3,
+      "cabin": "economy",
+      "price": {
+        "amount": 862.0,
+        "currency": "USD",
+        "basis": "total_all_travelers",
+        "price_type": "live_quote",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T17:21:46.952527Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.united.com/ual/en/us/Booking/SearchInjection/VendorQueryPinDown?encodedParameters=a01f0c79-d82c-48e7-8772-b736cbf07f9e%5E486a2de9-5106-4bcc-b51b-e0d837665218&Name=Google-Web&gclid=AAcRjHLas7M9ZrmGeT-7nT74hs8u6fclwWCtCnGw2nF7E3GHu78YGwvdmoX-DdYnLnGYhECIq2e26Q1iVh7fYdA_xdJJCDNT8WJvjOvx5hBK1XOYv6g&gclsrc=gf",
+        "provider": "ignav:United"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      },
+      "return_segment_start_index": 3
+    }
+  ],
+  "lodging": [
+    {
+      "id": "ho-ChkI7PeNkr3Cjo",
+      "name": "GRÜNER HOTEL",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8418643,
+        "lng": 24.0229994
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.8,
+      "review_count": 203,
+      "price": {
+        "amount": 114.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 341.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://grunerhotel.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoQzuuI352jqJ",
+      "name": "Beautiful apartment in the heart of Lviv",
+      "type": "apartment",
+      "location": {
+        "lat": 49.83924865722656,
+        "lng": 24.029434204101562
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.55,
+      "review_count": 33,
+      "price": {
+        "amount": 56.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 168.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://www.booking.com/hotel/ua/beautiful-apartment-in-the-heart-of-lviv.en-gb.html?aid=2068758&utm_source=seogooglelocal&utm_medium=description&utm_term=hotel-15684525&utm_campaign=en-gb&label=seogooglelocal-link-imagesaow-hotel-15684525_grp-1_gendate-20261118",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIxNDRm-rb1P",
+      "name": "BANKHOTEL",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8409109,
+        "lng": 24.0212014
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.7,
+      "review_count": 1475,
+      "price": {
+        "amount": 154.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 462.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.bankhotel.com.ua/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChgIyZKi0e2U-v",
+      "name": "Grand Hotel in Lviv",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8407796,
+        "lng": 24.0274435
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.6,
+      "review_count": 1666,
+      "price": {
+        "amount": 185.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 556.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://grand-hotel.com.ua/?utm_source&utm_medium=organic&utm_campaign=gmb-local",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkI0MXhsKXYvf",
+      "name": "Atlas Deluxe",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8357166,
+        "lng": 24.0325727
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.7,
+      "review_count": 906,
+      "price": {
+        "amount": 95.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 284.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://atlasdeluxe.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIpLz_pO749s",
+      "name": "Taurus Hotel&SPA",
+      "type": "hotel",
+      "location": {
+        "lat": 49.842824699999994,
+        "lng": 24.0088592
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.3,
+      "review_count": 450,
+      "price": {
+        "amount": 90.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 271.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.hotel-taurus.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIwKfy_rvj29",
+      "name": "Post House Rooms",
+      "type": "hotel",
+      "location": {
+        "lat": 49.838006199999995,
+        "lng": 24.023790599999998
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.8,
+      "review_count": 453,
+      "price": {
+        "amount": 45.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 134.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://posthouserooms.com.ua/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoIhc2Wzfeepb",
+      "name": "Jam Hotel Hnatyuka",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8414711,
+        "lng": 24.0262262
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.4,
+      "review_count": 730,
+      "price": {
+        "amount": 77.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 231.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://jam-hotel.com.ua/ua/hotel/lviv-hnatyuka",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoIuobx-fX7zK",
+      "name": "Best Western Plus Market Square Lviv",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8422846,
+        "lng": 24.0300655
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.8,
+      "review_count": 224,
+      "price": {
+        "amount": 114.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 343.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://www.marketsquarelviv.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoI6s-zvqzJyZ",
+      "name": "LEV Lifestyle Hotel, Lviv",
+      "type": "hotel",
+      "location": {
+        "lat": 49.847671899999995,
+        "lng": 24.0003195
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.8,
+      "review_count": 335,
+      "price": {
+        "amount": 92.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 276.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://levhotel.com.ua/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChkIsbWm7P3X7r",
+      "name": "Hotel Constellation 89",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8441891,
+        "lng": 24.008034499999997
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.2,
+      "review_count": 499,
+      "price": {
+        "amount": 12.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 37.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "http://89constellation.com/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    },
+    {
+      "id": "ho-ChoI8Iv28NWi8b",
+      "name": "DREAM Hostel Lviv",
+      "type": "hotel",
+      "location": {
+        "lat": 49.8426,
+        "lng": 24.029999999999998
+      },
+      "area": "Lviv",
+      "check_in": "2027-04-10",
+      "check_out": "2027-04-13",
+      "rating": 4.8,
+      "review_count": 1700,
+      "price": {
+        "amount": 9.0,
+        "currency": "USD",
+        "basis": "per_night",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "total_stay_price": {
+        "amount": 27.0,
+        "currency": "USD",
+        "basis": "per_group",
+        "price_type": "published_rate",
+        "includes_taxes_fees": true,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "api"
+      },
+      "source": {
+        "url": "https://dream-hostels.com/lviv/",
+        "provider": "serpapi_google_hotels"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-wv6a77629ee8",
+      "name": "Rooftop View of City Center (Vernisazh Lviv Mall)",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A rooftop viewpoint at the Vernisazh Lviv Mall offering views over Lviv's city center.",
+      "location": {
+        "lat": 49.8420893,
+        "lng": 24.0296856
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 0.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Wikivoyage 'City center view from the rooftop of Vernisazh Lviv Mall': \"Free\""
+      },
+      "name_local": "City center view from the rooftop of Vernisazh Lviv Mall",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvc08808908c",
+      "name": "Lychakiv Cemetery",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "Historic cemetery in Lviv with notable graves, sculptures and memorials, in use since the 18th century.",
+      "location": {
+        "lat": 49.8325,
+        "lng": 24.056111
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 30.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.67,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.lviv-lychakiv.com.ua/en/visitors",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Lychakivsky Tsvyntar': \"30 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Lychakivsky Tsvyntar",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv4687f43cc8",
+      "name": "National Museum in Lviv",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Major Lviv museum with collections of Ukrainian art, including icons.",
+      "location": {
+        "lat": 49.843056,
+        "lng": 24.028056
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 50.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 1.11,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://nm.lviv.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'The Lviv National Museum': \"9 грн, children 3 грн; temporary exhibitions: 3/1; permanent exhibitions: 5/1. Excursions: 15/10. Tours in (English, Polish, Russian): 50 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "The Lviv National Museum",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv3b3b667d57",
+      "name": "Under the Black Eagle Pharmacy Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Museum housed in a historic pharmacy in Lviv's old town, showing pharmacy history and equipment.",
+      "location": {
+        "lat": 49.84274,
+        "lng": 24.03236
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 8.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.18,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "http://lvivpharmacy.org.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage '\"Under the Black Eagle\" Pharmacy Museum': \"8 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "\"Under the Black Eagle\" Pharmacy Museum",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv79e56f2df2",
+      "name": "Museum of the History of Religion",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Museum in Lviv devoted to the history of religion, housed in a former Dominican monastery complex.",
+      "location": {
+        "lat": 49.84302,
+        "lng": 24.03381
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 10.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.22,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.museum.lviv.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Museum of the History of Religion': \"Adults/discount 10/5 грн; Guided tour: 10/5 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvd5e4858105",
+      "name": "Museum of Post",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Lviv dedicated to postal history.",
+      "location": {
+        "lat": 49.84248,
+        "lng": 24.03253
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 40.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.89,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Wikivoyage 'Museum of Post': \"Adults/discount 10/5 грн, Excursions: 40/20 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wve3c2ad3aa2",
+      "name": "Gothic Hall Art Gallery",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "An art gallery in Lviv known as the Gothic Hall.",
+      "location": {
+        "lat": 49.84222,
+        "lng": 24.03274
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 5.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.11,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.gothic-hall.com/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Wikivoyage 'Hotyk-Khol (Gothic Hall) Art Gallery': \"Adults/discount 5/2 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Hotyk-Khol (Gothic Hall) Art Gallery",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv7a9114911a",
+      "name": "Lviv Historical Museum: Ancient History of Ukraine and Archaeology",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Department of the Lviv Historical Museum covering ancient history and archaeology of Ukraine.",
+      "location": {
+        "lat": 49.84124,
+        "lng": 24.03068
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 40.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.89,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Lviv Historical Museum, Department of “Ancient History of Ukraine and Archaeology Department': \"Adult/children 10/5 грн, tours 40/20 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Lviv Historical Museum, Department of “Ancient History of Ukraine and Archaeology Department",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvf678b84c8c",
+      "name": "Museum of Ethnography and Arts and Crafts",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Lviv museum presenting Ukrainian ethnography, folk art and crafts.",
+      "location": {
+        "lat": 49.84105,
+        "lng": 24.02714
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 5.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.11,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "http://ethnology.lviv.ua",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Museum of Ethnography and Arts and Crafts': \"5 грн normal, 2 грн discount\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wvc75e32f193",
+      "name": "Shevchenkivskyi Hai Museum of Folk Architecture and Rural Life",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Open-air museum near Lviv's center with relocated wooden buildings showing traditional Ukrainian rural life.",
+      "location": {
+        "lat": 49.8446,
+        "lng": 24.0673
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 15.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.33,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://lvivskansen.org/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Museum of National Folk Architecture and Rural Life «Shevchenkivsky Hay»': \"15 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Museum of National Folk Architecture and Rural Life «Shevchenkivsky Hay»",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv4d592a1ac7",
+      "name": "Beer Brewing Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "Museum in Lviv about the history of beer brewing.",
+      "location": {
+        "lat": 49.84775,
+        "lng": 24.01565
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 15.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.33,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "http://lvivarnya.com.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Beer Brewing Museum': \"15 грн normal, 10 грн discount\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wve3b2a28761",
+      "name": "Pliazh Aquapark",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "Water park in Lviv with pools and water attractions.",
+      "location": {
+        "lat": 49.8063,
+        "lng": 23.9978
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 2014.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 44.75,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 180,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Pliazh Aquapark': \"Tariff 100 грн per day (2014)\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv7fe0c5fae7",
+      "name": "Shevchenkivskyi Hai Park",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "Wooded park area in Lviv that hosts the open-air folk architecture museum.",
+      "location": {
+        "lat": 49.844833,
+        "lng": 24.066389
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 15.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 0.33,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://lvivskansen.org/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Shevchenkivskyi Hay': \"15 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Shevchenkivskyi Hay",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv0661760d47",
+      "name": "Lviv Philharmonic Concert Hall",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "Concert hall of the Lviv Philharmonic Society, hosting classical music performances.",
+      "location": {
+        "lat": 49.83755,
+        "lng": 24.03043
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 100.0,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:35Z",
+        "fx_rate": 0.02222,
+        "amount_normalized": 2.22,
+        "price_layer": "wikivoyage"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.philharmonia.lviv.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "Wikivoyage 'Lviv philharmonic Society Concert hall': \"40, 60, 80, 100 грн\" (multiple amounts or unclear currency; highest amount used)"
+      },
+      "name_local": "Lviv philharmonic Society Concert hall",
+      "price_source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      }
+    },
+    {
+      "id": "act-wv756fe8d656",
+      "name": "Jesuit Church (Church of Saints Peter and Paul)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Baroque Jesuit church in Lviv's old town.",
+      "location": {
+        "lat": 49.8415,
+        "lng": 24.0291
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://petrapavla.org.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Jesuit Roman-Catholic Church"
+    },
+    {
+      "id": "act-wvc25d40a1a1",
+      "name": "Church of the Transfiguration",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv dedicated to the Transfiguration of the Lord.",
+      "location": {
+        "lat": 49.843611,
+        "lng": 24.029444
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Church of the Transfiguration of the Lord"
+    },
+    {
+      "id": "act-wv0d066a9a70",
+      "name": "Armenian Cathedral",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Medieval Armenian cathedral in Lviv's old town, known for its interior frescoes.",
+      "location": {
+        "lat": 49.843333,
+        "lng": 24.030833
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wv3275b2afc6",
+      "name": "Dominican Cathedral",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Baroque domed Dominican church in Lviv's old town.",
+      "location": {
+        "lat": 49.84275,
+        "lng": 24.03412
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Dominican Roman-Catholic Church"
+    },
+    {
+      "id": "act-wvd0e37bd3aa",
+      "name": "Assumption Church (Dormition Church)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Orthodox church complex in Lviv's old town, adjacent to the Kornyakt Tower.",
+      "location": {
+        "lat": 49.84206,
+        "lng": 24.03436
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Assumption Church"
+    },
+    {
+      "id": "act-wvcb21909120",
+      "name": "Latin Cathedral (Lviv Cathedral Basilica)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Gothic Roman Catholic cathedral on Cathedral Square in Lviv's old town.",
+      "location": {
+        "lat": 49.840556,
+        "lng": 24.030556
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Cathedral (Latin)"
+    },
+    {
+      "id": "act-wveec4658dcb",
+      "name": "Bernardine Monastery and Church",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Historic Bernardine monastery and church complex in Lviv.",
+      "location": {
+        "lat": 49.839444,
+        "lng": 24.034722
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 40,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Bernardynskyi monastyr"
+    },
+    {
+      "id": "act-wv23c575e100",
+      "name": "Golden Rose Synagogue Ruins",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "Remains of a 16th-century synagogue in Lviv, commemorated as a historic site.",
+      "location": {
+        "lat": 49.84129,
+        "lng": 24.0347
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Remains of the former Golden Rose Synagogue"
+    },
+    {
+      "id": "act-wvda97f939b5",
+      "name": "St. George's Cathedral",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Baroque-rococo Greek Catholic cathedral on a hill in Lviv.",
+      "location": {
+        "lat": 49.838611,
+        "lng": 24.013056
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "http://sobor-svyura.lviv.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Saint George (Jura) Cathedral"
+    },
+    {
+      "id": "act-wv0a4c4f56df",
+      "name": "Tsori Gilod Synagogue",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Synagogue in Lviv.",
+      "location": {
+        "lat": 49.83804,
+        "lng": 24.00435
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wvba8c907b2c",
+      "name": "Church of St. Paraskeva Pyatnytsia",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Church in Lviv dedicated to St. Paraskeva Pyatnytsia.",
+      "location": {
+        "lat": 49.8518,
+        "lng": 24.0306
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "St. Parasceva Pyatnitsy Church"
+    },
+    {
+      "id": "act-wve3af4f61d4",
+      "name": "Armenian Catholic Church",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "An Armenian Catholic church in Lviv.",
+      "location": {
+        "lat": 49.8494,
+        "lng": 24.027
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Armenian Roman-Catholic Church"
+    },
+    {
+      "id": "act-wv7c04ef95bf",
+      "name": "St. Onuphrius Church and Monastery",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "Historic church and monastery complex in Lviv dedicated to Saint Onuphrius.",
+      "location": {
+        "lat": 49.84926,
+        "lng": 24.02851
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Church and monastery of Saint Onufrii"
+    },
+    {
+      "id": "act-wv2085f2014f",
+      "name": "Church of St. Nicholas",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv dedicated to St. Nicholas.",
+      "location": {
+        "lat": 49.84744,
+        "lng": 24.02903
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wv2702e31c8e",
+      "name": "Museum of Ancient Monuments of Lviv",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Lviv focused on ancient monuments of the city.",
+      "location": {
+        "lat": 49.84684,
+        "lng": 24.0306
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Museum of ancient monuments of Lviv"
+    },
+    {
+      "id": "act-wvd6770065a9",
+      "name": "Church of the Holy Family (Reformati)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv associated with the Reformati (Reformed Franciscan) order.",
+      "location": {
+        "lat": 49.846,
+        "lng": 24.0074
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.dlab.com.ua",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Church of the Saint Family of Reformat Order"
+    },
+    {
+      "id": "act-wv613537b320",
+      "name": "Saint Anna Temple",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.84254,
+        "lng": 24.01706
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wvdcd46d255c",
+      "name": "St. George's Church",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.8419,
+        "lng": 24.0407
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wvb6af9adadf",
+      "name": "Church of the Holy Spirit",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A church in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.836,
+        "lng": 24.0221
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wv8ed07dbfb5",
+      "name": "Griffon House",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A historic building in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.84447,
+        "lng": 24.02982
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wv66922a4766",
+      "name": "Zankovetska Ukrainian Drama Theatre",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "A drama theatre in Lviv named after actress Maria Zankovetska, staging Ukrainian-language productions.",
+      "location": {
+        "lat": 49.84403,
+        "lng": 24.02745
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 17.5,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 120,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.zankovetska.com.ua/",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "City Theatre (M. Zankovetska Ukrainian Drama Theatre)"
+    },
+    {
+      "id": "act-wv5f13e189f8",
+      "name": "Lviv Opera and Ballet Theatre",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "Lviv's national academic opera and ballet theatre, a landmark building in the city centre.",
+      "location": {
+        "lat": 49.844167,
+        "lng": 24.026389
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 17.5,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 150,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.opera.lviv.ua/en",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Lviv Opera and Ballet National Academic Theatre"
+    },
+    {
+      "id": "act-wvaf61fc840d",
+      "name": "Korniakt Tower",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A bell tower beside the Dormition Church in Lviv's Old Town.",
+      "location": {
+        "lat": 49.84226,
+        "lng": 24.03459
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-wv00c310b749",
+      "name": "Narodnyi Dim (National Home)",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A historic building in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.84291,
+        "lng": 24.02883
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Narodnyi Dim (Nation Home)"
+    },
+    {
+      "id": "act-wvc295247207",
+      "name": "Poleyovskiy House",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A historic building in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.84368,
+        "lng": 24.03007
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Poleyovskiy house"
+    },
+    {
+      "id": "act-wv318eb2362d",
+      "name": "Patio House",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A building in Lviv listed as a sight in travel guides.",
+      "location": {
+        "lat": 49.84369,
+        "lng": 24.03063
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://en.wikivoyage.org/wiki/Lviv",
+        "provider": "wikivoyage"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Patio's house"
+    },
+    {
+      "id": "act-5102be3676e4",
+      "name": "Amphitrite Fountain",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A statue fountain of Amphitrite, one of the Old Town's mythological fountains.",
+      "location": {
+        "lat": 49.8421092,
+        "lng": 24.0308298
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/497579565",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Амфітріта"
+    },
+    {
+      "id": "act-51364e548039",
+      "name": "Adonis Fountain",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A statue fountain of Adonis, one of the Old Town's mythological fountains.",
+      "location": {
+        "lat": 49.8423814,
+        "lng": 24.0321274
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/497579569",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Адоніс"
+    },
+    {
+      "id": "act-517fbdc282fb",
+      "name": "Neptune Fountain",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A statue fountain of Neptune, one of the Old Town's mythological fountains.",
+      "location": {
+        "lat": 49.8414351,
+        "lng": 24.0311815
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/497579570",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Нептун"
+    },
+    {
+      "id": "act-51a79f26e950",
+      "name": "Diana Fountain",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A statue fountain of Diana, one of the Old Town's mythological fountains.",
+      "location": {
+        "lat": 49.8417066,
+        "lng": 24.0324846
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/497579571",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Діана"
+    },
+    {
+      "id": "act-514c78f82125",
+      "name": "The Navel of the World",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A small public art installation in Lviv's centre, known by its humorous name.",
+      "location": {
+        "lat": 49.8408094,
+        "lng": 24.0318166
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4973721722",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Пуп Землі"
+    },
+    {
+      "id": "act-5193f0733227",
+      "name": "Beer Belly of Ukraine",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "A small humorous public installation in Lviv, known as the beer belly.",
+      "location": {
+        "lat": 49.8407939,
+        "lng": 24.0318481
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/7102354085",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Пивний пуп"
+    },
+    {
+      "id": "act-51f501f63b93",
+      "name": "Muzeina Square",
+      "name_source": "osm_name_en",
+      "category": "outdoors",
+      "description": "A pedestrian square in Lviv's city centre.",
+      "location": {
+        "lat": 49.8428844,
+        "lng": 24.0334794
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/relation/18489222",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Музейна площа"
+    },
+    {
+      "id": "act-51f338b12c3d",
+      "name": "Taras Shevchenko Monument",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A monument to Ukrainian poet Taras Shevchenko in Lviv.",
+      "location": {
+        "lat": 49.8410059,
+        "lng": 24.0282772
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/503932854",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Тарасові Шевченку"
+    },
+    {
+      "id": "act-5123ebba01b0",
+      "name": "Adam Mickiewicz Monument",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A monument to Polish poet Adam Mickiewicz in Lviv.",
+      "location": {
+        "lat": 49.8394814,
+        "lng": 24.0300294
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/503932869",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Адамові Міцкевичу"
+    },
+    {
+      "id": "act-5104c5347804",
+      "name": "Roshen",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A Roshen-branded confectionery venue in Lviv.",
+      "location": {
+        "lat": 49.8393782,
+        "lng": 24.0313182
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/3868154485",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      }
+    },
+    {
+      "id": "act-51c888fa134b",
+      "name": "Glass Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Lviv devoted to glass.",
+      "location": {
+        "lat": 49.8425933,
+        "lng": 24.0323956
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.glassmuseuminlviv.org/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Музей скла",
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-51def98e1381",
+      "name": "State Museum of Natural History",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A natural history museum in Lviv.",
+      "location": {
+        "lat": 49.8425792,
+        "lng": 24.0295318
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.smnh.org/ua/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Львівський Державний Природознавчий Музей",
+      "hours": {
+        "wed": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-5105686ba37c",
+      "name": "Pinzel Sculpture Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum of sacred baroque sculpture, including works by Johann Georg Pinzel.",
+      "location": {
+        "lat": 49.8396341,
+        "lng": 24.0370708
+      },
+      "area": "Lychakiv",
+      "price": {
+        "amount": 150,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.02222,
+        "amount_normalized": 3.33
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/165220792",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "The official Lviv National Art Gallery page lists adult tickets at 150 грн. The same page says the exhibition is currently closed to visitors, so the price may not be usable right now."
+      },
+      "name_local": "Музей сакральної барокової скульптури Пінзеля",
+      "price_source": {
+        "url": "https://lvivgallery.org.ua/museums/muzey-ivana-georgiya-pinzelya",
+        "provider": "web_search"
+      },
+      "hours": {
+        "tue": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-510dcd08d5e1",
+      "name": "Potocki Palace",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A historic palace in Lviv built for the Potocki family.",
+      "location": {
+        "lat": 49.837953,
+        "lng": 24.0269294
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 200,
+        "currency": "UAH",
+        "basis": "per_person",
+        "price_type": "published_rate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "price_layer": "web_search",
+        "fx_rate": 0.02222,
+        "amount_normalized": 4.44
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/170023137",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "medium",
+        "verified": false,
+        "notes": "The official Lviv National Art Gallery page lists the adult entry ticket (для дорослих) at 200 грн."
+      },
+      "name_local": "Палац Потоцьких",
+      "price_source": {
+        "url": "https://lvivgallery.org.ua/museums/palac-potockyh",
+        "provider": "web_search"
+      },
+      "hours": {
+        "sun": {
+          "open": "12:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "18:00"
+        },
+        "mon": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-51d454055905",
+      "name": "City Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A museum in Lviv about the history of the city.",
+      "location": {
+        "lat": 49.8416097,
+        "lng": 24.0313316
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/5627132431",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Музей міста"
+    },
+    {
+      "id": "act-517234a1d265",
+      "name": "Korniakt Palace (Royal Town House)",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A Renaissance palace on Market Square, part of the Lviv Historical Museum.",
+      "location": {
+        "lat": 49.8422625,
+        "lng": 24.0327285
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/40887654",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Кам'яниця Корнякта"
+    },
+    {
+      "id": "act-51a9ff09f2d5",
+      "name": "Lviv Historical Museum",
+      "name_source": "osm_name_en",
+      "category": "museum",
+      "description": "A history museum in Lviv with several branches around Market Square.",
+      "location": {
+        "lat": 49.8413948,
+        "lng": 24.0307294
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 8.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $16 typical 'museum' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/40987616",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Львівський історичний музей"
+    },
+    {
+      "id": "act-519afdcbfff5",
+      "name": "Boim Chapel",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A 17th-century burial chapel of the Boim family next to the Latin Cathedral.",
+      "location": {
+        "lat": 49.8407294,
+        "lng": 24.0310974
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/12001028424",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Каплиця Боїмів",
+      "hours": {
+        "tue": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-5162d7d5d5ce",
+      "name": "Latin Cathedral (Lviv Archcathedral Basilica)",
+      "name_source": "osm_name_en",
+      "category": "culture",
+      "description": "The Roman Catholic Archcathedral Basilica of the Assumption of the Blessed Virgin Mary in Lviv's Old Town.",
+      "location": {
+        "lat": 49.8407869,
+        "lng": 24.0304921
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'culture' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/40793095",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Архікафедральна базиліка Успіння Пресвятої Діви Марії"
+    },
+    {
+      "id": "act-51f9776865e1",
+      "name": "The Space of Synagogues",
+      "name_source": "osm_name_en",
+      "category": "history",
+      "description": "A memorial space in Lviv marking the site of former synagogues.",
+      "location": {
+        "lat": 49.8413918,
+        "lng": 24.0346952
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 6.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $12 typical 'history' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "http://jewish.lviv.travel/en_US/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Простір Синагог"
+    },
+    {
+      "id": "act-51c8cd0ea0c1",
+      "name": "Bernardine Garden",
+      "name_source": "llm_translation",
+      "category": "nature",
+      "description": "A public park in central Lviv beside the Bernardine Church and Monastery.",
+      "location": {
+        "lat": 49.8398159,
+        "lng": 24.0340781
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 4.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $8 typical 'nature' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/238318168",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Бернарденгарден"
+    },
+    {
+      "id": "act-51018aca9b3c",
+      "name": "Governor's Ramparts",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "A green strip of park along the former city fortification line in Lviv.",
+      "location": {
+        "lat": 49.8413178,
+        "lng": 24.0360813
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/151290101",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "На Валах (Губернаторські Вали)"
+    },
+    {
+      "id": "act-51c6df897307",
+      "name": "Governor's Ramparts",
+      "name_source": "llm_translation",
+      "category": "outdoors",
+      "description": "A green strip of park along the former city fortification line in Lviv.",
+      "location": {
+        "lat": 49.843829,
+        "lng": 24.0352374
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'outdoors' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 30,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/151412161",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "На Валах (Губернаторські Вали)"
+    },
+    {
+      "id": "act-515189b96949",
+      "name": "Yevhen Malaniuk Park",
+      "name_source": "llm_translation",
+      "category": "nature",
+      "description": "A small public park named after the Ukrainian poet Yevhen Malaniuk.",
+      "location": {
+        "lat": 49.8373239,
+        "lng": 24.0284782
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 4.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $8 typical 'nature' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 20,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/38317763",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Євгена Маланюка"
+    },
+    {
+      "id": "act-51d2ed131acb",
+      "name": "Leonid Stein Square",
+      "name_source": "llm_translation",
+      "category": "nature",
+      "description": "A small public square named after Leonid Stein.",
+      "location": {
+        "lat": 49.8363605,
+        "lng": 24.0343136
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 4.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $8 typical 'nature' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 15,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/251979086",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Сквер ім. Леоніда Штейна"
+    },
+    {
+      "id": "act-516c3c7da944",
+      "name": "Papashon Bowling",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "A bowling and entertainment venue in Lviv.",
+      "location": {
+        "lat": 49.8074385,
+        "lng": 23.9776102
+      },
+      "area": "Sknylivok",
+      "price": {
+        "amount": 17.5,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://papashon.com/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Папашон боулінг",
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51b075a911fa",
+      "name": "Oceanarium",
+      "name_source": "osm_name_en",
+      "category": "entertainment",
+      "description": "An aquarium attraction in the Lviv area.",
+      "location": {
+        "lat": 49.8376131,
+        "lng": 24.0311595
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 17.5,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $35 typical 'entertainment' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://oceanarium.com.ua/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Океанаріум"
+    },
+    {
+      "id": "act-51c17b2d6144",
+      "name": "Dybowski Dendropark",
+      "name_source": "llm_translation",
+      "category": "nature",
+      "description": "A dendrological park named after Benedykt Dybowski.",
+      "location": {
+        "lat": 49.8242133,
+        "lng": 24.0401023
+      },
+      "area": "Штіллерівка",
+      "price": {
+        "amount": 4.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $8 typical 'nature' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/238318169",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Дендропарк ім. Бенедикта Дибовського"
+    },
+    {
+      "id": "act-51bc0512143f",
+      "name": "Kryjivka",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A themed restaurant-bar in central Lviv styled after a Ukrainian insurgent hideout.",
+      "location": {
+        "lat": 49.8414036,
+        "lng": 24.0322125
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.fest.lviv.ua/uk/restaurants/kryjivka",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Криївка",
+      "hours": {
+        "mon": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sat": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sun": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      }
+    },
+    {
+      "id": "act-5164daed693d",
+      "name": "The Most Expensive Galician Restaurant (Masons)",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A themed restaurant in Lviv, also known as Masons.",
+      "location": {
+        "lat": 49.8413534,
+        "lng": 24.0321871
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.fest.lviv.ua/uk/restaurants/naidorozhcharestoracijagalychyny",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Найдорожча ресторація Галичини («Масони»)",
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "02:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      }
+    },
+    {
+      "id": "act-51b8ea3a5453",
+      "name": "5th Dungeon",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A restaurant in Lviv with a dungeon-style setting.",
+      "location": {
+        "lat": 49.8423342,
+        "lng": 24.0325215
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.facebook.com/5thdungeon/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "П'яте підземелля",
+      "hours": {
+        "mon": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "sun": {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      }
+    },
+    {
+      "id": "act-51c79e3d97a9",
+      "name": "Baczewski Restaurant",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A restaurant in Lviv named after the historic Baczewski family.",
+      "location": {
+        "lat": 49.8422154,
+        "lng": 24.0299315
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 90,
+      "requires_booking": null,
+      "source": {
+        "url": "https://kumpelgroup.com/restaurants/baczewski/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Ресторація Бачевських",
+      "hours": {
+        "mon": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51b889ffe0e8",
+      "name": "36Po",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A restaurant in Lviv.",
+      "location": {
+        "lat": 49.8423946,
+        "lng": 24.0308972
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.36po.com.ua/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "36По"
+    },
+    {
+      "id": "act-51de78d21d1f",
+      "name": "Craft&Kumpel",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A craft beer venue and restaurant in Lviv.",
+      "location": {
+        "lat": 49.8413073,
+        "lng": 24.0317248
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/7178668087",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      }
+    },
+    {
+      "id": "act-515bf56f4d70",
+      "name": "Casa Leone",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A restaurant in Lviv.",
+      "location": {
+        "lat": 49.8422725,
+        "lng": 24.0329636
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/5003864325",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Каса Леоне"
+    },
+    {
+      "id": "act-51c9867f2260",
+      "name": "Crimean Courtyard",
+      "name_source": "osm_name_en",
+      "category": "food",
+      "description": "A restaurant in Lviv.",
+      "location": {
+        "lat": 49.8427693,
+        "lng": 24.0327169
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 14.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $28 typical 'food' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/13274034101",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Кримський Дворик"
+    },
+    {
+      "id": "act-515b3fa2ae5a",
+      "name": "Drunk Cherry",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A bar in Lviv known for cherry liqueur.",
+      "location": {
+        "lat": 49.8415172,
+        "lng": 24.0326337
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.fest.lviv.ua/uk/restaurants/drunkcherry/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "П'яна вишня",
+      "hours": {
+        "mon": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "sat": {
+          "open": "10:00",
+          "close": "23:59"
+        },
+        "sun": {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      }
+    },
+    {
+      "id": "act-51ae9575a49f",
+      "name": "Tsypa Craft Pub",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A craft beer pub in Lviv.",
+      "location": {
+        "lat": 49.8418925,
+        "lng": 24.0297797
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 75,
+      "requires_booking": null,
+      "source": {
+        "url": "http://www.facebook.com/l.tsypacraftpub/",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Ципа",
+      "hours": {
+        "sun": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "mon": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "tue": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "wed": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "thu": {
+          "open": "12:00",
+          "close": "23:59"
+        },
+        "fri": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "sat": {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      }
+    },
+    {
+      "id": "act-511b44108c28",
+      "name": "44 Tarte",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A bar in Lviv.",
+      "location": {
+        "lat": 49.8426131,
+        "lng": 24.0318687
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4526890132",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "44 Тарт",
+      "hours": {
+        "mon": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "tue": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "wed": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "thu": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "fri": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "sat": {
+          "open": "16:00",
+          "close": "03:00"
+        },
+        "sun": {
+          "open": "16:00",
+          "close": "03:00"
+        }
+      }
+    },
+    {
+      "id": "act-5169aa27f38f",
+      "name": "Inshi Cocktail Bar-Farm",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A cocktail bar in Lviv.",
+      "location": {
+        "lat": 49.8422572,
+        "lng": 24.0334465
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/12071986869",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Коктейльний бар-ферма Інші",
+      "hours": {
+        "mon": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "16:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-5169d1f18755",
+      "name": "WineHouse",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A wine bar in Lviv.",
+      "location": {
+        "lat": 49.8406031,
+        "lng": 24.0325551
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4407512190",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Винний Дім",
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-51bef0efd874",
+      "name": "WineHouse",
+      "name_source": "osm_name_en",
+      "category": "nightlife",
+      "description": "A wine bar in Lviv.",
+      "location": {
+        "lat": 49.8423983,
+        "lng": 24.0291267
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 15.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $30 typical 'nightlife' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/node/4407519289",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Винний Дім",
+      "hours": {
+        "mon": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tue": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wed": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thu": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "fri": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sat": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sun": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "act-517c34e69997",
+      "name": "Halytsky Market",
+      "name_source": "osm_name_en",
+      "category": "shopping",
+      "description": "A market in central Lviv selling food and goods.",
+      "location": {
+        "lat": 49.8386065,
+        "lng": 24.033571
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/174612358",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found"
+      },
+      "name_local": "Галицький ринок",
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "sat": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "sun": {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      }
+    },
+    {
+      "id": "act-51869cb77f2a",
+      "name": "Vernisage Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "An open-air market in Lviv known for souvenirs and crafts.",
+      "location": {
+        "lat": 49.8435479,
+        "lng": 24.0280569
+      },
+      "area": "Середмістя",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 60,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/170023138",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Вернісаж",
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-5159bf870595",
+      "name": "Krakivskyi Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "A local marketplace in Lviv.",
+      "location": {
+        "lat": 49.8463445,
+        "lng": 24.0177547
+      },
+      "area": "Klepariv",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/180103988",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Краківський ринок",
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "sat": {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      }
+    },
+    {
+      "id": "act-51b863cbd354",
+      "name": "Stryiskyi Market",
+      "name_source": "llm_translation",
+      "category": "shopping",
+      "description": "A large local marketplace in Lviv.",
+      "location": {
+        "lat": 49.8292788,
+        "lng": 24.0325219
+      },
+      "area": "Sofiivka",
+      "price": {
+        "amount": 5.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $10 typical 'shopping' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 45,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.openstreetmap.org/way/225396124",
+        "provider": "geoapify_osm"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; name translated by LLM"
+      },
+      "name_local": "Стрийський ринок",
+      "hours": {
+        "mon": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "tue": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "wed": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "thu": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "fri": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "sat": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "sun": {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      }
+    },
+    {
+      "id": "act-dtc5c45d3362",
+      "name": "Zhovkva (Žovkva)",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "A UNESCO-listed Renaissance 'ideal town' about 30 km north of Lviv, with a fortified castle, the Grand Synagogue ruins and the wooden Holy Trinity church, reached by frequent marshrutka from Lviv's bu",
+      "location": {
+        "lat": 50.056134,
+        "lng": 23.9711967
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 35.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 240,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Zhovkva%20%28%C5%BDovkva%29%20Lviv",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 120
+    },
+    {
+      "id": "act-dt950017dba5",
+      "name": "Olesko Castle",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "A hilltop 13th-century castle and birthplace of King Jan III Sobieski, housing a Lviv Art Gallery branch with paintings and sculpture, and usually combined with nearby Pidhirtsi and Zolochiv castles o",
+      "location": {
+        "lat": 49.9683827,
+        "lng": 24.9009406
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 35.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 210,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Olesko%20Castle%20Lviv",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 210
+    },
+    {
+      "id": "act-dtb941a2435b",
+      "name": "Zolochiv Castle",
+      "name_source": "osm_name_en",
+      "category": "day_trip",
+      "description": "A well-preserved 17th-century palace-fortress ensemble with the Chinese Palace and Great Palace, about 65 km east of Lviv and easy to reach by suburban train or bus.",
+      "location": {
+        "lat": 49.797949,
+        "lng": 24.8790626
+      },
+      "area": "Lviv",
+      "price": {
+        "amount": 35.0,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Category estimate: $70 typical 'day_trip' cost x 0.5 for cost tier 1. No published price was found. Set high on purpose.",
+        "price_layer": "category_estimate"
+      },
+      "duration_minutes": 180,
+      "requires_booking": null,
+      "source": {
+        "url": "https://www.google.com/maps/search/?api=1&query=Zolochiv%20Castle%20Lviv",
+        "provider": "google_maps_search"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "no published price found; travel time is an LLM estimate"
+      },
+      "round_trip_from_base_minutes": 180
+    }
+  ],
+  "ground_transport": [
+    {
+      "id": "gt-apt-RZE",
+      "mode": "bus",
+      "from": "RZE airport",
+      "to": "Lviv",
+      "from_geo": {
+        "lat": 50.599594,
+        "lng": 30.198885
+      },
+      "to_geo": {
+        "lat": 49.841952,
+        "lng": 24.0315921
+      },
+      "distance_km": 538.3,
+      "duration_minutes": 383,
+      "price": {
+        "amount": 21.53,
+        "currency": "USD",
+        "basis": "per_person",
+        "price_type": "estimate",
+        "includes_taxes_fees": null,
+        "retrieved_at": "2026-11-22T21:20:36Z",
+        "estimate_method": "Intercity bus/train estimate: $0.08/km scaled by cost tier. A taxi would cost far more.",
+        "price_layer": "category_estimate"
+      },
+      "source": {
+        "url": "https://www.rome2rio.com/map/RZE%20airport/Lviv",
+        "provider": "geoapify_routing"
+      },
+      "confidence": {
+        "level": "low",
+        "verified": false,
+        "notes": "Road route from Geoapify (may be inaccurate where map data is uncertain, and border waits are not included); fare is an estimate."
+      }
+    }
+  ],
+  "feasibility": {
+    "budget": 1000.0,
+    "estimated_minimum_total": 1049.0,
+    "verdict": "very_tight",
+    "reasoning": "Cheapest realistic combination comes to about 1,049 USD against a budget of 1,000 (105%). Largest cost: flights (746). Flight and lodging use live prices; food and local transport are estimates set high. Activities are not included. The estimate is slightly over budget but within its margin of error; it may only work with the cheapest flights, lodging and meals, and the planner should say so.",
+    "breakdown": {
+      "flights": 746.0,
+      "lodging": 168.0,
+      "food_and_local_transport": 135.0
+    }
+  },
+  "gaps": [],
+  "notes": [
+    "Lviv International Airport (LWO) is closed to commercial flights because of the war, so the nearest operating alternatives are Rzeszów, Poland (RZE) and Kraków, Poland (KRK). RZE is about 2.5 hours from Lviv by road, and the border crossing adds time. Many travelers go by bus or train from Poland, for example Przemyśl to Lviv.",
+    "The US State Department advises against all travel to Ukraine (Level 4: Do Not Travel). Check the current advisory and conditions before planning.",
+    "Costs are low by Western standards, but conditions are volatile. Allow extra for transport and security contingencies.",
+    "Dates: 2027-04-10 to 2027-04-13; 3 night(s) of lodging. Flight prices are totals for all 1 traveler(s)."
+  ],
+  "_schema_errors": []
+}
