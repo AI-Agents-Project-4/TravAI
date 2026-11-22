@@ -7,7 +7,8 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from typing import Optional
 
-from .core import ApiError, CacheMiss, http, secret
+from . import sandbox
+from .core import ApiError, CacheMiss, data_mode, http, secret
 
 DAY = 86400
 
@@ -18,7 +19,17 @@ def _ignav_headers(offline: bool = False) -> dict:
     return {"X-Api-Key": secret("IGNAV_API_KEY", offline), "Content-Type": "application/json"}
 
 
+def _no_recording(kind: str, key: dict, what: str) -> ApiError:
+    sandbox.log_miss(kind, key)
+    return ApiError(404, f"sandbox: no recorded {what} close enough to this request")
+
+
 def ignav_roundtrip(origin: str, dest: str, depart: str, ret: str, adults: int, offline: bool) -> dict:
+    if data_mode() == "sandbox":
+        r = sandbox.find_flights(origin, dest, depart, ret, adults)
+        if r is None:
+            raise _no_recording("flight", {"origin": origin, "destination": dest, "departure_date": depart, "return_date": ret, "adults": adults}, "fares")
+        return r
     body = {"origin": origin, "destination": dest, "departure_date": depart, "return_date": ret}
     if adults > 1:
         body["adults"] = adults
@@ -26,6 +37,11 @@ def ignav_roundtrip(origin: str, dest: str, depart: str, ret: str, adults: int, 
 
 
 def ignav_oneway(origin: str, dest: str, depart: str, adults: int, offline: bool) -> dict:
+    if data_mode() == "sandbox":
+        r = sandbox.find_flights(origin, dest, depart, None, adults)
+        if r is None:
+            raise _no_recording("flight", {"origin": origin, "destination": dest, "departure_date": depart, "return_date": None, "adults": adults}, "fares")
+        return r
     body = {"origin": origin, "destination": dest, "departure_date": depart}
     if adults > 1:
         body["adults"] = adults
@@ -33,12 +49,23 @@ def ignav_oneway(origin: str, dest: str, depart: str, adults: int, offline: bool
 
 
 def ignav_booking(ignav_id: str, offline: bool) -> dict:
+    if data_mode() == "sandbox":
+        b = sandbox.find_booking(ignav_id)
+        if b is None:
+            raise ApiError(404, "sandbox: no recorded booking link for this fare")
+        return b
     return http("POST", "https://ignav.com/api/fares/booking-links", {"ignav_id": ignav_id}, _ignav_headers(offline), offline=offline)
 
 
 # ---------- SerpApi (hotels) ----------
 
 def serp_hotels(query: str, check_in: str, check_out: str, adults: int, currency: str, offline: bool) -> dict:
+    if data_mode() == "sandbox":
+        r = sandbox.find_hotels(query, check_in, check_out, adults, currency, lambda a, b: fx_rate(a, b, offline))
+        if r is None:
+            raise _no_recording("hotel", {"city": query.removesuffix(" hotels"), "check_in": check_in, "check_out": check_out,
+                                          "adults": adults, "currency": currency}, "hotel rates")
+        return r
     q = urllib.parse.urlencode({"engine": "google_hotels", "q": query, "check_in_date": check_in, "check_out_date": check_out,
                                 "adults": adults, "currency": currency, "gl": "us", "hl": "en", "api_key": secret("SERP_API_KEY", offline)})
     return http("GET", "https://serpapi.com/search.json?" + q, offline=offline)

@@ -31,6 +31,22 @@ def set_cache_ttl(hours: Optional[float]) -> None:
     _TTL = None if hours is None else hours * 3600
 
 
+_DATA_MODE: Optional[str] = None   # "live" | "sandbox"; None falls back to $TRAVAI_DATA_MODE, then "live"
+
+
+def set_data_mode(mode: Optional[str]) -> None:
+    """"sandbox" answers Ignav flight and SerpApi hotel searches from recorded data (see research/sandbox.py).
+    Process-wide, like the cache TTL: concurrent runs share the setting."""
+    global _DATA_MODE
+    if mode not in (None, "live", "sandbox"):
+        raise ValueError(f"unknown data mode {mode!r}; use 'live' or 'sandbox'")
+    _DATA_MODE = mode
+
+
+def data_mode() -> str:
+    return _DATA_MODE or os.environ.get("TRAVAI_DATA_MODE", "live")
+
+
 def is_fresh(saved_at: float, ttl: Optional[float], now: Optional[float] = None) -> bool:
     return ttl is None or (now if now is not None else time.time()) - saved_at < ttl
 
