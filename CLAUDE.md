@@ -4,7 +4,7 @@ A travel planner web app. The user enters origin, destination, duration, travele
 
 This is a class group project (P4 of *Coding with AI Agents*, Colorado School of Mines). Besides a working product, it's graded on **one claim backed by an eval that runs in GitHub Actions** (including whether our two agents beat one), **cost per task and at 10k requests/day**, a **threat model**, the repo itself (`README.md`, `DECISIONS.md`, `EVAL.md`, recorded demo; reviewed with AI help by the instructor), and a live presentation on Dec 3 / Dec 8. See [docs/assignment.md](docs/assignment.md).
 
-**Course snapshot: synced 2026-11-09.** If the course disagrees with this repo, Canvas wins, then the private student repo (`Mines-Coding-with-AI-Agents/student`), then the public course site. A session-start hook reports changes. Use `/course-sync` to update. The student repo is private, so paraphrase it here and never paste it.
+**Course snapshot: synced 2026-11-21.** If the course disagrees with this repo, Canvas wins, then the private student repo (`Mines-Coding-with-AI-Agents/student`), then the public course site. A session-start hook reports changes. Use `/course-sync` to update. The student repo is private, so paraphrase it here and never paste it.
 
 Read before non-trivial work:
 - [docs/assignment.md](docs/assignment.md): what the course requires and how it's graded

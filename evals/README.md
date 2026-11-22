@@ -14,7 +14,7 @@ Pick **one** claim the user cares about that we can measure honestly. Candidates
 
 The claim should compare against **the obvious simpler approach** (e.g. a single prompt with web search, or a fixed workflow). Separately, **TravAI's two agents must be compared with one agent** that does research and planning together, on the same cases and with the same tools.
 
-Whichever we choose, the measurement should follow lectures 4 and 23. Run each case several times (agents are stochastic), report pass@k or a rate **with error bars**, and say how many runs it's based on. If an LLM grades the outputs (lecture 24), check that grader against Kyle's own judgments on a sample.
+Whichever we choose, the measurement should follow lectures 4 and 23. Run each case several times (agents are stochastic), report pass@1 and pass@k (and pass^k if we claim reliability) **with intervals that resample whole cases**, say how many runs it's based on, and read the failed runs before trusting the number. If an LLM grades the outputs (lecture 24), check that grader against Kyle's own judgments on a sample.
 
 ## Cases
 
