@@ -196,29 +196,40 @@ function buildPlan(
   };
 }
 
-/** Spreads a theme's activities over the days, at most a day's worth each. */
+/** How many activities a plan borrows from the other themes. */
+const BORROWED = 2;
+
+/**
+ * A theme's plan: all of its own activities plus a couple from the next
+ * theme, spread over the days so each day gets something. The rest stay
+ * unscheduled, so the three plans differ and the user has options to add.
+ */
 function draftDays(trip: MockTrip, r: MockResearch, options: Map<string, Option>, theme: 0 | 1 | 2): Day[] {
-  const order = [...r.byTheme[theme], ...r.byTheme[(theme + 1) % 3], ...r.byTheme[(theme + 2) % 3]];
-  const queue = [...order];
-  const days: Day[] = [];
-  for (let day = 1; day <= trip.request.duration_days; day++) {
-    const items: ScheduledItem[] = [];
-    let minutes = 0;
-    if (day === 1 && r.driveId) {
-      items.push({ option_id: r.driveId, locked: false });
-      minutes += (options.get(r.driveId)?.duration_minutes ?? 90) + 30;
-    }
-    for (let i = 0; i < queue.length && items.length < 3; ) {
-      const m = options.get(queue[i])?.duration_minutes ?? 90;
-      if (minutes + m <= DAY_MINUTES) {
-        items.push({ option_id: queue[i], locked: false });
-        minutes += m + 30;
-        queue.splice(i, 1);
-      } else i++;
-    }
-    days.push({ day, items });
+  const picks = [...r.byTheme[theme], ...r.byTheme[(theme + 1) % 3].slice(0, BORROWED)];
+  const days = Array.from({ length: trip.request.duration_days }, (_, i) => ({
+    day: i + 1,
+    items: [] as ScheduledItem[],
+    minutes: 0,
+  }));
+  const minutesOf = (id: string) => (options.get(id)?.duration_minutes ?? 90) + 30;
+  if (r.driveId) {
+    days[0].items.push({ option_id: r.driveId, locked: false });
+    days[0].minutes += minutesOf(r.driveId);
   }
-  return days;
+  let next = 0;
+  for (const id of picks) {
+    // Round-robin from where the last item went, so items spread out.
+    for (let tried = 0; tried < days.length; tried++) {
+      const day = days[(next + tried) % days.length];
+      if (day.items.length < 3 && day.minutes + minutesOf(id) - 30 <= DAY_MINUTES) {
+        day.items.push({ option_id: id, locked: false });
+        day.minutes += minutesOf(id);
+        next = (next + tried + 1) % days.length;
+        break;
+      }
+    }
+  }
+  return days.map(({ day, items }) => ({ day, items }));
 }
 
 const SUMMARIES = [

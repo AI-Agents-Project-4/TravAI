@@ -43,6 +43,15 @@ describe("mock API", () => {
     if (!result.feasible) return;
     expect(result.plans).toHaveLength(3);
     expect(new Set(result.plans.map((p) => p.title)).size).toBe(3);
+    // The plans differ in what they schedule, and each leaves options to add.
+    const scheduled = result.plans.map((p) => p.days.flatMap((d) => d.items.map((i) => i.option_id)).sort().join());
+    expect(new Set(scheduled).size).toBe(3);
+    const activities = result.options.filter((o) => o.kind !== "flight" && o.kind !== "hotel").length;
+    for (const plan of result.plans) {
+      const count = plan.days.reduce((n, d) => n + d.items.length, 0);
+      expect(count).toBeLessThan(activities);
+      expect(plan.days.every((d) => d.items.length > 0)).toBe(true);
+    }
     for (const plan of result.plans) {
       expect(plan.total.amount).toBeLessThanOrEqual(5000);
       expect(plan.flight_option_id).toBeDefined();

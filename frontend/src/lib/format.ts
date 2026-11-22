@@ -75,9 +75,9 @@ const CATEGORY_LABELS: Record<string, string> = {
   flight: "Flight",
   hotel: "Hotel",
   activity: "Activities",
-  food: "Food",
+  food: "Food experiences",
   transport: "Transport",
-  other: "Meals, local transport, fees",
+  other: "Daily meals, local transport, fees",
 };
 
 export function categoryLabel(category: string): string {
