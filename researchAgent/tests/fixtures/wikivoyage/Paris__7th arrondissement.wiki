@@ -1,0 +1,309 @@
+{{pagebanner | Paris 7e Wikivoyage banner.png|caption=7th arrondissement of Paris}}
+
+The 7th arrondissement is perhaps the most expensive area to live in [[Paris]]. The Eiffel Tower, one of the most famous tourist sites in the world, is here, as well as many government buildings (ministries, the National Assembly and so on). Many dignitaries and VIPs populate this arrondissement.
+
+[[Image:Eiffel_tower_panorama.jpg|thumb|right|Eiffel Tower panorama from the west]]
+==Get in==
+{{Mapframe|48.85512|2.31176|zoom=14|width=520|height=370}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+=== By Métro/RER ===
+*{{rint|paris|6}} serves '''Bir-Hakeim''' (Eiffel Tower).
+*{{rint|paris|8}} serves stations '''Invalides''' (Les Invalides), '''Varenne''' (Les Invalides, Musee de Rodin), '''Ecole-Militaire''' (Eiffel Tower), '''Latour Maubourg''' (Hotel des Invalides).
+*{{rint|paris|10}} serves '''Sèvres-Babylone''' (Le Bon Marche).
+*{{rint|paris|12}} serves stations '''Assemblée Nationale''', '''Solférino''', '''Rue du Bac''', '''Sèvres-Babylone'''.
+*{{rint|paris|13}} serves '''Invalides''' (Les Invalides).
+*RER {{rint|paris|rerC}} serves stations '''Invalides''' (Les Invalides), '''Champ de Mars-Tour Eiffel''' (Eiffel Tower), '''Musee D'Orsay''' (Musee D'Orsay).
+
+=== By boat ===
+* '''[http://www.batobus.com/english/index.htm Batobus]{{Dead link|date=January 2023 |bot=InternetArchiveBot }}''', the hop-on hop-off service serving tourist sites on the Seine has stops at Tour Eiffel and the Musée d'Orsay.
+
+==See==
+[[Image:Paris 7th arrondissement map with listings 2.png|thumb|350px|Map of the 7th Arrondissement]]
+
+===Landmarks===
+{{Infobox|Eiffel Tower Light Show|From dusk till 02:00 there is a light show for ten minutes on the hour.}}
+* {{see
+| name=La Tour Eiffel | alt=The Eiffel Tower | url=http://www.toureiffel.paris/ | email=
+| address= | lat=48.8583 | long=2.2944 | directions={{station|Bir-Hakeim|6}} or {{station|École Militaire|8}}, {{station|Champ de Mars-Tour Eiffel|rerC}}
+| phone=+33 8 92 70 12 39 | tollfree= | fax=
+| hours=09:30-23:45; Jun 21-Sep 02: 09:00-00:45; Jul 14,Jul 15 off | price=€25 (€12 for age 12-24) to the top by lift. If you walk to the 2nd floor it is cheaper
+| wikipedia=Eiffel Tower | image=Tour_Eiffel_Wikimedia_Commons_(cropped).jpg | wikidata=Q243
+| lastedit=2018-07-25
+| content=A symbol of Paris and one of the most famous landmarks in the world. Built by Gustave Eiffel in 1887-1889, the tower was almost torn down in 1909 and only saved due to its use as a telegraphy antenna. The queues can be very long. The tower allows online reservations at its website. You can select a date and time frame. If you miss the time on your ticket, you have lost your money. The north, west, and east pillars have elevators that go to the first and second floors; the south pillar has stairs that can be climbed to the second floor. To reach the top floor, an additional elevator ride is required, and the wait for this can be very long as well. Disabled visitors are not allowed beyond the second floor due to safety concerns. Taking the Métro as far as Ecole Militiare and then strolling up the Champ de Mars is a lovely way to arrive at the tower. Another phenomenal approach is to exit the Metro at Trocadero and see the Eiffel Tower from the other side of the Ecole Militaire.
+}}
+* {{see
+| name=l'Assemblée Nationale | alt= | url=http://www.assemblee-nationale.fr/ | email=
+| address=33, quai d'Orsay | lat=48.862192 | long=2.318716 | directions=
+| phone=+33 1 40 63 60 00 | tollfree= | fax=
+| hours=Mon Fri Sat 08:40-11:40 and 14:00-17:00 | price=
+| wikipedia=National Assembly (France) | image=Paris Assemblee Nationale DSC00074.jpg | wikidata=Q193582
+| content=Guided tours conducted all day, ID required. Formerly the Palais Bourbon, this building has housed the National Assembly, the French parliament's lower house, since 1827. Some interesting architecture and the library features the painting ''l'Histoire de la civilization'' by Delacroix. Visitors may be interested in attending assembly debates.
+}}
+* {{see | name=Hôtel des Invalides | alt= | url=https://www.musee-armee.fr/en/your-visit/museum-spaces/national-hotel-of-the-invalids.html | email= | address=6, boul des Invalides | lat=48.855 | long=2.3125 | directions={{station|Varenne|13}} or {{station|Invalides|8|13|rerC}} | phone= | tollfree= | hours= | price= | wikipedia=Les Invalides | image=Hôtel des Invalides - 20150801 16h09 (10630).jpg | wikidata=Q188977 | content=Founded in 1671 by Louis XIV as a hospital for 6,000 wounded soldiers—this function explaining the name of the building—the golden-domed Hôtel des Invalides still functions as an infirmary and now also houses the ''Musée de l'Armée''. The church attached, ''l'Eglise du Dôme'', houses the tomb of Napoleon.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=World Heritage Centre | alt=UNESCO Headquarters | url=https://en.unesco.org/about-us/unesco-house | email=
+| address=7 place de Fontenoy | lat=48.849400 | long=2.306110 | directions={{Station|Ségur|10}}, {{station|Cambronne|6}}, or {{station|École Militaire|8}}
+| phone=+33 0145681000 | tollfree=
+| hours= | price=
+| wikipedia=UNESCO Headquarters | image=Paris - UNESCO (29775501630).jpg | wikidata=Q3279650
+| lastedit=2026-06-18
+| content=The headquarters of United Nation Educational, Scientific and Cultural Organization, which includes more than 1000 art works from exceptional and contemporary artists. Tourists may see Eiffel tower from the top of the building.
+}}
+
+===Museums and Galleries===
+[[File:Cour intérieure des Invalides1.jpg|thumb|250px|The Musée de l'Armée is housed in the Invalides complex]]
+
+* {{see | name=Musée de l'Armée | alt= | url=http://www.musee-armee.fr/en/english-version.html | email= | address=129, rue de Grenelle | lat=48.85694444 | long=2.31277778 | directions={{station|Latour-Maubourg}}, {{station|Invalides}}, {{station|Saint-François-Xavier}} | phone= | tollfree= | fax= | hours=10:00-17:00 (1 Oct-31 Mar), 10:00-18:00 (1 Apr-30 Sep), closed on the first Mon of each month | price=Admission €9, with discount €7 | wikipedia=Musée de l'Armée | image=ShimonosekiCannon.jpg | wikidata=Q1996069 | content=This museum is in the historic Invalides complex and presents the history of the French Army. It is co-located with Napoleon Bonaparte's tomb (entry to which is included in the ticket price). Most of the exhibitions are very old fashioned, and the coverage of the First World War is surprisingly limited. A highlight is the Musée des Plans-Reliefs, which displays painstakingly accurate models of French fortresses and includes its own shop.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Musée d'Orsay | alt= | url=http://www.musee-orsay.fr/ | email=
+| address=1, rue de la Légion d'Honneur / rue de Lille | lat=48.86 | long=2.326389 | directions=On the Left Bank of the Seine, adjacent to the Pont Solferino and Pont Royal, opposite the Jardin des Tuileries, {{station|Musée d'Orsay|rerC}} or {{station|Solférino|12}}, bus 24, 63, 68, 69, 73, 83, 84, 94
+| phone=+33 1 06 91 09 45 | tollfree= | fax=
+| hours= | price=€9; concessions €6.50; under 18 or 26 for EU member states free
+| wikipedia=Musée d'Orsay | image=MuseeOrsay 20070324.jpg | wikidata=Q23402
+| content=Housed in a former ''Beaux-Arts'' railway station (completed in 1900 for the ''Exposition Universelle'', later saved from demolition and converted to its present use), the rambling, open-plan museum is home to the works of the great artists of the 19th century (1848-1914) - Impressionists, post-Impressionists, and the rest - that were formerly displayed in the l'Orangerie. This is perhaps the most spectacular collection of European impressionism in the world—breath-taking rooms full of Manet, Renoir, Monet, Van Gogh, and many others. Impressionist represent the biggest draw, but there is much more to explore.
+}}
+* {{see
+| name=Musée du quai Branly | alt= | url=http://www.quaibranly.fr | email=
+| address=37, quai Branly | lat=48.86098 | long=2.29787 | directions={{station|Iéna}}, {{station|Bir Hakeim}}
+| phone= | tollfree=
+| hours=Open Tue-Sun 10:30-19:00 (Thu til 21:00). | price=Admission €14.00
+| wikipedia=Musée du quai Branly | image=Musée du quai Branly P1020787.JPG | wikidata=Q167863
+| lastedit=2025-10-13
+| content=Opened in 2006, this is the newest and the most modern of Paris' great museums, housing an outstanding collection of tribal art, with a particular emphasis on France's former (and present) territories in Oceania and Africa. The museum is large and you can easily spend half a day browsing, especially if you pause to explore the multimedia presentations.
+}}
+* {{see
+| name=Musée Rodin | alt= | url=http://www.musee-rodin.fr/ | email=
+| address=79, rue de Varenne | lat=48.855356 | long=2.315819 | directions=Metro: {{station|Varenne|13}}; RER: {{station|Invalides}}
+| phone=+33 1 44 18 61 10 | tollfree= | fax=+33 1 44 18 61 30
+| hours=Tue-Sun: museum: 10:00-17:45, park: till 18:00; ticket office: till 17:15. Closed Mon | price=Admission €5, with discount €3, garden only €1, family ticket €10 (2 adults+1 child, museum+garden), visitors under 18 free
+| wikipedia=Musée Rodin | image=Musee Rodin.jpg | wikidata=Q650519
+| content=A museum dedicated to the life and work of the great sculptor. The house contains an extensive collection, which is unusually well presented in a spacious building with big windows that are open in nice weather, which makes this museum double pleasant.
+}}
+
+===Other attractions===
+
+* {{see
+| name=Musée des Égouts de Paris | alt=Paris Sewer Museum | url=https://en.parisinfo.com/paris-museum-monument/71499/Musee-des-egouts-de-Paris | email=
+| address= | lat=48.862611 | long=2.302528 | directions=Entrance opposite 93, quai d'Orsay near the Pont d'Alma, {{station|Alma-Marceau}}
+| phone=+33 1 53 68 27 81 | tollfree= | fax=
+| hours= | price=Full fare: €4.30, Student: €3.50
+| wikipedia=Paris Sewer Museum | image=Musee des Egouts de Paris FRA 002.JPG | wikidata=Q2654419
+| content=For an interesting take on Paris, check out the underground sewers of Paris. See swords found in the sewers over the years and get an appreciation for what it takes to keep Paris running.
+}}
+
+==Do==
+* {{do
+| name=Vedettes de Paris | alt=sightseeing cruises | url=http://www.vedettesdeparis.com/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Discover Paris by river on a chic boat.
+}}
+* {{do
+| name=Champagne on the Eiffel Tower | alt= | url=https://www.toureiffel.paris/en/rates-offers/ticket-top-elevator-glass-champagne | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=47,30EUR
+| lastedit=2023-10-12
+| content=Enjoy a glass of champagne at the top of the Eiffel Tower and finish your visit on a festive note. The Champagne Bar, located on the top floor of the tower, is both elegant and original. The bar, which is part of the building’s structure, serves a selection of perfectly chilled white and rosé champagne and offers unbeatable views of Paris.
+}}
+
+==Buy==
+[[File:Ecole Militaire Montparnasse.jpg|thumb|The École militaire, viewed from part of the expanse of the Champs de Mars, the much-loved park that spans the distance to the Eiffel Tower; behind and to the left of the École militaire is the Tour de Montparnasse]]
+* {{buy
+| name=Le Bon Marché | alt= | url=http://www.lebonmarche.com/ | email=
+| address=24, rue de Sèvres | lat=48.85108 | long=2.32445 | directions=Metro: Sèvres Babylone
+| phone=+33 1 00 09 00 93 | tollfree= | fax=
+| hours= | price=
+| content=One of the world's first department stores, the oldest and one of the largest in modern Paris.
+}}
+* {{buy | name=Magasin Sennelier | alt=Couleurs du Quai Voltaire | url=http://www.magasinsennelier.com/ | email=magasinsennelier@wanadoo.fr | address=3, quai Voltaire | lat=48.85828 | long=2.33266 | directions= | phone=+33 1 42 60 72 15 | tollfree= | fax= | hours=Mon 14:00-18:30, Tue-Sat 10:00-12:45, 14:00-18:30 | price= | content=In 1887 Gustave Sennelier founded this house next to the Ecole des Beaux Arts.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Rue Cler | alt= | url= | email=
+| address=rue cler | lat=48.85657 | long=2.30652 | directions=Ecole Militaire
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Market street 10 minutes from the Eiffel Tower. The market is at its best on Tu–Sa, 08:30–13:00 or 15:00–19:30; Su, 08:30–12:00; closed on M.
+}}
+
+==Eat==
+
+Expect high prices at cafés and restaurants.
+
+=== Budget ===
+* {{eat
+| name=Chez Germaine | url= | email=
+| address=30, rue Pierre Leroux | lat= | long= | directions=
+| phone=+33 1 42 73 28 34 | tollfree= | fax=
+| hours= | price=
+| content=It's all about home-cooking, like your grandma would do if she were French and trained in cooking.}}
+* {{eat
+| name=Au Pied de Fouet | alt=At the wrong end of the whip | url= | email=
+| address=45, rue de Babylone | lat= | long= | directions=Métro: Vaneau
+| phone=+33 1 47 05 12 27 | tollfree= | fax=
+| hours= | price=€8-12
+| content=It's an appropriate name for a restaurant renowned for its unapologetically rude wait staff. Some people say that this is part of the charm of the place, perhaps that fits your definition of the word "charm" as well? Or perhaps not. One way or the other it's cheap and the food is good.
+}}
+
+===Mid-range===
+* {{eat
+| name=Chez l'Ami Jean | url= | email=
+| address=27 Rue Malar | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Dinner approximately €30, credit cards accepted
+| content=A sensational little restaurant featuring food and wine from the Basque region.}}
+* {{eat
+| name=Le Clos des Gourmets | url= | email=
+| address=16 avenue Rapp | lat= | long= | directions=Métro: Ecole Militaire / Alma Marceau, RER: Pont de l'Alma
+| phone=+33 1 45 51 75 61 | tollfree= | fax=
+| hours=Tue-Sat, 12:15-14:00, 19:15-23:00, Closed Sun-Mon and Aug | price=Dinner menu: €33, credit cards accepted
+| content=A great little restaurant, elegant without being stuffy, popular with foreign visitors and American diplomatic staff. French cuisine with a twist. Try the avocado millefeuille with orange sauce for dessert, a surprisingly good combination.}}
+* {{eat
+| name=Tribeca | url= | email=
+| address=36, Rue Cler | lat= | long= | directions=
+| phone=+33 1 45 55 12 01 | tollfree= | fax=
+| hours= | price=dinner approximately €20
+| content=A very nice terrasse on the rue Cler (pedestrian area). The food is simple, but good and reasonably cheap.}}
+
+=== Splurge ===
+* {{eat | name=58 Tour Eiffel | alt= | url=http://www.restaurants-toureiffel.com/ | email= | address=Tour Eiffel 1st floor | lat=48.85804 | long=2.29450 | directions=Metro Ecole Militaire | phone=+33 1 76 64 14 64 | tollfree= | fax= | hours=11:30–15:30, 18:30–23:00 | price= | content=The restaurant in the first floor of the Eiffel Tower. One pays of course for the view, not so much for the food.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Gâteaux Thoumieux | alt= | url=http://www.gateauxthoumieux.com/ | email=contact@gateauxthoumieux.com | address=58 rue Saint Dominique | lat=48.859737 | long=2.308663 | directions=Métro La Tour-Maubourg | phone=+33 1 47 05 49 75 | tollfree= | fax= | hours=Mon-Sat 10:00-20:00, Sun 08:30-17:00 | price= | content=Chef patisser Ludovic Chaussard, who had previously worked with Alain Ducasse is designing the cakes.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Le Petit Tibéro | url= | email=
+| address=132 rue du Bac | lat= | long= | directions=
+| phone=+33 1 45 48 76 25 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{eat
+| name=Le Voltaire | url= | email=
+| address=27, quai Voltaire | lat= | long= | directions=
+| phone=+33 1 42 61 17 49 | tollfree= | fax=
+| hours= | price=
+| content=Le Voltaire has always been tres chic and with customers like Helene Rochas and the Rothschild family, you know you are dining with the right set. Peaceful wood paneling and lighting that flatters, it is an intimate and romantic setting, where newcomers feel that they belong to an exclusive club. Be sure to dine upon the tenderloin in pepper sauce.
+}}
+
+==Drink==
+[[File:La Porte de lEnfer (musée Rodin) (4527142315).jpg|thumb|Statue of the Gate of Hell in the garden of the Musée Rodin]]
+* {{drink
+| name=Le Cafe des Lettres | alt= | url= | email=
+| address=53, rue de Verneuil | lat= | long= | directions=
+| phone=+33 1 42 22 52 17 | tollfree= | fax=
+| hours=Mon-Sat, noon-23:00 | price=
+| content=The charming cobblestoned courtyard makes this an ideal place to sit down and linger over a glass of wine. Excellent cocktail list.
+}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Hotel de l'Alma | alt= | url=http://alma-paris-hotel.com/ | email=resa@alma-paris-hotel.com
+| address=32 rue de l'Exposition | lat= | long= | directions=
+| phone=+33 1 47 05 45 70 | tollfree=
+| checkin= | checkout= | price=
+| content=5-10 min from the Eiffel Tower and a couple of minutes from Rue Cler. The amenities you expect from a 3 star hotel, but with 2 star rates.
+}}
+* {{sleep
+| name=Hotel du Quai Voltaire | alt= | url=http://www.quaivoltaire.fr/ | email=info@quaivoltaire.fr
+| address=19, quai Voltaire | lat= | long= | directions=
+| phone=+33 1 42 61 50 91 | tollfree=
+| checkin= | checkout= | price=
+| content=View of the Seine and the Louvre. Single, double and triple rooms.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Duquesne Eiffel Hôtel | url= | email=
+| address=23, ave Duquesne | lat= | long= | directions=
+| phone=+33 1 44 42 09 09 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Grand Hotel Leveque | url=http://www.hotel-leveque.com/ | email=
+| address=29, rue Cler | lat= | long= | directions=Métro: École Militaire
+| phone=+33 1 47 05 49 15 | tollfree= | fax=+33 1 45 50 49 36
+| hours= | price=€75-150.
+| checkin= | checkout=
+| content=Near the Eiffel Tower, on a charming pedestrianised market street. Some rooms have a view of the Tower.}}
+* {{sleep
+| name=Hôtel du Champ de Mars | url= | email=
+| address=7, rue du Champ de Mars | lat= | long= | directions=
+| phone=+33 1 45 51 52 30 | tollfree= | fax=+33 1 45 51 64 36
+| hours= | price=
+| checkin= | checkout=
+| content=Great value for money in an affordable location.}}
+* {{sleep
+| name=Hôtel Chomel | alt= | url=http://www.lepetitchomel.com/en | email=info@lepetitchomel.com
+| address=15, rue Chomel | lat= | long= | directions=
+| phone=+33 1 45 48 55 52 | tollfree=
+| checkin= | checkout= | price=
+| content=Basic but clean 3 star hotel.
+}}
+* {{sleep
+| name=Hôtel Lindbergh | url= | email=
+| address=5, rue Chômel | lat= | long= | directions=
+| phone=+33 1 45 48 35 53 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Hotel d'Orsay | alt= | url=http://www.paris-hotel-orsay.com/ | email=
+| address=93, rue de Lille | lat= | long= | directions=Just a few steps from the Musée d'Orsay
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Staying here is a convenient way to visit both the right and left banks.
+}}
+* {{sleep
+| name=Hôtel Saint-Dominique | url=http://www.hotelstdominique.com/ | email=
+| address=62, rue Saint-Dominique | lat= | long= | directions=
+| phone=+33 1 47 05 51 44 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Charming decor and attentive staff.}}
+* {{sleep
+| name=Hôtel de la Tulipe | url=http://www.paris-hotel-tulipe.com {{dead link|December 2020}} | email=
+| address=33, rue Malar | lat= | long= | directions=
+| phone=+33 1 45 51 67 21 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Timhôtel Best Western Tour Eiffel Invalides | alt= | url= | email=
+| address=35, boulevard de La Tour-Maubourg | lat=48.859321 | long=2.310303 | directions=
+| phone=+33 1 45 56 10 78 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Le Bellechasse Saint-Germain | alt= | url=http://www.lebellechasse.com/ | email=
+| address=8 rue de Bellechasse | lat=48.859640 | long=2.324131 | directions=Near the Orsay Museum
+| phone=+33 1 45 50 22 31 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=The Bellechasse converted into a delightful hotel, full of character, being altogether impressive and intimate, entirely dressed by Christian Lacroix. In the heart of the left bank, between the 7th aristocratic and the 6th artistic districts, this elegant private hotel is now a real jewel of "haute couture".
+}}
+* {{sleep
+| name=Hôtel Saint-Dominique | alt= | url=http://www.hotelstdominique.com/ | email=
+| address=62, rue St Dominique | lat=48.859868 | long=2.308786 | directions=
+| phone=+33 1 47 05 51 44 | tollfree= | fax=+33 1 47 05 81 28
+| checkin= | checkout= | price=
+| content=
+}}
+
+==Connect==
+
+==Stay safe==
+
+The Eiffel Tower is a well-known '''hotspot for [[pickpockets]]''', to the extent that warnings are regularly read over the tannoy system on the observation platforms reminding tourists to keep a hold of their belongings. The bottom of the tower and the lifts also have many reports of such activity. You must '''never be complacent''' about the chances of having your items stolen, as thieves will usually operate in a manner that leaves the victim with no idea that they have lost their possessions until it is too late. Keep all valuables close and bags sealed, as in any tourist destination.
+
+{{guidedistrict}}
+{{geo|48.8551|2.3126|zoom=15}}
+{{IsPartOf|Paris}}

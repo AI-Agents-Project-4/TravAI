@@ -1,0 +1,573 @@
+{{pagebanner |Mona Lisa banner.jpg|star=yes|dotm=yes|pgname=1st arrondissement of Paris}}
+The centre of contemporary [[Paris]] and the site of such landmarks as the Louvre and of the Tuileries and Palais-Royal, the '''1st arrondissement''' is full of attractions for travellers of all inclinations, including some of the finest parks, museums, shops, and bars in the city. The 1st occupies the Right Bank of the River Seine and extends onto the western section of the ''Île de la Cité'' in the midst of the river.
+
+For occupying such a compact space, the 1st feels remarkably different from one end to the other. The almost incredibly upscale western end of the arrondissement gives way to the hustle and bustle of the big city east of the '''Palais Royal''', and then further east to the pedestrian (and tourist) dominated area around '''Les Halles''' and the '''Samaritaine''', where tourists mix with (especially young) Parisiens and Parisiennes in ''huge'' numbers (on the order of 800,000 unique visitors per day according to the Mayor's office).
+
+The [[Axe historique]] is a line of landmarks, which passes through the 1st, extending out to [[La Défense]] in the west, and the [[Paris/4th arrondissement|4th arrondissement]] in the east.
+
+==Understand==
+[[File:Paris 1er arrondissement - Quartiers.svg|250px|thumbnail|right|''Quartiers'' of the 1st arrondissement]]
+Paris was historically centred on the ''Ile de la Cité'', but by the time Baron von Hausmann was given the task of carving up the city, the centre had shifted somewhat to the previously suburban Royal Quarter surrounding the Louvre and the Palais Royal, which is why the numbering of the ''arrondissements'' started there.
+
+With fewer than 18,000 inhabitants, the 1st is statistically the least populous and least densely inhabited of all the 20 arrondissements, but at the same time among the most visited by Parisians and out-of-towners alike. Like every other arrondissement, it is divided into four ''quartiers'', each with a different character:
+
+# '''Quartier Saint-Germain-l'Auxerrois''' runs along the bank of the Seine across the district, encompassing the Tuileries gardens, the Louvre and the western part of ''Ile de la cité''.
+# '''Quartier Les Halles''' has a markedly different, much more down-to-earth character, dominated by the eponymous massive Les Halles shopping centre (under redevelopment until 2016)
+# '''Quartier Palais-Royal''' is dominated by the ''Palais Royal'', and contains the larger part of the busy cosmopolitan ''Avenue de l'Opera''.
+# '''Quartier Place Vendôme''' in the west is centred around the ''Place Vendôme'' and characterized by a regular, 18th-century street grid. The quarter's historic buildings house the most luxurious hotels and boutiques of famous fashion and jewellery brands.
+
+==Get in==
+[[File:Metro 1er arrondissement.png|thumbnail|250px|right|Schematic of metro and RER lines in and around the 1st arrondissement]]
+The transportation hub of the 1st arrondissement is the {{marker|type=go|name={{station|Châtelet/Les Halles|rerA|rerB|rerD|1|4|7|11|14}}|lat=48.86230|long=2.34665}} station in its eastern extremity, the largest and busiest of the metro stations. There exists a total of seven entrances/exits scattered around the eastern end of the 1st Arrondissement, concentrated (not surprisingly) between ''Les Halles'' and ''Place du Châtelet'', and also accessing the basement of the ''Les Halles'' shopping mall.
+
+Other ''métro'' stations that are major hubs allowing easy access to the 1st arrondissement are the {{Marker|type=go|name={{station|Concorde|1|8|12}}|lat=48.86564 | long=2.32277}} and {{Marker|type=go|name={{station|Madeleine|8|12|14}}|lat=48.8694436 | long=2.3251705}}, both with exits at the western border of the 1st. Lines {{rint|paris|1}}, {{rint|paris|7}} and {{rint|paris|14}} traverse the arrondissement roughly from east to west, stopping close to important points such as the entrance to the Louvre museum. Lines {{rint|paris|1}} and {{rint|paris|14}} are fully automated and it is worth acquainting oneself with their ''modus operandi'' and safety precautions before using them.
+
+''RER C'', which runs generally on the left bank of the Seine, does not stop in the 1st, but you can use it to arrive at {{Marker|type=go|name={{station|Musee d'Orsay|rerC}}|lat=48.86059 | long=2.32611}} and cross the Seine in style over the ''Passerelle Solferino'' footbridge right into the ''Tuileries''.
+
+The {{Marker|type=go|name=Pyramides|lat=48.86567 | long=2.33444}} metro station is at the ''Rue de Pyramides'', not at the pyramid at the entrance of the Louvre. For that pyramid and the entrance to the museum, travel to the station called {{Marker|type=go|name=Palais Royal / Musee de Louvre|lat=48.86238 | long=2.33613}}.
+
+=== Arriving from specific points ===
+* From '''Charles de Gaulle (Roissy) Airport''' (CDG), take '''RER B3''' to '''Châtelet/Les-Halles'''.
+* From '''Gare du Nord''' (where many high-speed international trains arrive, including the Eurostar from London), the direct connections are pretty much exclusively those with '''Châtelet/Les-Halles''' on {{rint|paris|rerB}}{{rint|paris|rerD}} or {{rint|paris|4}}
+* From '''Gare de Lyon''' and '''Orly Airport''', take {{rint|paris|14}}, which stops at '''Châtelet/Les-Halles''' and '''Pyramides'''
+* From '''La Défense''', take {{rint|paris|1}} and alight at any station within the 1st, e.g., '''Palais-Royale/Musée-de-Louvre''' or '''Tuileries'''
+
+==Get around==
+
+{{Mapframe|48.86190|2.33580|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+{{Mapshapes|Q216125}}
+
+Having arrived in the 1st arrondissement walking will most likely suffice for transport. Paris cabs are quite cheap, but even they don't have access to much of the car-free eastern end of the arrondissement.
+
+If travelling from east to west by ''Métro'' you are probably better off using any station other than ''Châtelet/Les Halles'' unless you have to connect there.  Although the ''Métro'' trains are fast and frequent, the crowded labyrinth at ''Châtelet'' can make getting ''to'' the trains an adventure.
+
+==See==
+
+===Landmarks===
+* {{see
+| name=Colonne Vendôme | alt= | url= | email=
+| address= | lat=48.867469 | long=2.329414 | directions={{station|Opéra|3|7|8}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Vendome Column A.jpg | wikidata=Q1111051
+| content=The centrepiece of a magnificent 8-sided square first laid out in 1699 to show off an equestrian statue of the Sun King, Louis XIV. The statue was removed amid revolutionary fervor in 1792 and replaced in 1806 with the ''Colonne de la Grande Armée''. This was modelled on Trajan's column in [[Rome]] and decorated with Napoleon's military exploits. The present column is a replica, however, as the original was pulled down during the 1871 Paris Commune. Place Vendôme represents the best of well-heeled Paris, being home to an abundance of exclusive boutiques, jewellers and fashion labels—Cartier, Boucheron, Trussardi, van Cleef & Arpels—several banks, the French Ministry of Justice, and the Hôtel Ritz.
+}}
+* {{see
+| name=La Conciergerie | alt= | url=http://conciergerie.monuments-nationaux.fr/en/ | email=
+| address= | lat=48.856389 | long=2.345556 | directions={{station|Cité|4}}
+| phone=+33 1 53 73 78 50 | tollfree=
+| hours=Apr-Sep: daily 09:30-18:30; Oct- Mar: daily 10:00-17:00 | price=Booking Required.€6.10, concessions and guided tours available, under-18 free, Passion Monuments pass accepted
+| wikipedia=Conciergerie | image=Conciergerie22.jpg | wikidata=Q138101
+| lastedit=2026-09-09
+| content=The ancient medieval fortress and prison of the city's island, site of some remarkable medieval royal architecture and the scene of Marie Antoinette's imprisonment in the period leading to her execution in 1793; lots of revolutionary associations.
+}}
+* {{see
+| name=Église Saint-Eustache | alt= | url=http://www.saint-eustache.org/ | email=
+| address= | lat=48.863333 | long=2.345 | directions={{station|Les Halles|4}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Saint-Eustache, Paris | image=StEustache von SW.JPG | wikidata=Q1338207
+| content=The massive parish church of the Les Halles area is a notable example of late Gothic interspersed with Renaissance details (including the entire front façade), as it was only completed in the 17th century. Its unique form results from a combination of relatively short length and impressive height of over 30 metres inside. The latter allows room not only for an array of stained glass windows and paintings, but also France's largest church organ of 8,000 pipes. The sculpture ''Écoute'', depicting an oversized human head, was placed in front of the church's southern facade and has become a favourite photo spot.
+}}
+* {{see
+| name=Jardin des Tuileries | alt= | url= | email=
+| address= | lat=48.863889 | long=2.326111 | directions={{station|Tuileries|1}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tuileries Garden | image=Paris Tuilerie un bassin et le Louvre.jpg | wikidata=Q818517
+| content=Built adjoining the now-lost royal palace of the Tuileries, these gardens lying immediately west of the Louvre offer a central open space for Parisians and visitors with semi-formal gardens (an outdoor gallery for modern sculpture), various cafés, ice cream and crépe stalls, and a summer fun fair. The gardens are frequently home to a giant Ferris wheel and enclose the ''Musée de la Orangerie'' and the ''Jeu de Paume''.
+}}
+
+[[File:Paris December 2012-2.jpg|thumb|Le Palais Royal]]
+* {{see
+| name=Le Palais Royal | alt= | url=http://palais-royal.monuments-nationaux.fr/ | email=
+| address= | lat=48.863333 | long=2.336944 | directions={{station|Palais Royal – Musée du Louvre|1|7}}
+| phone=+33 1 45 20 82 56 | tollfree=
+| hours=07:00-23:00 during the summer and 07:00-20:30 in the winter with hours varying spring and autumn | price=
+| wikipedia=Palais-Royal | image=Entrée du Conseil d'Etat, Paris 2010.jpg | wikidata=Q329948
+| content=Ordered by Cardinal de Richelieu (1585-1642), King Louis XIII's prime Minister in 1629 (completed in 1636); originally called ''Palais Cardinal''; it became ''Le Palais Royal'' when Anne d'Autriche, Louis XIII's wife, came to live here to get away from the ''Louvre'' palace. It eventually housed Louis XIV until the move to [[Versailles]]. It includes also a beautiful garden ''Les jardins du Palais Royal'', enclosed by the buildings. It's been the theatre of one of the seminal events of the French Revolution (Camille Desmoulins made a famous declaration here in 1789). The ''Théatre Français'' nearby was built in 1716. There are numerous restaurants inside the garden, including famous ''Le Grand Véfour''. There's also the controversial ''Colonnes de Buren'', striped columns installed within the inside yard amid the 17th century architecture.
+}}
+* {{see
+| name=Saint-Germain l'Auxerrois | alt= | url=http://www.saintgermainauxerrois.cef.fr/ | email=stgermainauxerrois@free.fr
+| address=2 place du Louvre | lat=48.859444 | long=2.341111 | directions={{station|Louvre-Rivoli|1}}, {{station|Pont-Neuf|7}}
+| phone=+33 1 42 60 13 96 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Saint-Germain l'Auxerrois | image=Saint-Germain l'Auxerrois edit.jpg | wikidata=Q1429394
+| lastedit=2016-07-09
+| content=This Gothic church functioned until the 19th century as the parish church of the kings of France. In this role, the church has sometimes played a gruesome part in history. Its bell called 'Marie' sounded on the night of 23 August 1572, to launch the St. Bartholomew's Day Massacre, in which thousands of Huguenots were killed by Catholic mobs. Nowadays, the church is peaceful and an active parish church for commoners (the monarchy having long since given way to the Republic), and well worth visiting.
+}}
+* {{see
+| name=Sainte-Chapelle | alt= | url=https://www.sainte-chapelle.fr/en/ | email=
+| address=4 blvd du Palais | lat=48.855369 | long=2.345028 | directions={{station|Cité|4}}
+| phone=+33 1 53 73 8 51 | tollfree=
+| hours= | price=Adult €22, U18 free, Passion Monuments pass
+| wikipedia=Sainte-Chapelle | image=Sainte chapelle superior.jpg | wikidata=Q193193
+| lastedit=2026-08-30
+| content=Soaring stained glass windows beaming ample light onto the rich primary colours of the tile mosaics on the floor, this photogenic church was built by the French kings to house the relics of the Crown of Thorns. Make sure you go on a sunny day, as the highlight of this small chapel in Rayonnante Gothic style are the large stained-glass windows which soar up to near the vaulted ceiling. Also of interest is the extremely ornate lower level. If it happens to be rainy or cloudy, give Sainte-Chapelle a miss, as the play of coloured lights on the floor is well worth the wait for a sunnier day. As the chapelle is inside the Courts of Justice, there will thus be a security check. Note: you may have to book a week in advance.
+}}
+
+[[File:Bourse de commerce de Paris, France 27 February 2016 001.jpg|thumb|right|Bourse de commerce]]
+*{{see
+| name=La Samaritaine | alt= | url=http://www.lasamaritaine.com/ | email=
+| address=19, rue de la Monnaie | lat=48.858889 | long=2.342083 | directions={{station|Pont Neuf|7}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=La Samaritaine | image=60SamaritaineMagasin2Interieur.JPG | wikidata=Q1583780
+| lastedit=2021-06-23
+| content=La Samaritaine is one of Paris's greatest department stores located in a spectacular art nouveau building dating back to 1870. It reopened on June 23, 2021 after a 16-year closure for renovations.
+}}
+
+===Museums and galleries===
+* {{see
+| name=Musée du Louvre | alt= | url=http://www.louvre.fr/ | email=
+| address=Place du Carrousel | lat=48.861089 | long=2.33575 | directions={{station|Palais Royal-Musée du Louvre|1|7}}
+| phone=+33 1 40 20 53 17 | tollfree=
+| hours=Wed-Mon 09:00-18:00, closed public holidays; evening openings Wed and Fri until 21:45 | price=€12-16; under 18, free; EU-residents, 18-26 years free; exhibitions in the Hall Napoléon €13; combined ticket (museum + special exhibitions) adults €16 ''Carte Musée''
+| wikipedia=Louvre | image=Louvre 2007 02 24 c.jpg | wikidata=Q19675
+| content=Its exhibits come from such diverse origins as [[ancient Egypt]], [[classical Greece]] and the [[Roman Empire]], medieval Europe, and Napoleonic France, but controversially including many items that were looted from their places of origin. Its most famous exhibit, of course, is Leonardo da Vinci's painting of the Mona Lisa (French: ''La Joconde'', Italian: ''La Gioconda''), generally to be found surrounded by hordes of camera-flashing tourists. The Louvre poses many of the same challenges to the visitor as Paris itself; overwhelming in size, crowded in high seasons, and much information available only in French. If you want to see everything in the Louvre, plan ''at least'' two full days. However, it is better to pick and choose, as the collection was assembled with an eye to completeness rather than quality. As of July 2019, due to intense crowding and reports of ticket fraud, entry now almost always requires a pre-booked timed ticket, even for holders of the Paris Museum Pass.
+}}
+* {{see
+| name=L'Orangerie | alt=Musée de la Orangerie | url=http://www.musee-orangerie.fr | email=
+| address= | lat=48.863833 | long=2.32225 | directions={{station|Concorde|1|8|12}}
+| phone=+33 1 44 77 80 07 | tollfree= | fax=
+| hours=Wed-Mon (closed Christmas Day and 1 May) individuals 12:30-19:00, Thu till 21:00; groups, 09:30-12:30; | price=Adults, €7.50; concessions, €5; special exhibitions, + €1.20; audio guides available in several languages €4.50/€3
+| wikipedia=Musée de l'Orangerie | image=Musée de l’Orangerie exterior.JPG | wikidata=Q726781
+| content=Reopened after extensive renovations, this small museum near the Louvre houses the ''Jean Walter and Paul Guillaume Collection'', sold to the French Republic on very generous terms and numbering 143 paintings from the late 19th century and the first half of the 20th century (15 Cézannes, 24 Renoirs, 10 Matisses, 12 Picassos, 28 Derains, 22 Soutines). The collection joined the eight immense ''Water Lilies'' that Monet gave France in 1922 and which have been displayed since 1927 in two huge oval rooms purpose-built on the artist's instructions.
+}}
+* {{see
+| name=Jeu de Paume | alt= | url=http://www.jeudepaume.org | email=
+| address= | lat=48.865833 | long=2.323889 | directions={{station|Concorde|1|8|12}}; NW corner of the Jardin des Tuileries
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Galerie nationale du Jeu de Paume | image=Galerie nationale du Jeu de Paume.jpg | wikidata=Q656296
+| content=Built during the First Empire, in imitation of the ''Orangerie'', this small building is used by the ''Galerie Nationale'' to display temporary exhibitions of art photography, either contemporary or historic. This museum once housed many of the Impressionist painters that are now to be found in the Musée d'Orsay on the other side of the River Seine.
+}}
+* {{see | name=Musée des Arts décoratifs | alt= | url=http://www.lesartsdecoratifs.fr | email= | address=107, rue de Rivoli | lat=48.862783 | long=2.334108 | directions={{station|Palais Royal – Musée du Louvre|1|7}} | phone=+33 1 44 55 57 50 | tollfree= | fax= | hours= | price= | wikipedia=Musée des Arts Décoratifs, Paris | image=Musee des arts decoratifs.jpg | wikidata=Q1319378 | content=A monument to the French ''art de vivre'', housed in a 19th-century wing of the Louvre that has been restored to beaux-arts splendour, its galleries and period rooms showcase eight centuries of Gallic taste in interior decoration.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Musée en Herbe | alt= | url=http://www.musee-en-herbe.com | email=
+| address=21, rue Hérold | lat=48.865069 | long=2.341858 | directions=Métro: {{station|Les Halles|4}}, {{station|Palais Royal|1|7}}, {{station|Rambuteau|11}}, {{station|Sentier|3}}
+| phone=+33 1 40 67 97 66 | tollfree= | fax=
+| hours=Daily 10:00-19:00 | price=€4 for the exhibitions, €8 for the workshops
+| wikipedia=Musée en Herbe | image=Groupe-baby-maquette.jpg | wikidata=Q3330549
+| content=The little brother of the original Musée en Herbe in the Bois de Boulogne, this museum is also geared to '''children'''. They have games and hands-on exhibits, so you won't have to supervise quite as closely as in other museums. Arts workshops are available as well, but you'll need to reserve a space in advance.
+}}
+*{{see
+| name=Bourse de commerce - Pinault Collection | alt=Commodities Exchange Building | url=https://www.pinaultcollection.com/en/boursedecommerce | email=info.boursedecommerce@pinaultcollection.com
+| address=2 rue de Viarmes | lat=48.862731 | long=2.342778 | directions=Métro: {{station|Les Halles|4}}, {{station|Louvre-Rivoli|1}}
+| phone=+33 1 55 04 60 60 | tollfree=
+| hours=Wed-Mon 11:00-19:00; closed Tue; Fri and first Sat of month late opening until 21:00 | price=€14 full price, €10 reductions, free first Saturday of month after 17:00
+| wikipedia=Bourse de commerce (Paris) | image=P1040010 Paris Ier Bourse de Commerce de Paris rwk.JPG | wikidata=Q691375
+| lastedit=2022-09-12
+| content=Since 2021 the 18th-century former Bourse de Commerce building has been the Paris home of the art collection of the French business magnate François Pinault, showing a rotating selection of contemporary artworks either newly commissioned or taken from his collection.
+}}
+* {{see
+| name=Cartier Foundation for contempory art | alt=Fondation Cartier pour l’art contemporain | url=https://www.fondationcartier.com/en | email=
+| address=2, place du Palais-Royal | lat=48.862399 | long=2.337340 | directions={{station|Palais Royal - Musée du Louvre|1|7}}, {{station|Pyramides|14}}
+| phone= | tollfree=
+| hours= | price=Full €15, Reduced €10,
+| wikidata=Q1284688
+| lastedit=2026-08-28
+| content=The Fondation Cartier's new Paris premises, which are in a Haussmannian building dating from 1855 at number 2 Place du Palais-Royal, have been completely remodelled by architect Jean Nouvel. Check website for details of exhibitions.
+}}
+
+==Do==
+[[File:Musée des Arts Décoratifs 2009 001.jpg|thumb|right|Musée des Arts Décoratifs]]
+One of the great joys of a visit to Paris is to simply walk around and explore to get the feel of the city. The 1st is as good a place to start as any, with the largely car-free section around Les Halles, and the right bank of the river ''Seine'' as good places to start. As a little bonus if you are in Paris in the summer time, the express lanes at river level are converted to an all pedestrian road called "''Paris Plage''" which fills with rollerbladers and sun-bathers just about every afternoon.
+
+A number of Paris theaters are located in the eastern end of the 1st. English language productions are not unheard of, but the opera is likely to be in Italian anyhow. Your best bet if you are interested in finding a show in either language is to pick up a copy of ''Pariscope'' which you can find at any newsstand for around €0.50. There are ticket outlets at '''Forum Les Halles''' (FNAC) among other locations.
+
+* {{do
+| name=Comédie Francaise | alt=Théâtre-Français, La maison de Molière | url=http://www.comedie-francaise.fr | email=informations@comedie-francaise.org
+| address=1 Place Colette | lat=48.863611 | long=2.335833 | directions=Palais Royal - Musée du Louvre
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Comédie-Française | image=Comédie Française colonnes.jpg | wikidata=Q836007
+| content=The theatre is one of the rare state theatres in France. The company's primary venue is the Salle Richelieu. It was enlarged and modified in the 1800s, then rebuilt in 1900 after a severe fire. The played repertoires sum to around 3,000 works.
+}}
+* {{do
+| name=Ô Chateau, Paris Wine Tasting | alt= | url=http://www.o-chateau.com/ | email=
+| address= | lat=48.864276 | long=2.344179 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Discover French wines with a native French sommelier. Informative, relaxing, and fun. In English in a beautiful Parisian loft.
+}}
+
+==Buy==
+[[File:Forum des Halles.jpg|thumb|right|Forum des Halles]]
+* {{buy
+| name=Antoine | alt= | url=http://www.antoine1745.com/ | email=contact@antoine1745.com
+| address=10, av de l’opéra | lat=48.864898 | long=2.335018 | directions=Métro Station Pyramides
+| phone=+33 1 42 96 01 80 | tollfree= | fax=
+| hours=Mon-Sat 10:30-13:00, 14:00-18:30 | price=
+| content=This shop sells stylish umbrellas and old-style canes, meant to last a lifetime. Also fancy hats, scarfs and gloves.}}
+* {{buy
+| name=Carrefour Express Paris Saint Honoré | alt= | url=http://www.carrefour.fr/magasin/express-paris-saint-honore | email=
+| address=205, rue saint Honoré | lat=48.865061 | long=2.331604 | directions=
+| phone=+33 1 49 26 04 28 | tollfree= | fax=
+| hours=Mon-Sat 08:00-22:00; Sun 08:00-13:00 | price=
+| content=A small version of the French Carrefour supermarket chain has the appearance of a neighbourhood shop, with stalls filled with fresh fruit and vegetables on its shopfront, and is about the only place to get reasonably-priced nourishment and beverages on the go when visiting the Vendôme area.}}
+* {{buy | name=Le Carrousel du Louvre | url=http://www.carrouseldulouvre.com/W/do/centre/accueil | email= | address=99 Rue de Rivoli | lat=48.86252 | long=2.33516 | directions= | phone= | tollfree= | fax= | hours= | price= | content=A diverse underground shopping precinct adjoining the Louvre Museum. Open daily including Sundays. There is also a direct access into the Louvre.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy | name=Forum les Halles | alt= | url=https://www.forumdeshalles.com/ | email= | address=101 Rue Berger | lat=48.862778 | long=2.344444 | directions=Métro: Les Halles | phone= | tollfree= | fax= | hours=Daily 09:00-19:00 | price= | wikipedia=Les Halles | image=Les-halles.jpg | wikidata=Q913434 | content=In the late 1960s what was Paris's primary farmers' market moved out to the suburbs to be replaced by a park above ground, and a sprawling underground shopping centre below. The interior design is strikingly period (think ''Logan's Run''). The place is showing its age now, but still draws nearly a half-million Parisians per day, mostly teenagers. There's a movie theatre and a media library too. Les Halles underwent extensive refurbishment in 2016.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Jean-Paul Hévin | alt= | url=http://www.jeanpaulhevin.com/en/ | email=
+| address=231, rue Saint-Honoré | lat=48.86622 | long=2.329182 | directions=Métro Tuileries
+| phone=+33 1 55 35 35 96 | tollfree= | fax=
+| hours= | price=
+| content=The chocolatier is known for his excellent hand made chocolates especially the "praliné croquant".
+}}
+* {{buy | name=Librairie Galignani | alt= | url=http://www.galignani.com/ | email= | address=224, rue Rivoli | lat=48.864995 | long=2.328597 | directions=Métro: Concorde | phone=+33 1 42 60 76 | tollfree= | fax= | hours= | price= | content=British and American bookshop, specialising in fine arts.}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy | name=Minuit Moins 7 | alt= | url=http://www.minuitmoins7.com/ | email=cordonnerie@minuitmoins7.com | address=10, Passage Véro Dodat | lat=48.862753 | long=2.340439 | directions= | phone=+33 1 42 21 15 47 | tollfree= | fax= | hours=Mon-Fri 10:00-19:00, Sat 11:00-13:00, 14:00-19:00 | price= | content=The "cordonnerie" repairs shoes and leather with the best materials.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Place Vendôme | alt= | url= | email=
+| address= | lat=NA | long=NA | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=High-end jewelry and watch boutiques on the ''place'' created by Napoleon I.
+}}
+
+:* {{buy
+| name=Lorenz Bäumer | alt= | url=http://lorenzbaumer.com/ | email=contact@lorenzbaumer.com
+| address=19, place Vendôme | lat=48.86824 | long=2.329288 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 10:30-19:00 | price=
+| content=On her wedding day Princess Charlène de Monaco wore a Lorenz Bäumer tiara. This new jewellery-maker fashions novel forms combined with classical influences.}}
+
+:* {{buy
+| name=Van Cleef & Arpels | alt= | url=http://www.vancleefarpels.com/ | email=
+| address=22-24, place Vendôme | lat=48.867817 | long=2.330367 | directions=
+| phone=+33 1 55 04 11 11 | tollfree= | fax=
+| hours=Mon-Fri 10:00-19:00 | price=
+| content=Princess Caroline de Monaco got her wedding ornament at this traditional shop, open since 1906.}}
+
+:* {{buy | name=Patek Philippe Salons | alt= | url=http://www.patek.com/contents/default/en/findsalon.html | email= | address=10, place Vendôme | lat=48.866744 | long=2.329471 | directions= | phone=+33 1 42 44 17 77 | tollfree= | fax= | hours=Mon-Fri 10:30-18:30; Sat 11:00-12:30, 14:00-18:30 | price= | content=The Swiss luxury watch manufacturer, founded in 1851, is known for precise mechanics.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy | name=W.H. Smith | alt= | url=http://www.whsmith.fr/ | email= | address=248, rue de Rivoli | lat=48.866174 | long=2.324917 | directions=Métro: Concorde | phone=+33 1 44 77 88 99 | tollfree= | fax= | hours=Mon-Sat 09:30-19:30; Sun 12:30-19:00 | price= | lastedit=2016-07-06 | content=The largest English-language bookshop in Paris carries many of the newest releases.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Eat==
+The 1st provides rather a wide range of eating possibilities, considering its central location and overall poshness. A large variety of inexpensive food is sold out of windows and stalls, especially on the car-free east end of the arrondissement near Les Halles. You'll always pay a bit more to sit down, of course.
+
+On the other hand if you are looking for a nice posh place to take your mom or a date there are plenty, and some of them actually have food that is good enough to be worth the considerable prices.
+
+===Budget===
+* {{eat
+| name=L'Express Bar | alt= | url= | email=
+| address=23 Rue du Roule | lat=48.8611442 | long=2.3439084 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=
+}}
+* {{eat
+| name=Pizza Nelly. | alt= | url= | email=
+| address=19 Rue Duphot | lat=48.8686610 | long=2.3254118 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=
+}}
+
+===Mid-range===
+* {{eat
+| name=Lemoni Café | alt=Lémoni Hérold | url=https://lemonicafe.fr/category/les-halles-le-louvre/ | email=
+| address=5, rue Hérold | lat=48.864854 | long=2.341131 | directions=Métro: Palais Royal
+| phone=+33 1 45 08 49 84 | tollfree= | fax=
+| hours=Mon-Fri 12:00-15:00 | price=
+ | lastedit=2022-05-01 
+| content=Small plates, also for take-away.
+}}
+[[File:Grand bassin octogonal Jardin des Tuileries 003.jpg|thumb|right|Jardin des Tuilleries is a popular place to sit down and relax even in the colder months]]
+
+* {{eat
+| name=Chez Denise | alt=La Tour de Montlhéry | url= | email=
+| address=5, rue Prouvaires | lat=48.861521 | long=2.344001 | directions=Métro: Les Halles
+| phone=+33 1 42 36 21 82 | tollfree= | fax=
+| hours=Tue-Sun noon-14:15 & 19:00-23:00; Mon 19:00-23:00 | price=Starters from €10-12, main courses €18-25, plus wine
+ | lastedit=
+| content=Small, owner-operated bistro with traditional French country food in a nearly rustic setting. As such it's not exactly veggie-friendly.}}
+* {{eat
+| name= À la Cloche des Halles | alt=A la cloche des Halles | url= | email=
+| address=28 Rue Coquillière | lat=48.8642 | long=2.341798 | directions=Métro Halles
+| phone=+33 1 42 36 93 89 | tollfree= | fax=
+| hours=Mon-Fri 06:30-12:00, Sat 09:00-16:00 | price=
+ | lastedit=2022-05-01 
+| content=The bell no longer rings, but the brasserie-restaurant still has the flair from the old little bars from the good old times named "troquets".
+}}
+* {{eat
+| name=La Robe et le Palais | alt= | url=http://larobeetlepalais.fr/en | email=
+| address=13, rue des Lavandieres Sainte Opportune | lat=48.858616 | long=2.345878 | directions=
+| phone=+33 1 45 08 07 41 | tollfree= | fax=
+| hours=Mon-Sat noon-14:40 & 19:30-23:00 | price=
+ | lastedit=2022-05-01
+| content=Small restaurant serving mostly tasty Basque food. Fantastic choice of wines.
+}}
+* {{eat
+| name=Beef Club & Co | alt= | url=https://beefclubandco.com/ | email=
+| address=8 Rue Coquillière | lat=48.86356 | long=2.34360 | directions=Exit 6 from gare Chatelet
+| phone=+33 1 42 33 67 93 | tollfree=
+| hours=12:00-23:00 | price=25€
+| lastedit=2026-09-28
+| content=Steakhouse serving black angus
+}}
+
+===Splurge===
+* {{eat
+| name=Café Marly | alt= | url=http://cafe-marly.com/en/ | email=contact@beaumarly.com
+| address=93, rue de Rivoli / cour Napoléon du Louvre | lat=48.862786 | long=2.336198 | directions=Métro: Palais Royal
+| phone=+33 1 49 26 06 60 | tollfree= | fax=
+| hours=Daily 08:00-14:00 | price=
+ | lastedit=2022-05-01 
+| content=Part of the ''Grand Louvre'' redevelopment. Café Marly was opened in 1994 and is on the balcony on the northern terrace of the Cour Napoléon. Patrons can enjoy direct views of the Louvre Pyramid while sitting back in comfortable chairs, watching tourists stroll by.
+}}
+* {{eat
+| name=Macéo | alt= | url=http://maceorestaurant.com/ | email=info@maceorestaurant.com
+| address=15, rue des Petits Champs | lat=48.866412 | long=2.338124 | directions=Métro: Pyramides
+| phone=+33 1 42 96 98 89 | tollfree= | fax=
+| hours=Mon-Fri 09:00-24:00; Sat 17:00-24:00 | price=Starters €13-18 and main courses are €25-28. Vegetarian menu around €30.
+ | lastedit=
+| content=What was once just a great wine bar with decent food has become a must-visit restaurant with the addition of star chef Thierry Bourbonnais. Second-empire atmosphere with fantastic food.}}
+* {{eat
+| name=Mystery Cuisine | alt= | url= | email=
+| address=37, rue de Montpensier | lat=48.865839 | long=2.337201 | directions=
+| phone=+33 1 40 20 03 02 | tollfree= | fax=
+| hours=Tue-Sat 18:00-23:00 | price=
+ | lastedit=2022-05-01 
+| content=The restaurant serves fusion cuisine inspired by French Vietnamese meals in an atmosphere perfect for couples.}}
+
+==Drink==
+[[Image:Palais du Louvre at night in 2008 01.jpg|thumb|right|The Louvre]]
+* {{drink
+| name=Bar Hemingway | url= | email=
+| address=15 Place Vendôme | lat=48.8690130 | long=2.3276673 | directions=In the Hôtel Ritz; Métro: Pyramides
+| phone=+33 1 43 16 33 65 | tollfree= | fax=+33 1 43 16 33 75
+| hours= | price=Expect to pay €30 or more per drink
+| content=Hemingway tried to drink here once per week even before he made it big. In August 1944 Hemingway made a booze-powered drive into Paris ''ahead'' of the advancing Free French 2nd Tank Division to "liberate the Ritz", and specifically the bar which was shortly thereafter renamed in his honour. Today the bar is considered by many to be one of the best bars in the world, in no small part due to the bar-tending skills of Colin Field, who creates elaborate cocktails as a fine art, and with the rest of the staff is skilled at bringing his guests together in conversation.}}
+* {{drink
+| name=Café Oz | alt=Café Oz Châtelet | url=http://cafe-oz.com/ | email=chatelet@australian-bar.com
+| address=18, rue Saint Denis | lat=48.859391 | long=2.347944 | directions=Metro: Chatelet
+| phone=+33 1 40 39 00 18 | tollfree= | fax=
+| hours= | price=
+| content=You probably didn't think you were coming to Paris to sample Australian culture, but if after a long day of strolling from one end of the city to another you would just like to let go a bit and meet up with some fellow anglophones then you could do a lot worse than this almost legendarily hard-partying Aussie joint (ask the neighbours). Warning: as with other Aussie places in Paris for some reason, weekend nights here tend to bring out hoards of young single Frenchmen looking to chat up some (any) visiting sheilas. This has been known to lead to, um, confrontations. ~€7 pints.}}
+* {{drink
+| name=Juvénile's | alt= | url= | email=
+| address=47, rue Richelieu | lat=48.866267 | long=2.33707 | directions=
+| phone=+33 1 42 97 46 49 | tollfree= | fax=
+| hours= | price=
+| content=The bistro serves many different wines from around the world and tapas. You can buy a bottle to take home if you like it.}}
+* {{drink
+| name=Willi's Wine Bar | alt= | url=http://www.williswinebar.com/ | email=
+| address=13, rue des Petits Champs | lat=48.86637 | long=2.338384 | directions=
+| phone=+33 1 42 61 05 09 | tollfree= | fax=
+| hours= | price=€20.50-35
+| content=It's actually a restaurant and is more upscale than Juvéniles, serving good food and good-to-great bottles of wine with a focus on the Rhône Valley, but including many from Burgundy, the Loire, as well as Italians, and "Atlantic crossing" Californians. The dinner menu by chef François Yon Great won the "Bib Gourmet 2009" award, and there are cheeses & desserts (yummy crumble) for after. Reservations recommended.
+}}
+
+==Sleep==
+[[File:Church of St Eustace Organ and Pulpit, Paris, France - Diliff.jpg|thumb|right]]
+Some of the most opulent hotels in the world are either in or very close to the 1st arrondissement, and there's some choice in the mid-range. Budget travellers, on the other hand, are probably better off in other, less central parts of town.
+
+During fashion weeks, hotels, especially the 1st, are occupied by trade professionals and visitors, as well as brand showrooms. Finding a room can be a challenge and the rates go sky-high. Consult [https://fhcm.paris/en/paris-fashion-week-en/ Paris Fashion Week]{{Dead link|date=March 2023 |bot=InternetArchiveBot }} for fashion week dates and avoid them if you do not want to clash with it.
+
+===Budget===
+* {{sleep
+| name=Centre International BVJ Paris-Louvre | alt= | url=http://www.bvjhostelparis.com/en/auberge/bvj-louvre-en/ | email=
+| address=20, rue Jean-Jacques Rousseau | lat=48.8625381 | long=2.3410622 | directions=Métro: Louvre
+| phone=+33 1 53 00 90 90 | tollfree= | fax=+33 1 53 00 90 91
+| checkin= | checkout= | price=€26+
+| content=This is just about as cheap as it's going to get in the 1st. If you are here to study at the Louvre, and want to stay focused it has a location which can't be beat, just across rue Rivoli.
+}}
+* {{sleep
+| name=Hotel Karraz | alt= | url=https://www.agoda.com/hotel-karraz/hotel/paris-fr.html | email=apparthotel@hotmail.fr
+| address=12, rue Mondétour | lat=48.86365 | long=2.34854 | directions=Métro: Les Halles
+| phone=+33 1 40 26 25 40 | tollfree= | fax=+33 1 40 26 22 02
+| checkin= | checkout= | price=
+| content=Next to Les Halles Metro Station.
+}}
+* {{sleep
+| name=Hôtel Montpensier | url=http://www.hotelmontpensierparis.com/An/accueilan.htm | email=
+| address=12, rue de Richelieu | lat=48.8643457 | long=2.3363679 | directions=
+| phone=+33 1 42 96 28 50 | tollfree= | fax=+33 1 42 86 02 70
+| hours= | price=
+| checkin= | checkout=
+| content=Another semi-cheapie right in the middle of everything.}}
+* {{sleep
+| name=Hôtel Saint-Honoré | url=http://hotelsthonore.com | email=
+| address=85, rue Saint-Honoré | lat=48.8611083 | long=2.3433014 | directions=Métro: Louvre
+| phone=+33 1 42 36 20 38 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Close to the Louvre. The place was renovated in the last few years, so the comfort level is pretty good considering it hasn't received a star rating yet.}}
+
+===Mid-range===
+[[File:Paris - MNMA Vitrail SC 03.jpg|thumb|Window in Sainte Chapelle]]
+<!--Please DO NOT delete fields from the listings or move them around !!! -->
+
+*{{sleep
+| name=Hôtel Brighton | alt= | url=http://www.paris-hotel-brighton.com/ | email=
+| address=218, rue de Rivoli | lat=48.86483 | long=2.32905 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=Double from €229
+| content=The executive and deluxe rooms offer a breathtaking views of the Louvre, the Jardin des Tuileries, and the Eiffel Tower. Classic Parisian-style hotel next to shopping and cultural hot spots.
+}}
+* {{sleep
+| name=Hôtel Britannique | url=http://www.hotel-britannique.fr | email=
+| address=20, av Victoria | lat=48.8583295 | long=2.3461341 | directions=Métro: Chatêlet
+| phone=+33 1 42 33 74 59 | tollfree= | fax=+33 1 42 33 82 65
+| hours= | price=Double from €157
+| checkin= | checkout=
+| content=Anglophiles in Paris could do worse than to stay at this most Anglophile of French hotels. The location is good, at the very east end of the 1st.}}
+* {{sleep
+| name=Hôtel Louvre Bon Enfants | alt=Hôtel le Loiret | url=http://www.hotellouvrebonsenfants.com/ | email=
+| address=5, rue des Bons-Enfants | lat=48.8627944 | long=2.3381080 | directions=Métro: Palais-Royal
+| phone=+33 1 42 61 47 31 | tollfree= | fax=
+| hours= | price=Single rooms start at €90, doubles around €110
+| checkin= | checkout=
+| content=Most reviewers give the hotel very high marks for cleanliness and comfort, but the real draw is the location: only steps from the ''Palais Royal/Louvre'' stop on ''Métro'' Line 1.}}
+*{{sleep
+| name=Hôtel Mansart | alt= | url=http://www.paris-hotel-mansart.com/ | email=
+| address=5, rue des Capucines | lat=48.86851 | long=2.32984 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=This charming 3-star hotel is next to the Place Vendôme and 2 minutes' walk from the Opera Garnier and famous Parisian department stores. Antique furniture and paintings create an atmosphere of typical Parisian house.
+}}
+*{{sleep
+| name=Hôtel de la Place du Louvre | alt= | url=http://www.paris-hotel-place-du-louvre.com/ | email=
+| address=21, rue des Prêtres Saint Germain l'Auxerrois | lat=48.85927 | long=2.34091 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2017-06-24
+| content=As its name suggests, this hotel is really close to the Louvre. Rooms on the street offer an impressive view on the Louvre.
+}}
+* {{sleep | name=Hôtel Victoria Châtelet | url=http://www.hovicha.com | email= | address=17 Avenue Victoria | lat=48.8580327 | long=2.3460262 | directions=Métro: Chatêlet | phone=+33 1 40 26 90 17 | tollfree= | fax=+33 1 40 26 35 61 | hours= | price=Basic rooms start at €89 and doubles at €90 | checkin= | checkout= | content=A cozy, competitively priced 24 room hotel with a friendly Art Deco atmosphere. It is located next to the Chatelet Theatre in the very centre of Paris across from Notre Dame. It is close to bus, taxi, Metro and RER stations: Chatelet les Halles, as well as three nearby monitored parking garages.}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Milestay Paris Les Halles | alt= | url=https://www.milestay.com/en | email=contact@milestay.com | address=4 rue des Halles | lat=48.8592458 | long=2.3452132 | directions=Metro & RER : Chatelet - Les Halles | phone=+33 140138580 | tollfree= | checkin=15h | checkout=11h | price=From €140 | lastedit=2019-02-20 | content=Modern aparthotel with 9 furnished apartments, from budget studios to 2BR duplex. Various amenities including AC, kitchen and digital concierge.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Novotel Paris Les Halles | alt= | url=https://all.accor.com/hotel/0785/index.en.shtml | email=
+| address=8 Place Marguerite de Navarre | lat=48.86091 | long=2.34638 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Renovated to Novotel's newest standards, it is one of the brand's flagships and earns consistently good reviews. While much cheaper than the luxury hotels closer to Place Vendôme, it is one of the pricier Novotels in Paris, if not the world.
+}}
+
+===Splurge===
+[[File:Place-Vendome.jpg|thumb|right|Place Vendôme with the ''Colonne'']]
+*{{sleep
+| name=Castille Paris | alt= | url=http://www.castille.com/ | email=
+| address=33-37 rue Cambon | lat=48.86827 | long=2.32681 | directions=
+| phone=+33 144 584 458 | tollfree= | fax=
+| checkin= | checkout= | price=€350-820
+| wikipedia=Castille Paris | wikidata=Q23274
+| content=In the fashion district of Paris, the Castille Paris offers chic rooms that all look out onto the Rue Cambon. Some rooms are designed in a "Coco Chanel" style with beige and black tones.
+}}
+* {{sleep
+| name=Hôtel Costes | alt= | url=http://www.hotelcostes.com | email=
+| address=239, rue Saint-Honoré | lat=48.86674 | long=2.32802 | directions=Métro: Concorde
+| phone=+33 1 42 44 50 00 | tollfree= | fax=+33 1 42 55 50 01
+| checkin= | checkout= | price=A basic room starts at €500 off-season
+| wikipedia=Hôtel Costes | image=Paris Hôtel de France et de Choiseul Perspectives.jpg | wikidata=Q904945
+| content=When the Costes brothers, who made their fortune in the Paris café trade, opened this designer hotel a couple of years ago it became an instant hit with the rich and famous, especially those of Hollywood. Whether it's worth the price for the exquisite interior decoration and the chance to rub elbows with a few movie stars is up to you to decide. They don't pay travel agent commissions, so either book it yourself, or pony up the extra €50 the agent would normally get.
+}}
+* {{sleep
+| name=Hôtel Ritz | alt= | url=http://www.ritzparis.com/ | email=resa@ritzparis.com
+| address=15 Place Vendôme | lat=48.86797 | long=2.32889 | directions=Métro: Pyramides
+| phone=+33 1 43 16 30 70 | tollfree= | fax=+33 1 43 16 36 68
+| checkin= | checkout= | price=€650-8,500
+| wikipedia=Hôtel Ritz Paris | image=Hôtel de Crozat.jpg | wikidata=Q656054
+| content=If there is any one hotel in the world which is not merely "putting on" the Ritz it would be this one, whose very name has entered the English language as a generic word for luxury (or the appearance thereof). The Ritz may not in fact be the fanciest hotel in Paris anymore, but it's always in the running. It's 350 times the price of a budget room in the neighborhood, but heck, maybe it's your honeymoon.
+}}
+* {{sleep | name=Hôtel de Vendôme | alt= | url=http://www.hoteldevendome.com | email=reservations@hoteldevendome.com | address=1, Place Vendôme | lat=48.8670031 | long=2.3287060 | directions=Métro: Pyramides | phone=+33 1 55 04 55 00 | tollfree= | fax= | checkin= | checkout= | price=Singles start at €350; suites can be as much as €4,000 | content=Occupying a building which was once the site of the Embassy of the Republic of Texas, the Hôtel de Vendôme is one of the most exclusive addresses anywhere, much like the neighbouring Ritz. The 29 rooms each have been decorated in the style of a different period, such as Classic, Baroque, or Deco.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hôtel Du Louvre, a Hyatt Hotel | alt= | url=https://www.hyatt.com/en-US/hotel/france/hotel-du-louvre/paraz | email= | address=Place André Malraux | lat=48.86299 | long=2.33565 | directions= | phone= | tollfree= | checkin= | checkout= | price= | wikipedia=Grand Hôtel du Louvre | image=Hôtel du Louvre 2012.JPG | wikidata=Q3146289 | lastedit=2018-11-26 | content=The hotel, built in 1855, is a brand itself enough for Hyatt to take second place to it. The hotel is a cornerstone for the Unbound Collection, a new Hyatt sub-brand created for notable properties, many of which pre-date the Hyatt chain itself. It is literally next to the Louvre and keeps the ''belle epoque'' charm alive throughout the property, albeit remaining contemporary and not pretentious. The Brasserie, where breakfasts are served, has a terrace with a splendid direct view of the Louvre.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Le Meurice | alt= | url=https://www.dorchestercollection.com/en/paris/le-meurice | email=
+| address=228, Rue De Rivoli | lat=48.865167 | long=2.327972 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| wikipedia=Le Meurice | image=Hôtel Meurice - Paris.jpg | wikidata=Q3145596
+| content=In business since 1815 and founded to cater to English travellers, Le Meurice has a rare distinction of being considered an actual palace by the French government (yes, they do regulate such things). Refurbished many times, the last time in 2007 by Philippe Stark, it has followed the changing demands of travellers yet retains numerous artefacts of its long history. Both its rooms and its famous ground-floor restaurant are frequent haunts of celebrities of all sorts, and it becomes a true potpourri of famous faces during the Paris Fashion Weeks.
+}}
+* {{sleep
+| name=Renaissance Paris Vendôme Hotel | alt= | url=https://www.marriott.com/hotels/travel/parvd-renaissance-paris-vendome-hotel/ | email=
+| address=4 Rue Du Mont Thabor | lat=48.86547 | long=2.32969 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Hidden in a side street and slightly demure, the Renaissance offers a welcome break from the revival-furniture-and-chandelier-filled surrounding hotels. Tasteful decor and quality service make up for the fact that some rooms are on the small side.
+}}
+* {{sleep | name=The Westin Paris Vendôme | alt= | url=http://www.thewestinparis.com/ | email= | address=3 rue de Castiglione | lat=48.86573 | long=2.32747 | directions= | phone=+33 1 44 77 11 11 | tollfree= | checkin= | checkout= | price= | wikipedia=The Westin Paris – Vendôme | image=Flickr - europeanpeoplesparty - EPP debates on EU Constitution - Paris 8-9 March 2005 (63).jpg | wikidata=Q3523350 | content=A favourite with wealthy Russian tourists, the Westin Vendôme seems almost like a poor relative to other luxury hotels in the district, and certainly rises above the chain's average to match them. Not all rooms are created equal, and to get the best, one needs to shell out a significant supplement for the Tuileries view and high floor. All rooms are quite large by Parisian standards, though. The hotel has a sizeable area devoted to function rooms, and there is almost always something happening inside. When not closed for an event, the Summer Terrace is a highlight.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+
+===Internet cafés===
+
+{{listing | name=La Baguenaude |alt=| url=http://labaguenaude.pagesperso-orange.fr/ | email=info@labaguenaude.com | address=30, rue Grande-Truanderie | lat=48.863026 | long=2.348249 | directions=Métro: Les Halles | phone=+33 1 40 26 27 74 |tollfree=|fax=| hours=Mon-Sat 10:00-20:45 | price=1/2 hr €2.30; 1 hr €3.80; 2 hr €6.10 |wikipedia=|wikidata=|lastedit=2017-01-11| content=This all SUSE Linux shop offers courses in the use of KDE and GIMP (in French).}}
+
+{{listing
+| name=Milk Les Halles | alt= | url=https://milklub.com/wp/ | email=
+| address=31 bd Sébastopol | lat=48.860969 | long=2.34905 | directions={{station|Châtelet/Les Halles|rerA|rerB|rerD|1|4|7|11|14}} or {{station|Rambuteau|11}}
+| phone=+33 1 42 33 68 17 | tollfree=
+| hours= | price=€4.50/1 hour and up
+| lastedit=2020-12-21
+| content=Huge business workspace, gaming and e-sport facility in central Paris owned by technology giant Asus. More than 800m<sup>2</sup> with 150+ high-end workstations. Private rooms available. ''Temple of Gamers'' as they say. Full printing, binding and laminating services available 24/7. Payment packages are valid for a year. Online ticketing available.
+}}
+
+===Wireless hotspots===
+There are a number of cafés in each arrondissement which offer '''free''' wireless for customers (for 20 min at a time). In the 1st:
+
+* {{listing
+| name=Chez Flottes | url= | email=
+| address=2, rue Cambon | lat= | long= | directions=Métro: Concorde
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+* {{listing
+| name=Café du Pont Neuf | url= | email=
+| address=14, quai du Louvre | lat= | long= | directions=Métro: Pont Neuf
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+* {{listing
+| name=Le Commerce | url= | email=
+| address=12, rue Coquillère | lat= | long= | directions=Métro: Etienne Marcel
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+* {{listing
+| name=Tabac du Châtelet | alt= | url= | email=
+| address=8, rue St Denis | lat= | long= | directions=Métro: Châtelet
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+
+Of course many hotels also offer wireless connectivity, but usually for a fee.
+
+==Go next==
+{{routebox
+| image1=Paris m 1 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/La Défense|La Défense]]
+| minorl1=[[Paris/8th arrondissement|8th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/12th arrondissement|12th arrondissement]]
+| minorr1=[[Paris/4th arrondissement|4th arrondissement]]
+
+| image2=Paris m 4 jms.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl2=[[Paris/2nd arrondissement|2nd arrondissement]]
+| directionr2=S
+| majorr2=[[Paris/14th arrondissement|14th arrondissement]]
+| minorr2=[[Paris/4th arrondissement|4th arrondissement]]
+}}
+
+{{IsPartOf|Paris}}
+{{stardistrict}}
+{{geo|48.8627|2.3361|zoom=15}}

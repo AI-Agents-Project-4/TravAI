@@ -1,0 +1,530 @@
+{{pagebanner|Casa_Mila_roof_banner.jpg|pgname=Eixample|origin=0.35,0|unesco_whs=yes}}
+
+The '''Eixample''' is the quarter designed during the middle of the 19th century by Ildefons Cerdà, expanding the medieval city of [[Barcelona]] into space left empty for defence outside the city walls. It's an enormous field of rectangular blocks in a continuously repeating layout, with the constant threat of getting lost (at least for those used to European cities). Eixample contains most of the modernist buildings, including ''La Pedrera'', ''Casa Batlló'' and most famously, ''La Sagrada Família''. A very interesting example for planned urban development and subsequent re-planning and restructuring.
+
+==Understand ==
+* [http://w110.bcn.cat/portal/site/Eixample Barcelona City Council page on Eixample]
+
+==Get in==
+{{Mapframe|41.392|2.164|width=550|height=550|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q237189}} <!-- metro -->
+
+'''Eixample''' is in the middle of Barcelona so it's easily accessible by road, train, bus or metro. The {{rint|barcelona|L3}} metro, with stops at Plaça Catalunya, Passeig de Gràcia and Diagonal, connects the district to [[Barcelona/Gràcia|Gràcia]] and [[Barcelona/Ciutat Vella|Ciutat Vella]]. {{rint|barcelona|L5}} and {{rint|barcelona|L2}} both stop at the Sagrada Família and {{rint|barcelona|L2}} also stops at the University. {{rint|barcelona|L1}} and {{rint|barcelona|L5}} connect the district with [[Barcelona/Sants-Montjuïc|Sants-Montjuïc]].
+
+'''Passeig de Gràcia''' is a main regional rail station in the area it is served by lines {{rint|catalonia|r2}} which connects to the airport and {{rint|catalonia|r2s}}{{rint|catalonia|r2n}} along with other regional trains.
+
+Other regional trains stop at Plaça de Catalunya
+
+Driving a car in Eixample is possible, though you may find difficulties to find a decent parking place in peak hours. There are two zones for paid parking  and prices vary depending on demand. (Green Zone, €1.08-2.42/hr)
+
+==See==
+[[File:Spain Sagrada Familia.jpg|thumb|250px|right|Sagrada Família]]
+[[File:Sagrada familia Barcelona 2.jpg|thumb|250px|Interior of the Sagrada Familia]]
+=== Sagrada Família ===
+{{see
+| name=Sagrada Família | alt=Basílica i Temple Expiatori de la Sagrada Família | url=https://sagradafamilia.org/en/home | email=informacio@sagradafamilia.org
+| address=Carrer de Mallorca, 401 | lat=41.403608 | long=2.174442 | directions=Sardenya and Mallorca; {{rint|barcelona|metro}}{{station|Sagrada Familia|l2|l5}}
+| phone=+34 932 080 414 | tollfree=
+| hours=Daily: Nov-Mar 09:00-18:00; Oct Mar 09:00-19:00; Apr-Sep 09:00-20:00 | price=€26 for adult, with audio guide, €30 if tour included. €10 extra to visit the towers
+| wikipedia=Sagrada Família | image=Sagradafamilia-overview.jpg | wikidata=Q48435
+| lastedit=2025-03-01
+| content=Barcelona's most popular and famous attraction, the Sagrada Família is a testament to Antonio Gaudi's modernist style and unlike any other church in the world. The texture and detail on the façades are intricate and incorporate forms seen in nature as much of Gaudi's work does. The inside is huge — it's estimated that it can hold 13,000 people — with vaulted ceilings and columns designed to be reminiscent of trees. The church is still under construction, but the central nave, apse and crypt are open. Seeing the Sagrada Família at night with lights on is impressive — this is the time when you understand why people say that it is built of bones.
+}}
+
+An audioguide is recommended. You will get a much better appreciation of the Sagrada Família, but it does last for over 90 minutes.
+
+A trip to the towers costs extra but provides a different perspective to the church. There are two façades to choose from: ''Façana del Naixement'' (Nativity façade) and ''Façana de la Passió'' (Passion façade). The first one was constructed between 1894 and 1930, and reflects Gaudi's style to the most. The Nativity façade is lower and faces to the east of Barcelona, but you could visit two towers there and then climb down by the famous stairs. The lift to the towers at the Passion façade goes up 85 m and offers you a panoramic view towards the centre of the city.Then you descend by foot, which takes 10-20 minutes. The entries to the lifts are on the left of the doors of the respective façade (looking from inside). There are some lockers there where the visitors are asked to leave their oversized items. Children under 6, unaccompanied children under 16 and elderly people with reduced mobility cannot go up into the towers.
+
+==== Tickets ====
+* ''Church'': Walking around the fenced outside of the church is free, but getting inside requires patience and money. '''As of 2025, you can no longer buy a ticket at the church with online tickets now being mandatory''' and sold [http://www.sagradafamilia.org/en/tiquets/ here]. Once a ticket is bought it needs to be presented to an attendant either printed or as a code at a smart-phone. '''Tickets are limited and do sell out days in advance''', especially during summer, but same-day tickets are sometimes released in the morning during the low season.
+* ''Towers'': Tickets for the tower lifts must be purchased at the same time you buy your entry ticket because they have time slots. Make sure you know which lift you are going to take since there are two of them. When buying a ticket "offline", at a ticket booth, and you go later than 10:00, expect to wait at least an hour (two hours is possible on busy days). You must choose your entrance time to the church to be before the time of a visit to the towers, but after you descend from the towers you are free to continue your visit to the church, the museum and other sights.
+
+=== Further UNESCO World Heritage Listings ===
+
+* {{see | name=Casa Batlló | alt= | url=https://www.casabatllo.es/en/ | email=info@casabatllo.cat
+| address=Passeig de Gracia 43 | lat=41.3916384 | long=2.16476979 | directions=corner of Carrer de Arago; {{rint|barcelona|metro}}{{station|Passeig de Gracia|l2|l3|l4}}
+| phone=+34 932 16 03 06 | tollfree=
+| hours=09:00-22:00 Last entry 20:45 | price=Adult €29-€45 (online) discounts for residents, children, students & seniors. demand led pricing.Tickets at counter are €4 more expensive.
+| wikipedia=Casa Batlló | image=CasaBatllo 0055.JPG | wikidata=Q461371
+| lastedit=2024-03-17
+| content=Another Gaudi masterpiece along the same avenue as La Pedrera. Open to the public. No straight line or right angles appear anywhere in the house. Often overlooked for La Pedrera, (also by Gaudi), La Casa Batlló is equally as stunning with its unique architecture and infamous two ornamental pillars in the entrance to the terrace. Open for visitors from ground floor to the roof, and down by an old-time elevator.
+}}
+* {{see
+| name=La Pedrera | alt=Casa Milà | url=https://www.lapedrera.com/en | email=reserves@lapedrera.com
+| address=Passeig de Gràcia 92 | lat=41.395278 | long=2.161667 | directions={{rint|barcelona|metro}}{{station|Diagonal|l3|l4}}
+| phone=+34 932 142 576 | tollfree=
+| hours=09:00-20:30 | price=from €29, children 0-6 free, discounts for older children, students & 65+. €2 additional charge if buying from ticket office
+| wikipedia=Casa Milà | image=Casa Milà - Barcelona, Spain - Jan 2007.jpg | wikidata=Q207870
+| lastedit=2025-01-20
+| content=One of Gaudi's masterpieces, there is not one straight edge on the exterior and the structure is one of Gaudi’s most eccentric and enticing architectural creations. Tours of the interior and the incredible roof structures are available. Great views of the tall buildings (especially La Sagrada Familia) from the roof. Hosts a large exposition of Gaudi works, covering ''Sagrada Familia'' and ''Casa Batlio'', not only ''La Pedrera'' itself. The exposition is a good place to start your exploration of Gaudi; it reveals many hidden details for the art novice.
+}}
+
+=== Other sights ===
+[[File:CatalanStudiesCourtyardBCN.jpg|thumb|250px|Courtyard in Catalon studies]]
+
+* {{see
+| name=Casa Amatller | alt=Fundació Institut Amatller d'Art Hispànic | url=http://amatller.org/en/ | email=
+| address=Passeig de Gràcia 41 | lat=41.391667 | long=2.165 | directions={{rint|barcelona|metro}}{{station|Passeig de Gràcia|l2|l3|l4}}
+| phone=+34 934 617 460 | tollfree= | fax=
+| hours=Daily 10:00-19:00 only every 1/2 hr (in English at 11:00); no high heels allowed | price=Audio-guided tour €17 reduced €15: Guided tour €20 reduced €17 (online prices)
+| wikipedia=Casa Amatller | image=Casa Amatller - Barcelona 2014.jpg | wikidata=Q506814
+| lastedit=2024-03-19
+| content=Designed by Puig i Cadafalch, the building is a fine work of Modernism. Check the detailed photos and explanation of facade sculptures. It also has a shop that sells fine chocolate (the Amatller family made its money out of cocoa).
+}}
+* {{see
+| name=Casa Lleó-Morera | alt= | url=http://www.casalleomorera.com/ | email=info@casalleomorera.com
+| address=Passeig de Gràcia 35 | lat=41.391244 | long=2.165528 | directions=
+| phone=+34 936 762 733 | tollfree= | fax=
+| hours=Tue-Sun 10:00-13:30, 15:00-19:00 (only guided tours roughly every 1/2 hr, full tour in English at 11:00) | price=Adult €15 (sold online or at [http://ajuntament.barcelona.cat/lavirreina/en/ Palau de la Virreina] (La Rambla, 99)
+| wikipedia=Casa Lleó Morera | image=CasaLleoMorera-Full.jpg | wikidata=Q2330791
+| lastedit=2015-10-18
+| content=By [[w:Casa Lleó Morera|Lluís Domènech i Montaner]].
+}}
+* {{see | name=Fundació Antoni Tàpies | alt= | url=https://fundaciotapies.org/en/ | email= | address=C/d'Aragó, 255 | lat=41.39167 | long=2.16361 | directions={{rint|barcelona|metro}}{{station|Passeig de Gràcia|l2|l3|l4}} | phone= | tollfree= | fax= | hours= | price= | wikipedia=Fundació Antoni Tàpies | image=Domènech.i.Montaner.Editorial.Montaner.i.Simón.1.Barcelona.JPG | wikidata=Q2447148 | lastedit=2024-03-19 | content=Created in 1984 by the artist Antoni Tàpies to promote the study and knowledge of modern and contemporary art.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Hotel Majestic | alt= | url=http://www.hotelmajestic.es/ | email=
+| address= | lat=41.393406 | long=2.163947 | directions=
+| phone=+34 934 881 717 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hotel Majestic (Barcelona) | image=Hotel Majestic Barcelona.JPG | wikidata=Q615575
+| content=Passeig de Gràcia 68. Enjoy city views from the rooftop. Just enter the elevator right from the lobby, and head up to the top floor.
+}}
+* {{see
+| name=Plaça de Catalunya | alt= | url= | email=
+| address=at the end of Passeig de Gràcia and the top of La Rambla | lat=41.386667 | long=2.17 | directions={{rint|barcelona|metro}}{{station|Catalunya|l1|l3|l6|l7}} {{rint|catalonia|rdc}}{{rint|catalonia|r1|r3|r4|r11}}{{rint|catalonia|r3}}{{rint|catalonia|r4}}{{rint|catalonia|r11}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça de Catalunya | image=050529 Barcelona 109.jpg | wikidata=Q822881
+|lastedit=2024-03-22| content=Connecting many of the major streets in the city, the Plaça is a central location and a hub of activity. It is a favourite meeting spot for locals and a transit hub for the tourist buses. There are many fountains, statues and gardens around the plaza, and a number of benches to just sit and take it all in.
+}}
+* {{see
+| name=Universitat | alt=University of Barcelona | url=http://www.ub.cat | email=
+| address= | lat=41.386667 | long=2.163889 | directions={{rint|barcelona|metro}}{{station|Universitat|l1|l2}}
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=University of Barcelona | image=PlacaUniversitat.jpg | wikidata=Q219615
+| content=The university has many interesting buildings, libraries and courtyards.
+}}
+
+==Do==
+[[File:CasaBatllo_0170.JPG|thumb|250px|'''Casa Batlló''' by night on the '''Mançana de la discòrdia''']]
+* Eixample is excellent area to '''walk''' around and take in Barcelona. It's buzzing with people going to restaurants, shops and bars, and there are many fine buildings to look at. Some of the streets have pedestrian areas down the middle for walking and patios, making for a pleasant stroll.
+* Admire the '''Mançana de la discòrdia''' (Passeig de Gracia between Diagonal and Passeig de Gracia metro stations) concentrating four unique buildings by the most important Catalan architects from early years of the 20th century in 100 lineal meters. '''Casa Lleó-Morera''' by Lluís Domènech i Montaner, '''Casa Batlló''' from Antoni Gaudí, '''Casa Amatller''' by Josep Puig i Cadafalch and '''Casa Mulleras''' by Enric Sagnier, in close proximity. As the four architects styles were very different, the buildings clash with each other and the neighboring buildings.
+* {{do
+| name=Street Escape | alt= | url=https://www.casabatllo.es/en/online-tickets/street-escape/ | email=
+| address= | lat= | long= | directions=starts and ends at Casa Batlló
+| phone= | tollfree=
+| hours= | price=€22 per person
+| wikidata=
+| lastedit=2025-10-04
+| content=A scavenger hunt full of puzzles to solve, something like an outdoor escape room, and it doubles as a self-guided tour of modernist architecture around the Casa Batlló. Fun for groups and available in several languages including English. Book in advance.
+}}
+
+==Buy==
+Most of the luxury international brands can be found at '''Passeig de Gracia'''.
+* {{buy
+| name=Bike House Tomas Domingo | alt= | url=http://www.tomasdomingo.com/ | email=
+| address=Carrer Sepúlveda, 109 | lat=41.380534 | long=2.158786 | directions=
+| phone=+34 934 52 16 16 | tollfree= | fax=
+| hours=Mon 16:30–20:30, Tue-Sat 10:00–14:00, 16:30–20:30 | price=
+| content=The bike shop sells high end bikes.
+}}
+* {{buy
+| name=Cacao Sampaka | alt= | url=http://www.cacaosampaka.com/ | email=
+| address=C/. Consell de Cent, 292 | lat=41.389785 | long=2.164121 | directions=
+| phone=+34 932 72 08 33 | tollfree= | fax=
+| hours=Mon-Sat 09:00-20:30 | price=
+| content='''Xocoa''' or '''The Chocolate Factory''' is a must for chocolate lovers. They sell special products like peppermint white chocolate or blackberry dark chocolate.
+}}
+* {{buy
+| name=La Concepcio | alt= | url=http://www.laconcepcio.com/ | email=info@laconcepcio.com
+| address=C/ Aragó, 313-317 | lat=41.395483 | long=2.16867 | directions=Metro Girona, Passeig de Gracia
+| phone=+34 675 69 36 16 | tollfree= | fax=
+| hours=food section Mon 08:00-15:00, Tue-Fri 08:00-20:00, Sat 08:00-15:00 | price=
+| image=Mercat de la concepcio barcelona mercat del concepcio place-full.jpg
+| content=The local market in the heart of the Eixample sells fresh fruits, vegetables and seafood. This is a great flower market too, the florists are open all week. The market is over than 120 years old, but has been thoroughly modernized since.
+}}
+* {{buy
+| name=Desigual | alt= | url= | email=
+| address=Passeig de Gràcia, 47 | lat=41.392099 | long=2.164316 | directions=
+| phone=+34 932 15 08 84 | tollfree= | fax=
+| hours= | price=
+| content=Different stylish clothes for men, women and children.
+}}
+* {{buy
+| name=Nice Things | alt= | url=https://www.nicethingspalomas.com/ | email=
+| address=Carrer de Girona, 38 | lat=41.392821 | long=2.173935 | directions=
+| phone=+34 932 47 26 78 | tollfree= | fax=
+| hours= | price=
+| content=There are six shops in Barcelona, this is their outlet.
+}}
+* {{buy
+| name=Nike Store | alt= | url=https://www.nike.com/es/retail/s/nike-barcelona-store | email=
+| address=Calle Laforja, 8 | lat=41.390765 | long=2.166117 | directions=
+| phone=+34 934 87 54 24 | tollfree=
+| hours= | price=
+| content=The Nike shop sells all kinds of football and running shoes. Every Thursday evening they organise a "Run Barcelona" with free participation.
+}}
+* '''La Pedrera''' (Casa Mila). At the exit from museum part (same floor as The Pedrera Apartment), La Pedrera hosts a small toys store. Mid-20th-century-style metal toys (including musical boxes and whirligigs); fascinating books with pop-up pages (especially check ''Alice in Wonderland'' and ''The Wonderful Wizard of Oz'', €30 each). Check also several books ''How to Speak to Children About Art'' from several galleries (Tate Gallery, Metropolitan Museum). To get to the shop, you need to buy a standard ticket to La Pedrera.
+* {{buy
+| name=Probike | alt= | url=http://www.probike.com/ | email=
+| address=C/ Viladomat, 310 | lat=41.389479 | long=2.144452 | directions=
+| phone=+34 934 19 78 89 | tollfree= | fax=
+| hours=Mon-Sat 10:00-20:30 | price=
+| content=The bike shop has a wide selection of quality bikes and some interesting offers.
+}}
+* {{buy
+| name=El Corte Ingles | alt= | url= | email=
+| address=Avinguda Diagonal, 471-473 | lat=41.39257 | long=2.14637 | directions=Trams T1, T2, T3 - Francesc Macià
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A medium-sized store is to be found at the eastern end of the tram lines in Les Corts, handy if you are after some clothes or other merchandise you may need. Unlike most stores in the chain, in an actually nice and modern building - look for the entrance on the back side of the complex when approaching from Plaça de Francesc Macià (the roundabout)
+}}
+
+==Eat==
+
+{{eatpricerange|Up to €10|€10 - €25|€25 and up}}
+{{clear}}
+
+===Budget===
+
+* {{eat
+| name=Restaurant Macrobiòtic Zen | alt= | url= | email=
+| address=carr. de Muntaner, 12 | lat=41.384516 | long=2.162645 | directions={{rint|barcelona|metro}}{{station|Universitat|l1|l2}}
+| phone=+34 934546023 | tollfree=
+| hours=13:00-16:00, closed Sun | price=
+| lastedit=2024-05-08
+| content=Vegan restaurant.
+}}
+====around La Sagrada Familía:====
+* {{eat
+| name=Aitor Restaurant | alt= | url= | email=
+| address=Carrer de Sardenya, 324 | lat=41.4037524 | long=2.1729273 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Tropicalissima | alt= | url= | email=
+| address=C/ de València, 444 | lat=41.4024802 | long=2.1764490 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Olé Mallorca | alt= | url= | email=
+| address=C/ de Mallorca, 436 | lat=41.4045486 | long= 2.1769885 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Brasseria I Llesqueria Juanma | alt= | url= | email=
+| address=Carrer de Lepant, 280 | lat=41.4048323 | long=2.1762941 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Ardèvol | alt= | url= | email=
+| address=Avinguda de Gaudí, 8 | lat=41.4051506 | long=2.1745433 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Bar Restaurant Lepant | alt= | url= | email=
+| address=Carrer de Lepant, 293 | lat=41.4056201 | long= 2.1750194 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{Eat|name=Vegan Mount|url=https://veganmount.es/menu-vegan-mount|address=C/ de València, 506|lat=41.404963543|long=2.179799610|directions={{rint|barcelona|metro}}{{station|Encants|l2}}300 metres south west|phone=+34 931757673|hours=13:00-23:00|lastedit=2024-05-08|content=Vegan cafe}}
+
+===Mid-range===
+
+* {{eat
+| name=La Flauta | alt= | url= | email=
+| address=Calle D´Aribau, 23 | lat=41.386893 | long=2.16113 | directions=
+| phone=+34 934 88 17 97 | tollfree= | fax=
+| hours= | price=
+| content=Many local business people come to dine here during the week. The ever changing menu del dia (menu of the day) costs around €10 and will fill you up with delicious Catalan cuisine that is well prepared and equally well presented. The Crema Catalana, similar to a creme brulee, makes an excellent choice for dessert. Arriving for lunch before 14:00 could save you from waiting for a table.
+}}
+* {{eat
+| name=El Glop | alt= | url=https://elglop.com/en/ | email=
+| address=Carrer de Casp, 21 | lat=41.389453 | long=2.170577 | directions=
+| phone=+34 93 318 75 75 | tollfree=
+| hours= | price=
+|lastedit=2024-03-17| content=Catalan meals. Allow about €25 per person, although you could get out of there for half of that if you let the price dictate your choice of dishes.
+}}
+* {{eat
+| name=Le P'ty Mon | alt= | url=http://leptymon.com/inici/ | email=
+| address=Passage de Luís Pellicer, 13 | lat=41.393206 | long=2.149495 | directions=
+| phone=+34 934 10 90 02 | tollfree= | fax=
+| hours= | price=less €20
+| content=The restaurant, formerly known as Ty Bihan, serves good Breton crêpes made with artisanal dough.
+}}
+* {{eat | name=El Ùltimo Agave | alt= | url=http://www.elultimoagave.com/ {{dead link|December 2020}} | email= | address=Carrer d'Aragó, 193 | lat=41.387897 | long=2.158866 | directions= | phone=+34 660 07 17 30 | tollfree= | fax= | hours= | price= | content=Authentic Mexican restaurant.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{Eat|name=Vinitus|address=C/ d'Arago, 282|lat=41.392516914481284|long=2.1656968883036565|lastedit=2024-03-07|content=Tapas and seafood}}
+
+===Splurge===
+* {{eat | name=Alba Granados | alt= | url=http://www.grupalba.com/albagranados.html | email=reservagranados@grupalba.com | address=Carrer d'Enrique Granados, 34 | lat=41.390499 | long=2.159004 | directions= | phone=+34 93 454 61 16 | tollfree= | hours= | price= | content=The restaurant offers pleasant modern Spanish cuisine in a cool setup (wine boxes decorate the walls, the entrance is the local bar). The dessert choices are plenty and the mille-feuille is recommendable.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Cinc Sentits | alt= | url=http://www.cincsentits.com/ | email=info@cincsentits.com
+| address=Carrer d'Aribau, 58 | lat=41.388549 | long=2.159344 | directions=
+| phone=+34 93 323 9490 | tollfree= | fax=
+| hours=13:30-15:00, 20:30-22:00 | price=
+| content=Named one of the '80 Hottest New Restaurants in the World' by ''Condé Nast Traveller'' shortly after opening in 2004, Cinc Sentits surpasses expectations. One of the few restaurants in Barcelona to offer a wine pairing, it features contemporary Catalan cuisine in a modern, warm interior.
+}}
+* {{eat
+| name=Restaurant Gaig | alt= | url=http://www.restaurantgaig.com/ | email=info@restaurantgaig.com
+| address=Carrer de Còrsega, 200 | lat=41.391041 | long=2.152215 | directions=
+| phone=+34 93 429 10 17 | tollfree= | fax=
+| hours= | price=
+| content=With a reputation for serving the freshest produce around, (there are even chickens wandering around the patio), Gaig focuses on classic Catalan cuisine, but in a modern, lighter sense. The decor is in a contemporary red and black design, and the staff are friendly and welcoming. Was awarded a Michelin Star.
+}}
+* {{eat
+| name=Moo | alt= | url=http://www.hotelomm.es/en/roca-barcelona-en/roca-moo/ | email=
+| address=Carrer del Rosselló, 267 | lat=41.396192 | long=2.160905 | directions=Metro Diagonal
+| phone=+34 934 45 40 00 | tollfree= | fax=
+| hours= | price=
+| content=Renowned Catalan chef Joan Roca serves up tasty treats such as sea bass with lemongrass or a delicious suckling pig.
+}}
+
+==Drink==
+[[File:Barcelona 4628.JPG|thumb|250px|A typical avenue in Eixample]]
+
+''Eixample'' is the nightlife area of Barcelona. The famous zone ''Gayxample'', around C/Balmes and C/Diputació has many gay bars and funky boutiques.
+
+* {{drink
+| name=Bracafe | alt= | url=http://www.bracafe.com/ | email=
+| address=C/Casp 40 | lat=41.39480 | long=2.18174 | directions=
+| phone=+34 93 317 38 96 | tollfree= | fax=
+| hours= | price=
+| content=Nice cosy cafe to sit and lounge over a cup of proper coffee.
+}}
+* {{drink
+| name=Fàbrica Moritz Barcelona | alt= | url=https://moritz.com/en/ | email=
+| address=Ronda de Sant Antoni, 39 - 41 | lat=41.38267 | long=2.16333 | directions={{rint|barcelona|metro}}{{station|Universitat|l1|l2}} walk 250 metres South
+| phone=+34 934 26 00 50 | tollfree= | fax=
+| hours=07:30 - 03:00 | price=
+| lastedit=2024-04-21
+| content='Moritz Epidor' absolutely should be tasted. Brewery tours available.
+}}
+* {{drink
+| name=Arena Xperience | alt= | url=https://www.grupoarena.com/ | email=
+| address=Rda. de Sant Pere, 21, Eixample | lat=41.389629 | long=2.173943 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-07
+| content=3-story disco club.
+}}
+* {{Drink|name=BIERCaB|url=https://biercab.com/en/|address=C/ Muntaner 55|lat=41.386218858|long=2.159794519|directions={{rint|barcelona|metro}}{{station|Universitat|l1|l2}}|hours=14:00-0:00|lastedit=2024-03-17|content=International craft beers a snacks}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Maresme Brewery Taproom | alt= | url=https://www.maresmebrewery.com/en | email=
+| address=Carrer de Sepúlveda, 164 | lat=41.38258 | long=2.16169 | directions={{station|Urgell|l1}}
+| phone=+34688782527 | tollfree=
+| hours=Mon-Thu 17:00-00:00; Fri-Sat 12:00-01:00; Sun12:00-00:00 | price=
+| lastedit=2025-06-08
+| content=Good choice of craft beers. Food available except Monday
+}}
+
+==Sleep==
+L'Eixample is the place where most of the city's mid-range and top-end hotels are located. This quarter is very well connected with the rest of the city, although if you go by car it's impossible to park in the street.
+
+===Budget===
+* {{sleep
+| name=Safestay Passeig de Gracia | alt= | url=https://www.safestay.com/barcelona-passeig-de-gracia/ | email=receptionbcnpdg@safestay.com
+| address=Passeig de Gracia 33 | lat=41.390944 | long=2.165797 | directions=
+| phone=+34 93 215 6538 | tollfree=
+| checkin= | checkout= | price=From €39 for a dorm bed
+| lastedit=2023-04-16
+| content=Formerly Centric Point Hostel.
+}}
+* {{sleep
+| name=Hostal Central | alt= | url=https://www.hostalcentralbarcelona.com/ | email=
+| address=Ronda Universitat No 11 | lat=41.386527 | long=2.165648 | directions=Just off the ''Pla&ccedil;a de Catalunya''
+| phone=+34 932 451 981 | tollfree=
+| checkin= | checkout= | price=En-suite double rooms for around €130
+| lastedit=2023-04-16
+| content=Clean, friendly and good value.
+}}
+* {{sleep
+| name=St Christopher's Barcelona | alt= | url=https://www.st-christophers.co.uk/barcelona/las-ramblas-hostel/ | email=bookings@st-christophers.co.uk
+| address=Carrer de Bergara, 3 | lat=41.386044 | long=2.167552 | directions=Located at the top of La Rambla, 50 meters from Plaça Catalunya. The hostel is three minutes walk from the metro and airport bus.
+| phone=+34 936 674 588 | tollfree=
+| checkin=14:00 | checkout=10:00 | price=From €77 per night which includes a continental breakfast, WiFI and fully laundered beds
+| lastedit=2023-04-16
+| content=Part of the St Christopher's Inns chain, this new hostel has private and dormitory style rooms and a Belushi's bar downstairs.
+}}
+* {{sleep | name=Hostal Centric Barcelona | url=http://www.hostalcentric.com | email=info@hostalcentric.com | address=Calle Casanova 13 | lat= | long= | directions= | phone=+34 93 426 75 73 | tollfree= | fax=+34 93 425 03 47 | hours= | price=From €23 | checkin= | checkout= | content=Common room, free Wi-Fi, rooms with air-conditioning, heating and TV.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hostal Que tal Barcelona | url=http://www.quetalbarcelona.com | email=info@quetalbarcelona.com
+| address=Mallorca, 290 | lat= | long= | directions=
+| phone=+34 93 459 23 66 | tollfree= | fax=
+| hours= | price=From €23
+| checkin= | checkout=
+| content=In the heart of modernist Barcelona. Gaudi’s Casa Batlló and la Pedrera are a five-minute walk away while las Ramblas, Plaza Cataluña and the Gothic Quarter are all at your doorstep.
+}}
+* {{sleep | name=Hostal Residencia Australia | url=http://www.residenciaustralia.com | email=info@residenciaustralia.com | address=Ronda de la Universitat 11 | lat= | long= | directions= | phone=+34 93 317 41 77 | tollfree= | fax= | hours= | price=From €22 | checkin= | checkout= | content=Run by a jazz musician, a local politician and an Australian, they have been around for 30 years taking care of guests. Good rooms, all the usual goodies, for couples, creative hearts and all those who want to get a feel of the creative edge of Barcelona in terms of cuisine, art, music, theatre, dance. They love the city and have our own travel guide to show you around. The city is made up of cement buildings, what makes it tick are its people.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hostel Barcelona Sant Jordi Alberg | url=http://www.santjordihostels.com/hostel-lluria/ | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | hours= | price=From €23 | checkin= | checkout= | content=Part of local chain of hostels that operates five hostels in Barcelona. Offers full equipped kitchen, common room with DVD, books, cable TV, guitar and couches, computers with 24 hours free internet access, free lockers and storage room, laundry facilities, towels rentals and public phone.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Jardinets Guest House | url=http://www.guesthousejardinets.com | email=bbb@guesthousejardinets.com | address=Carrer Gran de Gracia | lat= | long= | directions= | phone=+34 644 200 680 | tollfree= | fax= | hours= | price=From €50 double room, breakfast and WiFi included | checkin= | checkout= | content=The beautiful building breaths the atmosphere of the late 19th century, which also is reflected in the inside. You'll find it relaxed and well preserved. Free access to the fridge, microwave and all the ingredients to prepare yourself a varied Mediterranean-style breakfast.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Pere Tarrés Youth Hostel | alt= | url=http://www.peretarres.org/alberg | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=A hostel near the top of Diagonal. It is very safe and good fun, offering a restaurant, bar, TV area, ping-pong tables, kitchen, free internet, and sheets and breakfast included in the price. Be sure to book online; there are often good deals on the hostel's website.
+}}
+* {{sleep
+| name=Urbany Hostel Barcelona | url=http://www.barcelonaurbany.com | email=bookings@barcelonaurbany.com
+| address=Av Meridiana 97 | lat= | long= | directions=
+| phone=+34 93 2458414 | tollfree= | fax=
+| hours= | price=€12-35 per person
+| checkin= | checkout=
+| content=It's located in the Sant Marti district, but close to the eastern border of the Eixample. Twins, 4-, 6-, 8-person dorms - en-suite bathrooms, fitness club and swimming pool, breakfast included, security lockers, wifi throughout the building, common room with cheap bar.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Soho Barcelona | alt= | url=http://www.hotelsohobarcelona.com/ | email=
+| address=Gran Via, 545 | lat=41.38349 | long=2.15983 | directions=
+| phone=+34 93 552 96 10 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=A design hotel built in 2006. Offers 54 modern and spacious rooms and a rooftop deck with pool. Free Wi-Fi.
+}}
+* {{sleep
+| name=B-Hotel | alt= | url=http://www.b-hotel.com/ | email=
+| address=Gran Via, 389 | lat= 41.37664 | long=2.15057 | directions=
+| phone=+34 93 552 95 00 | tollfree= | fax=
+| checkin= | checkout= | price=€90
+| content=A modern urban hotel by prestigious architect Alfredo Arribas. On the 8th floor you can find the endless-pool with views over Plaza Espanya and Montjuic hill. Free Wi-Fi.
+}}
+* {{sleep
+| name=Hotel Granvia | alt= | url=http://www.hotelgranvia.com/ | email=
+| address=Granvia 642 | lat=41.39220 | long=2.17263 | directions=
+| phone=+34 93 318 19 00 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Built in 1870 as a palace for the Serra-Chopitea family, the building was converted into a hotel in 1935. Today it still stores countless pieces and works of art from the 19th century, making it at once a distinguished, elegant and unique hotel. Free Wi-Fi.
+}}
+* {{sleep | name=Hotel Villa Emilia | alt= | url=http://www.hotelvillaemilia.com/ | email=info@hotelvillaemilia.com | address=Calábria 115-117, 08015 | lat=41.38023 | long=2.15393 | directions= | phone=+34 93 2525285 | tollfree= | fax= | checkin= | checkout= | price= | content=A modern boutique hotel, built in 2006. The hotel is also home to the popular Zinc bar.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=987 Barcelona Hotel | alt= | url=http://www.987barcelonahotel.com | email= | address=c/Mallorca 288 | lat=41.39639 | long=2.16614 | directions=Just a few minutes walking distance from Pedreda, Passeig de Gracia | phone=+34 93 476 33 94 | tollfree= | fax= | checkin= | checkout= | price=from €152 | content=New modern design hotel, free WiFi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hotel del Comte | alt= | url=http://www.bcnurbanhotelsdelcomte.com/ | email=reservas@bcnurbanhotelsdelcomte.es | address=Diputació, 142-148 | lat=41.382756 | long=2.156994 | directions=50m from L1 Urgell, Autobus | phone=+34 93 323 12 58 | tollfree= | fax= | checkin= | checkout= | price=From €80 | content=1 km from La Rambla. Super-slick rooms with glass and marble bathrooms, flat panel TVs, free Wi-Fi. Problems with 3rd-party bookings reported, so book directly.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Best Western Premier Hotel Regina | alt= | url=http://www.reginahotel.com/en | email=
+| address=Carrer de Bergara, 4 | lat=41.38600 | long=2.16810 | directions=Located next to Plaza Cataluña.
+| phone=+34 933 01 32 32 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=About €100 per night for a double room with bath and breakfast.
+}}
+* {{sleep
+| name=Expo Hotel Barcelona | alt= | url=http://www.expohotelbarcelona.com/ | email=
+| address= | lat=41.386034 | long=2.168048 | directions=
+| phone=+34 93 600 30 00 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=425 wifi-equipped rooms, near Sants Central Station and Fira (Expo). €58-180.
+}}
+* {{sleep | name=Granados 83 | alt= | url=http://www.designhotels.com/Granados83 | email= | address= | lat=41.39181 | long=2.15678 | directions= | phone=902 244 246 (domestic) | tollfree= | checkin= | checkout= | price= | content=Enric Granados 83. Set in a 19th-century hospital, it has been converted into a Nouveau Art Decó styled hotel. Its structure of oxidised iron is reminiscent of New York's Soho loft, and it stands in contrast with the stone and glass façade and the elegant, minimalist zen styled interiors.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Gran Via | alt= | url=http://www.hotelgranvia.com/ | email=
+| address=Gran Via de les Corts Catalanes, 642 | lat=41.389982 | long=2.169461 | directions=
+| phone=+34 933 181 900 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Very central. As a former palace, the public spaces of the hotel live up to its history. The rooms are large, but otherwise relatively modest. About €80 per night for a double room with bath.
+}}
+* {{sleep
+| name=NH Master | alt= | url= | email=
+| address=Carrer de València 105-107 | lat=41.38605 | long=2.15421 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=NH Calderón | alt= | url=http://www.nh-hotels.com/hotel/nh-collection-barcelona-gran-hotel-calderon | email=
+| address=Rambla de Catalunya 26 | lat=41.38945 | long=2.16633 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hotel Best Aranea | alt=Hotel Aranea | url=http://www.hotelaranea.com/en/ | email=
+| address=C/ Consell de Cent 444 08013 | lat= | long= | directions=
+| phone=+34 932477474 | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2017-08-15
+| content=Nice hotel near the Sagrada Familia cathedral.
+}}
+* {{Sleep|name=ibis Styles Barcelona Centre|url=https://all.accor.com/hotel/9898/index.en.shtml|address=Calle Provenca 340|lat=41.397839|long=2.16578843|directions={{rint|barcelona|metro}}{{station|Verdaguer|l4|l5}} on opposite side of Av. Diagonal|checkin=14:00|checkout=11:00|lastedit=2024-04-21|content=Economical hotel with inclusive breakfast}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Omm | alt= | url=http://www.hotelomm.es/ | email=reservas@hotelomm.es
+| address=Rosselló 265 | lat=41.39624 | long=2.16093 | directions=
+| phone=+34 93 445 40 00 | tollfree= | fax=+34 93 445 40 04
+| checkin= | checkout= | price=
+| content=In Passeig de Gràcia district, featuring elegant rooms with adaptable lighting.
+}}
+* {{sleep
+| name=Hotel Majestic | alt= | url=http://www.hotelmajestic.es/en | email= info@hotelmajestic.es
+| address=Passeig de Gràcia 68 | lat=41.39343 | long=2.16404 | directions=
+| phone=+34 934881717 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms from €250
+| lastedit=2015-04-26
+| content=Established in 1918. Its rooftop terrace "La Dolce Vitae" offers views of La Sagrada Familia and much of the city. 
+}}
+* {{sleep
+| name=Renaissance Barcelona | alt= | url=https://www.marriott.com/hotels/travel/bcndm-renaissance-barcelona-hotel/ | email=
+| address=Carrer de Pau Claris 122 | lat=41.39274 | long=2.1675 | directions=one block away from Passeig de Gracia
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=In a rather nondescript building, the Renaissance offers contemporary style typical for the chain - except for guest bathrooms, who seem to have evaded renovation.
+}}
+* {{sleep
+| name=Alexandra Barcelona A DoubleTree by Hilton | alt= | url=https://curiocollection3.hilton.com/en/hotels/spain/alexandra-barcelona-hotel-curio-collection-by-hilton-BCNMAQQ/index.html | email=
+| address=Calle Mallorca 251 | lat=41.39325 | long=2.16147 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=The Alexandra's rooms are somewhat sombre, with minimal decor kept in grayish hues. The lobby and restaurant are very impressive, however.
+}}
+* {{sleep
+| name=Hotel Indigo Barcelona - Plaza Catalunya | alt= | url=http://www.ihg.com/hotelindigo/hotels/us/en/barcelona/bcnin/hoteldetail | email=
+| address=Gran Via de les Corts Catalanes 629 | lat=41.39127 | long=2.17023 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Trying to make the most out of a very small building in the Gran Via.
+}}
+* {{sleep
+| name=NH Podium | alt= | url=http://www.nh-hoteles.es/nh/es/hoteles/espana/barcelona/nh-podium.html | email=
+| address=Calle Bailén 4-6 | lat=41.39162 | long=2.17792 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=The usual NH fare packed into a nice corner building a minute away from the Arc de Triomf.
+}}
+* {{sleep
+| name=El Palace Hotel | alt= | url= | email=
+| address=Gran Via de les Corts Catalanes 668 Eixample | lat= | long= | directions=
+| phone=+34 935 10 11 30 | tollfree=
+| checkin= | checkout= | price=
+| wikidata=Q28844857
+| lastedit=2018-10-07
+| content=
+}}
+* {{sleep
+| name=Margot House | alt= | url=https://www.margothouse.es/en/ | email=hello@margothouse.es
+| address=Pg. de Gràcia, 46 | lat=41.391989 | long=2.166038 | directions=
+| phone=+34 932 72 00 76 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2024-07-23
+| content=}}
+
+==Go next==
+
+{{usabledistrict}}
+{{geo|41.390833|2.163056}}
+{{IsPartOf|Barcelona}}

@@ -1,0 +1,178 @@
+{{pagebanner|Teatro de los Insurgentes Banner.jpg|caption=Façade detail of the Teatro de los Insurgentes, created by Diego Rivera in 1953|pgname=San Ángel}}
+'''San Ángel''' is an area in the south of [[Mexico City]]. It is an upscale neighborhood with wooded hills and an appreciation for the arts (the area was once home to Diego Rivera). This area includes the Lomas neighborhoods between San Angel and the southwestern parts of Chapultepec Park. The neighborhood has narrow cobblestone streets, tight alleys, and pleasant plazas.
+
+==Get in==
+{{Mapframe|19.3518|-99.1869|zoom=14}}
+{{mapshapes|Q735042}}
+
+===By Metrobus===
+Along Insurgentes Avenue, {{marker|type=go|name=La Bombilla|lat=19.3509|long=-99.1863}} stop. 
+
+===By Metro===
+* Line 3 (olive green) Station: {{marker|type=go|name=Metro Miguel Ángel de Quevedo|lat=19.34623|long=-99.18079}} (5 minutes walking)
+* Line 7 (orange) Station: {{marker|type=go|name=Metro Barranca del Muerto|lat=19.3616|long=-99.1893}} (15 minutes walking)
+
+===By Car===
+San Angel can be reached by Periferico (Altavista exit), Insurgentes, Avenida Revolucion, and Miguel Angel de Quevedo. 
+
+==Get around==
+Walking is the best way to get around San Angel. The neighborhood is compact and distances are rarely long and using a taxi, Uber or DiDi will mostly be needed only when venturing from San Angel into other neighborhoods. Walking lets you experience the neighborhood's mellow, historic vibe. You will want sturdy, comfortable walking shoes because streets are not smooth and the terrain is hilly.
+
+Using a car to get around is a bad idea. Driving in Mexico City is complicated and difficult in the best of situations and San Angel is frequently plagued by gridlock so it will often take you several times longer to drive than to walk. Parking is hard to find in San Angel.
+
+Bus and Metro are of limited value in San Angel, serving mostly to get people into walking distance of neighborhood points of interest. Metrobus BRT runs along Avenida Insurgentes and Metro train stations are about a 10-15 minute walk from the Plaza del Carmen (a well-known landmark). A practical strategy can be to ride Metro to one of the nearby stations ('''Miguel Ángel de Quevedo''' or '''Barranca del Muerto''') and then take an Uber to the middle of San Angel and walk from there.
+
+===By bike===
+While many parts of [[Mexico City]] have good access and infrastructure for bikes, San Angel does not. No dedicated bike lanes or riding trails exist in this part of the city and the geography and historic character of the neighborhood are a challenge for safe riding. There are cobblestone streets, narrow alleys, blind corners, and a steep hill to navigate. For better parts of the city to visit by bike, see ''[[Cycling in Mexico City]]''.
+
+==See==
+[[File:San-Angel-Casa-Rivera-Kahlo.jpg|thumb|Museo Casa Estudio Diego Rivera y Frida Kahlo]]
+[[File:Templo del Carmen-San Ángel.jpg|thumb|Convento del Carmen]]
+*{{see | name=Museo Casa Estudio Diego Rivera y Frida Kahlo | url=https://inba.gob.mx/recinto/51 | email= | address=Calle Diego Rivera 2 | lat=19.34960 | long=-99.19739 | directions= | phone=+52 55 8647 5470 | tollfree= | fax= | image=San-Angel-Casa-Rivera-Kahlo.jpg | hours=Tue-Sun 10:00-18:00 | price=M$13 (general admission); M$30 (camera permit, no flash) | content=Diego Rivera's studio, where he also lived for some time with Frida Kahlo. It is a very interesting structure by famous Mexican architect Juan O'Gorman, consisting of two buildings connected by an aerial walkway.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo de Arte Carrillo Gil | alt= | url=http://www.museodeartecarrillogil.com/ | email=
+| address=Revolucion 1608 | lat=19.34931 | long=-99.19034 | directions=
+| phone=+52 55 8647 5450 | tollfree= | fax= | image=Exposiciones carrillo gil 2.jpg
+| hours=Tue-Sun 10:00-18:00 | price=M$19, free admission on Sundays
+| content=One of Mexico City's finest modern art museums, based on the private collection of Carrillo Gil which includes well-known works by Diego Rivera, David Siqueiros, Rufino Tamayo, and Francisco Toledo. The museum also hosts temporary exhibits of contemporary Mexican and international artists.
+}}
+*{{see | name=Convento del Carmen | alt=Museo de El Carmen | url=https://elcarmen.inah.gob.mx/ | email=difusion.cdifus@inah.gob.mx | address=Avenida Revolución 4 | lat=19.34506 | long=-99.18966 | directions= | phone=+52 55 5616 1504 | tollfree= | fax= | image=Templo del Carmen-San Ángel.jpg | hours=Tue-Sat 10:00-17:00 | price=M$41 (adults), free (students/professors/children under 12); free admission on Sundays | content=An ancient convent where you can see the uncomfortable stone slabs where nuns slept, religious artwork, and, most importantly, a creepy underground crypt filled with mummified nuns. It is a truly enchanting old building, and connected to the Colegio de San Ángel.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Plazas===
+* {{see
+| name=Plaza del Carmen | alt= | url= | email=
+| address=Madero at Av. Revolucion | lat=19.34603115612019 | long=-99.19055814005455 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-06-08
+| content=The beating heart of San Angel with the historic convent adjacent to the plaza as well as San Angel's main marketplace. It is a gathering spot for locals and a pleasant park to sit and people watch.
+}}
+* {{see
+| name=Plaza San Jacinto | alt= | url= | email=
+| address=Av. Madero | lat=19.34491764204823 | long=-99.19232844283145 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-06-08
+| content=Site of the famous Bazaar Sabado, the park is just 2 blocks from Plaza del Carmen) is the hub of San Angel's arts community, with galleries and the Museo Risco adjacent.
+}}
+
+==Do==
+[[File:Teatro de los Insurgentes.jpg|thumb|Teatro de los Insurgentes]]
+* {{do
+| name=Teatro de los Insurgentes | alt=Theater of the Insurgents | url= | email=teatroinsurgentes@prodigy.net.mx
+| address=Insurgentes Sur 1587 | lat=19.3642 | long=-99.1825 | directions=
+| phone=+52 55 5598 6894 | tollfree= | fax=+52 55 5598 3084
+| hours= | price=
+| image=Teatro de los Insurgentes.jpg
+| lastedit=2025-12-02
+| content=Built in 1953 by José María Dávila, this is one of the main venues for dramas and plays in Mexico City. On the façade of the building is a mosaic created by Diego Rivera, illustrating the history of theater and depicting the Mexican comedian Cantinflas as Robin Hood.
+}}
+* {{do
+| name=Teatro Helenico | alt= | url=https://helenico.gob.mx/ | email=
+| address=Av. Revolucion 1500 | lat=19.353064 | long=-99.190075 | directions=
+| phone=+52 55 4155 0900 | tollfree=
+| hours= | price=
+| lastedit=2024-03-08
+| content=Theatre in a historic Gothic chapel. Stages various plays and multi-disciplinary performing arts shows. Library on site. Small, intimate space.
+}}
+
+==Buy==
+[[File:SanAngelArtMktSnJacinto.JPG|thumb|Saturday art market in Plaza San Jacinto]]
+*{{buy | name=Bazar Sabado | url=https://www.bazaarsabado.com/en/ | email= | address=Plaza de San Jacinto | lat=19.34508 | long=-99.19274 | directions=Calle Plaza San Jacinto and Calle Frontera | phone= | tollfree= | fax= | hours=Sat 10:00-19:00 | price= | lastedit=2024-11-09 | content=While always scenic, Bazar Sabado is ''the'' reason to head to the square, in front of a 16th-century church. It is one of the best crafts markets in town, where you can find original and high-quality art of all different regional styles, both traditional and more modern, and in all different price ranges. This is the best place to shop, people-watch, and just be happy.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{buy
+| name=Mercado de las Flores | url= | email=
+| address=Av Revolución | lat=19.34729 | long=-99.19010 | directions=near Av de la Paz
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A popular street market specializing in fresh flowers.
+}}
+* {{buy
+| name=Mercado del Carmen | alt= | url=http://mercadodelcarmen.net/ | email=
+| address=Calle de la Amargura 5 | lat=19.351079 | long=-99.191150 | directions=
+| phone=+52 56 1900 1419 | tollfree=
+| hours=Daily 12ː00 - 20ː00 | price=
+| lastedit=2026-02-17
+| content=It's a traditional Mexican marketplace, but one adapted to the more Bohemian artsy lifestyle of San Angel. Whereas most marketplaces in the city open around 6am, the artsy crowd is just going to bed then, and they certainly won't be ready to go to a market until the sun is warm. The market opens at noon, but stays open later in the evening. The food hall is a star attraction, and while there are some traditional food stands serving regional cuisine, there are also trendy food stands serving up nouveau Mexican cuisine with very non-traditional recipes and ingredients.
+}}
+
+==Eat==
+* {{eat
+| name=La Buena Fe | url=
+| address=Av. Altavista 43 | lat=19.349439318497886 | long=-99.19575847710266
+| phone=+52 55 3095 4508 | tollfree=
+| hours=Daily 07:30 - 01:00 | price=M$350
+| lastedit=2024-03-09
+| content=Comfortably upscale restaurant serving traditional Mexican cuisine. Good place for a business lunch or to meet a date for drinks.
+}}
+* {{eat
+| name=Mallorquina | url=http://mallorquina.com.mx/
+| address=Av Altavista 207 | lat=19.349187513103463 | long=-99.19815436030767
+| phone=+52 55 8663 5649 | tollfree=
+| hours=Fri-Sun 09:00 - 00:00, Mon-Thu 13:00 - 00:00  | price=
+| lastedit=2024-03-09
+| content=Comfortably rustic dining room serving classic Spanish cuisine (the paella is recommended). Flamenco show on Thursday and Saturday.
+}}
+* {{eat
+| name=Carlotta | url=
+| address=Del Carmen 4  | lat=19.346029157174684 | long=-99.1897000375061
+| phone=+52 55 5550 0072 | tollfree=
+| hours= | price=
+| lastedit=2024-03-09
+| content=Nouveau Mexican cuisine in an outdoor terrace garden overlooking the Carmen church.
+}}
+* {{eat
+| name=El Tizoncito | url=http://www.eltizoncito.com.mx/
+| address=Calz. de las Águilas 184  | lat=19.36008294198194 |long=-99.19778155959207 
+| phone=+52 55 5651 6387 | tollfree=
+| hours=Daily 12:00 - 02:30 | price=M$150
+| lastedit=2024-03-09
+| content=Street tacos with wood-fired trompo that makes for some of the best tacos al pastor in the city. Good place for late night munchies. The Sherezada Tizoncito is recommended.
+}}
+
+==Drink==
+*{{drink
+| name=Mama Rumba | url= | email=
+| address=near Av. de La Paz | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of the most popular dance clubs/bars in the city, usually very full, plays salsa, merengue, and other Cuban music.  Can be hard to get into.
+}}
+*{{drink
+| name=La Bipo San Ángel| url=http://labipo.com.mx/ | email=
+| address=Av. de la Paz 33-A | lat= | long= | directions=across from El Cardenal
+| phone=+52 55 7030 9612 | tollfree= | fax=
+| hours= | price=
+| content=Specializing in mezcal and live music.
+}}
+
+==Sleep==
+* {{sleep | name=Hotel Casa San Jacinto | alt= | url=http://casasanjacinto.com// | email= | address=Plaza San Jacinto 20BIS | lat=19.34406 | long=-99.19208 | directions= | phone=+52 55 5088 2138 | tollfree= | checkin= | checkout= | price= | lastedit=2021-03-14 | content=An upscale colonial type of lodging with very rustic furniture and decor.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=San Angel Inn | alt= | url= | email=
+| address=Desierto de los Leones 4058, San Angel | lat=19.347798 | long=-99.204027 | directions=
+| phone=+52 55 6266 6900 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$4000
+| lastedit=2024-03-08
+| content=Business oriented long-term extended stay apartments.
+}}
+* {{sleep
+| name=Krystal Grand Suites Insurgentes | alt= | url=https://www.krystal-grand-suites.com/ | email=
+| address=Av. de los Insurgentes Sur 1991, Álvaro Obregón | lat=19.351847 | long=-99.186603 | directions=
+| phone=+52 55 5322 1580 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$5000
+| lastedit=2024-03-08
+| content=Clean, modern corporate style hotel with spacious rooms, on-site restaurant, Metrobus route in front of hotel.
+}}
+
+==Connect==
+All of Mexico City, including San Angel, has 5G coverage. Most hotels and restaurants offer free WiFi connections. The CDMX governement provides free WiFi connectivity in public parks.
+
+{{usabledistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.3524|-99.1840}}

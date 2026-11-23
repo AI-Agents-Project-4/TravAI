@@ -1,0 +1,155 @@
+{{pagebanner|Ciudad Satelite WV banner.jpg|pgname=Ciudad Satelite}}
+'''Ciudad Satelite''', or simply "Satelite", is part of the metropolitan area of [[Mexico City]]. Although there is a specific borough bearing that name, locals refer to Satelite to a broader area including other boroughs or ''colonias'' that are across the city limits into the [[Mexico State|State of Mexico]]. Those colonias are mainly in three municipalities of the state: Naucalpan, Tlalnepantla, and Atizapan.
+
+==Understand==
+[[Image:Satelite Towers and Anillo Periferico BMAC.jpg|thumb|Torres de Satelite]]
+Ciudad Satelite was established in the late 1950s as a middle to upper class residential neighborhood. As the city continued to grow, the neighborhood and other nearby old towns became part of the greater area of Mexico City.
+
+==Get in==
+There is no Metro reaching Ciudad Satelite. The best way in is by a bus or microbus departing from the following Metro stations:
+* Chapultepec (Line 1, pink)
+* Rosario (Lines 6: Red and 7: orange)
+* Cuatro Caminos (also known as Toreo) (Line 2, blue)
+
+If traveling by car, be patient: the main highway known as "Periferico" is practically jammed around the clock, day and night, with average speeds of no more than 10 km/h. A ride from Polanco to Plaza Satelite can take you up to 2 hours in rush hours.  Although there is some relief if you travel against the traffic flow (north to south in the morning and backwards in the evening), there is no guarantee that you can reach your destination in time so take your precautions.
+
+==See and do==
+{{Mapframe|19.49930|-99.23725|zoom=14}}
+{{mapshapes|Q735042}}
+* {{see
+| name=Torres de Satelite | alt= | url= | email=
+| address= | lat=19.49930 | long=-99.23725 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Designed by famous Mexican architect Luis Barragan and built in 1957.
+}}
+* {{do
+| name=Los Remedios National Park | alt=Parque Nacional Los Remedios | url= | email=
+| address=Calle Morelos Manzana 007, Bosque de los Remedios | lat=19.483100 | long=-99.244266 | directions=
+| phone=+52 55 5560 1732 | tollfree=
+| hours=05:00 - 18:00 | price=
+| lastedit=2023-05-25
+| content=Popular park for jogging, working out, horseback riding and dog walking. About 900 hectares, mostly wooded with wide, marked trails.
+}}
+** {{do
+| name=Sanctuary of the Virgin of Los Remedios | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=One of the oldest basilicas in all the country. It's a nice spot to visit and the little town there is exceptional to bargain if you are in search of local art.
+}}
+[[File:ParqueNaucalli.jpg|thumb|Parque Naucalli]]
+* {{do
+| name=Parque Naucalli | alt= | url= | email=
+| address=Perif. Blvd. Manuel Ávila Camacho Manzana 020, Boulevares | lat=19.492971 | long=-99.238944 | directions=
+| phone= | tollfree=
+| hours=07:00 - 18:00 | price=
+| lastedit=2023-05-25
+| content=State park with picnic areas, walking trails, skatepark, vendors, dinosaur exhibit. Occasional special events like a Christmas market.
+}}
+
+==Buy==
+*  {{buy
+| name=Plaza Satelite | alt= | url=http://plazasatelite.com.mx/ | email=
+| address=Circuito Centro Comerciales | lat=19.510502701636643 | long=-99.23430343497888 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 11ː00 - 20ː00 | price=
+| content=Located in the heart of Ciudad Satelite is one of the largest shopping malls in Mexico City, including anchor stores Liverpool, Sears and El Palacio de Hierro as well as many smaller stores, a fast-food court and cinemas.
+}}
+*  {{buy | name=Mundo E | alt= | url=https://www.mundoe.com.mx/home | email= | address=Perif. Blvd. Manuel Ávila Camacho 1007 | lat=19.52604586087527 | long=-99.22786741587784 | directions= | phone= | tollfree= | fax= | hours=Daily 11ː00 - 21ː00 | price= | content=Indoor/outdoor shopping mall conceived as an entertainment dedicated center. It has many small boutiques, cinemas, bars, a dance club, a sports club, and an indoor ice skating rink.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Eat==
+In the municipalities of Naucalpan and Tlalnepantla there are several industrial parks where many multinationals have their factories, therefore if you come on business travel Ciudad Satelite is a good choice for a break to have lunch or hang out.
+
+* {{eat
+| name=Puerto Madero | alt= | url=http://www.puertomaderorestaurantes.com/
+| address=Boulevard Manuel Ávila Camacho #1230 | lat=19.508581422335663 | long=-99.23780679812754
+| directions=
+| phone=+52 55 8995 0751 | tollfree=
+| hours=Daily 13:00 - 01:00 | price=M$1000
+| lastedit=2025-12-02
+| content=Casual Argentinian steakhouse that also serves seafood.
+}}
+* {{eat
+| name=La Vaka | alt= | url=https://lavaka.mx/
+| address=Boulevard Manuel Ávila Camacho Norte Conjunto  | lat=19.4931433293453 | long=-99.23769414480425
+| directions=At Parque Naucalli
+| phone=+52 55 5920 0172 | tollfree=
+| hours=Daily 13:00 - 22:00 | price=M$600
+| lastedit=2025-12-02
+| content=Steakhouse offering a variety of grilled meats including picaña, ribeyes and more. A buffet offers salads, pastas, soup, and traditional Mexican dishes.
+}}
+* {{eat
+| name=Los Chatos | alt= | url=http://www.loschatos.com.mx/
+| address=Av. México #33  | lat=19.483067068263633 | long=-99.23935174997816
+| directions=
+| phone=+52 55 5373 4524 | tollfree=
+| hours=Daily 09:00 - 18:00 | price=M$200
+| lastedit=2025-12-02
+| content=Inexpensive casual restaurant serving traditional Mexican cuisine including arrachera, pozole and enchiladas. Homemade desserts.
+}}
+* {{eat
+| name=La Casa de los Olivos | alt= | url=
+| address=Valle de Mexico 16  | lat=19.480437275876152 | long=-99.23459887560509
+| directions=
+| phone=+52 55 5360 5166 | tollfree=
+| hours=Daily 08:30 - 17:30 | price=M$300
+| lastedit=2025-12-02
+| content=Casual restaurant serving traditional Mexican dishes including chile en nogada, milanesa, and various styles of chicken. The ribeye sandwich is both big and delicious.
+}}
+
+==Drink==
+Different pubs and bars in Satelite are popular amongst the youth and you can be surprised by the low prices of alcohol compared to the establishments in central Mexico city.
+
+Most of bars and small dance clubs are in the Circuito Comercial, near Plaza Satelite.
+
+* {{drink
+| name=McCarthy's Irish Pub | alt= | url=http://www.mccarthyspub.com.mx/find-us.php | email=
+| address=Manuel Izaguirre 8 | lat=19.513645 | long=-99.231903 | directions=
+| phone=+52 55 2839 1948 | tollfree=
+| hours=Mon-Sat 14:00 - 00:00, closed Sun | price=
+| lastedit=2025-12-02
+| content=Basic corporate-style chain bar with several imported beers available. Dart boards and TVs tuned to sports games. Unexciting, but generically inoffensive.
+}}}
+
+==Sleep==
+* {{sleep
+| name=Fiesta Inn Naucalpan | alt= | url= | email=
+| address=Periférico Norte, Av. Dr. Gustavo Baz esq, Alce Blanco | lat=19.4807840906964 | long=-99.23104183378354 
+| directions=near Naucalpan Industrial Park
+| phone=+52 55 5387 9910 | tollfree= | fax=
+| checkin=15ː00 | checkout=13ː00 | price=
+| wikipedia= | wikidata=
+| lastedit=2025-12-02
+| content=Roadside inn with large rooms.
+}}
+* {{sleep
+| name=Krystal Maria Barbara Hotel | alt= | url=https://www.krystal-satelitemariabarbara.com/ | email=
+| address=Perif. Blvd. Manuel Ávila Camacho 2300 | lat=19.522719306603815 | long=-99.22845186196419 | directions=
+| phone=+52 55 5366 9924 | tollfree= | fax=
+| checkin=15ː00 | checkout=11ː00 | price=M2000
+| wikipedia= | wikidata=
+| lastedit=2025-12-02
+| content=Comfortable hotel with rooms set around a large central courtyard featuring an outdoor swimming pool with a jacuzzi. On-site restaurant is available and you can take your meal inside the dining room our outdoors on the patio. Rooms are large, clean, and well-equipped.
+}}
+* {{sleep
+| name=Hotel Real Hacienda Tlalnepantla | alt= | url= | email=
+| address=Av. Ceylan 9 | lat=19.56805971248252 | long=-99.2069473137324 | directions=
+| phone=+52 55 5310 6934 | tollfree= | fax=
+| checkin=15ː00 | checkout=12ː00 | price=M1000
+| wikipedia= | wikidata=
+| lastedit=2025-12-02
+| content=Basic road travel hotel with modester accommations at reasonable prices.
+}}
+
+==Connect==
+Cell phone services throughout Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas.
+
+{{usabledistrict}}
+
+{{geo|19.5167|-99.2500}}
+
+{{IsPartOf|Mexico City}}

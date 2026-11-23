@@ -1,0 +1,275 @@
+{{pagebanner|Paris 10e banner Facade of gare du Nord.png|pgname=10th arrondissement}}
+[[Image:Paris_10th_canal_st_martin.jpg|thumb|350px|Canal St. Martin]]
+
+The '''10th arrondissement''' of [[Paris]] centres on the ''Canal Saint Martin'' and the restaurants and cafés which line its banks. Part sleepy ''faubourg'' — as suburbs were called in 18th century Paris — and part industrial centre, the 10th arrondissement has lately enjoyed the benefits of both the booming nightlife scene in the neighbouring 11th, as well as the Parisian cycling and roller-blading boom. The streets lining the canal become car-free for the later half of the day each Saturday, and all day on Sundays for your cycling and strolling pleasure.
+
+There is another, more bustling side to the cosmopolitan 10th, however, as it is the location of two primary entry / exit points for the city, in the form of the two great train stations '''Gare du Nord''' and '''Gare de l'Est'''.
+
+One final focus to the 10th is the historic ''Place de la République'' in the far south of the ''arrondissement'', its many bars, restaurants and cafés.
+
+==Get in==
+{{Mapframe|48.8759|2.3604|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+{{Mapshapes|Q216125}} <!--Regional trains-->
+
+===''By Métro''===
+In Paris, metro stations are not equal. Stations such as Place de la Republique connect to many lines but can be time consuming for a first time visitor. A smaller station such as Goncourt is easier to get in and out of. You may walk a bit more on the street but that's easy and a lot more fun.
+
+==Do==
+* {{do
+| name=Palais des Glaces | alt= | url=http://www.palaisdesglaces.com | email=
+| address=37, rue du Faubourg-du-Temple | lat=48.8692 | long=2.36825 | directions=
+| phone=+33 1 4202 0525 | tollfree= | fax=
+| hours=Mon-Sat, 11:00-18:30 | price=
+| wikipedia=fr:Palais des glaces (Paris) | image=Paris FaubTemple-PalaisDesGlaces.JPG | wikidata=Q3361114
+| content=Grand palace with two theatres, the Palais des Glaces (Palace of Mirrors) features two shows, often two comics, simultaneously, and sometimes shows for children.
+}}
+* {{do
+| name=Promenade Canal St. Martin | alt= | url= | email=
+| address= | lat=48.874892 | long=2.363386 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Canal Saint-Martin | image=Paris canal saint-martin ecluse01.jpg | wikidata=Q860172
+| content=Enjoy a leisurely stroll along the water's edge while viewing amazing sunsets over the canal. Linger over a coffee and tuck into a pastry while feeling that you are experiencing the true Paris.
+}}
+
+==See==
+{{see| name=Porte Saint Denis | lat=48.869722 | long=2.3525 | wikipedia=Porte Saint-Denis | image=Porte Saint-Denis 01.jpg | wikidata=Q684594 | content=A triumphal arch built in 1672 for Louis XIV, in the former city wall. }}
+
+==Buy==
+The '''Boulevard de Strasbourg''', between Place de la République and Gare de l'Est, is known for supporting the ''coiffure'' or hairdressing trade, with dozens of shops selling hairdressing equipment and supplies. Interestingly the African hairdressers of Paris have set up shop right alongside their suppliers. So if you're interested you can have your hair done up in dreadlocks, pearly braids or another African style and can have your nails done too!
+
+Meanwhile ''rue de Marseille'' has a number of trendy clothing shops. Another good spot to explore the slightly dilapidated ''Passage Brady''. It's full of Indian and Pakistani restaurants, for which it's sometimes called "le Petit Bombay". Stop in at the Bazaar Velan for incense, spices, and kitsch souvenirs.
+
+For South Asian expats missing products from home, the stretch of '''Rue du Faubourg Saint-Denis''' between Gare du Nord and La Chapelle metro station is home to several Asian grocers, clothes/jewellery shops, Bollywood DVD shops and even a ''mithai'' (Indian confectionary) shop. '''VS.CO Cash and Carry''' has the largest range of food products from India, although it can also get very congested.
+
+* {{buy
+| name=Artazart | url= | email=info@artazart.com
+| address=83, quai de Valmy | lat=48.872779643464824| long=2.363669713478314| directions={{station|Jacques Bonsergent|5}}
+| phone=+33 1 40 40 24 00 | tollfree= | fax=
+| hours=Daily 10:30-19:30; Sat-Sun, 14:00-20:00 | price=
+| content=A bookshop, specializing in design & graphic design. Lots of imports.}}
+*{{buy
+| name=Marché St-Quentin | url= | email=
+| address= | lat=48.87667175985711 | long=2.355415401908425 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Sat, 08:00-13:00, 15:30-19:30, Sun, 08:00-13:00 | price=
+| content=Market that offers a variety of goods from flowers and produce to antiques and candies.}}
+* {{buy
+| name=Du Pain et des Idées | url=http://www.dupainetdesidees.com/ | email=
+| address=34, rue Yves Toudic | lat=48.87124086871266 | long=2.3628877153311905 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of the best new bakeries in Paris.}}
+
+==Eat==
+*{{eat
+| name=Bang! | alt= | url= | email=
+| address=112, quai de Jemmapes | lat=48.874453240758896 | long=2.3636393042861785 | directions=
+| phone=+33 1 40 40 07 11 | tollfree= | fax=
+| hours= | price=
+|lastedit=2026-08-25| content=Offers a selection of first class meats from all over the world (From American Angus and French Aubrac to Argentine Angus and Simmental from Bavaria), along with natural wines. The result is a friendly, warm space to meet friends, enjoy delicious food and converse against a soothing musical background of jazz and pop.
+}}
+*{{eat
+| name=Le Cambodge | url=http://www.lecambodge.fr | email=
+| address=10, av Richerand | lat=48.872087347777665 | long=2.366179633122192 | directions=
+| phone=+33 1 44 84 37 70 | tollfree= | fax=
+| hours= | price=
+| content=A small and charming restaurant with delicious Cambodian offerings. Order your selections by writing on the note card provided. Artistically inclined diners can see their orders memorialized as artwork on the walls.}}
+*{{eat
+| name=Chez Prune | url= | email=
+| address=36, rue Beaurepaire | lat=48.87161784087481 | long=2.3644973503015367 | directions=Near Canal St. Martin
+| phone=+33 1 42 41 30 47 | tollfree= | fax=
+| hours= | price=
+| content=Primarily a drinking establishment, but serves food as well. The cheese plate, which is served with bread and fruit, is particularly good. Often quite crowded with locals. Waitstaff not necessarily proficient in English.}}
+* {{eat
+| name=Julien | url= | email=
+| address=16, rue du Faubourg-St Denis | lat=48.87057967397344 | long=2.353263674226655 | directions={{station| Strasbourg-St Denis|4|8|9}}
+| phone=+33 1 47 70 12 06 | tollfree= | fax=
+| hours=Daily, Noon-15:00, 19:00-01:30 | price=Lunch €21, prix fixe €30, average plate €40, all cards taken.
+| content=The original 1890 decor of this Parisian dining classic is a mix of Cuban mahogany and Art Nouveau paintings and fixtures - an atmospheric treat. The cuisine is mostly south-western French: lots of foie gras and the speciality, ''cassoulet d'oie'' (goose in white beans).}}
+* {{eat
+| name=Restaurant La Strasbourgeoise | alt= | url= | email=
+| address=5, rue du 8 Mai 1945 | lat=48.87589533503875 | long=2.3591259358430974 | directions={{station|Gare de l'Est|4|5|P}}
+| phone=+33 1 42 05 20 02 | tollfree= | fax=
+| hours= | price=
+| content=One of the good "choucroutes" in Paris, with nice décor.}}
+*{{eat
+| name=Sésame | url=http://www.au-sesame.com/ | email=
+| address=51, quay de Valmy | lat=48.8702051918226 | long=2.3656193263763314 | directions=
+| phone=+33 1 42 49 03 21 | tollfree= | fax=
+| hours= | price=
+| content=A cute and comfortable little bistro with numerous vegetarian options, including an awesome vegi lasagne. The stove is warm and the staff are full of smiles.}}
+* {{eat
+| name=La Vigne Saint Laurent | url= | email=
+| address=2, rue Saint Laurent | lat=48.87549362796776 | long=2.3589063625700737 | directions={{station|Gare de l'Est|4|5|P}}
+| phone=+33 1 42 05 98 20 | tollfree= | fax=
+| hours=Daily lunch/dinner | price=
+| content=Tiny wine bar, good choice of classic country food (beautiful charcuterie) & good choice of reasonably priced wines.}}
+
+There are lots of Indian restaurants (very often owned by Pakistanis) in rue du Faubourg Saint Denis, between rue du Château d'Eau & rue de la Fidélité (Métro Château d'Eau). They offer cheap, tasty vegetarian and tandoori food that is typically €5. In Passage Brady (between boulevard de Strasbourg and rue du faubourg Saint Denis) '''Shalimar''' is a good choice for a great night out.
+
+In the same rue du Faubourg Saint Denis but higher up, between Gare du Nord & boulevard de la Chapelle (Métro Gare du Nord or La Chapelle), try out some Tamil food & Pondicherry specialities.
+
+* {{eat | name=Khrishna Bhavan | alt= | url=http://www.krishnabhavan.net | email= | address=24, rue Cail | lat=48.88285 | long=2.3596 | directions={{station|La Chapelle|2}} | phone=+33 1 42 05 78 43 | tollfree= | fax= | hours=Daily 11:00-23:00 | price=€5 mains | content=Serves excellent Indian vegetarian dishes from the southern state of Tamil Nadu and Sri Lanka. First timers can consider trying the Thali, a combo platter consisting of steamed rice served with 5 different curries.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+* {{eat
+| name=Saravanaa Bhavan | alt= | url=https://saravanabhavan.com/ | email=
+| address=170 Rue du Faubourg Saint-Denis | lat=48.879868 | long=2.357567 | directions=
+| phone=+33 140050101 | tollfree=
+| hours=10:00-23:00 Mon-Sun | price=
+| lastedit=2022-05-07
+| content=South Indian vegetarian chain restaurant.
+}}
+
+The 10th arrondissement is also one of the best places in Paris to find vegetarian cuisine that is not of Indian subcontinental fare:
+
+* {{eat
+| name=Bodhi Vegan | alt= | url=https://www.bodhivegan.fr/?lang=fr | email=
+| address=23 Avenue Claude Vellefaux | lat=48.875835 | long=2.370156 | directions={{station|Colonel Fabien|2}}
+| phone=+33 1 42 85 33 87 | tollfree=
+| hours= | price=
+| content=Cheap and cheerful South-East Asian vegan fare run by a Vietnamese sect. The menu is pretty gigantic so you'll be very spoilt for choice!
+}}
+
+* {{eat
+| name=Tien Hiang | alt= | url=https://www.tien-hiang.fr/ | email=
+| address=14 Rue Bichat | lat=48.87023744195457 | long=2.3689788018033444 | directions={{station|Goncourt|2}}
+| phone=+33 1 42 00 08 23 | tollfree= | fax=
+| hours= | price=
+| content=East/South-East Asian vegetarian restaurant. The mock duck (''canard laqué'') is to die for.}}
+
+* {{eat
+| name=Jah Jah By Le Tricycle | alt= | url= | email=
+| address=11 Rue des Petites Écuries | lat=48.87321055617094 | long=2.352965538644834 | directions={{station|Château d'Eau|2}}
+| phone=+33 1 46 27 38 03 | tollfree= | fax=
+| hours= | price=
+| content=Hipstery vegan restaurant with a slight Caribbean twist.}}
+* {{eat
+| name=Daily Syrien Veggie | alt= | url=https://m.facebook.com/LeDailySyrien/?locale2=fr_FR | email=
+| address=72 Rue du Faubourg Saint-Denis | lat=48.872955 | long=2.3547 | directions=
+| phone=+33 972872896 | tollfree=
+| hours=11:00-23:00 T-Sun | price={{EUR|10-15}} for a main course
+| lastedit=2022-05-07
+| content=Vegetarian Levantine cuisine.
+}}
+
+==Drink==
+[[Image:Paris_10th_arrondissement_map_with_listings.png|thumb|350px|Map of the 10th Arrondissement]]
+
+* {{drink | name=Baxo | url=http://www.baxo.fr | email= | address=21, rue Juliette Dodu | lat=48.875297361337594 | long=2.3690196552126563 | directions={{station|Colonel Fabien|2}} | phone=+33 1 42 02 99 71 | tollfree= | fax= | hours= | price= | content=A lounge bar restaurant with a ''bobo'' environment and rich dishes. A new romantic lounge bar with a very nice patio.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Le Verre Volé | url= | email=
+| address=67, rue Lancry | lat=48.87284262033676 | long=2.363446461958368 | directions={{station|Jacques Bonsergent|5}}, near the canal Saint Martin
+| phone=+33 1 48 03 17 34 | tollfree= | fax=
+| hours= | price=
+| content=A part wine bar-part wine shop, an excellent address for nice, simple food & wines. You can take home a bottle you've sampled during meal if you wish!}}
+* {{drink
+| name=Au fût et à mesure | alt= | url=http://www.aufutetamesure.fr/ | email=contact@aufut.fr
+| address=2, rue Hauteville | lat=48.87072 | long=2.34982 | directions={{station|Bonne-Nouvelle|8|9}}
+| phone=+33 7 87 06 19 98 | tollfree= | fax=
+| hours=17:00–02:00 daily | price=
+| lastedit=2018-02-23
+| content=A beer-bar coming with a new concept: one beer-pump on every table. Each table have its own distinct beer in the pump, so you have to meet people to taste other beers.
+}}
+
+==Sleep==
+
+===Budget===
+There are a number of real cheapies in the 10th which seem to be worth checking out.
+
+* {{sleep
+| name=Hotel de Maubeuge | url=http://paris-hotel-maubeuge.com | email=
+| address=79, rue de Maubeuge | lat= | long= | directions=Gare du Nord
+| phone =+33 1 48 78 03 49 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Simple and decent.}}
+* {{sleep
+| name=Hotel Paradis | url=http://www.hotelparadisparis.com | email=hotel@hotelparadisparis.com
+| address=41, rue des Petites Ecuries | lat= | long= | directions={{station|Bonne-Nouvelle|8|9}}
+| phone =+33 1 45 23 08 22 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=The Hôtel Paradis, in the west part of the 10th near '''Gare du Nord''' and the '''Opéra Garnier''' has garnered mostly positive reviews over the years. Many travellers note that it seems to be a good value for money.}}
+* {{sleep
+| name=Hotel Saint Quentin | url= | email=
+| address=27, rue de Saint Quentin | lat= | long= | directions=Gare du Nord
+| phone=+33 1 40 36 95 50 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+|lastedit=2026-08-25| content=Quiet location in a little street, just in front of the Gare du Nord.}}
+* {{sleep
+| name=Hôtel Vicq d'Azir | url= | email=
+| address=21, rue Vicq-d'Azir | lat= | long= | directions={{station|Colonel Fabien|2}}
+| phone=+33 1 42 08 06 80 | tollfree= | fax=
+| hours= | price=Rooms with a shower are €22.50/€28 singles/doubles or €18/€20 without a shower. Showers in the hall cost €3, so maybe go for the shower in the room
+| checkin= | checkout=
+| content=This little cheapie is in the process of a renovation under its new management. Most of the rooms overlook a nice little courtyard with a tree.}}
+* {{sleep
+| name=Peace and Love Hostel | url= | email=
+| address=245, rue Lafayette | lat= | long= | directions={{station|Jaurès|2|5|7bis}}
+| phone=+33 1 46 07 65 11 | tollfree= | fax=
+| hours= | price=€17 for a dorm bed in the off season €21 during high season. Double rooms are €25
+| checkin= | checkout=
+|lastedit=2026-08-25| content=Travellers who have a lot of hostel-staying experience mostly find the Peace and Love to be well within the high quality range for hostels. As usual in Paris the rooms are pretty small, the staff in general gets high marks, but the manager has been known to be crabby. Apparently the pub is good enough that there's some danger you might not go out. Must be between 18 and 35, and want to party to stay here. They suggest that if you want to sleep, this may not be the place for you.}}
+
+===Mid-range===
+* {{sleep
+| name=Albert 1er Hotel | url= | email=
+| address=162, rue Lafayette | lat= | long= | directions=
+| phone=+33 1 40 36 82 40 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=The rooms are not too big but very clean and well-equipped. The staff are friendly and can send you an official reservation confirmation if you need it.}}
+* {{sleep
+| name=Hôtel Paris Est Lafayette | url= | email=
+| address=175, rue Lafayette | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+|content= This 51-room hotel has modern furnishings decorated with warm colours. Staff are professional and efficient and there is 24-hr reception, as well as a tasty buffet breakfast each morning.}}
+* {{sleep
+| name=Hotel à la Villa Saint Martin | alt= | url= | email=hotel@villastmartin.com
+| address=27,rue des récollets | lat= | long= | directions=Métro: Gare de l'Est
+| phone=+33 1 46 07 07 07 | tollfree= | fax=
+| checkin=14:00 | checkout=11:30 | price=
+|lastedit=2026-08-25| content=A 3-star hotel offering features such as free Wi-Fi , flat screen TV, fitness room.}}
+* {{sleep
+| name=Quality Hotel Gare Du Nord | url= | email=
+| address=31/33, rue de Saint-Quentin | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Housed in a historic building dating back to 1868, the Quality Hotel includes in all its rooms modem plugs, Wi-Fi access, and tea & coffee makers. }}
+
+===Splurge===
+* {{sleep | name=Le Citizen Hotel | url=http://www.lecitizenhotel.com/en/ | email=contact@lecitizenhotel.com | address=96, quai de Jemmapes | lat= | long= | directions=Corner of quai de Jammapes and rue de la Grange aux Belles | phone=+33 1 83 62 55 50 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=To an American, it will feel cramped, but it is well appointed and comfortable. Views of the canal locks are superb. Staff is extremely friendly and helpful, and daily breakfast is a magnificent start to the day.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 4 jms.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl1=
+| directionr1=S
+| majorr1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorr1=[[Paris/2nd arrondissement|2nd arrondissement]]
+
+| image2=Paris Metro 5.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Bobigny]]
+| minorl2=[[Paris/19th arrondissement|19th arrondissement]]
+| directionr2=S
+| majorr2=[[Paris/13th arrondissement|13th arrondissement]]
+| minorr2='''[[Paris/3rd arrondissement|3rd arrondissement]]'''
+}}
+
+{{guidedistrict}}
+{{geo|48.8759|2.3604|zoom=14}}
+{{IsPartOf|Paris}}

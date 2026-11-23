@@ -1,0 +1,411 @@
+{{pagebanner|Trastevere banner1.JPG}}
+
+'''Trastevere''' is a district in [[Rome]]. The district's name derives from the Latin words "Trans Tiberem": beyond the Tiber river. Today Trastevere is one of the centers of Roman night life; rich in pubs, restaurants, clubs. Trastevere has a high population of expatriates and American college students as there are two American universities in the area.
+
+==Get in==
+{{Mapframe|41.89106|12.46869|width=530|height=560|zoom=15}}
+{{Mapshape}}
+{{mapshapes|Q237480}}
+
+===By train===
+Trains (marked ''regionale'', not the express to Termini) from Leonardo da Vinci airport stop at Trastevere Railway station. Then hop on tram n° 8.
+
+===By tram===
+'''Tram n° 8''' from Piazza Argentina is a nice tram for the short distance from close to the Pantheon to Trastevere. It runs frequently but unless you have luggage Trastevere is close enough to walk.
+
+===By bus===
+* '''Night Bus n° 8'''
+* '''Bus n° H''' from Stazione Termini (the main train station)
+
+===By car===
+Cars of non-residents of Trastevere are not permitted to park there after dark so you'll have to park close and walk if you're going by car. Beware that on weekends or on any warm evening parking can involve driving round in circles for a long time looking for a place.
+
+==See==
+* {{see
+| name=San Crisogono | alt= | url= | email=
+| address=Piazza Sonnino 40 | lat=41.8891 | long=12.473732 | directions=bus H, 23, 280, tram 8
+| phone=+39 065818225 | tollfree=
+| hours=Mon-Sat 07:30-11:30 and 16:15-19:30, Sun 08:30-13:00 and 16:15-19:30 | price=
+| wikipedia=San Crisogono, Rome | image=Trastevere - san Crisogono 01424.JPG | wikidata=Q1631638
+| content=Underneath the beautiful baroque church (with repurposed ancient Roman columns) there is a surprisingly large crypt, where ancient Roman ruins can be viewed. You can also see beautiful early Christian frescoes. Entry is €3 per person, payable in cash only.
+}}
+* {{see
+| name=Casa della Fornarina | url= | email=
+| address=Via di Santa Dorotea 20 | lat= | long= | directions=bus 23, 280
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=There is little information available on Raphael's mistress ''La Fornarina''. Margherita was the daughter of a baker from Siena. His shop was near Villa Farnesina where Raphael was painting. It is reported that Raphael repudiated her on his death bed as he wanted to be redeemed from his sins. Four months after his death Margherita joined the monastery Santa Apollonia in Trastevere. It is said that she was model for Raphael's portrait ''La Donna Velata''.
+}}
+[[File:Ponte Sisto, Rome - 2235.jpg|thumb|Ponte Sisto]]
+* {{see
+| name=Ponte Sisto | alt= | url= | email=
+| address= | lat=41.892336 | long=12.470794 | directions=bus 23, 380
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Ponte Sisto | image=010101 13 ponte sisto 1.JPG | wikidata=Q586329
+| content=''Pope Sixtus IV della Rovere'' (1471-1481) gave order to replace the old Roman bridge by a new one. It was Pope Sixtus IV who also ordered the Sistine Chapel and the Opsedale di Santo Spirito to be built. So he ran out of money. He levied a tax on prostitution in order to gain money for the construction of the Ponte Sisto.
+}}
+[[Image:Santa Maria in Trastevere front.jpg|thumb|Santa Maria in Trastevere]]
+* {{see | name=Santa Maria in Trastevere | alt= | url=http://www.vicariatusurbis.org/?page_id=188&ID=2 | email= | address=Piazza Santa Maria in Trastevere | lat=41.889444 | long=12.469722 | directions=bus stop Viale di Trastevere, bus n° H,8,630 and 780 | phone=+39 06 581 4802 | tollfree= | hours=summer: 08:00-20:00, winter: 08:00-12:00, 16:00-20:00 | price= | wikipedia=Santa Maria in Trastevere | image=Santa Maria in Trastevere front.jpg | wikidata=Q1137391 | content=One of the oldest churches in the city. The nave is lined with a mismatched collection of columns taken from ancient Roman buildings. The apse is covered in gold mosaics from the 13th century, arguably the finest mosaics in the city. Impressive mosaics also on the front. According to legend the church was founded in 222, so it would be one of the most ancient churches in the city. Written records mention a church on this place in 337. What is visible today was built in the 12th century, by order of Pope Innocent III. The facade is decorated with mosaics representing the Virgin Mary and ten unidentified figures. Most probably these mosaics are the work of ''Petro Cavallini'' who created the mosaics of the lower apse dated 1290 representing scenes from the life of Mary. The mosaics of the upper apse in Byzantine style are even older and date from 1140. The columns of the nave originate from the ancient Baths of Caracalla. The facade of Santa Maria in Trastevere is even more impressive at night when it is illuminated.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+[[Image:San Maria in Trastevere, interior.jpg|thumb|The interior of Santa Maria]]
+* {{see
+| name=Santa Cecilia in Trastevere | alt= | url= | email=
+| address=Piazza di Santa Cecilia in Trastevere | lat=41.887556 | long=12.475892 | directions=
+| phone=+39 06 589 9289 | tollfree= | fax=
+| hours=daily 09:30-12:30, 16:00-18:30, frescos by Cavallini: Mon-Sat 10:15-12:15, Sun 11:00-12:30 | price=
+| wikipedia=Santa Cecilia in Trastevere | image=Santa cecilia in trastevere, esterno 02.jpg | wikidata=Q1479873
+| content=Very ornately done and beautiful inside, but don't expect any information in English. All information panels are only in Italian. It's still a beautiful site though even if you don't read Italian. According to tradition St.Cecily suffered a particular cruel death as a martyr. She was scalded, suffocated and beheaded by three strokes on her neck. As she was singing all the time during her martyrdom she is considered the patron of music. The building of today shows a mixture of various styles, from the porticus of the 12th-century to the 18th-century facade.
+}}
+* {{see
+| name=San Francesco a Ripa | alt= | url=http://www.sanfrancescoaripa.com/ | email=
+| address=Piazza S.Francesco d'Assisi | lat=41.885127 | long=12.473186 | directions=South side of Trastevere
+| phone= | tollfree= | fax=
+| hours=open to the public every day from 08:00 to 13:00 and from 14:00 to 19:30. During the liturgical celebrations is not possible to visit the church or the shrine | price=
+| wikipedia=San Francesco a Ripa | image=Cappella palluzzi-albertoni di giacomo mola (1622-25), con beata ludovica alberoni di bernini (1671-75) e pala del baciccio (s. anna e la vergine) 05.jpg | wikidata=Q571088
+| content=Named after St. Francis of Assisi, who stayed nearby. Inside the Paluzzi-Albertoni chapel is one of Bernini’s masterpieces, the statue of the Blessed Ludovica Albertoni. The column in front of the church comes from the ruins of Veii (see [[Rome/North]]).
+}}
+* {{see
+| name=Villa Farnesina | alt= | url=http://www.villafarnesina.it | email=lapenta@lincei.it
+| address=Via della Lungara 230 | lat=41.893611 | long=12.4675 | directions=on the northern edge of Trastevere
+| phone=+39 06 6802 7268 | tollfree= | fax=
+| hours=Mon-Sat 09:09-14:00 | price=€6
+| wikipedia=Villa Farnesina | image=VFarnesina.jpg | wikidata=Q1126723
+| content=Delightful Renaissance house that was built by a rich banker from [[Siena]], ''Agostino Chigi''. In 1577 it was bought by the Farnese family and has since been known as Villa Farnesina. At one time there were plans by Michelangelo to build a bridge over the river to connect the villa with Palazzo Farnese on the other side. You can tour several beautiful rooms that are all decorated with frescoes, including some by ''Raphael''. Particularly entertaining is the ''Loggia of Cupid and Psyche'', the former entrance hall, in which nearly every person represented is without clothes.
+}}
+* {{see
+| name=National Gallery of Ancient Art | alt= | url=http://www.barberinicorsini.org/ | email=
+| address=Via della Lungara 10 | lat=41.893328 | long=12.466586 | directions=beside the Villa Farnesina
+| phone=+39 06 68802323 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Galleria Nazionale d'Arte Antica | image=Bernini PalazzoBarberini.jpg | wikidata=Q2266081
+| lastedit=2016-06-14
+| content=housed in the baroque palace Corsini where Christina, Queen of Sweden settled down in the last years of her life
+}}
+* {{see | name=Orto Botanico dell'Università di Roma "La Sapienza" | alt=Botanical Gardens | url=https://web.uniroma1.it/ortobotanico/ | email=info-ortobotanico@uniroma1.it | address=Largo Cristina di Svezia, 24 | lat=41.892296 | long=12.465853 | directions=Northwest edge of Trastevere | phone=+39 0649917107 | tollfree= | fax= | hours=Nov-Mar: Mon-Sat 09:00-17:30; Apr-Oct: Mon-Sat 09:00-17:30 | price=€8 | wikipedia=Orto Botanico dell'Università di Roma "La Sapienza" | image=Orto botanico - ingresso 2704.JPG | wikidata=Q1072277 | lastedit=2016-12-20 | content=This garden was established in 1883. It has over 3,500 species of plants and includes a "Scent-and-Touch" garden for those who are visually impaired.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museum of Rome in Trastevere | alt=Museo di Roma in Trastevere | url=http://www.museodiromaintrastevere.it/en | email=
+| address=Piazza Sant'Egidio 1/b | lat=41.88986 | long=12.46897 | directions=just behind Santa Maria in Trastevere
+| phone=+39 06 0608 (daily 09:00-19:00) | tollfree= | fax=
+| hours=Tue-Sun 10:00-20:00, Mon closed. Last admission 1h before closing | price=€8.50
+| wikipedia=Museo di Roma in Trastevere | image=Trastevere - piazza sant'Egidio 1521.JPG | wikidata=Q3868182
+| content=Permanent collection features paintings and drawings of Rome between the 18th and 20th centuries together with a fascinating black and white photo exhibition of Rome from 1950-80. Also offers rotating exhibitions, usually of the work of photographers.
+}}
+
+* {{see
+| name=Villa Sciarra | alt= | url= | email=
+| address=Viale delle Mura Gianicolensi | lat=41.8835 | long=12.4649 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q14479150
+| lastedit=2020-01-12
+| content=A lovely, if somewhat run-down park (parts of it are blocked due to the poor state of the roads) with statues and a great view on the city.
+}}
+===The Janiculum===
+[[Image:Roma-tempiettobramante01R.jpg|thumb|The Tempietto]]
+* {{see
+| name=Il Gianicolo | alt=Janiculum Hill | url= | email=
+| address= | lat=41.891667 | long=12.461111 | directions=can be reached by climbing Via Garibaldi from Trastevere; go right, through the gates, into the Passegiato di Gianicolo in order to reach the viewpoint at Piazza Garibaldi
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Janiculum | image=Monteverde tempio di Iside 2873.JPG | wikidata=Q303001
+| content=This is not, contrary to popular belief, one of the original seven hills that Rome was founded on. It is the second highest after Monte Mario, though, and offers incredible panoramic views of the city as long as the authorities remember to prune the trees on the hillside (if they are too tall you can walk a few meters down the hill for views that are just as good). On the other side of the piazza there is also a nice view of the dome of St. Peter's. The Piazza and the street leading up the hill are dedicated to Giuseppe Garibaldi who led Italian troops against the French here in 1849. There are also several commemorative statues.
+}}
+* {{see
+| name=San Pietro in Montorio | alt= | url=http://www.sanpietroinmontorio.it/home.html | email=
+| address= | lat=41.88848 | long=12.46652 | directions=on the second corner of the windy Via Garibaldi
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=San Pietro in Montorio | image=San Pietro in Montorio2.JPG | wikidata=Q1258576
+| content=This church, which was commissioned by Ferdinand and Isabella of Spain, marks the point where, according to tradition, St. Peter was crucified. Particularly interesting for Irish visitors as it contains the graves of three Gaelic Chiefs who fled Ireland in 1607.
+}}
+* {{see
+| name=The Tempietto | alt= | url= | email=
+| address= | lat=41.88868 | long=12.46641 | directions=in the grounds of San Pietro in Montorio
+| phone= | tollfree= | fax=
+| hours=Tue-Sat 10:00-18:00, Mon closed | price=Free
+| wikipedia=San_Pietro_in_Montorio | image=Tempietto05.jpg | wikidata=Q12960184
+| content=Designed by Bramante to mark the spot of St. Peter's martyrdom, this delightful miniature building is considered a masterpiece of Renaissance architecture. Open to the public.
+}}
+[[File:A biker passes by La Fontana Paola in Monte Gianicolo, Rome - 3458.jpg|thumb|''Fontana dell'Acqua Paola'']]
+* {{see
+| name=Fontana dell'Acqua Paola | alt= | url= | email=
+| address= | lat=41.88875 | long=12.464167 | directions=on the left of Via Garibaldi opposite San Pietro in Montorio
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fontana dell'Acqua Paola | image=Fontana dell'Acqua Paola02.jpg | wikidata=Q1435809
+| content=This massive early 17th-century Baroque fountain was built to celebrate the re-opening of an old Roman aqueduct. Water played an important role in this area in Roman times as the grain was milled here using water mills.
+}}
+* {{see
+| name=Manfredi Lighthouse | alt=Faro del Gianicolo | url= | email=
+| address= | lat=41.893805 | long=12.460813 | directions=after Piazza Garibaldi follow the road down the hill in the direction of St. Peter's | phone= | tollfree= | fax=
+| hours= | price=
+| image=Roma 2011 08 15 Faro di Roma.jpg | wikidata=Q28375369
+| content=Strange to see a lighthouse on top of a hill. This was built in 1911 and was a gift to the city from Italians living in Argentina. From here you can continue down the hill, past Rome's largest and Italy's most important children's hospital, ''Bambino Gesu'', eventually arriving at the River Tiber close to the Vatican.
+}}
+
+==Do==
+
+[[File:Night life in Piazza Trilussa in Trastevere, Rome - 3316.jpg|thumb|Night life in Piazza Trilussa]]
+* {{do
+| name=Get lost in Trastevere | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The cobbled streets are narrow and winding and random but losing your way will lead you to places you might not otherwise find. Note that the cobblestone streets (locally called ''sampietrini'') are being paved elsewhere in Rome as the vibrations from cars driving over them have been found to lead to cracking in the foundations of many of the monuments and historic sites around the city. The sampietrini are mostly being left alone in Trastevere though.
+}}
+* {{do
+| name=Piazza S. Maria in Trastevere | alt= | url= | email=
+| address= | lat=41.88962 | long=12.47031 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q638259
+| content=Beautiful place to hang around and watch people going by, as well as the many buskers usually found in the square. Join the students sitting on the steps of the fountain or, if you can afford it, have a drink or meal at one of the restaurants and bars on two sides of the square.
+}}
+* {{do | name=Big Mama | alt= | url=http://www.bigmama.it/ | email= | address=Vicolo di San Francesco a Ripa 18 | lat=41.88582 | long=12.47196 | directions=a narrow street leading off Via di San Francesco a Ripa | phone= | tollfree= | fax= | hours=Shows normally begin around 22:00 but check Press for details | price= | content=Rome’s original "House of the Blues". Has been going strong for 25 years. Italian and international artists, with blues and jazz concerts.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Buy==
+
+*'''Viale di Trastevere''', from the start of this 2.5-km-long street at Ponte Garibaldi (in the north) and all the way to the Trastevere Train Station (in the south) you can find stands selling fresh fruit and vegetables, flowers, clothing, accessories (such as knock-off designer purses and wallets) and a number of other things.
+* {{buy
+| name=Porta Portese | alt= | url= | email=
+| address= | lat=41.88395 | long=12.47399 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=On Sunday mornings there is a huge flea market. It extends from Porta Portese to Viale di Trastevere.
+}}
+
+==Eat==
+Trastevere is the best place in city to get great Italian food at reasonable prices. There are dozens of quality restaurants in this area. A few are listed below; prices for a pizza or pasta dish with some wine or beer and ''bruschetta'' are around €12-15 and should not exceed €20 per person, though if you want to spend more you certainly have the option. Restaurants tend to open much earlier here than in other parts of Rome, mainly to cater to tourists as no self-respecting Roman would go out for dinner before 20:00.
+
+* {{eat
+| name=Ai Bozzi | alt= | url=http://www.ristorantetrastevere.it/ | email=
+| address=Piazza Giuditta Tavani Arquati 107 | lat=41.8899 | long=12.4728 | directions=in the heart of Trastevere, off Via della Lungaretta, close to piazza Santa Maria in Trastevere
+| phone=+39 06 58 16 640 | tollfree= | fax=
+| hours=12:30-15:30 & 19:00-00:00 | price=€20-40 per person
+| content=Italian restaurant with excellent food and professional service. Traditional dishes as well innovative variations (try the fettuccine with artichokes and guanciale). Pizza is also served in the evening. Lovely outside terrace overlooking the piazza.
+}}
+* {{eat
+| name=Augusto | alt= | url= | email=
+| address=Piazza de' Renzi, 15 | lat=41.89045 | long=12.47032 | directions=
+| phone=+39 06 580 3798 | tollfree= | fax=
+| hours=from 20:00 | price=
+| content=A small osteria in the heart of Trastevere. Authentic non-touristic Roman restaurant serving classic Roman dishes, hand-made desserts and wine. It's a good idea to phone ahead to see if they have room because this small place fills up fast every night, although if you don't mind waiting they'll squeeze you in if they can. They do not take reservations.
+}}
+* {{eat
+| name=Fior di luna | alt= | url=http://www.fiordiluna.com | email=
+| address=Via della Lungaretta 96 | lat=41.88960 | long=12.47264 | directions=
+| phone=+39 06 6456 1314 | tollfree= | fax=
+| hours= | price=
+| content=Very good ice cream and made from fair trade products by an ice cream artist with a passion for taste.
+}}
+* {{eat | name=Glass Hostaria | alt= | url=http://www.glass-hostaria.it/ {{dead link|December 2020}} | email=infoglass@libero.it | address=Vicolo del Cinque 58 | lat=41.89051 | long=12.46918 | directions= | phone=+39 06 5833 5903 | tollfree= | fax=+39 06 5834 9666 | hours=Tue-Sat 20:00-23:00; closed 21 Jan 21-6 Feb | price=€30-50 | content=Uber-modern trattoria.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Ivo a Trastevere | alt= | url=https://ivoatrastevere.it/ | email=
+| address=Via di S. Francesco a Ripa 158 | lat=41.888110 | long=12.471110 | directions=a short walk from Piazza Santa Maria in Trastevere
+| phone=+39 06 581 7082 | tollfree=
+| hours= | price=
+| content=Get here early if you want a table without a wait. Very popular pizzeria that attracts lengthy queues of young Romans, so it must be good.
+}}
+* {{eat
+| name=La Gattabuia | alt= | url=http://lagattabuia.jimdo.com/ | email=info@lagattabuia.it
+| address=Via Del Porto 1 | lat=41.886425 | long=12.477066 | directions=
+| phone=+39 06 584813 | tollfree=
+| hours=Lunch (except Sat) 12:00 -14:30; dinner (every day) 19:30 - 23:30 | price=
+| content=Serves pizza, pasta and steak. Great atmosphere and friendly staff. Unique location and décor.
+}}
+* {{eat
+| name=Osteria dell'Aquila | url= | email=
+| address=Via Natale del Grande 52/53 | lat= | long= | directions=take the H bus to Trastevere
+| phone=+39 06 5810924 | tollfree= | fax=+39 06 581 0924
+| hours=Wed-Mon | price=
+| content=Mediterranean style restaurant. Menu is in Italian and English, and the waiters speak both languages. Open for lunch and dinner. The meals here are excellent and at very good prices. Make sure to try the seafood appetizers.
+}}
+* {{eat
+| name=Osteria der Belli | alt= | url=https://ostepercaso.com/osteria-der-belli/ | email=
+| address=P.za di Sant'Apollonia, 11 | lat=41.889872 | long=12.470797 | directions=very close to Piazza Santa Maria
+| phone=+39 065803782 | tollfree=
+| hours= | price=
+| content=Run by four brothers from Sardinia. Particularly recommended for its seafood dishes.
+}}
+* {{eat
+| name=Pizzeria La Boccaccia | alt= | url= | email=
+| address=Via di San Francesco a Ripa 21 | lat=41.887646 | long=12.471527 | directions=
+| phone= | tollfree=
+| hours=Open everyday | price=€5 for a pizza
+| content=Great little pizzeria run by 2 friendly Neapolitan brothers. You can get a big slice and a huge ice cold beer for €5. The place gets full of locals. That should tell you everything. get there quite early as in the evening they have a few pizzas left, most popular time is around lunch and after school. Also note that the street Via di San Francesco a Ripa has a strange numbering system - odd and even numbers are on the same side of the street so no 21 will be between 20 and 22.
+}}
+* {{eat
+| name=Il Vicola Da Tony | alt= | url= | email=
+| address=Vicolo del Cinque, 27 | lat=41.891168 | long=12.469811 | directions=near Piazza Trilussa (off the Lungotevere, near the Ponte Sisto)
+| phone= | tollfree=
+| hours= | price=
+| content=On a beautiful old Roman laneway with indoor and outdoor seating. One of the best lasagne in the city as well as plenty of pasta, meat and seafood options. ''Risotto alla pescatora'' (seafood risotto) is delicious; don't ask for the fish if you can't get a quick mortgage to pay for it. Prices bear no relation whatsoever to the menu.
+}}
+* {{eat | name=Trattoria de Gli Amici | alt= | url=http://www.trattoriadegliamici.org/ | email= | address=Piazza Sant'Egidio 6 | lat=41.89028 | long=12.46898 | directions= | phone=+39 06 580 6033 | tollfree= | fax= | hours=Mon-Sat 19:30 to 23:30 | price= | content=Very interesting place in the heart of Trastevere district. Run by very kind handicapped people, it has nice cuisine.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Vincenzo alla Lungaretta | alt= | url= | email=
+| address=Via della Lungaretta 170/173 | lat=41.88934 | long=12.47591 | directions=
+| phone=+39 06 580 0345 | tollfree= | fax=
+| hours= | price=
+| content=Out of the way. Great food and great service and a very reasonable price.
+}}
+* {{eat
+| name=Vivi Bistrot | alt= | url=http://www.vivibistrot.com/ | email=
+| address=Via Vitellia, 102 | lat=41.881750 | long=12.441846 | directions=in the Villa Pamphili park
+| phone=+39 06 582 7540 | tollfree=
+| hours= | price=
+| content=Suitable for children as well. Useful for arranging a picnic in the park.
+}}
+* {{eat
+| name=Enoteca Ferrara | alt= | url=https://enotecaferrara.com/ | email=
+| address=Piazza Trilussa 41 | lat=41.891369 | long=12.470254 | directions=
+| phone=+39 0658333920 | tollfree=
+| hours= | price=
+| content=Luxury restaurant
+}}
+* {{eat
+| name=Sora Lella | alt= | url=http://www.trattoriasoralella.it/ | email=
+| address=Via di Ponte Quattro Capi 16 | lat=41.890795 | long=12.478018 | directions=on Isola Tiberina
+| phone=+39 066861601 | tollfree=
+| hours=closed Sun, Tue morning and 2 weeks in August | price=€44 to 58
+| content=
+}}
+* {{eat | name=Osteria Corsetti 1921 Roma | alt= | url=http://www.corsetti1921.com/en/ | email= | address=Piazza San Cosimato 27 | lat=41.887154 | long=12.469041 | directions= | phone=+39 065816311 | tollfree= | hours=Mon-Sat | price=€47 to 72 | content=
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Drink==
+[[File:Night life at Trastevere, Rome - 3351.jpg|thumb|Night life in Trastevere.]]
+* {{drink
+| name=Baccanale | alt= | url=http://www.baccanaletrastevere.com/ | email=
+| address=Via della Lungaretta | lat=41.889606 | long=12.471722 | directions=
+| phone=+39 0645448268 | tollfree=
+| hours= | price=
+| content=A small bar with a great range of drinks, friendly staff and a manic display of cocktail making later on in the evening. There are several TV screens showing major sporting events. Probably the best bar in the world considering its location and stereotypical perfection. The staff are very welcoming to tourists. It is a secret that you'll be lucky to find in the narrow, winding streets of Trastevere.
+}}
+
+==Sleep==
+
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES
+-->
+
+===Budget===
+* {{sleep
+| name=Hotel Cisterna Rome | alt= | url=http://www.hotelcisternarome.com | email=
+| address=Viale della Cisterna, 7 | lat=41.888557 | long=12.471472 | directions=
+| phone=+39 06 581 7212 | tollfree= | fax=+39 06 581 0091
+| checkin= | checkout= | price=€110-190
+| content=2-star hotel with 24-hr reception. 20 rooms, All equipped with modern services and private bathrooms. Bookable online.
+}}
+* {{sleep
+| name=Roma Trasteverina B&B | alt= | url=http://www.romatrasteverina.com/ | email=
+| address=Via Luigi Santini 21 | lat=41.887148 | long=12.468644 | directions=
+| phone=+39 320 617 3754 | tollfree= | fax=+39 06 556 5466
+| checkin= | checkout= | price=Single €40-60, double €80-120, twin and double rooms
+| content=
+}}
+* {{sleep
+| name=Relais Rome Sweet Home Trastevere | alt= | url=http://www.romesweethome.com/ | email=trastevere@relaisromesweethome.it
+| address=Viale Trastevere, 70 | lat=41.886143 | long=12.471363 | directions=tram 8 get off at Pubblica Istruzione
+| phone=+39 06 8376 7113 | tollfree= | fax=+39 06 6979 7730
+| checkin=11:00 | checkout=10:00 | price=€80-240
+| content=Small hotel with 4 rooms. All equipped with satTV, Wi-Fi and private bathrooms. Online booking.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Arco dei Tolomei | alt= | url=https://www.bbarcodeitolomei.com/ | email=info@bbarcodeitolomei.com
+| address=Via dell'Arco dei Tolomei 27 | lat=41.888805 | long=12.476335 | directions=
+| phone=+39 06 5832 0819 | tollfree= | fax=+39 06 589 9703
+| checkin= | checkout= | price=€190-220
+| content=All the rooms come with private bath and shower.
+}}
+* {{sleep
+| name=Grand Hotel Gianicolo Rome | alt= | url=https://www.grandhotelgianicolo.it/ | email=
+| address=Viale delle Mura Gianicolense 107 | lat=41.887723 | long=12.460823 | directions=
+| phone=+39 06 58333405 | tollfree= | fax=+39 06 58179434
+| checkin= | checkout= | price=Single €140, double €170
+| content=Four star accommodation with twin, double with jacuzzi, triple and dus (double for single use). All with private bath and shower. Swimming pool, a private garden and a fantastic panoramic view of Rome.
+}}
+* {{sleep
+| name=Hotel Santa Maria | alt= | url=http://www.htlsantamaria.com/english/index.htm | email=
+| address=Vicolo del Piede 2 | lat=41.890133 | long=12.470046 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=€160-230
+| content=Gated hotel just off Piazza Santa Maria. Comfortable and has a nice courtyard.
+}}
+* {{sleep
+| name=Hotel Villa della Fonte | alt= | url=http://www.villafonte.com/ | email=info@villafonte.com
+| address=Via della Fonte d'Olio 8 | lat=41.890048 | long=12.470043 | directions=
+| phone=+39 06 580 3797 | tollfree= | fax=+39 06 580 3796
+| checkin= | checkout= | price=€150-180
+| content=Small hotel, all rooms have a private bath, free Wi-Fi, satelliteTV and A/C.
+}}
+* {{sleep | name=WRH Trastevere | alt= | url=http://www.wrh-trastevere.com/ | email=info@wrh-trastevere.com | address=Via di San Crisogono, 40 | lat=41.88786 | long=12.47432 | directions= | phone=+39 06 580 6344 | tollfree= | fax=+39 06 9670 8681 | checkin=13:00 | checkout=11:00 | price=€79-166 (low season-high season) | content=Friendly modern & minimalist guesthouse.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hotel Parrasio | alt= | url=https://www.hotelparrasio.com/ | email= | address=Salita del Bosco Parrasio, 5 | lat=41.889613 | long=12.465721 | directions= | phone=+39 0694517620 | tollfree= | checkin= | checkout= | price=€95-261 (low season-high season) | lastedit=2023-02-26 | content=
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+=== Splurge ===
+* {{sleep
+| name=Gran Meliá Rome | url=https://www.melia.com/en/hotels/italy/rome/gran-melia-rome/index.htm | email=gran.melia.rome@melia.com
+| address=Via del Gianicolo, 3 | lat=41.898910 | long=12.460934 | directions=
+| phone=+39 06 925901 | tollfree= | fax=+39 06 92590300
+| checkin=15:00 | checkout=12:00 | price=from €200
+| content=A luxury 5-star hotel with single, double, triple and quadruple rooms, very quiet with a view of Vatican City.
+}}
+
+==Connect==
+
+==Go next==
+* [[Rome/North]] &mdash; contains the nearby Villa Doria Pamphili inside a large park
+
+{{routebox
+| image1=Ferrovia regionale laziale FL1.svg
+| imagesize1=22
+| caption1=Lazio regional railway line FL1
+| directionl1=SW
+| majorl1=[[Leonardo da Vinci-Fiumicino Airport|Fiumicino Airport]]
+| minorl1=[[Rome/South|South Rome]]
+| directionr1=NE
+| majorr1=[[Rome/Nomentano|Nomentano]]
+| minorr1=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+
+| image2=Ferrovia regionale laziale FL3 (green background).svg
+| imagesize2=22
+| caption2=Lazio regional railway line FL3
+| directionl2=N
+| majorl2=[[Viterbo]]
+| minorl2=[[Rome/North|North Rome]]
+| directionr2=S
+| majorr2=END
+| minorr2=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+
+| image3=Ferrovia regionale laziale FL5.svg
+| imagesize3=22
+| caption3=Lazio regional railway line FL5
+| directionl3=W
+| majorl3=[[Civitavecchia]]
+| minorl3=[[Rome/South|South Rome]]
+| directionr3=E
+| majorr3=[[Rome/Modern Center|Modern Center]]
+| minorr3=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Rome}}
+{{Geo|41.887222|12.465556}}

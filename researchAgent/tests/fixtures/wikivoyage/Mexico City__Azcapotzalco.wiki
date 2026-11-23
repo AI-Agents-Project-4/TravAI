@@ -1,0 +1,271 @@
+{{pagebanner|Azcapotzalco banner.jpg|pgname=Azcapotzalco}}
+
+'''Azcapotzalco''' is a district in northwestern [[Mexico City]]. Visitors to Mexico City are most likely to come to this area for events at the Arena de Ciudad de Mexico or to visit its well-known parks. It also has interesting small historical museums and a famous restaurant scene (to serious foodies and pro chefs, but largely unknown to more casual travelers). It is a very non-touristy part of the city that nonetheless has some authentic gems and real history and culture. The neighborhood is the hometown of pop singer Jose Jose.
+
+== Understand ==
+[[File:Azcapotzalco - Escultura de Tezozomoc.JPG|thumb|[[Sculpture|Statue]] of Tezozomoc, King of the Tepanec]]
+Azcapotzalco was one of the earliest settlements in Mexico City, predating the Aztec dominion by at least two centuries. It was originally settled in the 12th century by the ''Tepanec'' [[Indigenous cultures of Mesoamerica|indigenous culture]] who built it into one of the largest cities of its day. It was so densely populated that it got it name, Azcapotzalco, from the Nahuatl word for anthill. Today, that story of origins is the reason why you often see an icon of an ant associated with the community (such as the station icon for one of its metro stations). The Tepanec were a Mexica people with common language and customs as the Aztec, and the road between Azcapotzalco and Tenochtitlan was a major thoroughfare (and is still a major highway today).
+
+During the [[Mexican War of Independence]], Azcapotzalco was the site of the last battle in Mexico's struggle for Independence from Spain. In the final days of the war, the royalist troops held only a few strongholds in Mexico City and the port of Veracruz. Soldiers billeted in several [[Haciendas|haciendas]] including the Haciendas of Clavería, Tacuba, Popotla and San Jacinto. Fighting took place in the square when royalists killed an insurgent who was trying to defend a cannon, the fighting took on a new intensity in front of the Dominican convent (today the Cathedral of Azcapotzalco) and spread to hand-to-hand combat in the vestibules of the monastery itself.  The royalists were routed though, leaving the local haciendas to insurgents. The war lasted only a few more days.
+
+Azcapotzalco is one of the 16 ''alcaldias'' that make up Mexico City. The limits of the district as used by Wikivoyage are the same as the official borders used on CDMX maps. The alcaldia has about 430,000 residents.
+
+==Get in and around==
+{{mapframe|zoom=13|19.4857|-99.1840}}
+{{mapshape|Q994867}}
+Taxis and Uber are a good way to get around within Azcapotzalco, where public transit is also a good option.
+
+=== By Metro ===
+This part of town is very well connected by public transit. The Metro subway system has 9 stations in Azcapotzalco on two lines. Line 6 (red) serves the northern parts of the borough and Line 7 (orange) serves areas in the west. 
+
+The Metrobus BRT (bus rapid transit) system has large articulated buses that operates in dedicated lanes of major thoroughfares. 
+
+From Metro and Metrobus stations you can transfer to local buses or electric trolleybuses. A Metro fare card is needed to ride Metro or Metrobus. Metro and Metrobus both have designated waiting areas for women, children and handicapped travelers with dedicated train cars or seats on buses.
+
+The El Rosario Metro station is also an important transport hub, served by Metro Lines 6 and 7, Metrobus (BRT) routes, Mexi-bus (BRT) routes, local buses and even some longer distance bus routes (see ''[[Bus travel in Mexico]]'') that pick up or drop off here en route to/from '''Terminal Autobuses del Norte''', the closest major long-distance bus terminal. It is about a 15-minute cab ride between Autobuses del Norte and most places in Azcapotzalco.
+
+CETRAM Transportation hub and terminus:
+* {{marker|type=go|name=El Rosario (Terminal)|lat=19.505211391185217|long=-99.20067686122223}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}} and Line: {{rint|mexicocity|7}} 
+
+Line 6 (red) stations include:
+*{{marker|type=go|name=Tezozómoc|lat=19.495028500588383|long=-99.19577600832292}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}}
+* {{marker|type=go|name=UAM-Azcapotzalco|lat=19.491498451621567|long=-99.18627031928281}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}}
+* {{marker|type=go|name=Ferrería / Arena Ciudad de México|lat=19.490832490366106|long=-99.17417073290147}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}} (closest Metro station to the '''Fortuna''' train station used by the Ferrocarril Suburbano)
+* {{marker|type=go|name=Norte 45|lat=19.488980850470522|long=-99.16315224824288}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}}
+* {{marker|type=go|name=Vallejo|lat=19.49008260547716|long=-99.15606437707817}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|6}}
+Line 7 (orange) stations include:
+* {{marker|type=go|name=Aquiles Serdán|lat=19.490619609291723|long=-99.19534680037127}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|7}} 
+* {{marker|type=go|name=Camarones|lat=19.479092552307463|long=-99.19005069796201}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|7}}
+* {{marker|type=go|name=Refinería|lat=19.46948442787616|long=-99.19057534398642}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|7}}
+
+=== By train ===
+From the Buenavista train station in [[Mexico City/Centro|Mexico City/Centro Historico]] or from stations in Estado de Mexico, use the '''Tren Suburbano''' to the '''Fortuna''' station in Azcapotzalco. The Fortuna station is a 300-meter walk from Metro Line 6, Ferrería/Arena Ciudad de México station.
+
+==See==
+[[File:Capilla del Rosario, Azcapotzalco.jpg|thumb|Chapel of the Rosary in the Cathedral of Azcapotzalco]]
+* {{see
+| name=Catedral de los Santos Apóstoles Felipe y Santiago | alt=Catedral de Azcapotzalco | url= | email=
+| address=Av. Morelos 14 | lat=19.48043944982364 | long=-99.18522494938017 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-03-11
+| content=In 1565, the Dominican priests and friars began building the historic 16th century church and monastery. The long main nave leads to a granite altar with a back area of ornate gilded relief sculptures and three niches with statues of saints. The side chapels are very ornate with gilded altars and relief sculptures. A side door, called the Pilgrim's entrance leads into the monastery which had rooms arranged on two levels with arched porticoes facing onto a central garden courtyard. The main altar is granite with a back. In 2019, Pope Francis consecrated it as a cathedral and head of the Diocese of Azcapotzalco. 
+}}
+
+* {{see | name=Casa de la Cultura | alt= | url=http://sic.cultura.gob.mx/ficha.php?table=centro_cultural&table_id=1224 | email= | address=Av. Azcapotzalco 605 | lat=19.480769645562358 | long=-99.18645499356091 | directions= | phone= | tollfree= | hours=Daily 10:00 - 20:00 | price= | wikidata= | lastedit=2026-03-11 | content=Colonial era building with a large garden courtyard that bursts with bright purple flowers when the jacarandas bloom in early spring. There are a number of historical and cultural exhibits focusing on the borough's Tepenec history and on the life and career of pop star Jose Jose. The building's spectacular colonial architecture is unmissable, particularly the large stained glass ceiling panels. In addition to cultural exhibits, there are frequent workshops in arts, crafts, dance, and folklore.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo de Azcapotzalco | alt= | url=https://zez.am/museoazcapotzalco | email=
+| address=Hacienda del Rosario | lat=19.502204 | long=-99.211659 | directions=
+| phone= | tollfree=
+| hours=Tue-Sun 10:00 - 17:00, closed Mon | price=
+| lastedit=2026-03-13
+| content=Bright modern museum with historical, cultural, and art exhibits. The permanent exhibits include information about the Tepanec and Aztec history, as well as [[Colonial Mexico]] and the [[Mexican War of Independence]]. Art exhibits feature mostly contemporary works and the museum has several interesting [[Mexican muralism|murals]]. Temporary exhibits reflect focused cultural topics and contemporary artists.
+}}
+* {{see | name=Museo Tezozomoc | alt= | url=https://www.ipn.mx/ddicyt/museo-tezozomoc.html | email= | address=Av. Zempoaltecas Esq. Av. Manuel Salazar, Hacienda del Rosario | lat=19.497712 | long=-99.206841 | directions=southeast corner of Parque Tezozomoc | phone=+52 55 5729 6000 | tollfree= | hours=Tue-Sun 10:00 - 17:00, closed Mon | price= | lastedit=2026-03-13 | content=Small museum focused on science and technology with lots of interactive exhibits geared towards school children and adolescents. Very bright, clean and modern.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Do==
+[[File:Arena Ciudad de México.jpg|thumb|Inside the Arena CDMX]]
+* {{do
+| name=Arena Ciudad de Mexico | alt=Arena CDMX | url=https://www.arenacdmx.com/ | email=
+| address=Av. de las Granjas 800 | lat=19.497983 | long=-99.175106 | directions=Metro Line 7 to Arena Ciudad de Mexico
+| phone=+52 55 6235 7016 | tollfree=
+| hours= | price=
+| lastedit=2026-03-11
+| content=Modern indoor sports arena with 22,000 seats. Regular season G League basketball with home team '[https://capitanes.gleague.nba.com/ ''Capitanes'']'. Also hosts occasional NBA games with U.S. teams as well as concerts and other events.
+}}
+
+* {{do
+| name=Parque Tezozómoc | alt= | url= | email=
+| address=Hacienda del Rosario | lat=19.5000516373174 | long=-99.21076473403497 | directions=Metro Line 6 or Line 7 to El Rosario
+| phone= | tollfree=
+| hours=Daily 06ː00 - 18ː00 | price=Free
+| wikidata=
+| lastedit=2026-03-11
+| content=Urban green space with woods and grassy areas set around a small central lake. Popular for walking, jogging and recreational activities. Paddle boats are available for rent on the lake. Wildlife consists mainly of ducks and the occasional egret or other waterfowl on the lake. Occasional events such as ferias or concerts. 
+}}
+
+* {{do
+| name=Jardin Hidalgo | alt= | url= | email=
+| address=Av. Azcapotzalco | lat=19.48154324469224 | long=-99.18682707636326 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-03-11
+| content=Large, beautifully manicured urban park with paved walkways lined with trimmed shrubbery, towering shade trees, park benches and numerous [[Sculpture|statues and monuments]] including historical markers commemorating the Battle of Azcapotzalco. There is a large bandstand (kiosk) with frequent dance or musical performances. The park is home to a local chess club that meets to play matches daily at 5pm.
+}}
+
+* {{do
+| name=Parque Bicentenario | alt=Bicentennial Park | url=https://www.parquebicentenario.com.mx/ | email=
+| address=Av. 5 de Mayo | lat=19.468013866092114 | long=-99.19614615882355 | directions=use Metro Line 7 (orange) to the Refineria station, the park entrance is across the street as you exit the station
+| phone= | tollfree=
+| hours=Daily 07:00 - 18:00 | price=
+| wikidata=
+| lastedit=2026-03-11
+| content=A large tract of land that was once a petroleum refinery has been repurposed as an ecological park with open green spaces, jogging paths, basketball and tennis courts, a playground and a large pond, complete with a malecon (boardwalk). The park also has event spaces, including an auditorium and an orchid garden (orquideria).
+}}
+
+=== Festivals ===
+[[File:Carnaval de Azcapotzalco, Ciudad de México - Marzo 2020 IX.jpg|thumb|Carnaval in Azcapotzalco]]
+* '''Carnaval''' - several neighborhoods in Mexico City have [[Carnival]] celebrations and Azcapotzalco hosts one of the best known with parades, costumes, concerts, food and partying. 
+
+* '''Dia de Muertos''' - the annual [[Day of the Dead]] celebration is called ''Tlalmanalli Azcatl'' in Azcapotzalco and includes cultural programs with music, dance and other events in Jardin Hidalgo, the Casa de Cultura, and Parque Tezozomoc. There is also a bike ride and Race for Peace.
+
+=== Food tours ===
+Serious gourmets who want to truly understand ''authentic'' Mexican cuisine should seek out some of the better food tours of Azcapotzalco or even consider chef-led workshops or seminars. The good tours are generally a full-day and start with breakfast and end with dessert after dinner. In between, you'll visit some of the neighborhood's iconic restaurants, sample weird foods that you never imagined people actually ''ate'', and wash it down with homemade aguas frescas, pulque, or maybe a mezcal cocktail. In Azcapotzalco, the emphasis is always on genuine, authentic Mexican food. There won't be any creative "fusions" with French, Italian or even Zimbabwean cuisines, nor will there be "innovative" nouveau Mexican cuisines that use arugula, brie cheese, or any other non-Mexican ingredient. As a result, the tours are culturally significant and reflect the honest culinary heritage of people who inherited traditions that may have been passed down for generations, or even centuries.
+
+If you use Viator or you Google "food tour in Azcapotzalco" you'll probably get quite a few options for people offering tours (some better than others). The key to finding a great one is to look at who is leading the tour, how long the tour will last, how large is the group size (smaller is better), whether there is an itinerary, and what they will show you. Don't automatically opt for a cheap tour because the adage, "You get what you pay for" is generally true when it comes to food tours in Azcapotzalco. Take the longer tour that offers meaningful experiences and the chance to taste something unusual. It will be money well spent.
+
+For the truly epicurious adventurer, multiple days in Azcapotzalco can give you very different experiences. There are 18 public marketplaces (mercados) operated by the CDMX government, and any one might hide the key you've been missing to elevate your Mexican cooking skills from "not bad for a Brit" to "Wow!" There are well over 1,000 restaurants in Azcapotzalco and about 100 of them are of 5-star quality (but often at fast-food prices). Even the restaurants that blow the minds of writers from international food media are priced very affordably (this is not a white linen, tuxedo-clad waiter kind of neighborhood). Don't be put off by a restaurant with 10,000 5-star reviews...as a foreign tourist, you can afford it.
+
+To roll your own tour, you might want to concentrate on Centro Azcapotzalco, near the Cathedral. Then branch out to other ''colonias''. Azcapotzalco is generally safe for tourists and is easy to navigate by Metro or Metrobus, even though few venture into it.
+
+==Buy==
+* {{buy
+| name=Mercado Azcapotzalco | alt=Natureando Azcapotzalco | url= | email=
+| address=Esperanza 357, Centro | lat=19.483231458852593 | long=-99.18579980567944 | directions=
+| phone= | tollfree=
+| hours=Daily 11:00 - 18:00 | price=
+| wikidata=
+| lastedit=2026-03-12
+| content=Largest public marketplace in Azcapotzalco with over 500 vendors, but also its busiest. Of all the markets in the district, this one is most likely to appeal to foreign visitors as they have a wider selection of products for sale, including some genuine [[Mexican artesanias]] at bargain prices, but be critical of anything you look at because they also have a lot of cheap plastic knockoff garbage from China. Lots of food vendors serving traditional Mexican dishes, but try to get there for lunch no later than noon because it will be impossible to find a seat by 2pm.
+}}
+* {{buy
+| name=Mercado Nuevo Santa Maria | alt= | url= | email=
+| address=Vid 169 | lat=19.464650 | long=-99.169182 | directions=2 blocks from Parque Revolucion
+| phone= | tollfree=
+| hours=Daily 09:00 - 18:00 | price=
+| lastedit=2026-03-12
+| content=Traditional public marketplace that opened in 1963. The market has more than 200 vendors, though the exact number can vary seasonally. Fresh fruits and vegetables, meats, baked goods and cheeses are among the most common grocery items sold. There are also several vendors serving homemade traditional Mexican dishes and lunch is the busiest meal of the day.
+}}
+* {{buy
+| name=Mercado Obrero Popular | alt= | url= | email=
+| address=Poniente 54 | lat=19.463281 | long=-99.173728 | directions=
+| phone= | tollfree=
+| hours=Daily 07:00 - 19:00 | price=
+| lastedit=2026-03-12
+| content=Moderate size traditional public marketplace with fresh produce, meats, and seafood as well as vendors serving prepared breakfast and lunch dishes. Gorditas are particularly popular here, though you can get carnitas, tacos, fresh squeezed juices and more.Well-behaved dogs are allowed on a leash.
+}}
+
+==Eat==
+Azcapotzalco has a reputation for preserving traditional cooking processes and ingredients that date back before the first word of Spanish was ever uttered in Mexico City. It has become something of a training ground for international professional chefs trying to master the nuances of authentic Mexican cuisine. There are walking tours of some neighborhoods where visitors can sample very authentic flavors that never travel outside CDMX. 
+[[File:Restaurante Nicos 3.jpg|thumb|Guacamole being freshly prepared tableside at Nicos]]
+[[File:ElBajio04.JPG|thumb|Ceviche Verde at El Bajio in Azcapotzalco]]
+
+* {{eat
+| name=Nicos | alt= | url=http://nicos.mx/ | email=
+| address=Av. Cuitláhuac 3102, Claveria | lat=19.465267 | long=-99.177760 | directions=
+| phone=+52 55 5396 7090 | tollfree=
+| hours=Daily 08:00 - 18:00 | price=M$300
+| lastedit=2026-03-11
+| content=This bright, cheery traditional Mexican restaurant is recommended by editors of the ''Michelin Guide'', who particularly called out as exceptional the tacos de cecina, the camarones al tamarindo, and tasado y frijoles in an Oaxaca-inspired pixtle salsa. They also have a duck mole and a wide selection of mezcals. The restaurant opened in 1957 and today, operates under the watchful eye of chef Gerardo Vázquez Lugo, who uses several recipes that have been handed down through his family since the 19th century, such as his ''sopa seca de natas''.
+}}
+
+* {{eat
+| name=El Bajio | alt= | url=http://www.restauranteelbajio.com.mx/ | email=
+| address=Av. Cuitláhuac 2709, Obrero Popular | lat=19.464295 | long=-99.177685 | directions=
+| phone=+52 55 5234 3764 | tollfree=
+| hours=Daily 09:00 - 19:00 | price=M$300
+| wikipedia=El Bajío (restaurant)
+| lastedit=2026-03-12
+| content=This is a cornerstone of traditional Mexican cuisine that should be on every foodie's map of "must eat" establishments because it's a place where cookbook authors and professional chefs come to learn the fundamentals of Mexican cuisine. It's not fancy or trendy, but rather stodgy in a good way because they do things the old fashioned way. Although El Bajio has expanded into a chain of 18 locations throughout Mexico City, it began as this single location in Azcapotzalco under the leadership of chef Carmen Ramírez Degollado, who is today recognized as an international authority on traditional Mexican cuisine. Her recipes often reflect flavors and dishes of regional Veracruzano cooking. The mole xico is rich and flavorful, even something as simple as a taco served on a handmade corn tortillas is the way abuela used to make them. Foodies may want to investigate well in advance of a trip to Mexico City as chef Carmen still gives occasional workshops and classes.
+}}
+* {{eat
+| name=Birria La Perla Tapatía Azcapotzalco | alt=La Perla | url= | email=
+| address=Av. Azcapotzalco 706-B | lat=19.484829 | long=-99.185939 | directions=
+| phone= | tollfree=
+| hours=Daily 08:00 - 18:30 | price=M$200
+| lastedit=2026-03-12
+| content=Specializing in regional dishes from Jalisco, particularly birria and pozole. Hand-made fresh tortillas which are used to make their flavorful and very cheesy quesadilla. The birria has a rich broth and is made with lean meat, free of fat and bone. Very popular, especially at lunch time and on weekends.
+}}
+* {{eat
+| name=Azkatl | alt= | url=https://azkatl.com/ | email=
+| address=Calle Belisario Domínguez 200 | lat=19.482644 | long=-99.184351 | directions=
+| phone=+52 55 9111 1966 | tollfree=
+| hours=Daily 08:00 - 17:00 | price=M$250
+| lastedit=2026-03-12
+| content=Traditional Mexican cuisine prepared with old-school techniques. Has its own bakery for very fresh breads and cakes (so save room for dessert!) The combi plates at breakfast include a generous serving of fruit as well as fresh-squeezed fruit juice, coffee, and your choice of main course (the chilaquiles are recommended).
+}}
+* {{eat
+| name=El Camaron Guasaveño | alt= | url= | email=
+| address=Av. 22 de Febrero 192 | lat=19.479852 | long=-99.184351 | directions=
+| phone=+52 55 9210 7824 | tollfree=
+| hours=Daily 11:00 - 20:00 | price=M$250
+| lastedit=2026-03-12
+| content=Modern dining rooms on 2 floors with the upstairs being a bit noisier with TVs blaring. Wide selection of traditional Mexican seafood dishes including fresh fish, octopus, and various shellfish (not just shrimp). Recommended are the Molcajete with a seafood medley and the Mojarra Al Mojo de Ajo. Large portions and a full bar.
+}}
+* {{eat
+| name=Jojula | alt= | url= | email=
+| address=Central Sur 618 | lat=19.479733 | long=-99.149805 | directions=
+| phone=+52 55 7090 2774 | tollfree=
+| hours=Daily 09:00 - 17:00 | price=M$250
+| lastedit=2026-03-12
+| content=Cozy upscale rustic-style dining room serving traditional Mexican dishes with an eclectic selection of regional specialties from other parts of Mexico. At breakfast, they had huevos motulenos that were so spot-on they must have imported someone's grandma from Yucatan and their huevos nortenos were such a perfect machacado that they must have imported another grandma from Nuevo Leon. Very flavorful cooking from appetizer through dessert. Very popular, so expect crowds, particularly at lunch (around 2pm).
+}}
+* {{eat
+| name=La Casa de Toño en Floresta | alt= | url=https://sucursales.lacasadetono.mx/cdmx/azcapotzalco/claveria/floresta | email=
+| address=Calle Floresta 77, Claveria | lat=19.466774 | long=-99.186048 | directions=
+| phone=+52 55 5386 1125 | tollfree=
+| hours=Daily 08:00 - 23:00 | price=M$200
+| lastedit=2026-03-12
+| content=Today, Casa de Toño is a well-known chain of casual Mexican restaurants with more than 60 locations in and around Central Mexico, but it wasn't always a juggernaut of traditional Mexican cuisine. The chain began as a humble traditional Mexican restaurant in Azcapotzalco with food based on time-honored principles, quality Mexican produce (not genetically modified, and fed petroleum-based fertilizers like modern industrial farms use). The kitchen was manned by Antonio, his mom, and his grandmother. Word got around that La Casa de Toño served real Mexican cuisine cooked the right way with quality ingredients. (Which is also the recipe for success followed by other restaurants in Azcapotzalco). This location on Calle Floresta is the original Casa de Toño and many Chilangos say it is still the best, with great atmosphere and dedication to authenticity.
+}}
+
+==Drink==
+''Pulque'' is a traditional fermented beverage that has been enjoyed in [[Central Mexico]] since at least the reign of the Aztec (and probably a lot longer than that). It is made from the sweet nectar of agave plants. If you distill pulque, you get mezcal, but pulque itself is an enjoyable low-alcohol drink that the Aztec warriors would want to slake their thirsts after a hard day of subjugating neighboring indigenous groups and ripping their hearts out (if we believe Mel Gibson's movie, ''Apocalypto''). Modern day travelers can experience the flavor of a tall, cool glass of pulque. Ripping the hearts out of captive virgins is no longer allowed as virgins are an endangered species. 
+
+=== Pulquerias ===
+* {{drink
+| name=Pulqueria La Reforma De Las Carambolas | alt= | url= | email=
+| address=Yerbabuena 68, Victoria de las Democracias | lat=19.472824509508865 | long=-99.16646471155809 | directions=
+| phone= | tollfree=
+| hours=Daily 12:30 - 17:00 | price=M$25 (natural) to M$50 (curada)
+| wikidata=
+| lastedit=2026-03-12
+| content=Traditional pulqueria offering natural pulques and curadas in a variety of flavors (more flavors on weekends). The walnut pulque (curada con nuez) is particularly tasty. Soda and beer are also available. Outdoor patio available Cash only and exact change is greatly appreciated.
+}}
+
+* {{drink
+| name=Pulquería De Chiripa | alt= | url= | email=
+| address=Av. Aquiles Serdán 28, San Francisco Tetecala | lat=19.481202099134205 | long=-99.18888277640752 | directions=Metro to Camarones station
+| phone= | tollfree=
+| hours=Daily 10:00 - 21:00 | price=M$100
+| wikidata=
+| lastedit=2026-03-12
+| content=Bright, cheery pulqueria with a variety of curada flavors with varying prices up to about M$100. Bartenders are friendly and patient with foreigners who are trying pulque for the first time. Samples will be offered to see what flavors you like. Beer and soda are also sold and light food, such as tacos and volcanes are available. 
+}}
+
+* {{drink
+| name=Pulques Don Julián | alt= | url= | email=
+| address=Esq. Aquiles Serdán y Golfo Tehuantepec, Claveria | lat=19.465321062355354 | long=-99.19052561598562 | directions=
+| phone=+52 55 5475 2535 | tollfree=
+| hours=Daily 11:30 - 19:30 | price=M$100
+| wikidata=
+| lastedit=2026-03-12
+| content=Friendly pulqueria offering natural and curada pulques at prices as low as M$45 per litre. The oat (avena) and nut (nuez) flavored pulques are popular, or you can be bold and order a ''campechano'', which is half sweet and half sour.
+}}
+
+==Sleep==
+Azcapotzalco has few upscale hotels, but a lot of moderate hotels that cater to the local economy (yeah, that means places where couples will hook up for a few hours, enjoying luxury amenities like vibrating beds and mirrored ceilings). Unlike in some parts of the city, most of these dream of being legit respectable hotels and will gladly rent a room for a whole night (or longer). Upscale travelers will do better to stay in other parts of the city ([[Mexico City/Polanco|Polanco]] is nearby) and ride metro into Azcapotzalco for daily activities. For the budget traveler, Azcapotzalco has myriad low-cost accommodations, some even cheaper than M$500 per night (March 2026).
+
+{{sleep
+| name=Hotel Torremolinos | url=https://torremolinoshotel.com/ | email=
+| address=Av. Cuitláhuac 339, Pro Hogar | lat=19.47719419226431 | long=-99.15873985574146 | directions=
+| phone=+52 55 5355 9590 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=M$800
+| lastedit=2026-03-13
+| content=Adequate older hotel but renovated rooms are spacious and comfortable.
+}}
+
+{{sleep | name=Hotel Villa del Parque | url=http://hotelvilladelparque.com/armas.html | email= | address=Calz. de Las Armas 605, Providencia | lat=19.498392344855368 | long=-99.21326994882946 | directions= | phone=+52 55 5318 1318 | tollfree= | checkin=15:00 | checkout=12:00 | price=M$800 | lastedit=2026-03-13 | content=All suites hotel with spacious rooms, some with jacuzzis. Mostly short-term visits from local clientele.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+All areas of Mexico City have excellent 5G cell coverage. Telcel is the main cellular carrier. The city government provides free access in parks, plazas and other public spaces. Hotels and restaurants normally provide free WiFi access to their customers.
+
+{{IsPartOf|Mexico City}}
+{{usabledistrict}}
+
+{{geo|19.48|-99.18}}

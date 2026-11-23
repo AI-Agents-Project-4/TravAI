@@ -1,0 +1,236 @@
+{{pagebanner|Paris 3e Wikivoyage Banner.png|pgname=3rd arrondissement}}
+[[File:Musee-des-arts-et-metiers-d.jpg|thumb|270px|An early monoplane at the Musée des Arts et Métiers]]
+
+A quieter part of the ancient Marais neighbourhood which is centred in the [[Paris/4th arrondissement|4th]], the 3rd is possibly one of the best places to ''live'' in [[Paris]].  There are several good open air markets and lots of great local designer clothing stores.
+
+The museums of the 3rd are among the best anywhere, including the '''Musée Picasso''' which contains both the master's works and his collections, and the almost undefinable '''Conservatoire des Arts et Métiers''' which has on display the first prototypes of almost every important invention, including the first monoplane, numerous artifacts from the creation of the '''Statue of Liberty''', and of course, '''Foucault's Pendulum'''.
+
+==Get in==
+{{Mapframe|48.8627|2.3607|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+===By Métro===
+{{station|Arts et Métiers|3|11}} station is probably the most convenient for the Musée des Arts et Métiers, but also within easy walking distance of all the attractions of the 3rd. The Line 11 platforms are worth seeing in themselves, with their steampunk decor designed by the Belgian artist Francois Schuiten.
+
+{{station|République|3|5|8|9|11}} station is on the northern edge of the 3rd arrondissement, but superbly well-connected and therefore highly convenient
+
+==See==
+[[Image:Urban_buffalo.jpg|thumb|250px|Urban Buffalo in the 3rd]]
+
+* {{see
+| name=Les Archives Nationales | alt=French Archives | url=http://www.archivesnationales.culture.gouv.fr/ | email=
+| address= | lat=48.86032 | long=2.35857 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Archives Nationales (France) | image=Site-de-Pierrefitte-sur-Seine (Architecte Massimiliano Fuksas). Archives nationales (France).jpg | wikidata=Q182542
+| content=The Archives Nationales have one of the largest and most important archival collections in the world, a testimony to the very ancient nature of the French state which has been in existence for more than twelve centuries already.
+}}
+* {{see | name=Musée d'Art et d'Histoire du Judaïsme | alt=Museum of Jewish Art and History | url=http://www.mahj.org/en/index.php | email= | address=71, rue du Temple | lat=48.861111 | long=2.355278 | directions= | phone=+33 1 53 01 86 60 | tollfree= | fax= | hours= | price= | wikipedia=Musée d'Art et d'Histoire du Judaïsme | image=P1020669 Paris III Hôtel de Saint-Aignan Musée d'art et d'histoire du judaisme rwk.JPG | wikidata=Q977732 | content=The largest French museum of Jewish art and history
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Musée Carnavalet | alt= | url=http://carnavalet.paris.fr/en | email=
+| address=23, rue Madame de Sévigné | lat=48.8575 | long=2.362222 | directions=Métro: {{station|Saint-Paul|1}} or {{station|Chemin Vert|8}}, Bus 29, 69, 76, 96
+| phone=+33 1 44 59 58 58 | tollfree= | fax=+33 1 44 59 58 11
+| hours=Tue-Sun 10:00-18:00, closed on Mondays, 1 January, 1 May and 25 December | price=Free entry to the permanent collection
+| wikipedia=Carnavalet Museum | image=Carnavalet CorpsLogis.JPG | wikidata=Q640447
+| content=Contained within two historic houses (''hotels''), the museum explores the history of Paris through objects in over 140 separate rooms.
+}}
+* {{see | name=Musée Cognacq-Jay | alt= | url=https://www.museecognacqjay.paris.fr/ | email= | address=8 rue Elzévir | lat=48.858194 | long=2.361389 | directions=Métro: Saint-Paul | phone=+33 1 40 27 07 21 | tollfree= | hours=Tue-Sun 10:00-18:00, closed on Mondays | price=€6-€8 | wikipedia=Musée Cognacq-Jay | image=P1140996 Paris III Hôtel de Donon rwk.jpg | wikidata=Q1572452 | content=The Cognacq-Jay museum houses the collection of 18th-century art amassed by Ernest Cognacq, founder of La Samaritaine department stores, and his wife Marie-Louise Jaÿ.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Musée des Arts et Métiers | alt=Museum of Arts and Trades | url=http://www.arts-et-metiers.net | email=
+| address=60, rue Réaumur | lat=48.866111 | long=2.355278 | directions=Métro: Arts et Métiers, Réaumur-Sébastopol, Bus 20, 38, 39, 47
+| phone= | tollfree=
+| hours=Tue-Sun, 10:00-18:00, Fr until 21:00, closed on Mondays and public holidays | price=€9-€12
+| wikipedia=Musée des Arts et Métiers | image=Arts-et-Metiers Chapelle 01.jpg | wikidata=Q1538826
+| lastedit=2025-11-03
+| content=An industrial design museum in Paris that houses the collection of the Conservatoire National des Arts et Métiers (National Conservatory of Arts and Industry), which was founded in 1794 as a repository for the preservation of scientific instruments and inventions.
+}}
+* {{see
+| name=Musée Picasso | alt= | url=https://www.museepicassoparis.fr/en/home-page | email=
+| address=5, rue de Thorigny | lat=48.859731 | long=2.362439 | directions=Métro: {{station|Saint-Paul|1}} or {{station|Chemin Vert|8}}
+| phone=+33 1 42 71 25 21 | tollfree= | fax=
+| hours=09:30-18:00, Wed-Mon & 09:30-20:00 on Thu, except during winter when closing time is always 17:30 | price=
+| wikipedia=Musée Picasso | image=Hôtel Salé.JPG | wikidata=Q743206
+|lastedit=2025-05-15| content=Most of the works by Picasso and others which were in the master's possession at the time of his death are now on display here.
+}}
+*{{see
+| name=Foundation Henri Cartier-Bresson | alt= | url=https://www.henricartierbresson.org/ | email=
+| address=79 rue des Archives | lat=48.51192 | long=2.21323 | directions=Filles du Calvaire, Arts et Metiers
+| phone=+33 1 40 61 50 50 | tollfree=
+| hours=Tue-Sun 11:00 to 19:00 | price=Admission €9, €5 reduced
+| lastedit=2019-09-29
+| content=The Foundation of Henri Cartier-Bresson is a private foundation for public use and for the memories and conservation of the photographer Henri Cartier Bresson and his wife Martine Franck. There are permanent displays and three major expositions planned each year.
+}}
+* {{see
+| name=Institut Tessin | alt=Centre culturel suédois | url=https://paris.si.se | email=institutsuedois@si.se
+| address=11 rue Payenne | lat=48.858056 | long=2.362222 | directions=
+| phone=+ 33 1 44 78 80 20 | tollfree=
+| hours= | price=
+| wikidata=Q927844
+| lastedit=2024-11-09
+| content=Swedish cultural institute and museum
+}}
+
+==Do==
+
+==Buy==
+There's a lot of stuff to buy in the 3rd, mainly in the side streets of the upper Marais down near the 4th. Of particular interest are the large number of men's clothing stores on rue de Turenne.
+
+* {{buy
+| name=Au Réparateur de Bicyclettes | url= | email=
+| address=44, boul de Sébastopol | lat= | long= | directions=Métro: Rambuteau
+| phone=+33 1 48 04 51 19 | tollfree= | fax=
+| hours=Mon-Sat, 10:00-20:00 | price=Used bikes, €75+
+| content=If you would rather have a funkier bike than the ones you can rent from the RATP you would do a lot worse than checking out this little bicycle repair shop which also offers a wide range of new and used bikes.  Their specialty in new bikes is Dutch and English bicycles, but some of the really nice ones are by the American company, Scott.}}
+* {{buy
+| name=Marché du Temple | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+
+==Eat==
+[[Image:Paris 3rd arrondissement map with listings 2.png|thumb|350px|Map of the 3rd Arrondissement]]
+
+* {{eat
+| name=Camille | url= | email=
+| address=24, rue des Francs-Bourgeois | lat= | long= | directions=
+| phone=+33 1 42 72 20 50 | tollfree= | fax=
+| hours= | price=€40
+| content=Fantastic fresh French food. It is worth the wait.}}
+* {{eat
+| name=Chez Janou | url= | email=
+| address=2, Rue Roger Verlhomme | lat= | long= | directions=
+| phone=+33 1 42 72 28 41 | tollfree= | fax=
+| hours= | price=€18
+| content=Chez Janou has such a pretty location that it's worth an evening visit just for that. But the food and atmosphere are also amazing.  Vegetarians be warned, the tortellini is ''not'' the token veggie dish; there isn't one.}}
+* {{eat
+| name=Page 35 | url= | email=
+| address=4, rue du Parc Royal | lat= | long= | directions=
+| phone=+33 1 44 54 35 35 | tollfree= | fax=
+| hours= | price=€8
+| content=The name apparently refers to some section of some newspaper or another apparently with social listings.  The ''carte'' features fantastic crêpe opportunities making this a must for lunch or lingering over a ''carafe'' or two of the house wine.}}
+* {{eat
+| name=Le Petit Marché | url= | email=
+| address=9, rue de Béarn | lat= | long= | directions=Métro: Chemin Vert
+| phone=+33 1 42 72 06 67 | tollfree= | fax=
+| hours=Daily, noon-02:00 | price=
+| content=  This is one of those charming little Parisian bistros which is off on its own a little.  The wait staff couldn't possibly be friendlier so this is a good place to bring people to show them how nice Parisian dining can be.  The food is in a higher class than the price range, and the folks who work here have an easy collegial or even familial way with each other, and with frequent guests.}}
+* {{eat
+| name=Le Potager du Marais | url= | email=
+| address=22 rue Rambuteau | lat= | long= | directions=Métro: Les Halles
+| phone=+33 1 42 74 24 66 | tollfree= | fax=
+| hours= | price=Menus for around {{EUR|15}}
+| content=A 100% vegetarian restaurant specialized in re-creating the French country dining experience without any of the meat.}}
+
+==Drink==
+* {{drink
+| name=Andy Wahloo | url= | email=
+| address=69 rue des Gravilliers | lat= | long= | directions=
+| phone=+33 1 42 71 20 38 | tollfree= | fax=
+| hours= | price=
+| content=Andy Wahloo apparently means "I don't have anything" in Arabic. The Moroccan artist who owns this place certainly means it as a play on words having done the decor as a Moorish take on Andy Warhol.}}
+* {{drink
+| name=Les Arts et Métiers | url= | email=
+| address=51 rue Turbigo | lat= | long= | directions=
+| phone=+33 1 48 87 83 25 | tollfree= | fax=
+| hours= | price=
+| content=An updated but otherwise standard ''Brasserie'', the draw here is the crowd: young trendy locals love the place.}}
+* {{drink
+| name=L'Attirail | url= | email=
+| address=9, rue du Maire | lat= | long= | directions=
+| phone=+33 1 42 72 44 42 | tollfree= | fax=
+| hours= | price=
+| content=Cool bar/club with concerts ranging from ''Jazz Manouche'' to contemporary swing.}}
+* {{drink
+| name=Café des Musées | url= | email=
+| address=49, rue de Turenne | lat= | long= | directions=
+| phone=+33 1 42 72 96 17 | tollfree= | fax=
+| hours= | price=
+| content=A bog standard and absolutely unpretentious bistro, the ''des Musées'' is a great place to cool your heels over a glass or two of red or white after stomping around the Marais all day.}}
+* {{drink
+| name=Café Solo | url= | email=
+| address=6, rue Dupuis | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=On a newly car-free street, the Solo has a huge music collection which they are in the process of selling off at €6 per CD.}}
+* {{drink
+| name=Les Enfants Rouge | url= | email=
+| address=9, rue de Beauce | lat= | long= | directions=
+| phone=+33 1 48 87 80 61 | tollfree= | fax=
+| hours= | price=
+| content=This one is makes for another tough call between the ''Eat'' and ''Drink'' sections. It's a completely traditional French bistro with a popular bar in the evenings.}}
+* {{drink
+| name=Léonard | url= | email=
+| address=57, rue De Turbigo | lat= | long= | directions=
+| phone=+33 1 48 04 07 55 | tollfree= | fax=
+| hours= | price=
+| content=If you like trendy décor this is your joint. Free Wi-Fi.}}
+*{{drink
+| name=La Perle | url= | email=
+| address=rue Vieille du Temple/rue de la Perle | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A small corner café-bar well-known to the trendy people of Le Marais. Dozens of young and old people gather here every evening, especially on weekends. There are also few other cool bars to enjoy on the rue Vieille du Temple.}}
+* {{drink | name=The Quiet Man | url=http://www.thequietman.eu/ | email= | address=5, rue des Haudriettes | lat= | long= | directions= | phone=+33 1 48 04 02 77 | tollfree= | fax= | hours= | price= | content=This Irish pub has sessions and Irish music almost (but not quite) nightly. The atmosphere is tops for the genre.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=La Villa Kéops | url= | email=
+| address=58, boul Sébastopol | lat= | long= | directions=
+| phone=+33 1 40 27 99 92 | tollfree= | fax=
+| hours= | price=
+| content=The motif is Egyptian, while the clientele appears to be almost entirely gay men. Free Wi-Fi.}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Hôtel du Marais | alt=My Hotel | url= | email=
+| address=2bis, rue Commines | lat= | long= | directions=Métro: Saint-Sébastien-Froissart
+| phone=+33 1 48 87 78 27 | tollfree= | fax=
+| hours= | price=Doubles, €70-88
+| checkin= | checkout=
+| content=This little place has two names which can be a little confusing. It gets mixed reviews but some people love it and the location is hard to beat. }}
+
+===Mid-range===
+* {{sleep
+| name=Austin's Arts et Metiers Hôtel | url= | email=
+| address=6, rue Montgolfier | lat= | long= | directions=Métro: Arts-et-Métiers
+| phone=+33 1 42 77 17 61 | tollfree= | fax=
+| hours= | price=Doubles, €120
+| checkin= | checkout=
+| content=The rooms are small (as usual) and kept very clean.  You are best off asking for something facing the front since the central courtyard is not very attractive. Particularly the 6th floor rooms are said to be quite nice.}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 3 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Levallois-Perret]]
+| minorl1='''[[Paris/2nd arrondissement|2nd arrondissement]]'''
+| directionr1=E
+| majorr1=[[Paris/20th arrondissement|20th arrondissement]]
+| minorr1=[[Paris/11th arrondissement|11th arrondissement]]
+
+| image2=Paris Metro 5.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Bobigny]]
+| minorl2=[[Paris/10th arrondissement|10th arrondissement]]
+| directionr2=S
+| majorr2=[[Paris/13th arrondissement|13th arrondissement]]
+| minorr2=[[Paris/11th arrondissement|11th arrondissement]]
+}}
+
+{{guidedistrict}}
+{{geo|48.8627|2.3607|zoom=15}}
+{{IsPartOf|Paris}}
+
+
+
+
+
+{{Mapmask |48.8693,2.3542 |48.8689,2.3564 |48.8679,2.3632 |48.8673,2.3642 |48.8666,2.3647 |48.8663,2.3648 |48.8631,2.3667 |48.8558,2.3685 |48.8564,2.3645 |48.8573,2.3617 |48.8583,2.3593 |48.8587,2.3587 |48.8601,2.3569 |48.8612,2.3534 |48.8620,2.3502 |48.8689,2.3540}}

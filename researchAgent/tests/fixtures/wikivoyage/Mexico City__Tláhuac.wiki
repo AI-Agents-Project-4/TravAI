@@ -1,0 +1,176 @@
+{{pagebanner|Tlahuac CDMX banner.jpg}}
+
+'''Tláhuac''' is a borough of [[Mexico City]]. It is very different from the traditional tourist areas of the city and is regarded as an Off-the-Beaten-Path part of the city where only naturalists and those studying the [[Indigenous cultures of Mesoamerica|Iidigenous practices of pre-Hispanic cultures]] come to visit. Tláhuac is where a traveler interested in [[Day of the Dead]] traditions will find '''San Andrés Mixquic''', where a unique candlelit celebration is regarded as one of the oldest and most authentic celebrations. Tláhuac is one of the 16 ''alcaldias'' (boroughs) that make up CDMX. A poor choice for a first-time visitor, Tlahuac has some hidden gems that can be rewarding for a tenth trip to Mexico City as it reveals some of the city's hidden dimensions.
+
+==Get in==
+{{mapframe}}
+=== By Metro ===
+Tlahuac is served by Line 12 of the Mexico City Metro system. There are five Metro stations in Tlahuacː
+
+* {{marker|type=go|name=Olivos|lat=19.304510781078168|long=-99.05960849254764}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+* {{marker|type=go|name=Nopalera|lat=19.300226438942893|long=-99.04595620351836}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+* {{marker|type=go|name=Zapotitlan|lat=19.297512376044057|long=-99.03448715749921}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+* {{marker|type=go|name=Tlaltenco|lat=19.294445396751374|long=-99.02402238420227}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+* {{marker|type=go|name=Tláhuac|lat=19.286150742427377|long=-99.01423478577318}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+
+=== By bus ===
+Tláhuac is served by several routes of the RTP bus service. All RTP routes through Tláhuac terminate at Metro Tláhuac, which is a transportation center for the area. No Metrobus routes serve Tláhuac.
+
+==See==
+* {{see
+| name=Parroquia San Pedro Apóstol de Tláhuac | alt= | url= | email=
+| address=C. Severino Ceniceros S/N, Centro de Tlahuac | lat=19.269344 | long=-99.004503 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-09-18
+| content=Historic church built by Franciscan missionaries in 1529 on top of an ancient indigenous ceremonial center. The church incorporates rings from the old Mesoamerican ballcourt, near the cemetery entrance and in the atrium. The main church features a beautiful altarpiece and well-preserved frescoes within the convent. A  peaceful garden with century-old trees, is the focus of the central courtyard. An on-site museum preserves a collection of historic relics with displays that explain the story of Tlahuac and its seven original communities.
+}}
+* {{see
+| name=Museo Regional Tlahuac | alt= | url= | email=
+| address=Calle Severino Ceniceros, San Miguel | lat=19.268778 | long=-99.003860 | directions=
+| phone=+52 015 842 0448 | tollfree=
+| hours=Daily 10ː00 - 18ː00 | price=Free
+| lastedit=2026-09-16
+| content=Small regional museum that tells tales of Tlahuac's past, from the different indigenous groups that inhabited the seven towns through the modern day. Includes quite a few relics and historical objects including a number of carved stones.
+}}
+
+* {{see
+| name=Cuitlahuac Regional Community Museum | alt= | url= | email=
+| address=Calz.Tláhuac Chalco 63, La Magdalena | lat=19.267095510311105 | long=-99.00357493810722 | directions=
+| phone= | tollfree=
+| hours=Sat-Sun 10ː00 - 16ː00, closed Mon-Fri | price=
+| wikidata=
+| lastedit=2026-09-18
+| content=Collection of historical displays including archaeological relics as well as objects used in everyday life across different periods of the community's long history.
+}}
+
+=== Seven Native Towns ===
+The '''Siete Pueblos Originarios de Tláhuac''' refers to seven indigenous villages making up Tlahuac that significantly pre-date the Spanish conquest. These villages areː
+
+* '''San Andrés Mixquic''' - Most famous of the traditional villages due to its [[Day of the Dead]] traditions centered on candle-lit Night of the Dead ceremonies.
+* '''San Pedro Tláhuac''' - Seat of local government, founded in the late 12th century on a small island between Lake Chalco and Lake Xochimilco. It features the grand Church of St. Peter the Apostle, built over an ancient ceremonial center.
+* '''Santiago Zapotitlán''' - Once a lakeside town, the village is known for its community traditions, local carnivals, and cultural resistance against rapid urbanization
+* '''San Francisco Tlaltenco''' - Settled long before the Aztec capital of Tenochtitlán, its name comes from Nahuatl words meaning "on the shore of the earth."  
+* '''Santa Catarina Yechuizotl''' - Riverside community near the slopes of the Sierra de Santa Catarina, a series of dormant volcanoes.  
+* '''San Nicolas Tetelco''' - Quiet, rural village where farming is still a way of life. 
+* '''San Juan Ixtayopan''' - Rural farming community known for preserving cultural traditions but with no significant tourist sites.
+
+==Do==
+[[File:Procesión de Trajineras con San Pedro, Tláhuac CDMX.jpg|thumb|Trajineras ply the canals in Tlahuac]]
+* {{do
+| name=Lago de Reyes Aztecas | alt=Lake of the Aztec Kings | url= | email=
+| address= | lat=19.267537486078375 | long=-98.978204254524 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-09-06
+| content=The lake preserves a section of canals and chinampas but is also home to the Tláhuac Wetlands Reserve, a natural habitat for herons and other waterfowl, as well as swallows and hummingbirds and turtles, snakes and frogs. There are some good running trails here, but the park is secluded and usually deserted, so visit with a friend.
+}}
+
+* {{do
+| name=Chinampas | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-09-06
+| content=The neighboring borough of [[Mexico City/Xochimilco|Xochimalco]] is famous for preserving the ancient Aztec canals and floating agricultural gardens, but local farmers in Tlahuac also grow native crops using centuries-old ecologically sound techniques. Float through the canals on a traditional trajinera and see them for yourselves. A trip through the canals is generally more sedate than the busier, tourist-clogged canals of Xochimilco.
+}}
+
+* {{do
+| name=Bosque de Tláhuac | alt= | url= | email=
+| address=Av. La Turba | lat=19.292490713939358 | long=-99.04892873712777 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-09-06
+| content=Large ecological park featuring running trails, an artificial lake, an Olympic pool, and an ice rink.
+}}
+
+* {{do
+| name=Parque Los Olivos | alt= | url= | email=
+| address= | lat=19.25457327052479 | long=-99.00464010481764 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-09-06
+| content=Popular park for working out with exercise areas, running trails, bike paths, and sports facilities.  It's also a pleasant place to relax with plenty of open spaces for picnics, family gatherings, and parties. 
+}}
+
+=== Events ===
+[[File:Día de muertos en Mixquic I.jpg|thumb|Día de Muertos in San Andres Mixquic]]
+* '''Feria Regional de Tlahuac''' - held in late June each year, the celebration is the biggest festival of the year and honors Tlahuac's patron saint
+
+* '''San Andrés Mixquic''' is a traditional village that is renowned as one of the most authentically unique celebrations of [[Day of the Dead]]. Visitors from around the country come for a serenely spectacular celebration on Night of the Dead when the village turns off all electric lights and people carry candles to  light their way to the village cemetery. This celebration is referred to as the ''Alumbrada''.
+
+==Buy==
+* {{buy
+| name=Mercado Tlahuac | alt= | url= | email=
+| address=C. Severino Ceniceros, La Magdalena | lat=19.268822 | long=-99.004801 | directions=
+| phone= | tollfree=
+| hours=Daily 07ː00 - 18ː00 | price=
+| lastedit=2026-09-18
+| content=Traditional Mexican marketplace selling a variety of fruits, vegetables and farm-fresh foods. Several stands offer prepared regional dishes.
+}}
+
+==Eat==
+* {{eat
+| name=El Camaron Guasaveño | alt= | url= | email=
+| address=Av. Tlahuac 6030, Santa Ana Poniente | lat=19.301229 | long=-99.048060 | directions=
+| phone=+52 55 7326 7561 | tollfree=
+| hours=Daily 11ː00 - 20ː00 | price=M$300
+| lastedit=2026-09-19
+| content=Family-friendly casual restaurant known for its generous portions of fresh seafood dishes. The house specialty is the seafood molcajete. A molcajete is a traditional bowl fashioned from volcanic rock. At this place, the molcajete is filled with a medley of seafood that will sate even the biggest appetite. Fast, friendly service. Off-street parking available.
+}}
+* {{eat
+| name=La Playa | alt= | url= | email=
+| address=Av. Tlahuac 4668, Los Reyes | lat=19.266712 | long=-99.006975 | directions=
+| phone=+52 55 3020 4099 | tollfree=
+| hours=Daily 10ː00 - 21ː00 | price=M$200
+| lastedit=2026-09-19
+| content=Casual sidewalk cafe serving tacos and mutton barbacoa as well as carnitas and other roasted and grilled meats.
+}}
+* {{eat
+| name=Natural Club | alt= | url= | email=
+| address=Av Estanislao Ramírez Ruiz 102, Selene 2da Secc | lat=19.285831 | long=-98.999963 | directions=
+| phone=+52 55 5842 6553 | tollfree=
+| hours=Daily 08ː00 - 22ː00 | price=M$200
+| lastedit=2026-09-19
+| content=Clean, spacious, modern cafe serving a wide range of dishes but known mostly for their healthy options, including several kinds of fresh juice, smoothies, and vegetarian (meat-free) dishes.
+}}
+* {{eat
+| name=Sushi Susuki | alt= | url= | email=
+| address=Montes de las Cordilleras 103, Ojo de Agua | lat=19.289128 | long=-99.010005 | directions=
+| phone=+52 55 2303 7665 | tollfree=
+| hours=Daily 10ː00 - 18ː00 | price=M$200
+| lastedit=2026-09-29
+| content=Japanese cuisine that goes well beyond sushi to include soups, noodle dishes and more. Generous portions.
+}}
+
+==Drink==
+* {{drink
+| name=Mayitas | alt= | url= | email=
+| address=Aldama 1A, Santa Ana Centro Tlahuac | lat=19.302823 | long=-99.037256 | directions=
+| phone= | tollfree=
+| hours=Thurs-Sat and Mon-Tu 11ː00 - 00ː00 | price=M$200
+| lastedit=2026-10-09
+| content=Lively bar with rock music and occasional live bands (mostly on the weekends).
+}}
+
+==Sleep==
+* {{sleep
+| name=Hotel Tlahuac | alt= | url= | email=
+| address=Frente Metro Nopalera, Av. Tlahuac 6023 | lat=19.302992 | long=-99.048384 | directions=Metro Line 12 to Nopalera
+| phone=+52 55 5840 3591 | tollfree=
+| checkin=15ː00 | checkout=12ː00 | price=M$750
+| lastedit=2026-09-19
+| content=Casual, comfortable hotel with clean rooms at reasonable rates. On-site restaurant available. Off-street parking available.
+}}
+
+==Connect==
+5G cell service is common throughout Tlahuac. There are no dead zones.
+
+{{IsPartOf|Mexico City}}
+{{usabledistrict}}
+
+{{geo|19.2782|-99.0029}}

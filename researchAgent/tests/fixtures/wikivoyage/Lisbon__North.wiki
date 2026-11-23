@@ -1,0 +1,207 @@
+{{pagebanner|pgname=Northern Lisbon}}
+
+'''Northern [[Lisbon]]''' is a district covering a large portion of [[Portugal]]'s capital city. Most of the sights, restaurants, and hotels are in and around the areas known as '''Avenidas Novas''', '''Sete Rios''', and '''Campolide'''.
+
+==Get in==
+{{mapframe|38.7564|-9.1615|zoom=12}}
+{{mapshapes|Q746032}}
+{{mapshape|wikidata=Q534230, Q1044020, Q924723, Q10367770, Q1786397, Q1618787, Q1031527, Q448231, Q9640593, Q501847|stroke-width=0}}
+
+All four lines of the [[Lisbon#Metro|Lisbon Metro]] serve the northern district. Several rail stations and local bus routes are also available.
+* {{go
+| name=Estação Ferroviária de Sete Rios | alt=Sete Rios Rail Station | url=https://www.infraestruturasdeportugal.pt/pt-pt/negocios-e-servicos/estacoes/detalhe/9466076 | email=
+| address=Avenida Columbano Bordalo Pinheiro | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q801112
+| lastedit=2021-07-22
+| content=Sete Rios serves several [https://www.cp.pt/passageiros/en Comboios de Portugal (CP)] lines—intercity, regional, and suburban (Sintra and Azambuja lines)—as well as [https://www.fertagus.pt/en Fertagus].
+}}
+* {{go
+| name=Terminal Rodoviário de Sete Rios | alt=Sete Rios Bus Station | url=https://www.visitportugal.com/en/NR/exeres/44F8F106-68A1-44E2-A163-38C8F4AE18E6 | email=
+| address=Praça General Humberto Delgado, Rua das Laranjeiras | lat=38.7418 | long=-9.1661 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2021-07-23
+| content=Lisbon's main bus terminal, serving [https://rede-expressos.pt/en Rede Expressos] and several other operators, with service from throughout the country and beyond.
+}}
+
+==See==
+[[File:Green Maze (26083591585).jpg|thumb|Parque Eduardo VII offers magnificent views of Praça Marquês de Pombal, Avenida da Liberdade, all the way down to the [[Lisbon/Baixa|Baixa]] and the River Tejo.]]
+[[File:Jardim_Zoológico_de_Lisboa_2017_03.jpg|thumb|A few residents of the Lisbon Zoo.]]
+*{{see
+| name=Calouste Gulbenkian Museum | alt= | url=https://gulbenkian.pt/museu/en/ | email=
+| address=Avenida de Berna 45A | lat= | long= | directions=take the metro to São Sebastião or Praça de Espanha Stations
+| phone=+351 21 782 3000 | tollfree=
+| hours=Wed–Mon 10:00–18:00, closed Tue | price={{€|10}}, ages 13–30 & 65+ {{€|5}}, ages 0–12 free
+| wikidata=Q211262
+| lastedit=2021-07-22
+| content=One of the best museums in Lisbon. Created from the personal collection of the art and artifact collector Calouste Gulbenkian. The collection include Egyptian artefacts; Islamic and oriental art; paintings by masters such as Rembrandt, Manet, Monet, Renoir, and Cassat; and a large collection of objects made by the Art Nouveau jeweler René Lalique. Gulbenkian was an [[Armenia|Armenian]] born in the [[Ottoman Empire]] who, through his investments in [[Iraq|Iraqi]] oil, became one of the wealthiest men of his time. During a journey he fell ill and had to seek medical attention in Lisbon. He fell in love with the city and decided live out his final days there. After his death his immense collections were organized into this museum. The ''[https://gulbenkian.pt/jardim/en/ Gulbenkian Gardens]'' which surround the museums and foundation building are worth a visit in and of themselves, as a little oasis in the middle of downtown Lisbon. They're free and open sunrise to sunset.
+}}
+* {{see
+| name=Centro de Arte Moderna | alt=Modern Art Centre | url=https://gulbenkian.pt/cam/ | email=
+| address=Rua Dr. Nicolau de Bettencourt | lat= | long= | directions=
+| phone=+351 21 782 3000 | tollfree=
+| hours=Daily 10:00 – 18:00, closed on Tuesdays, 10:00 – 21:00 on Saturdays | price=
+| wikidata=Q1054339
+| lastedit=2025-07-20
+| content=A museum dedicated to art since the 1950s, focusing on Portuguese artists and including other nationalities, notably British and Armenian. Part of the Calouste Gulbenkian Foundation.
+}}
+*{{see
+| name=Jardim Zoológico | alt= | url=http://www.zoo.pt/ | email=
+| address=Estrada de Benfica 158-160 | lat=38.7437 | long=-9.1703 | directions=Metro:Take the Blue Line to the Jardim Zoológico. Buses: A variety of buses stop here including 16, 31, 54, 58, 701 and 755
+| phone=+351 21 7232-920 | tollfree= | fax=
+| hours=21 Mar-30 Sep: 10:00-20:00; 1 Oct-20 Mar: 10:00-18:00 | price=€15
+| wikidata=Q220063
+| content=A zoo that is fairly pricey, but has a variety of exotic animals featuring sea-lions and dolphins.
+}}
+* {{see
+| name=Parque Eduardo VII | alt= | url= | email=
+| address= | lat= | long= | directions={{rint|metro}}{{station|Marquês de Pombal|amarela|azul}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2034183
+| lastedit=2021-08-05
+| content=Formal park with expansive views down toward the city and water from Miradouro Parque Eduardo VII. Home to the wonderful ''Estufa Fria'' greenhouse gardens.
+}}
+* {{see
+| name=Praça Marquês de Pombal | alt= | url= | email=
+| address= | lat=38.725278 | long=-9.15 | directions={{rint|metro}}{{station|Marquês de Pombal|amarela|azul}}
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Marquis of Pombal Square | image=Lisboa, Praça do Marquês de Pombal (7).jpg | wikidata=Q1807096
+| lastedit=2021-08-05
+| content=Essentially a large roundabout with a sizeable statue of a former Portuguese prime minister in the middle.
+}}
+
+==Do==
+* {{do
+| name=Gulbenkian Music | alt= | url=https://gulbenkian.pt/musica/en/ | email=
+| address=Avenida de Berna, 45A | lat=38.736334 | long=-9.154005 | directions=
+| phone=+351 217 823 700 | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-11-14
+| content=The Gulbenkian Foundation has its own symphony orchestra and ballet group. There are also two stages operated by the foundation. One major auditorium inside the main building, and an outdoors stage in the nearby Gulbenkian Gardens.
+}}
+* {{do
+| name=Monsanto Forest Park | alt=Parque Florestal de Monsanto | url= | email=
+| address= | lat=38.73 | long= -9.20 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q14040866
+| lastedit=2021-10-13
+| content= A municipal protected forest, the largest green patch in the city, covering almost 10 km². It offers a well-diversified, tree-covered area. 50 ha is set aside as the Ecological Park, which runs an interpretation centre, with space for permanent and occasional exhibitions, and a Centre of Multimedia Resources.
+}}
+
+==Buy==
+*{{buy
+| name=Centro Colombo | alt= | url=https://www.colombo.pt/ | email=info@adm.colombo.pt
+| address=Avenida Lusíada & Avenida Colégio Militar | lat= | long= | directions={{rint|metro}}{{station|Colégio Militar/Luz|city=lisbon|azul}}, {{rint|bus}}750, 799, 767, 55B, 70B
+| phone=+351 21 711 3600 | tollfree=
+| hours=08:00–22:30 daily | price=
+| wikidata=Q1054260
+| lastedit=2021-07-24
+| content=One of the largest malls in Europe, this shopping and leisure complex also houses dozens of restaurants, a bowling alley, health club and a multiplex cinema.
+}}
+*{{buy
+| name=El Corte Inglés | alt= | url=https://www.elcorteingles.pt/ | email=
+| address=Avenida António Augusto Aguiar 31 | lat=38.7331 | long=-9.1535 | directions={{rint|metro}}{{station|São Sebastião|city=lisbon|azul|vermelha}}
+| phone= | tollfree=
+| hours=Mon–Fri 10:00–21:00, Sat Sun & holidays 10:00–15:30 | price=
+| lastedit=2021-07-24
+| content=The Spanish department store chain invaded Lisbon, armed with cinema and supermarket. It can be a bit pricey but with good quality items.
+}}
+
+==Eat==
+* {{eat
+| name=O Cubo | alt= | url=https://www.facebook.com/restauranteocubo/ | email=restauranteocubo@hotmail.com
+| address=Rua Dom Francisco Manuel de Melo 16B | lat=38.729 | long=-9.1582 | directions=
+| phone=+351 21 388 2004 | tollfree=
+| hours=Mon–Sat 07:15–22:00, closed Sun | price={{€|5-20}}
+| lastedit=2021-07-22
+| content=A place for a family meal or a business lunch.
+}}
+* {{eat
+| name=Eleven | alt= | url=https://www.restauranteleven.com/ | email=11@restauranteleven.com
+| address=Rua Marquês de Fronteira | lat=38.7307 | long=-9.1559 | directions=
+| phone=+351 21 386 2211 | tollfree=
+| hours=Daily 12:30–14:30 & 19:30–22:30 | price={{€|35-185}}
+| lastedit=2021-07-23
+| content=Michelin-starred restaurant in Jardim Amália Rodrigues with views of Parque Eduardo VII.
+}}
+* {{eat
+| name=Fábrica Imperial | alt= | url=https://www.facebook.com/fabricaimperial15/ | email=fabrica.imperial.restaurante@gmail.com
+| address=Rua Marquês da Fronteira 113A | lat=38.7296 | long=-9.1582 | directions=
+| phone=+351 910 117 104 | tollfree=
+| hours=Mon–Thu 11:00–16:00, Fri 11:00–16:00 & 20:00–00:00, Sat 20:00–00:00, closed Sun | price={{€|7-20}}
+| lastedit=2021-07-22
+| content=They say they serve grandma's cooking with the love of a grandchild.
+}}
+* {{eat
+| name=Il Gattopardo | alt= | url=https://www.dompedro.com/en/restaurants/il-gattopardo-italian-restaurant/ | email=lisboa.restgattopardo@dompedro.com
+| address=Avenida Eng. Duarte Pacheco 24, 3F | lat=38.7249 | long=-9.1604 | directions=Dom Pedro Lisboa Hotel
+| phone=+351 21 389 6622 | tollfree=
+| hours=Daily 07:30–10:00 (Sat Sun until 10:30), 12:30–15:00, 19:30–22:00 | price={{EUR|52-78}}
+| lastedit=2021-07-23
+| content=An elegant restaurant serving fashionable gourmet Italian.
+}}
+
+==Drink==
+
+==Sleep==
+*{{sleep
+| name=America Diamonds Hotel | alt= | url=https://www.americadiamondshotel.com/en/ | email=info@americadiamondshotel.com
+| address=Rua Tomás Ribeiro 47 | lat=38.7308 | long=-9.1469 | directions={{rint|metro}}{{station|Picoas|amarela}}
+| phone=+351 21 352 1177 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=From {{EUR|62}}
+| lastedit=2021-08-05
+| content=Three-star, 66-room hotel, totally reconstructed in 2006 in a historical building, keeping only its original façade, contrasting with its modern interior. Amenities include bar, restaurant, room service, free breakfast, and free Wi-Fi.
+}}
+* {{sleep
+| name=Four Seasons Hotel Ritz Lisbon | alt= | url=https://www.fourseasons.com/lisbon/ | email=
+| address=Rua Rodrigo da Fonseca 88 | lat=38.7258 | long=-9.1549 | directions={{rint|metro}}{{station|Marquês de Pombal|amarela|azul}}
+| phone=+351 21 381 1400 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|465-777}}
+| lastedit=2021-08-05
+| content=Five-star, 282-room hotel with spa, gym, swimming pool, restaurant, and bar. The decor is a mix of Art Deco and Louis XVI, with a collection of mid-20th-century Portuguese art.
+}}
+*{{sleep | name=HI Lisboa – Pousada de Juventude | alt=Youth Hostel | url=https://pousadasjuventude.pt/en/youth-hostels/lisboa/ | email=lisboa@movijovem.pt | address=Rua Andrade Corvo 46 | lat=38.7303 | long=-9.1478 | directions={{rint|metro}}{{station|Picoas|amarela}} | phone=+351 21 353 2696 | tollfree= | checkin=18:00 | checkout=12:00 | price={{EUR|16-54}} | lastedit=2021-08-05 | content=32-room youth hostel with free breakfast and free Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Intercontinental Lisbon Hotel | alt= | url=https://lisbonintercontinental.com/ | email=lisha.reservations@ihg.com
+| address=Rua Castilho 149 | lat=38.7266 | long=-9.1554 | directions={{rint|metro}}{{station|Marquês de Pombal|amarela|azul}}
+| phone=+351 21 381 8700 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{€|133-257}}
+| lastedit=2021-07-22
+| content=Five-star, 331-room hotel overlooking Parque Eduardo VII. Amenities include fitness centre, bar, business centre, conference facilities, and free Wi-Fi.
+}}
+* {{sleep
+| name=Lisbon Marriott Hotel | alt= | url=https://www.marriott.com/hotels/travel/lispt-lisbon-marriott-hotel/ | email=
+| address=Avenida dos Combatentes 45 | lat=38.7471 | long=-9.164 | directions={{rint|metro}}{{station|Jardim Zoológico|azul}}
+| phone=+351 21 723 5400 | tollfree=
+| checkin=16:00 | checkout=12:00 | price={{€|110-169}}
+| lastedit=2021-07-22
+| content=Four-star, 577-room hotel with swimming pool, gym, bar, conference facilities, and free Wi-Fi.
+}}
+* {{sleep
+| name=Novotel Lisboa | alt= | url=https://all.accor.com/hotel/0784/index.en.shtml | email=H0784@accor.com
+| address=Avenida José Malhoa 1A | lat=38.7365 | long=-9.162 | directions={{rint|metro}}{{station|Praça de Espanha|azul}}
+| phone=+351 21 724 4800 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{€|71-122}}
+| lastedit=2021-08-05
+| content=Four-star, 249-room hotel with swimming pool, gym, bar, and free Wi-Fi.
+}}
+*{{sleep
+| name=Sheraton Lisboa Hotel & Spa | alt= | url=https://www.marriott.com/hotels/travel/lissi-sheraton-lisboa-hotel-and-spa/ | email=
+| address=Rua Latino Coelho 1 | lat=38.7318 | long=-9.147 | directions={{rint|metro}}{{station|Picoas|amarela}}
+| phone=+351 21 312 0000 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|150-251}}
+| lastedit=2021-08-05
+| content=Five-star, 369-room hotel with swimming pool, spa, gym, business centre, and free Wi-Fi. Its rooftop '''Panorama Restaurant and Bar''' offers superb views over Lisbon.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7547|-9.1514}}

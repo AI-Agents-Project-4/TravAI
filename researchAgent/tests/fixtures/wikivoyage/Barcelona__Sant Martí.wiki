@@ -1,0 +1,426 @@
+{{pagebanner|Sant Marti Wikivoyage banner.png|pgname=Sant Martí|origin=1,0}}
+
+'''Sant Martí''' is a district in [[Barcelona]] which extends north of the [[Barcelona/Ciutat Vella|Ciutat Vella]]. Developed from the former industrial areas of Poblenou, medieval district of Clot and suburbs of Sant Martí, it became a place of large-scale ambitious urban redevelopment. This resulted in many landmarks of postmodern architecture, especially along the northern part of ''Avenida Diagonal'', which was pretty much reconstructed in the 21st century. Sant Martí also features beaches along the coast and a handful of parks and other tourist attractions.
+
+==Understand==
+[[File:Districte de Sant Martí.svg|250px|thumbnail|right|The ''barris'' (boroughs) of Sant Martí]]
+The Sant Martí district is administratively divided into 10 boroughs, each with a slightly different character. Areas of interest to the tourists are generally south of the Diagonal. The ''barris'' south of Diagonal are (from West to East):
+* '''El Parc i Llacuna del Poblenou''' - includes the majestic Plaza Glories and buildings along the Diagonal and Meridiana, such as Torre Agbar
+* '''La Vila Olímpica del Poblenou''' - the former Olympic village built for the 1992 Olympic Games
+* '''El Poblenou''' - the core of the former industrial area of Poblenou, undergoing gradual block-by-block redevelopment as part of the "Area 22@" plan
+* '''Diagonal Mar i Front Marítim del Poblenou''' - the former industrial areas and slums have undergone large-scale urban redevelopment in the 21st century, becoming a commercial and business hub
+[[File:BCN-ParcForum-4923.jpg|250px|thumbnail|right|Diagonal Mar seen from the Forum side (northeast)]]
+The barris north of the Diagonal are:
+* '''El Clot''' - of some interest due to the fact that the ''El Clot-Arago'' station is in this area
+* '''El Camp de l'Arpa del Clot'''
+* '''Provençals del Poblenou'''
+* '''Sant Martí de Provençals'''
+* '''El Besòs i el Maresme''' - the part on the Besos riverside, which is mostly industrial
+* '''La Verneda i la Pau'''
+
+===History===
+Barcelona and Catalonia in general suffered both from different forms of repressions under the Franco regime, as well as rather catastrophic and ill-fated planning. As a result, large parts of Barcelona, including those falling within present-day Sant Martí district, dilapidated into post-industrial slums.
+
+An impulse for change in Sant Martí came with the 1992 Olympic Games, for which several facilities, including most importantly the Olympic Village, were built within the district. To improve the quality of life, as well as image and perception of city, much of the former industrial constructions were demolished to make way for a new waterfront and publicly accessible beaches.
+
+Further to that was the development of the ''Diagonal Mar'' area at the northeastern tip of Avenida Diagonal, which focused around the 2004 Universal Culture Forum. While the event was marred with controversies and regarded a flop in many ways, it turned the formerly wayward area into a business hub and a modern, enjoyable place to live.
+
+Finally, the ongoing ''Area 22@'' planning activities redevelop vast areas of Sant Martí along the principles of modern urbanist mixed development with focus on modern economy sectors such as ICT, media, biotechnology and design.
+
+==Get in==
+{{Mapframe|41.407|2.205|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q237189}} <!-- metro -->
+
+The only railway station within Sant Martí is {{marker | name={{station|El Clot-Aragó|L1|L2 }}| lat=41.40910 | long=2.18742|type=go}} which is an underground station served by {{rint|catalonia|rdc}} {{rint|catalonia|R1|}}{{rint|catalonia|R2|}}{{rint|catalonia|R2N|}}{{rint|catalonia|R11|}}, as well as some regional trains travelling within Catalonia. The railway station is directly connected to the metro station ''Clot''. 
+
+The {{rint|barcelona|L4}} '''metro line''' connects Sant Martí with the Ciutat Vella, [[Barcelona/Eixample|Eixample]] and the [[Barcelona/Inland Suburbs|northern suburbs]]. It brings you close to the beaches and the Forum, but you will still have to walk to reach them.
+
+The Green line on the '''Barcelona Bus Turístic''' is very handy for getting around the district and gets you closer to the beaches than the metro or tram. Stops include Bogatell Beach, Parc Diagonal Mar and the Forum. At a one day cost of €23 or two days at €30, it doesn't make sense to buy a ticket just for the Green line, but if you plan on using the Bus Turístic's other lines, it could work. The Green line only runs from Apr - Sept.
+
+==Get around==
+[[File:Tram besos.svg|250px|thumbnail|right|''Trambesòs'' network map (note that '''T6''' now terminates at ''Glories'', rather than ''Gorg'')]]
+=== Trambesos ===
+The '''''Trambesòs'' tram lines T4, T5 and T6''' run, for the most part, within Sant Marti, across the whole district from Northeast to Southwest (the northeastern termini of all lines fall within the municipality of [[Badalona]], outside of Barcelona). All the lines stop at {{marker|type=go|name={{station|Glories|L1}}|lat=41.40244 | long=2.18711}}, which is a transportation hub in ''Plaça Glories'' and offers the possibility to change to metro. The trams '''do not''' stop at the ''El Clot-Arago'' railway station or anywhere close.
+
+{{rint|barcelona|t4}} is perhaps the most handy to tourists, as it runs from {{marker|type=go|name={{station|Verdaguer|L4|L5}}|lat=41.38753 | long=2.19207}} stop (close to Sagrada Família) along ''Avinguda Diagonal'' and then ''Avinguda Meridiana'' to its terminus at ''Sant Adria'' in Badalona
+
+{{rint|barcelona|t5}} starts at {{station|''Ciutadella-Vila Olímpica''|L4}}, but takes a more northern route along ''Gran Via de les Corts Catalanes'' to terminate at {{station|''Gorg''|L2|L10}} in Badalona
+
+{{rint|barcelona|t6}} follows a hybrid route, starting at {{station|''Ciutadella-Vila Olímpica''|L4}} and following the T5 along ''Gran Via de les Corts Catalanes'', but terminating at ''Sant Adria'' in Badalona instead
+
+The termini in Badalona may not be of much interest to a tourist, but their names can be handy to identify the direction the tram is going.
+
+=== Metro ===
+{{rint|barcelona|L4}} complements the trams by following the coastline and then going northwesternwards, and connects to them at ''Vila Olimpica'' (T4), ''Selva de Mar'' (T4), ''El Maresme/Forum'' (T4) and Besos (T5, T6).
+
+{{rint|barcelona|L1}} may be used to travel between ''Clot'', ''Glories'' and ''Marina'', connecting to T4, T5 and T6.
+
+{{rint|barcelona|L2}} cuts across the northernmost part of the district, even further northwards from where T5 and T6 run. There is an interchange between L2 and T5, but only in Badalona. This line is possibly of least use to tourists and mostly one for commuters.
+
+==See==
+[[File:14-08-05-barcelona-RalfR-068.jpg|thumb|right|Torre Glòries with other buildings around the Plaça de les Glòries]]
+* {{see | name=Torre Glòries | alt= | url=http://torregloriesbcn.com/ | email= | address=Av Diagonal, 211 | lat=41.403333 | long=2.189444 | directions=Metro: L1, T4 Glòries | phone= | tollfree= | hours=Light show Fri-Sun 19:00-23:00 | price= | image=Torre agbar.JPG | wikidata=Q336246 | lastedit=2025-01-05 | content=Formerly known as Torre Agbar. Distinctively-shaped office tower which stands out in the Barcelona skyline. It stands out even more Friday, Saturday and Sunday nights when it is lighted in several colours. The viewing platform on the 30th floor has views in all directions. Tickets start at €15 and come with a complimentary glass of cava and access to Hyperview Barcelona, an exhibit of the city’s real-time environmental data as an audiovisual installation, which is hosted in the tower’s lowest floor.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=DHub Disseny Hub Barcelona | alt=Design Museum of Barcelona | url=https://www.dissenyhub.barcelona/en | email=
+| address=Plaça de les Glòries Catalanes 37-38 | lat=41.40257 | long=2.18802 | directions={{rint|barcelona|metro}}{{station|Glòries|l1}}{{rint|barcelona|trambaix}}{{station|Glòries|t4|t5|t6}}
+| phone=+34 932 566 700 | tollfree= | fax=
+| hours=Tue-Sun 10:00-20:00 | price=General admission/reduced admission: permanent exhibitions €6 reduced €4; temporary exhibitions €4.40/3; combined permanent and temporary exhibitions €8/5.50. Tickets valid for any 2 days within the 6 months following purchase.
+| wikipedia=Design Museum of Barcelona | image=14-08-05-barcelona-RalfR-068.jpg | wikidata=Q4889477
+|lastedit=2024-03-18| content=Much to the dismay of Mickey Mouse aficionados, ''Disseny'' is Catalan for "design", not "Disney". The "Disseny Hub" houses the amalgamated museums focusing on applied arts and design, including ''Museu de les Arts Decoratives'', ''Museu de Ceràmica'', ''Museu Tèxtil i d'Indumentària'' and ''Gabinet de les Arts Gràfiques''. The new building has an intricate, multi-level structure, with the protruding tower overhanging the Praca de les Glories roundabout.
+}}
+
+[[File:ES-BCN-mus-bl-1.jpg|thumbnail|right|The Museu Blau as seen from Passeig del Taulat with Torre Diagonal ZeroZero in the background]]
+
+* {{see
+| name=Museu de Ciències Naturals de Barcelona | alt=The Blue Museum (Museu Blau) | url=http://www.museuciencies.bcn.cat | email=
+| address=Plaça Leonardo da Vinci, 4-5 (Fòrum Park) | lat=41.411039 | long=2.22133 | directions={{rint|barcelona|metro}}{{station|Maresme-Fòrum|l4}}{{rint|barcelona|trambesos}}{{station|Fòrum|t4}}
+| phone=+34 932 56 60 02 | tollfree= | fax=
+| hours=Oct-May: Tue-Fri 10:00-19:00; Sat Sun 10:00-20;00; June-Sept: Tue-Sun 10:00-21:00 | price=€6, children under 16 free
+| wikipedia=es:Museo de Ciencias Naturales de Barcelona | image=Barcelona - Museu Blau (Edifici Fòrum) y Hotel Barcelona Princess 1.jpg | wikidata=Q9046889
+|lastedit=2024-03-18| content=Museum with a number of exhibitions about the Earth and its natural history. One exhibit covers the origin of life on Earth and how it has evolved. A second exhibit deals with nature and life on Earth today. The third exhibit covers some of the issues relating to humans and their relationship with nature.
+}}
+* {{see
+| name=Centre Convencions internacional | alt= | url=http://www.ccib.es | email=
+| address= | lat=41.410174 | long=2.219473 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Centre de Convencions Internacional de Barcelona (entrada).JPG | wikidata=Q11913491
+| content=
+}}
+* {{see
+| name=Olympic Port | alt=Port Olímpic | url= | email=
+| address= | lat=41.386667 | long=2.200278 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Port Olímpic | image=Barcelona, Port Olímpic JMM.JPG | wikidata=Q171204
+| content=It has a large number of restaurants, bars and other establishments. In this wide offer you can find also the Barcelona Casino.
+}}
+* {{see
+| name=Vila Olimpica | alt= | url= | email=
+| address= | lat=41.3898 | long=2.19659 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=La Vila Olímpica del Poblenou | image=Avinguda Icària 3.jpg | wikidata=Q1167101
+| content=
+}}
+* {{see
+| name=Poblenou Cemetery | alt= | url= | email=
+| address= | lat=41.395 | long=2.201111 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Poblenou Cemetery | image=Barcelona Poblenou Cemetery IMGP9749.jpg | wikidata=Q5668717
+| content=
+}}
+* {{see
+| name=Torre d'aigües de Macosa | alt= | url= | email=
+| address=Carrer de Selva de Mar 9 | lat=41.4058 | long=2.21229 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Torre de las Aguas del Besós | image=Falqués-torreMacosa-08019.3011-4937.jpg | wikidata=Q18711243
+| content=One of the most unusual landmarks in this otherwise ultra-modern area is this 19th-century (finished in 1882) brick water tower. Standing 62 metres tall, it is now overshadowed by neighbouring residential, office and hotel towers and easy to miss unless you know where to look for it.
+}}
+
+=== Parks ===
+* {{see
+| name=Parc de Poblenou | alt= | url=https://www.barcelona.cat/en/what-to-do-in-bcn/parks-and-gardens/parc-del-poblenou-96113125023 | email=
+| address= | lat=41.39510 | long=2.20468 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q9055592
+|lastedit=2024-03-21| content=
+}}
+* {{see
+| name=Parc del Clot | alt= | url=https://www.barcelonaturisme.com/wv3/en/page/536/parc-del-clot.html | email=
+| address= | lat=41.40786 | long=2.19046 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q11940184
+|lastedit=2024-03-21| content=
+}}
+* {{see
+| name=Parc de les Glories | alt= | url=https://www.barcelonaturisme.com/wv3/en/page/5181/.html | email=
+| address= | lat=41.40335 | long=2.18693 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q18338244
+|lastedit=2024-03-21| content=
+}}
+[[File:Barcelona Parq de Diagonal Mar JMM.JPG|thumb|Parc Diagonal Mar]]
+* {{see
+| name=Parc Diagonal Mar | alt= | url=https://www.barcelonaturisme.com/wv3/en/page/600/parc-diagonal-mar.html | email=
+| address=Llull, 362, Barcelona Fòrum | lat=41.40720 | long=2.21467 | directions={{station|Selva de Mar|l4|t4}}
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| wikidata=Q6062641
+|lastedit=2024-03-22| content=Urban park created from redeveloping industrial land. It covers 14 hectares and includes seven areas like a children's play area, a lake with sculptures and a central plaza.
+}}
+
+==Do==
+There are five '''beaches''' along the Sant Martí oceanfront. These beaches are typically less busy than those in [[Barcelona/Ciutat Vella|Barceloneta]] and get less busy and have fewer amenities the further north you head up the coast. Starting from Barceloneta and moving northwards, the beaches are in order:
+* {{do|name=Nova Icària|content=Next to the Port Olympic, has easy access to restaurants and shopping.|lat=41.39019|long=2.20235}}
+* {{do|name=Bogatell|lat=41.39386|long=2.20720}}
+* {{do
+| name=Mar Bella | alt= | url= | email=
+| address= | lat=41.39796 | long=2.21203 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q3331605
+| content=Mar Bella is considered the nudist beach for Barcelona
+}}
+* {{do|name=Nova Mar Bella|lat=41.40142|long=2.21540}}
+* {{do|name=Llevant|lat=41.40419|long=2.21804}}
+
+==Buy==
+* {{buy | name=Les Glòries | alt= | url=http://www.lesglories.com/ | email= | address=Diagonal 208 | lat=41.40534 | long=2.19126 | directions= | phone= | tollfree= | fax= | hours= | price= | content=A large shopping centre by the Diagonal, right at the Plaza Glories. Includes a large Carrefour supermarket, a cinema and a number of the usual chain stores, including Zara, H&M and C&A. There is also in. al. a drugstore, optician and a post office.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Centro Commercial Diagonal Mar | alt= | url=http://www.diagonalmarcentre.es/en/ | email=
+| address=Diagonal 3 | lat=41.40990 | long=2.21689 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Another shopping centre at the opposite end of the Diagonal. A similar selection of tenants, including a cinema.
+}}
+
+==Eat==
+* {{eat
+| name=Vegan Food Heaven | alt= | url=http://veganfoodheaven.es/ | email=
+| address=Av. d'Icària, 178 | lat=41.392382 | long=2.198547 | directions={{rint|barcelona|metro}}{{station|Ciutadella Vila Olímpica|l4}}walk  650 metres north east.
+| phone=+34 930165139 | tollfree=
+| hours= | price=
+| lastedit=2024-05-08
+| content=Bright & airy vegan fusion restaurant. on-line table reservation.
+}}
+
+==Drink==
+* {{listing
+| name=L’Ovella Negra (The Black Sheep) | url=http://www.ovellanegra.com/ | email=
+| address=Carrer de Zamora, 78 | lat= | long= | directions=
+| phone=+34 933 09 59 38 | tollfree= | fax=
+| hours= | price=
+| content=A great place to meet up with a large group of friends or to make a large group of new friends! It is a beer hall styled in a traditional Catalan manner. It has been around for decades in the Poble Nou district of Barcelona. It has huge wooden tables that seat no less than ten people. It has exposed stone walls and large wood supports so you feel you are in a barn or old farm house. The Black Sheep is also immediately opposite one of the finest clubs Barcelona has to offer "Sala Razzmatazz" and acts as the perfect pre-gamer spot (including sangria & beer pitchers!) before heading across the road to dance late into the night / early morning! There are 2 bar locations. One in Raval close to Las Ramblas and one in Poble Nou (the one mentioned here).
+}}
+* {{drink | name=Razzmatazz | url=http://salarazzmatazz.com/index.php | email= | address=C/ dels Almogàvers, 122 | lat=41.397797496 | long=2.191096818 | directions=Metro: L1 Marina{{rint|barcelona|metro}}{{station|Marina|l1}}{{station|Bogatell|l4}}{{rint|barcelona|trambesos}}{{station|Auditori-Teatre Naciona|t4}} | phone=+34 933 20 82 00 | tollfree= | fax= | hours= | price= | lastedit=2026-02-17 | content=Large and popular club with several rooms, each one a different style of music (pop, retro, house, trance). It is loved by the visitors and locals. €15 will get you in with a free drink. It's worth paying an entry fee. Saturdays at 02:00 is the absolute best time to go, and worth the 5-minute and 400-m line to get in. Closes at 06:00. Note: If you are going to see something at Razzmatazz 2 or 3, the entrance is through the arch on C. de Pamplona.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Sleep==
+{{sleeppricerange|Less than €60 for 2 people|€60-90 for a double/twin room|More than €90 for a double/twin}}
+If you are looking for a modern, comfortable hotel, Sant Martí is a good choice for a place to stay in Barcelona as the abundance of new building projects, as well as offices and other locations of interest to businessmen provided for the construction of many new hotels. The most upscale (and expensive) properties are along the Diagonal and the coastline, while cheaper accommodations are to be found between the blocks of Poblenou and Sant Martí, south and north of the Diagonal.
+
+=== Budget ===
+
+* {{sleep
+| name=Travelodge Barcelona Poblenou | alt= | url= | email=
+| address= | lat=41.39982 | long=2.20109 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €45
+| content=Given the popularity of Spain among British vacationers it is no wonder that Britain's favourite budget lodging chain finally got a pied-a-terre in Barcelona. Just like any other Travelodge, it is as simple as can be, but just as cheap.
+}}
+* {{sleep
+| name=Hotel BestPrice Diagonal | alt= | url= | email=
+| address=Diagonal 70 | lat=41.40956 | long=2.20931 | directions=Metro L4 & Tram T4 - Selva de Mar
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €51
+| content=This simple new hotel tries to live up to its name by undercutting competition by a wide margin.
+}}
+* {{sleep
+| name=Urbany Hostel Barcelona | alt= | url= | email=
+| address=Avenida Meridiana 97 | lat=41.40704 | long=2.18644 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Twentytú Hostel | alt= | url= | email=
+| address=Pamplona 114 | lat=41.39897 | long=2.18846 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+
+[[File:Vincci Condal Mar (5), July 2009.JPG|thumbnail|right|Lobby decorations at one of the hotels in the area]]
+
+=== Mid-range ===
+[[File:RamblaPoblenou.jpg|thumbnail|right|Rambla del Poblenou, a pleasant boulevard running south of Diagonal]]
+* {{sleep
+| name=Catalonia Albeniz | alt= | url= | email=
+| address=Aragon 591-593 | lat=41.40823 | long=2.18604 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €75
+| content=A simple and slightly dated hotel right next to the Clot train station.
+}}
+* {{sleep
+| name=Catalonia Atenas | alt= | url= | email=
+| address=Avenida Meridiana 151 | lat=41.41062 | long=2.18648 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €75
+| content=One of the three ''Catalonia'' hotels in the area, this one is a tad north from the Clot train station. Rooms are small, fixtures and furniture have their best times behind them but prices are very reasonable.
+}}
+* {{sleep
+| name=Catalonia Sagrada Familia | alt= | url= | email=
+| address=Carrer de Aragó 569 Bis | lat=41.40799 | long=2.18524 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €75
+| content=A sister property to the Catalonia Albeniz, it is a simple and slightly aged hotel squeezed into a block a very short distance from the Clot train station. The Sagrada Familia itself is six blocks away towards the southwest.
+}}
+* {{sleep
+| name=Four Points by Sheraton Barcelona Diagonal | alt= | url=https://www.marriott.com/hotels/travel/bcnfp-four-points-barcelona-diagonal/ | email=
+| address=Diagonal 161 | lat=41.40531 | long=2.19621 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=The Four Points offers simply furnished yet sunny rooms thanks to floor-to-ceiling windows, straight on the Diagonal.
+}}
+* {{sleep
+| name=Hotel Front Maritim | alt= | url=https://www.hotelfrontmaritim.com/en/ | email=
+| address=Passeig de García Faria 69-71 | lat=41.40378 | long=2.21380 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €80
+| content=The hotel is very aptly named, as it faces the sea directly across the Nova Mar Bella beach. As the property has aged quite badly by the beginning of the 21st century, it offers relatively attractive prices.
+}}
+* {{sleep
+| name=Hesperia del Mar | alt= | url= | email=
+| address=Espronceda 6 | lat=41.40161 | long=2.20983 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €92
+| content=Old-style Spanish vacation hotel (CRT TVs in rooms!) is close to the Mar Bella beach. Do note that the hotel is sideways versus the sea, so not all rooms have the same brilliant views.
+}}
+* {{sleep
+| name=Holiday Inn Express Barcelona City 22@ | alt= | url= | email=
+| address=Carrer de Pallars 203 | lat=41.40143 | long=2.19803 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €75 a night, breakfast included
+| content=A little run down Holiday Inn Express offers some of the cheapest hotel stays in Barcelona with breakfast included.
+}}
+* {{sleep
+| name=ibis Barcelona Plaza Glories 22@ | alt= | url= | email=
+| address=Ciudad de Granada 99 | lat=41.40103 | long=2.19428 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €81
+| content=This is a standard ibis hotel, despite its name not really close to the Plaza Glories. Of note is the fact that no twin rooms are offered, only doubles.
+}}
+* {{sleep
+| name=NH Diagonal Center | alt= | url= | email=
+| address= | lat=41.39797 | long=2.19222 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €85
+| content=The hotel is not really on or near the Diagonal, nor especially central, but all in all offers the usual NH standard in the middle of Sant Marti.
+}}
+* {{sleep
+| name=Tryp Barcelona Condal Mar | alt= | url= | email=
+| address=Cristóbal de Moura 138 | lat=41.41251 | long=2.20917 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=In a round modern tower a few blocks north of the Diagonal. Typical Tryp features, including family rooms with foldaway bunk beds.
+}}
+* {{sleep
+| name=Vincci Bit | alt= | url= | email=
+| address=Carrer de Josep Pla 69 | lat=41.41159 | long=2.21189 | directions=at the corner with Carrer de Pallars
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €85
+| content=This unexpectedly stylish hotel is two blocks towards the north from the Diagonal shopping centre. Each floor's corridor is decorated in a different, unusual theme and the cheerful yet tasteful variety of decor makes up for quite small and simple rooms. For thrifty holidaymakers, a Lidl supermarket is around the corner
+}}
+* {{sleep
+| name=Vincci Maritimo | alt= | url= | email=
+| address=Carrer de Llull 340 | lat=41.40813 | long=2.21181 | directions=Metro L4 and tram T4 - Selva de Mar
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €89
+| content=The other Vincci is just as maritime as any other hotel in Sant Marti, as it is actually close to the Diagonal and not the seaside. It is also less adventurous in style, but nonetheless very pleasantly and contemporarily outfitted.
+}}
+
+=== Splurge ===
+[[File:PereIV-HabitatSky.jpg|thumbnail|right|Carrer de Pere IV with the Melia Barcelona Sky]]
+[[File:Can Gili Nou lateral.JPG|thumbnail|right|Industrialheritage permeates Poblenou]]
+* {{sleep
+| name=AC Hotel Barcelona Forum by Marriott | alt= | url= | email=
+| address=Paseo Taulat 278 | lat=41.40992 | long=2.21863 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €94
+| content=The AC is basically a part of the Convention Centre, towering over its meeting spaces. It features an unusually contemporary design theme for a Marriott-branded property.
+}}
+
+[[File:El petò de la Mort.JPG|thumbnail|right|The "Kiss of death" at Poblenou cemetery]]
+* {{sleep
+| name=Barcelo Atenea Mar | alt= | url= | email=
+| address=Passeig de Garcia Faria 37-47 | lat=41.40237 | long=2.21176 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €112
+| content=Right at the Nova Mar Bella beach
+}}
+* {{sleep
+| name=Barcelona Princess | alt= | url= | email=
+| address=Diagonal 1 | lat=41.41086 | long=2.21859 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €94
+| content=The Princess occupies a tower at the very tip of the Diagonal, boasting great views in all directions and a very metropolitan ambience. The postmodern design mix is enhanced in some rooms appointed with lavishly colourful decorations and patterns by the Spanish apparel brand Desigual.
+}}
+* {{sleep
+| name=Confortel Barcelona | alt= | url= | email=
+| address=Ramon Turró 196-198 | lat=41.39872 | long=2.20246 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €114
+| content=There is nothing really special about the Confortel, apart from really small windows. Rooms are quite sombre and the building is squeezed into one of the blocks at Poblenou.
+}}
+* {{sleep
+| name=H10 Marina Barcelona | alt= | url= | email=
+| address=Avenida Bogatell 64-68 | lat=41.39309 | long=2.19253 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=€100 and up
+| content=A long shot (five blocks) from the actual marina in the Olympic Port, the H10 is a regular midmarket city hotel with a selection of 235 rooms in different sizes and standards. A rooftop terrace with a pool provides a nice overview of Poblenou.
+}}
+* {{sleep
+| name=Hilton Diagonal Mar Barcelona | alt= | url=https://www.hilton.com/en/hotels/bcndmhi-hilton-diagonal-mar-barcelona/ | email=bcndm.barcelona@hilton.com
+| address=Passeig de Taulat 262-264 | lat=41.40844 | long=2.21773 | directions=
+| phone=+34 93 507 07 07 | tollfree=
+| checkin= | checkout= | price=
+| wikipedia=Hilton Diagonal Mar Barcelona | wikidata=Q16843761
+| content=Adjacent to the Congress Centre and facing the Centro Commercial Diagonal Mar.
+}}
+* {{sleep
+| name=Melia Barcelona Sky | alt=formerly ME Barcelona | url=https://www.melia.com/es/hoteles/espana/barcelona/melia-barcelona-sky/index.html | email=
+| address=Carrer de Pere IV, 272-286 | lat=41.40612 | long=2.20078 | directions=Metro: L1 Glòries
+| phone=+34 93 367 20 50 | tollfree=+1-877-954-8363 (US), +808 234 1953 (UK) | fax=
+| checkin= | checkout= | price=€205 and up (room), €385 and up (suite). Parking €25/day
+| content=Upscale hotel in Poble Nou neighbourhood. Amenities include free high-speed internet, minibars in all rooms, 24 hour access to the gym, pillow-top mattresses and a pillow menu.
+}}
+* {{sleep
+| name=Novotel Barcelona City | alt= | url= | email=
+| address=Avenida Diagonal 201 | lat=41.40380 | long=2.19124 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €121
+| content=The Novotel boasts a brilliant location on the Diagonal, with excellent views of the neighbouring Agbar Tower, especially from its rooftop pool and terrace. Regular rooms are of the usual old Novotel standard, the upscale categories have been renovated and feature a more modern, edgy design with the use of dark colours.
+}}
+* {{sleep
+| name=Hotel SB Diagonal Zero | alt= | url=http://www.hoteldiagonalzero.com/en | email=
+| address=Plaça de Llevant s/n | lat=41.41195 | long=2.21958 | directions=Metro: L4 Maresme-Fòrum, T4 Fòrum
+| phone=+34 935 07 80 00 | tollfree= | fax=
+| checkin=15:00 | checkout=12:00 | price=Rooms start from €120 and suites start from €290 (summer)
+| content=262 rooms and suites, with many having sea views. Amenities include free Wifi, a fitness room, spa, executive floor and a pool with views from the 17th floor.
+}}
+* {{sleep
+| name=Hotel SB Icaria Barcelona | alt= | url=http://www.hotelicariabarcelona.com/en | email=
+| address=Av Icària, 195 | lat=41.39361 | long=2.19942 | directions=
+| phone=+34 932 21 82 00 | tollfree= | fax=
+| checkin=14:00 | checkout=12:00 | price=Rooms start from €150 and suites start from €185 (summer)
+| content=Modern hotel close to the beach and Port Olimpic. Amenities include free Wifi, a solarium with a pool and fitness room. Some rooms are suites with either a study (for business) or a jacuzzi.
+}}
+* {{sleep
+| name=Silken Diagonal Barcelona | alt= | url= | email=
+| address= | lat=41.40368 | long=2.19053 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €114
+| content=Postmodern extravaganza right next door to the Agbar tower.
+}}
+* {{sleep
+| name=Hotel & Spa Villa Olimpic | alt= | url= | email=
+| address=Pallars, 121-125 | lat=41.39739 | long=2.19211 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=From €110
+| content=This hotel with a spa is actually a bit north of the actual Olympic Village. Due to its constrained location within one of the old blocks of Poblenou, the experience there may be less rewarding than in some of the newer hotels.
+}}
+
+==Connect==
+
+{{usabledistrict}}
+{{IsPartOf|Barcelona}}
+{{geo|41.41786389|2.198680556}}
