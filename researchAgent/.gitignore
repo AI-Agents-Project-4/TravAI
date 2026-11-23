@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 tests/outputs/
 sandbox_misses.jsonl
+sandbox_data/

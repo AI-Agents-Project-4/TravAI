@@ -29,17 +29,34 @@ There are three data modes. They differ in where flights, hotels and everything 
 
 | Mode | How to select | Flights and hotels | Geoapify, Claude, other sources | Use it for |
 |---|---|---|---|---|
-| **live** (default) | no flag | Ignav and SerpApi, spends quota | live (cached on disk after the first call) | real research, recording new data |
+| **cache-first** (default) | no flag | Ignav and SerpApi, but only for requests not already cached | same: live only on a cache miss | real research, recording new data |
 | **offline replay** | `--offline` | exact-request cache only | exact-request cache only | reproducing a past run with no network; the 13 test cases |
-| **sandbox** | `--sandbox`, `data_mode_override="sandbox"` or `TRAVAI_DATA_MODE=sandbox` | recorded data, nearest match if the trip was not recorded (see [Sandbox mode](#sandbox-mode-recorded-flights-and-hotels)) | live | dev, evals and demos without Ignav/SerpApi quota |
+| **sandbox** | `--sandbox`, `data_mode_override="sandbox"` or `TRAVAI_DATA_MODE=sandbox` | recorded data (nearest match if the trip was not recorded), or [synthetic test data](#synthetic-test-data-safe-to-commit-and-push) when no recordings are present | live | dev, evals and demos without Ignav/SerpApi quota |
 
 ```bash
-python3 scripts/run_agent.py tokyo-5d-5000               # live. Case ids are in tests/test_cases.json
+python3 scripts/run_agent.py tokyo-5d-5000               # cache-first: calls the APIs only for what is not cached yet
 python3 scripts/run_agent.py tokyo-5d-5000 --offline     # replay from cache: no network, no quota
-python3 scripts/run_agent.py tokyo-5d-5000 --sandbox     # recorded flights and hotels, live everything else
+python3 scripts/run_agent.py tokyo-5d-5000 --sandbox     # recorded flights and hotels; everything else cache-first
 python3 tests/run_cases.py [ids...] [--offline]          # all cases + automated checks -> tests/outputs/report.md
 python3 -m pytest tests -q                               # unit tests (no network, no keys)
 ```
+
+### Does a run call the real APIs?
+
+Only for what is not already cached. Every external call (Ignav, SerpApi, Geoapify, Wikivoyage, State Dept, FX, and each
+`claude -p` step) checks the on-disk cache first (`tests/fixtures/`).
+
+- **Cache hit:** no network call and no `claude` call. Rerunning a case you have already run makes zero calls and costs
+  nothing. (Checked: a second run of `tokyo-5d-5000` made 0 network calls and 0 `claude` calls.)
+- **Cache miss:** the real API is called and the result is saved. This is the only time quota or Claude usage is spent.
+- **The key is the exact request.** A different date, party size, destination or currency is a different request, so it is
+  a miss and goes live. Changing one request field can re-run most of the pipeline.
+- **Cached results never expire by default.** `cache_ttl_hours=None` keeps them forever, so prices from the first run keep
+  being served and show their original `retrieved_at`. To refresh, pass `cache_ttl_hours=24` (or similar) to `run()`, or
+  delete the cache files for that request. The backend should set a TTL; see "Integrating with the backend".
+- **`--offline` is the strict version:** a miss raises `CacheMiss` instead of calling anything.
+- **Sandbox mode** replaces only the flight and hotel lookups (Ignav and SerpApi) with recorded or synthetic data; it never
+  calls those two APIs.
 
 `run_agent.py` takes a case id (not a free-form trip; run it with no arguments to list the ids) and writes `tests/outputs/<id>.json`. That folder is generated and
 gitignored. For your own trip, call `run()` from Python:
@@ -51,7 +68,7 @@ output = run({
     "origin": "DEN", "destinations": ["Tokyo, Japan"], "start_date": "2027-03-10", "duration_days": 5,
     "travelers": 1, "budget": 5000, "currency": "USD", "transport_modes": ["flight"],
     # optional: "start_point", "end_point" for multi-city trips
-}, data_mode_override="sandbox")      # omit for live
+}, data_mode_override="sandbox")      # omit for the default (cache-first, real APIs on a miss)
 ```
 
 `run(req, *, offline=False, now=None, progress=None, cache_ttl_hours=None, data_mode_override=None)`:
@@ -59,7 +76,7 @@ output = run({
 | Parameter | Meaning |
 |---|---|
 | `offline` | Replay only from the exact-request cache; raises instead of touching the network. |
-| `data_mode_override` | `"sandbox"` or `"live"`. `None` keeps the current mode (env `TRAVAI_DATA_MODE`, default live). Process-wide. |
+| `data_mode_override` | `"sandbox"` or `"live"`. `None` keeps the current mode (env `TRAVAI_DATA_MODE`, default `live`, which means cache-first). Process-wide. |
 | `progress(stage, message)` | Optional callback for a progress screen (stages: resolve, search, flights, lodging, activities, transport, feasibility, done). |
 | `cache_ttl_hours` | Refetch cached results older than this. `None` keeps everything (tests, replay). Process-wide. |
 | `now` | Override the clock (tests). |
@@ -84,7 +101,7 @@ A request with a past `start_date`, no destination, fewer than 1 traveler or day
 ## Sandbox mode (recorded flights and hotels)
 
 Ignav and SerpApi quotas are small, so flights and hotels can be answered from recorded real responses instead of live
-calls. Geoapify and Claude still run live, so a sandbox run still needs `GEOAPIFY_API_KEY` and `claude`.
+calls. Everything else (Geoapify, Claude, Wikivoyage, advisories, FX) follows the cache-first rule above, so a sandbox run can still call those APIs and needs `GEOAPIFY_API_KEY` and `claude` for anything not cached.
 
 How it answers a search (`research/sandbox.py`):
 
@@ -99,6 +116,26 @@ Prices and links are never invented, and `retrieved_at` stays the original recor
 to fit your dates. An estimate for other dates gets a Google Flights search link, not the recorded booking link, because
 that link is for the recorded date. Every sandbox run adds a note saying the prices are recorded snapshots and when they
 were captured. With no flights found, `status` is `partial` and the feasibility verdict is `unknown`.
+
+### Synthetic test data (safe to commit and push)
+
+When `sandbox_data/` (the real recordings) is not in the checkout, sandbox mode automatically answers from **synthetic test
+data** instead. This is what CI and teammates get without the recordings. Force a source with
+`TRAVAI_SANDBOX_DATA=recorded` or `TRAVAI_SANDBOX_DATA=synthetic`.
+
+- **How it is made:** `scripts/fit_synthetic_params.py` reads the local recordings and writes `synthetic_data/params.json`,
+  which holds **aggregate numbers only** (per-route and per-city price spreads, a distance-to-price fit, city centres to 2
+  decimals, approximate airport coordinates). `research/synthetic.py` then generates a response on demand for any request,
+  seeded by the request, so the same request always gives the same answer and every route, date and party size is covered.
+  Only routes between airports listed in `params.json`, and cities with fitted parameters, get an answer; anything else is a gap.
+- **What is invented, not fitted:** the season swing (+/-12% across the year), the one-way discount (62% of a round trip),
+  stop counts, layover hubs, flight times and the hotel names. Treat price levels as plausible, not accurate.
+- **Always visibly fake:** ids start with `synthetic-`, carriers are "Synthetic Air A-D", hotels are "Synthetic Hotel NNNN",
+  links point at `synthetic.invalid`, `source.provider` is `synthetic`, every price is `price_type: "estimate"` with
+  `confidence: low`, and the run's `notes` start with "SYNTHETIC TEST DATA". Nothing recorded is reused (a test checks this
+  whenever the recordings are present).
+- **Use it for:** unit tests, CI, checking the pipeline and the schema end to end. **Do not** use it for the live demo or for
+  any claim about real prices or agent accuracy.
 
 ### Recording and refilling data
 
@@ -119,8 +156,8 @@ python3 scripts/record_sandbox.py --from-misses 5   # dry run: only the 5 most-r
   costs 1. Ignav only searches dates up to about mid-November 2027.
 - Recorded requests mirror the agent's exactly, but airports and city names are written by hand. If the agent resolves a
   different airport or spells a city differently, that one request will miss in sandbox mode.
-- `sandbox_data/*.jsonl` is rebuilt from `tests/fixtures/http_cache/`. Both are generated data, so check each API
-  provider's terms on redistributing responses before committing them to a public repo.
+- `sandbox_data/*.jsonl` is rebuilt from `tests/fixtures/http_cache/`. It is gitignored: both hold real provider responses,
+  so check each API provider's terms on redistributing them before committing them to a public repo.
 
 ## How it works
 
@@ -236,7 +273,7 @@ See `schema/research_output.schema.json` for the full definition. For a real exa
 ## Caching and offline replay
 
 Every HTTP and `claude -p` call is cached on disk under `tests/fixtures/` (`http_cache/`, `llm_cache/`, `wikivoyage/`),
-so reruns are free and deterministic. API keys are removed from cache keys and stored bodies. Delete a cache file to
+so reruns are free and deterministic. This is also why the default run is "cache-first", not always live (see "Does a run call the real APIs?"). API keys are removed from cache keys and stored bodies. Delete a cache file to
 force a refresh. `--offline` raises an error instead of touching the network, so use it to confirm a run is fully
 reproducible. Cached prices and availability date from **2026-11-22**.
 
@@ -249,6 +286,8 @@ source, and offline mode handles that explicitly.
   hours parsing, request validation, flight selection and estimates.
 - `tests/test_sandbox.py`: sandbox matching (exact, nearest date, party-size scaling, currency, name normalization, misses)
   and the agent's labeling of estimates, with hand-made data and a guard that fails if sandbox mode touches the network.
+- `tests/test_synthetic.py`: the synthetic generator (deterministic, covers any date, visibly labeled, schema-valid, no recorded
+  data leaks into `params.json` or the output).
 - `tests/test_cases.json`: 13 input cases with expectations: the 5 proposal scenarios (Tokyo, Colorado Springs day trip,
   Europe, Japan for a month on $500, Ukraine) plus group travel, a non-USD budget, an ambiguous name, a remote destination
   and invalid input.
@@ -266,9 +305,11 @@ research/
   pricing.py      pricing layers 1-2, price parsing, Wikivoyage index and matching
   sources.py      Ignav, SerpApi, Geoapify, State Dept, FX clients
   compact.py      planner_view(): slim output for the planner
-  sandbox.py      sandbox mode: nearest-match lookup over recorded flights and hotels
+  sandbox.py      sandbox mode: nearest-match lookup over recorded flights and hotels (or synthetic data)
+  synthetic.py    synthetic flight and hotel responses generated from aggregate statistics
   core.py         .env, HTTP/LLM disk cache, data mode, claude -p wrapper
-sandbox_data/     compact recorded flights, hotels and booking links (built by scripts/build_sandbox_index.py)
+sandbox_data/     compact recorded flights, hotels and booking links (built by scripts/build_sandbox_index.py; local, gitignored)
+synthetic_data/   params.json: aggregate statistics for the synthetic generator (scripts/fit_synthetic_params.py)
 scripts/          run_agent.py, record_sandbox.py, build_sandbox_index.py, top20_tokyo.py (pricing demo on 20 Tokyo landmarks)
 tests/            unit tests, test_cases.json, run_cases.py, fixtures/ (caches), outputs/ (generated, gitignored)
 ```

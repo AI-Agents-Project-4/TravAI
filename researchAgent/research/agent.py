@@ -173,6 +173,8 @@ def build_flight(ctx: Ctx, it: dict, direction: str, observed_at: str, o: str, d
             raise
         except ApiError as e:
             note = f"booking-links failed ({e.status}); search link only"
+    if sb and sb.get("synthetic"):
+        link, note = {"url": f"https://synthetic.invalid/flight/{it['ignav_id']}", "provider": "synthetic"}, "No booking link: generated test data."
     if not link:
         link = {"url": _google_flights_link(o, d, dep, ret), "provider": "google_flights_search"}
         note = note or "no direct booking link returned; Google Flights search link"
@@ -254,13 +256,15 @@ def lodging_step(ctx: Ctx, stops: list, start: date, nights: list[int]) -> list[
         props = [p for p in data.get("properties", []) if p.get("gps_coordinates") and (p.get("rate_per_night") or {}).get("extracted_lowest")]
         if not props:
             ctx.gap("lodging", f"No priced hotels returned for {stop['city']}", "serpapi_google_hotels")
+        sb = data.get("_sandbox")
         for p in props[:12]:
             link = p.get("link") or ("https://www.google.com/search?q=" + urllib.parse.quote(f"{p['name']} {stop['city']} hotel"))
             direct = bool(p.get("link"))
+            if sb and sb.get("synthetic"):
+                link, direct = f"https://synthetic.invalid/hotel/{p['property_token']}", False
             night = float(p["rate_per_night"]["extracted_lowest"])
             total = float((p.get("total_rate") or {}).get("extracted_lowest") or night * n)
             ts = now_iso()
-            sb = data.get("_sandbox")
             kw = dict(target_currency=ctx.cur, fx=ctx.fx, price_layer="api")
             ptype = sb["price_type"] if sb else "published_rate"
             if sb and sb.get("method"):
@@ -272,7 +276,7 @@ def lodging_step(ctx: Ctx, stops: list, start: date, nights: list[int]) -> list[
                    "rating": p.get("overall_rating"), "review_count": p.get("reviews"),
                    "price": {**make_price(night, ctx.cur, ptype, ts if not sb else sb["saved_at"], **kw), "basis": "per_night", "includes_taxes_fees": True},
                    "total_stay_price": {**make_price(total, ctx.cur, ptype, ts if not sb else sb["saved_at"], **kw), "basis": "per_group", "includes_taxes_fees": True},
-                   "source": {"url": link, "provider": "serpapi_google_hotels"},
+                   "source": {"url": link, "provider": "synthetic" if sb and sb.get("synthetic") else "serpapi_google_hotels"},
                    "confidence": {"level": "low" if sb and sb["price_type"] == "estimate" else "medium", "verified": False,
                                   **({"notes": sb["note"]} if sb else {} if direct else {"notes": "no direct booking link; search link"})}}
             out.append(lod)
@@ -530,10 +534,15 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
         origin_geo = sources.geocode(req["origin"], offline)
 
     if data_mode() == "sandbox":
-        rng = sandbox.default_store().captured_range()
-        ctx.notes.append("Sandbox data: flight and hotel prices are recorded snapshots"
-                         + (f" captured {rng[0]} to {rng[1]}" if rng else "") + ", not live quotes. "
-                         "Prices marked estimate were adapted from the closest recording; each keeps its original retrieved_at.")
+        store = sandbox.default_store()
+        rng = store.captured_range()
+        if store.synthetic:
+            ctx.notes.append("SYNTHETIC TEST DATA: flight and hotel prices are generated from aggregate statistics. They are not real "
+                             "quotes and not recordings. Do not show them as real prices.")
+        else:
+            ctx.notes.append("Sandbox data: flight and hotel prices are recorded snapshots"
+                             + (f" captured {rng[0]} to {rng[1]}" if rng else "") + ", not live quotes. "
+                             "Prices marked estimate were adapted from the closest recording; each keeps its original retrieved_at.")
     out = _empty(ctx, "ok", rid)
     ctx.say("search", f"Searching flights, hotels and things to do in {', '.join(s['city'] for s in stops)}")
     with ThreadPoolExecutor(4) as ex:
