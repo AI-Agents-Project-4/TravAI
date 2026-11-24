@@ -21,6 +21,7 @@ from typing import Callable, Iterable
 from urllib.parse import unquote, urljoin, urlsplit
 
 from . import config
+from .network_policy import require_network
 
 log = logging.getLogger("research.fetch")
 
@@ -185,6 +186,7 @@ def _default_transport(
     headers: "dict[str, str] | None" = None,
     body: "bytes | None" = None,
 ) -> tuple[int, dict[str, str], bytes, bool]:
+    require_network("opening a connection")
     parts = urlsplit(url)
     path = parts.path or "/"
     if parts.query:

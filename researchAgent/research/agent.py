@@ -20,6 +20,7 @@ from jsonschema import Draft202012Validator
 from . import sources
 from .activities import TIER_MULT, build_activities
 from .core import ROOT, ApiError, CacheMiss, claude_json, set_cache_ttl
+from .security.network_policy import network_allowed
 from .pricing import make_price, now_iso
 from .security.budget import BudgetExceeded, Limits, TripBudget, map_in_context, submit_in_context, use as use_budget
 
@@ -472,6 +473,8 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
         transport, feasibility, done).
     cache_ttl_hours: cached API/LLM results older than this are refetched. None keeps everything (tests, replay);
         use ~24 in production so prices do not go stale. Process-wide: concurrent runs share the setting.
+    Sandbox: unless TRAVAI_ALLOW_NETWORK=1 is set (data-gathering scripts only), the run is forced offline and
+        never reaches out. A request the cache does not cover returns status "error" with a gap.
     limits: per-trip caps on requests, model calls, cost and time (default: research/security/config.py). Cache hits
         are free. When a cap is hit the run stops, status becomes "partial" with a gap, and `_usage.stopped_by` says why.
 
@@ -480,7 +483,12 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
     """
     set_cache_ttl(cache_ttl_hours)
     now = now or datetime.now(timezone.utc)
+    sandbox = not network_allowed()
+    offline = offline or sandbox          # sandbox: replay from the cache, never reach out
     ctx = Ctx(req, offline, now, progress)
+    if sandbox:
+        ctx.notes.append("Sandbox data: no live lookups were made. Every price, link and place comes from data collected earlier; "
+                         "see each price's retrieved_at for its age.")
     rid = req.get("request_id") or uuid.uuid4().hex[:12]
     budget = TripBudget(limits or Limits())
     try:
@@ -488,11 +496,14 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
             out = _run(req, ctx, rid, now, offline)
     except BudgetExceeded:
         out = _empty(ctx, "error", rid)
+    except CacheMiss as e:                # nothing in the sandbox covers this request
+        ctx.gap("other", f"Not in the sandbox data, so it cannot be researched: {str(e)[:160]}")
+        out = _empty(ctx, "error", rid)
     if budget.stopped_by:
         out["gaps"].append({"category": "other", "reason": f"Research stopped early: the per-trip {budget.stopped_by} limit was reached"})
         if out["status"] == "ok":
             out["status"] = "partial"
-    out["_usage"] = budget.usage()
+    out["_usage"] = {**budget.usage(), "network": "sandbox" if sandbox else "live"}
     return _finish(out)
 
 

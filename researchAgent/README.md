@@ -13,8 +13,9 @@ The output shape is defined in `schema/research_output.schema.json`, and every r
 # pip install -r requirements.txt     (Python 3.9+; everything else is standard library)
 # cp .env.example .env and fill in IGNAV_API_KEY, SERP_API_KEY, GEOAPIFY_API_KEY. Claude Code (`claude`) must be installed and logged in.
 python3 scripts/run_agent.py tokyo-5d-5000             # one case from tests/test_cases.json -> tests/outputs/<id>.json
-python3 scripts/run_agent.py tokyo-5d-5000 --offline   # replay from cache: no network, no API quota
-python3 tests/run_cases.py [ids...] [--offline]        # all cases + automated checks -> tests/outputs/report.md
+python3 scripts/run_agent.py tokyo-5d-5000             # sandbox (default): replay from cache, no network, no API quota
+python3 scripts/run_agent.py tokyo-5d-5000 --gather    # ONLY to collect new data: reaches the network and spends quota
+python3 tests/run_cases.py [ids...] [--gather]         # all cases + automated checks -> tests/outputs/report.md
 python3 -m pytest tests -q                             # unit tests (no network)
 ```
 
@@ -150,6 +151,12 @@ See `schema/research_output.schema.json` for the full definition and `tests/outp
 | Advisories | travel.state.gov RSS | free | |
 | Currency | Frankfurter, then open.er-api.com | free | Frankfurter lacks some currencies (UAH, for example). |
 | Judgment steps | `claude -p` | your Claude plan | About 5 to 10 calls per stop (resolve, enrichment batches, web price search, day trips); each takes seconds to a few minutes. |
+
+## Sandbox: no reaching out
+
+Demos and live runs use sandbox data only: the cached responses under `tests/fixtures/`. The agent cannot reach the network unless the environment variable `TRAVAI_ALLOW_NETWORK` is exactly `1`, and only the data-gathering scripts set it (`--gather`). The backend and the demo must never set it. The switch is checked in three places (`core._fetch` for all HTTP, `core.claude_json` for the `claude -p` subprocess, which can run web search, and the socket code in `fetch_guard`), and `run()` forces offline replay whenever it is off, whatever `offline=` the caller passed.
+
+Consequences: a trip the cache does not cover returns `status: "error"` with a gap saying it is not in the sandbox data (it does not crash). Every sandbox output carries a note saying the data was collected earlier, and each price has its own `retrieved_at`. `_usage.network` is `"sandbox"` or `"live"`.
 
 ## Security and limits
 
@@ -293,7 +300,7 @@ view = planner_view(out, max_activities=60)    # activities sorted: sourced pric
 three-city Europe trip, an impossible budget, Ukraine, and so on). Replaying costs nothing:
 
 ```
-python3 scripts/run_agent.py tokyo-5d-5000 --offline
+python3 scripts/run_agent.py tokyo-5d-5000
 ```
 
 ## Known limits

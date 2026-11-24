@@ -21,6 +21,7 @@ RESEARCH_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.p
 
 @pytest.fixture
 def cache(tmp_path, monkeypatch):
+    monkeypatch.setenv("TRAVAI_ALLOW_NETWORK", "1")  # these tests simulate gather mode; sandbox tests are in test_sandbox.py
     monkeypatch.setattr(core, "HTTP_CACHE", str(tmp_path / "http"))
     monkeypatch.setattr(core, "LLM_CACHE", str(tmp_path / "llm"))
     monkeypatch.setattr(core.time, "sleep", lambda s: None)

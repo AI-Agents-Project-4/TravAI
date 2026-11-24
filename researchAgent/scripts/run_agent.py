@@ -1,12 +1,17 @@
-"""Run the research agent on a test case. Usage: run_agent.py <case-id> [--offline]"""
+"""Run the research agent on a test case. Usage: run_agent.py <case-id> [--gather]
+
+Default is sandbox: replay from the cache, no network. --gather allows live lookups (spends API quota) and fills the cache."""
 import json, os, sys, time
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Sandbox by default: only --gather lets the agent reach the network (to collect new data into the cache).
+if "--gather" in sys.argv:
+    os.environ["TRAVAI_ALLOW_NETWORK"] = "1"
 sys.path.insert(0, ROOT)
 from research.agent import run
 
 def main():
     cid = sys.argv[1]
-    offline = "--offline" in sys.argv
+    offline = "--offline" in sys.argv  # kept for old habits; sandbox already forces it unless --gather
     case = next(c for c in json.load(open(os.path.join(ROOT, "tests", "test_cases.json")))["cases"] if c["id"] == cid)
     t = time.time()
     out = run({**case["input"], "request_id": cid}, offline=offline)

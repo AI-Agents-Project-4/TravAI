@@ -16,6 +16,7 @@ from typing import Any, Optional
 
 from .security import budget as _budget
 from .security import config as sec_config
+from .security.network_policy import require_network
 from .security.fetch_guard import BlockedURL, guarded_fetch
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -138,6 +139,7 @@ def _fetch(url: str, *, method: str = "GET", headers: Optional[dict] = None, bod
            timeout: float = 30) -> tuple:
     """The only place the agent touches the network. Applies the fetch guard (https, host allowlist,
     public IPs only, size cap) and charges the trip budget. Returns (status, headers, body, truncated)."""
+    require_network(f"a request to {urllib.parse.urlsplit(url).netloc}")
     b = _budget.current()
     if b is not None:
         b.charge_http()
@@ -171,6 +173,7 @@ def claude_json(prompt: str, schema: dict, *, web: bool = False, offline: bool =
     cmd += ["--tools", "WebSearch,WebFetch", "--allowedTools", "WebSearch,WebFetch"] if web else ["--tools", ""]
     if model:
         cmd += ["--model", model]
+    require_network("a `claude -p` call")  # the CLI can run web search, so it counts as reaching out
     b = _budget.current()
     if b is not None:
         b.charge_llm()

@@ -14,10 +14,18 @@ Owner: Kyle. Written 2026-11-24 after reading the README and `research/core.py`.
 - [ ] Prices have mixed bases (flights = total for all travelers, hotels = per room per night, activities = per person). The contract says `price` is the total for the whole party. The mapper must do the multiplication, and round estimates up.
 - [ ] Tag snapshot data: `data_origin: "snapshot"` is not set anywhere yet. Cached prices date from 2026-11-22, and the UI has to show that age.
 
+### Sandbox (done) and what it leaves open
+- [x] **No reaching out in demos or live runs.** Done: the network is off unless `TRAVAI_ALLOW_NETWORK=1`, only `--gather` sets it, and the check is in `core._fetch`, `claude_json` and the socket code. `tests/security/test_sandbox.py` runs with traps on sockets, DNS and subprocesses.
+- [ ] **Coverage of the sandbox.** A trip that is not in the cache returns an error with a gap. The demo can therefore only research trips whose data was gathered. List which destinations, dates, origins and traveler counts are covered (the 13 cases today) and make the demo UI offer only those. Cache keys include dates and passengers, so a different date is a miss.
+- [ ] **Check the demo path end to end.** Start the backend the way the demo will and confirm `TRAVAI_ALLOW_NETWORK` is not set anywhere (server env, Dockerfile, `.env`, CI). Consider a startup check in the backend that refuses to start if it is set.
+- [ ] **`claude` CLI is not needed to run the demo any more.** In the sandbox the agent never starts `claude`, so the "CLI installed on the server" item under Deployment only applies to data gathering. Update that item once confirmed.
+- [ ] **Stale sandbox prices.** Cached prices date from 2026-11-22 and the sandbox never refreshes them (offline ignores `cache_ttl_hours`). The UI must show each price's age; flights and hotels for 2027-03 will look old by the demo.
+- [ ] **Data gathering plan.** Decide who runs `--gather`, for which cases, and commit only sanitized results. After gathering, remove `ignav.com` and `serpapi.com` from `FETCH_ALLOWED_HOSTS` so even gather mode cannot reach them.
+
 ### Open from wiring in the guards
 - [ ] `validate_option` (price range, hidden characters, source host) is not applied to the agent's output yet, because the output is not in the `Option` shape. Apply it in the mapper to the contract.
 - [ ] `SOURCE_LINK_HOSTS` is empty. Decide how to treat links from many booking sites: allowlist, flag unknown domains, or only show the domain in the UI (T3).
-- [ ] The real pinned-IP HTTPS transport (`fetch_guard._default_transport`) has never run against a real host; all tests fake it. Run one live case with `.env` keys and check it works, including the POST to Ignav. Offline replays never reach it.
+- [ ] The real pinned-IP HTTPS transport (`fetch_guard._default_transport`) has never run against a real host; all tests fake it. Run one case with `--gather` and `.env` keys and check it works, including the POST to Ignav. Sandbox replays never reach it.
 - [ ] Calls with a body are not retried across redirects (a redirect on POST is refused). Check no real endpoint relies on one.
 
 ### Security (threat model)
