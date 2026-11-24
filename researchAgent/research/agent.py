@@ -473,8 +473,8 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
         transport, feasibility, done).
     cache_ttl_hours: cached API/LLM results older than this are refetched. None keeps everything (tests, replay);
         use ~24 in production so prices do not go stale. Process-wide: concurrent runs share the setting.
-    Sandbox: unless TRAVAI_ALLOW_NETWORK=1 is set (data-gathering scripts only), the run is forced offline and
-        never reaches out. A request the cache does not cover returns status "error" with a gap.
+    Sandbox: unless TRAVAI_ALLOW_NETWORK=1 is set (data-gathering scripts only), every host except Geoapify is cache-only
+        and `claude -p` never runs. A request the cache does not cover returns status "error" with a gap.
     limits: per-trip caps on requests, model calls, cost and time (default: research/security/config.py). Cache hits
         are free. When a cap is hit the run stops, status becomes "partial" with a gap, and `_usage.stopped_by` says why.
 
@@ -483,12 +483,11 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
     """
     set_cache_ttl(cache_ttl_hours)
     now = now or datetime.now(timezone.utc)
-    sandbox = not network_allowed()
-    offline = offline or sandbox          # sandbox: replay from the cache, never reach out
+    sandbox = not network_allowed()       # core.http / core.claude_json enforce it per host; this only labels the run
     ctx = Ctx(req, offline, now, progress)
     if sandbox:
-        ctx.notes.append("Sandbox data: no live lookups were made. Every price, link and place comes from data collected earlier; "
-                         "see each price's retrieved_at for its age.")
+        ctx.notes.append("Sandbox data: flights, hotels, advisories, exchange rates, curated listings and all model steps come from "
+                         "data collected earlier (see each price's retrieved_at for its age). Only map lookups (Geoapify) may be live.")
     rid = req.get("request_id") or uuid.uuid4().hex[:12]
     budget = TripBudget(limits or Limits())
     try:

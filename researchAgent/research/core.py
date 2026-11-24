@@ -16,7 +16,7 @@ from typing import Any, Optional
 
 from .security import budget as _budget
 from .security import config as sec_config
-from .security.network_policy import require_network
+from .security.network_policy import host_is_live, network_allowed, require_live_host
 from .security.fetch_guard import BlockedURL, guarded_fetch
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -24,6 +24,7 @@ HTTP_CACHE = os.path.join(ROOT, "tests", "fixtures", "http_cache")
 LLM_CACHE = os.path.join(ROOT, "tests", "fixtures", "llm_cache")
 UA = "travai-research-test/0.1"
 SECRET_PARAMS = {"apikey", "api_key"}
+NO_KEY = "offline-no-key"   # stands in for a missing key when replaying; never sent
 
 
 _TTL: Optional[float] = None   # seconds; None = cached entries never expire (tests / replay)
@@ -69,8 +70,8 @@ def secret(name: str, offline: bool = False) -> str:
     missing key is fine there."""
     v = ENV.get(name)
     if not v:
-        if offline:
-            return "offline-no-key"
+        if offline or not network_allowed():
+            return NO_KEY  # replaying from the cache needs no key; `_fetch` refuses to send this placeholder
         raise RuntimeError(f"{name} missing from .env (copy .env.example to .env and fill it in)")
     return v
 
@@ -101,6 +102,7 @@ def cache_put(method: str, url: str, body: Any, text: str) -> None:
 def http(method: str, url: str, body: Any = None, headers: Optional[dict] = None, *, offline: bool = False,
          timeout: int = 90, ttl: Optional[float] = None, parse: bool = True):
     """Cached HTTP. ttl (seconds) lets stale entries be refetched; offline never touches the network."""
+    offline = offline or not host_is_live(urllib.parse.urlsplit(url).hostname or "")  # sandbox: cache only, except live hosts
     path = os.path.join(HTTP_CACHE, _key(method, url, body) + ".json")
     if os.path.exists(path):
         rec = json.load(open(path, encoding="utf-8"))
@@ -139,11 +141,15 @@ def _fetch(url: str, *, method: str = "GET", headers: Optional[dict] = None, bod
            timeout: float = 30) -> tuple:
     """The only place the agent touches the network. Applies the fetch guard (https, host allowlist,
     public IPs only, size cap) and charges the trip budget. Returns (status, headers, body, truncated)."""
-    require_network(f"a request to {urllib.parse.urlsplit(url).netloc}")
+    require_live_host(urllib.parse.urlsplit(url).hostname or "", "a request")
+    if NO_KEY in url or NO_KEY in (headers or {}).values():
+        raise RuntimeError("a live request needs its API key, but none is set (copy .env.example to .env and fill it in)")
     b = _budget.current()
     if b is not None:
         b.charge_http()
-    r = guarded_fetch(url, allowed_hosts=sec_config.FETCH_ALLOWED_HOSTS, method=method, headers=headers, body=body,
+    # In the sandbox the guard's own allowlist shrinks to the live hosts, so a redirect elsewhere is refused too.
+    allowed = sec_config.FETCH_ALLOWED_HOSTS if network_allowed() else sec_config.SANDBOX_LIVE_HOSTS
+    r = guarded_fetch(url, allowed_hosts=allowed, method=method, headers=headers, body=body,
                       timeout=timeout, max_bytes=sec_config.API_MAX_RESPONSE_BYTES)
     if r.truncated:
         raise ApiError(0, "response larger than the size limit", url)
@@ -162,6 +168,7 @@ def claude_json(prompt: str, schema: dict, *, web: bool = False, offline: bool =
                 max_budget_usd: float = 1.0, model: Optional[str] = None) -> dict:
     """Run `claude -p` and return structured output validated by the CLI against `schema`.
     Cached by prompt+schema so reruns are free and deterministic."""
+    offline = offline or not network_allowed()  # sandbox: the CLI (and its web search) never runs
     key = hashlib.sha1(json.dumps([prompt, schema, web, model], sort_keys=True).encode()).hexdigest()
     path = os.path.join(LLM_CACHE, key + ".json")
     if os.path.exists(path) and (offline or is_fresh(os.path.getmtime(path), _TTL)):
@@ -173,7 +180,6 @@ def claude_json(prompt: str, schema: dict, *, web: bool = False, offline: bool =
     cmd += ["--tools", "WebSearch,WebFetch", "--allowedTools", "WebSearch,WebFetch"] if web else ["--tools", ""]
     if model:
         cmd += ["--model", model]
-    require_network("a `claude -p` call")  # the CLI can run web search, so it counts as reaching out
     b = _budget.current()
     if b is not None:
         b.charge_llm()

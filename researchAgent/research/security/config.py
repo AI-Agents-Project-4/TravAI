@@ -27,6 +27,13 @@ FETCH_ALLOWED_HOSTS: frozenset[str] = frozenset(
     }
 )
 
+# SANDBOX_LIVE_HOSTS / SANDBOX_LIVE_KEYS: the ONLY exception to the sandbox rule. Demos and live
+# runs use cached sandbox data for everything (flights, hotels, advisories, FX, Wikivoyage, every
+# `claude -p` call), except that these hosts may be reached live. Everything else is blocked at
+# `core._fetch`, in `fetch_guard`'s socket code and by the allowlist `_fetch` passes to the guard.
+SANDBOX_LIVE_HOSTS: frozenset[str] = frozenset({"api.geoapify.com"})
+SANDBOX_LIVE_KEYS: frozenset[str] = frozenset({"GEOAPIFY_API_KEY"})  # the only key a demo needs
+
 # SOURCE_LINK_HOSTS: hosts an option's source_url may point to. Links come from many
 # booking and ticketing sites, so a fixed list does not fit this agent yet. `validate_option`
 # uses it; the agent itself only applies `check_link_shape` to links the model returns.

@@ -26,4 +26,4 @@ Decisions already made that still need an entry:
 - Research agent: the demo uses snapshot data derived from real API responses instead of live flight/hotel prices; `fetched_at` is the collection time and options are tagged `data_origin: snapshot` (Kyle)
 - Research agent: only Geoapify is called live; Ignav and SerpAPI are used offline to gather test data (Kyle)
 - Research agent: per-trip limits on tool calls, pages, tokens and time (Kyle)
-- Research agent: demos and live runs use sandbox data only and cannot reach the network; only `--gather` (`TRAVAI_ALLOW_NETWORK=1`) can, to collect new data (Kyle)
+- Research agent: demos and live runs use cached sandbox data and can reach only Geoapify live; every other host and every `claude -p` call is cache-only, and only `--gather` (`TRAVAI_ALLOW_NETWORK=1`) opens the rest, to collect new data (Kyle)

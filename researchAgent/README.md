@@ -152,11 +152,15 @@ See `schema/research_output.schema.json` for the full definition and `tests/outp
 | Currency | Frankfurter, then open.er-api.com | free | Frankfurter lacks some currencies (UAH, for example). |
 | Judgment steps | `claude -p` | your Claude plan | About 5 to 10 calls per stop (resolve, enrichment batches, web price search, day trips); each takes seconds to a few minutes. |
 
-## Sandbox: no reaching out
+## Sandbox: cached data, except Geoapify
 
-Demos and live runs use sandbox data only: the cached responses under `tests/fixtures/`. The agent cannot reach the network unless the environment variable `TRAVAI_ALLOW_NETWORK` is exactly `1`, and only the data-gathering scripts set it (`--gather`). The backend and the demo must never set it. The switch is checked in three places (`core._fetch` for all HTTP, `core.claude_json` for the `claude -p` subprocess, which can run web search, and the socket code in `fetch_guard`), and `run()` forces offline replay whenever it is off, whatever `offline=` the caller passed.
+Demos and live runs use sandbox data: the cached responses under `tests/fixtures/`. **The one exception is Geoapify** (`api.geoapify.com`, set in `SANDBOX_LIVE_HOSTS`), which may be reached live. Every other host (Ignav, SerpApi, Wikivoyage, State Dept, the FX services) is cache-only, and `claude -p` never runs, because it can run web search. Full network access needs the environment variable `TRAVAI_ALLOW_NETWORK` to be exactly `1`, and only the data-gathering scripts set it (`--gather`). The backend and the demo must never set it.
 
-Consequences: a trip the cache does not cover returns `status: "error"` with a gap saying it is not in the sandbox data (it does not crash). Every sandbox output carries a note saying the data was collected earlier, and each price has its own `retrieved_at`. `_usage.network` is `"sandbox"` or `"live"`.
+It is enforced in three places: `core._fetch` (all HTTP, and the guard's own host list shrinks to Geoapify), `core.claude_json`, and the socket code in `fetch_guard`. A cache miss on a cache-only host raises `CacheMiss`, exactly like `offline=True`.
+
+- A trip the cache does not cover returns `status: "error"` with a gap saying it is not in the sandbox data. A new destination fails at the first model step (`resolve`), before Geoapify is asked anything, so live Geoapify only helps for places inside a cached trip (new origins, routes, places).
+- Replaying cached data needs no keys. A live Geoapify request needs `GEOAPIFY_API_KEY`; without it the request fails with a clear message instead of sending a placeholder.
+- Every sandbox output carries a note that the data was collected earlier, and each price has its own `retrieved_at`. `_usage.network` is `"sandbox"` or `"live"`, and live Geoapify requests are counted in `_usage.http_calls`.
 
 ## Security and limits
 

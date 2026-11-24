@@ -88,5 +88,6 @@ def test_offline_replay_needs_no_api_keys(monkeypatch):
     monkeypatch.setattr(core, "ENV", {})
     assert core.secret("IGNAV_API_KEY", offline=True)           # placeholder, never sent
     import pytest
+    monkeypatch.setenv("TRAVAI_ALLOW_NETWORK", "1")                # gather mode: every key is needed (in the sandbox only Geoapify's is)
     with pytest.raises(RuntimeError, match="missing from .env"):
         core.secret("IGNAV_API_KEY")                              # live runs still fail loudly
