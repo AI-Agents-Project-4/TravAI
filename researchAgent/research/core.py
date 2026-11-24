@@ -10,10 +10,13 @@ import os
 import subprocess
 import tempfile
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
+from http.client import HTTPException  # not `import http`: this module defines a function named http
 from typing import Any, Optional
+
+from .security import budget as _budget
+from .security import config as sec_config
+from .security.fetch_guard import BlockedURL, guarded_fetch
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HTTP_CACHE = os.path.join(ROOT, "tests", "fixtures", "http_cache")
@@ -112,21 +115,43 @@ def http(method: str, url: str, body: Any = None, headers: Optional[dict] = None
     last: Exception = RuntimeError("unreachable")
     for attempt in range(3):
         try:
-            req = urllib.request.Request(url, data=data, headers=hdrs, method=method)
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                text = r.read().decode("utf-8", "replace")
-            cache_put(method, url, body, text)
-            return json.loads(text) if parse and text[:1] in "{[" else text
-        except urllib.error.HTTPError as e:
-            msg = e.read().decode("utf-8", "replace")
-            last = ApiError(e.code, _redact(msg), url)
-            if e.code not in (429, 500, 502, 503, 504):
-                raise last
-            time.sleep(2 ** attempt * 2)
-        except (urllib.error.URLError, TimeoutError) as e:
+            status, _h, raw, _t = _fetch(url, method=method, headers=hdrs, body=data, timeout=timeout)
+        except BlockedURL:
+            raise  # not retried: the guard said no
+        except (OSError, HTTPException) as e:  # network trouble, timeouts, TLS errors
             last = ApiError(0, str(e), url)
             time.sleep(2 ** attempt)
+            continue
+        text = raw.decode("utf-8", "replace")
+        if status >= 400:
+            last = ApiError(status, _redact(text), url)
+            if status not in (429, 500, 502, 503, 504):
+                raise last
+            time.sleep(2 ** attempt * 2)
+            continue
+        cache_put(method, url, body, text)
+        return json.loads(text) if parse and text[:1] in "{[" else text
     raise last
+
+
+def _fetch(url: str, *, method: str = "GET", headers: Optional[dict] = None, body: Optional[bytes] = None,
+           timeout: float = 30) -> tuple:
+    """The only place the agent touches the network. Applies the fetch guard (https, host allowlist,
+    public IPs only, size cap) and charges the trip budget. Returns (status, headers, body, truncated)."""
+    b = _budget.current()
+    if b is not None:
+        b.charge_http()
+    r = guarded_fetch(url, allowed_hosts=sec_config.FETCH_ALLOWED_HOSTS, method=method, headers=headers, body=body,
+                      timeout=timeout, max_bytes=sec_config.API_MAX_RESPONSE_BYTES)
+    if r.truncated:
+        raise ApiError(0, "response larger than the size limit", url)
+    return r.status, r.headers, r.body, False
+
+
+def raw_get(url: str, *, headers: Optional[dict] = None, timeout: float = 30) -> tuple:
+    """Uncached guarded GET for callers that keep their own cache (Wikivoyage, FX). Returns (status, headers, body)."""
+    status, h, body, _ = _fetch(url, headers={"User-Agent": UA, **(headers or {})}, timeout=timeout)
+    return status, h, body
 
 
 # ---------- claude -p ----------
@@ -146,12 +171,16 @@ def claude_json(prompt: str, schema: dict, *, web: bool = False, offline: bool =
     cmd += ["--tools", "WebSearch,WebFetch", "--allowedTools", "WebSearch,WebFetch"] if web else ["--tools", ""]
     if model:
         cmd += ["--model", model]
+    b = _budget.current()
+    if b is not None:
+        b.charge_llm()
     with tempfile.TemporaryDirectory() as cwd:  # neutral cwd: do not load this project's context
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, cwd=cwd)
     try:
         d = json.loads(proc.stdout)
     except json.JSONDecodeError:
         raise RuntimeError(f"claude -p gave non-JSON output (exit {proc.returncode}): {proc.stdout[:200]} {proc.stderr[:200]}")
+    _record_usage(b, d, model, web)
     if d.get("is_error"):
         raise RuntimeError(f"claude -p error: {str(d.get('result'))[:300]}")
     out = d.get("structured_output")
@@ -163,3 +192,19 @@ def claude_json(prompt: str, schema: dict, *, web: bool = False, offline: bool =
     os.makedirs(LLM_CACHE, exist_ok=True)
     json.dump(out, open(path, "w", encoding="utf-8"), ensure_ascii=False)
     return out
+
+
+def _record_usage(b: Optional["_budget.TripBudget"], d: dict, model: Optional[str], web: bool) -> None:
+    """Log tokens and cost from the CLI's JSON (missing fields count as 0). The answer is already paid for, so a
+    limit hit here is not raised now: `stopped_by` is set and the next charge stops the run."""
+    if b is None or not isinstance(d, dict):
+        return
+    u = d.get("usage") if isinstance(d.get("usage"), dict) else {}
+    num = lambda v: v if isinstance(v, (int, float)) and not isinstance(v, bool) else 0
+    try:
+        b.record_model_call(
+            agent="research" + ("-web" if web else ""), model=model or "default",
+            input_tokens=int(num(u.get("input_tokens"))), output_tokens=int(num(u.get("output_tokens"))),
+            cached_tokens=int(num(u.get("cache_read_input_tokens"))), cost_usd=float(num(d.get("total_cost_usd"))))
+    except _budget.BudgetExceeded:
+        pass

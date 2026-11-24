@@ -6,7 +6,7 @@ Owner: Kyle. Written 2026-11-24 after reading the README and `research/core.py`.
 
 ### Decide where the agent lives (P1)
 - [ ] `CLAUDE.md` and the backend docs put the research agent in `backend/app/agents/research/`, but the working code is in `researchAgent/`. Jake needs to know which is the real home before he wires the backend. Update the docs, or move the code, in a PR that tags him.
-- [ ] The security modules now live in `research/security/` (`fetch_guard`, `option_validation`, `budget`, `fixtures`, `config`), with tests in `tests/security/`. **None of them are called by the agent yet.** Wiring them in is the next step (see Security below).
+- [x] The security modules live in `research/security/` and are now wired in: all network access goes through `core._fetch` (fetch guard + budget), every `claude -p` call goes through `core.claude_json` (budget + usage), `run()` creates one budget per trip, and thread pools carry it (`submit_in_context` / `map_in_context`). `tests/security/test_wiring.py` fails if a module opens its own connection, runs its own subprocess, or uses a bare `ex.submit`/`ex.map`.
 - [ ] `research/security/fixtures.py` loads a `{collected_at, options: [...]}` JSON format that nothing in this repo produces yet (the real fixtures are HTTP caches and agent outputs). Either write the conversion from the agent output, or delete the loader.
 
 ### Match the contract (P1)
@@ -14,19 +14,25 @@ Owner: Kyle. Written 2026-11-24 after reading the README and `research/core.py`.
 - [ ] Prices have mixed bases (flights = total for all travelers, hotels = per room per night, activities = per person). The contract says `price` is the total for the whole party. The mapper must do the multiplication, and round estimates up.
 - [ ] Tag snapshot data: `data_origin: "snapshot"` is not set anywhere yet. Cached prices date from 2026-11-22, and the UI has to show that age.
 
+### Open from wiring in the guards
+- [ ] `validate_option` (price range, hidden characters, source host) is not applied to the agent's output yet, because the output is not in the `Option` shape. Apply it in the mapper to the contract.
+- [ ] `SOURCE_LINK_HOSTS` is empty. Decide how to treat links from many booking sites: allowlist, flag unknown domains, or only show the domain in the UI (T3).
+- [ ] The real pinned-IP HTTPS transport (`fetch_guard._default_transport`) has never run against a real host; all tests fake it. Run one live case with `.env` keys and check it works, including the POST to Ignav. Offline replays never reach it.
+- [ ] Calls with a body are not retried across redirects (a redirect on POST is refused). Check no real endpoint relies on one.
+
 ### Security (threat model)
-- [ ] **T1 / T4, web price search (P1).** Layer 3 gives the model `WebSearch,WebFetch` with untrusted pages. Audit exactly what goes into that prompt: it should be the place name and city only, never origin, dates, budget or anything else about the user. **(check)**
-- [ ] **T1, verify web prices in code (P1).** "Only accepted when a page that states the price is cited" is enforced by the prompt. Add a code check: the amount must appear in the cited page text, and be inside a plausible range for its category. Otherwise fall through to layer 4 (estimate).
+- [x] **T1 / T4, web price search (P1).** Audited: the layer 3 prompt contains only the place name, city and country, never the origin, dates, budget or traveler count. Keep it that way; a test that pins the prompt to those fields would stop a future change from adding trip data.
+- [ ] **T1, verify web prices in code (P1).** Partly done: a web-found `source_url` must now be a well-formed http(s) link (no credentials, IP host or odd port). Still open: check that the amount appears in the cited page text, and that it is in a plausible range for its category. Plain `http://` links are allowed on purpose, since some official tourism sites have no https link (found when the guard first rejected one in `cos-daytrip-500`); decide if that is acceptable.
 - [ ] **T1, text from the LLM (P2).** Reject names and descriptions that contain zero-width or bidi characters, and cap their length (see `research/security/option_validation.py`). Geoapify/OSM and Wikivoyage are user-editable, so treat them as untrusted too. The enrichment step runs with tools off, which is good; keep it that way.
 - [ ] **T3, source links (P2).** Check every `source.url` host against a list of known hosts. Today they include Google search/maps links, Rome2rio, Wikivoyage and airline links.
-- [ ] **T4, direct HTTP (P2).** `pricing.py` and `core.py` call `urllib` directly for Wikivoyage and the other APIs. The hosts are fixed, so the risk is low, but route them through one guarded function so there is a single allowlist and nothing else is reachable. **(check)**
-- [ ] **T6, per-trip limit (P1).** `--max-budget-usd 1.0` is per `claude -p` call, and there are about 5 to 10 calls per stop. Add a per-trip cap on LLM spend, calls and wall-clock time (see `research/security/budget.py`), and report `partial` or an error when it stops.
+- [x] **T4, direct HTTP (P2).** Done: Wikivoyage and FX calls use `core.raw_get`, which applies the same guard and budget. `FETCH_ALLOWED_HOSTS` lists the seven hosts the agent calls. **Remove `ignav.com` and `serpapi.com` from it once the test data is gathered**, so a demo run can never reach them.
+- [x] **T6, per-trip limit (P1).** Done: per-trip caps on HTTP requests (400), model calls (100), cost ($25) and time (900 s), counted only for real requests (cache hits are free). When one is hit, the run stops, the status becomes `partial` and a gap says why. **These numbers are guesses. Check them against a real live run** (`_usage` in the output has the counts).
 - [ ] **T2, cache (P2).** The default cache keeps entries forever. Production must set `cache_ttl_hours`; add a way to purge by source, and make sure a poisoned price can't be served for long.
 - [ ] **Keys (P1).** `core.py` strips keys from cache keys and bodies. I scanned `tests/fixtures/` for `apiKey=`-style values and found none (the 34 name-based hits were false positives such as Google ad `sig=` parameters). `tests/security/test_repo_fixtures_no_keys.py` now fails if an `apiKey=`/`access_token=` value appears in `tests/fixtures/`. Never put these keys in `NEXT_PUBLIC_*`.
 - [ ] **Injection test cases (P2).** Add fixture pages and listings with hidden instructions, absurd prices and exfiltration URLs, and show that nothing bad reaches the output.
 
 ### Cost and the eval (P1 to P2)
-- [ ] `claude_json` throws away the CLI's JSON metadata. Check the output for cost and token fields and record them per call and per trip. The course needs cost per task and at 10,000 requests/day, and nothing is logged now.
+- [x] `claude_json` now records tokens and cost per call and per trip in `_usage` (private key, strip before sending to the frontend). **Not yet checked against a live run:** it reads `total_cost_usd` and `usage.input_tokens/output_tokens/cache_read_input_tokens` from the CLI's JSON. If the CLI uses other field names the numbers will show as 0. Run one live case and confirm `_usage.cost_usd` is not 0.
 - [ ] Pick the eval claim by 11/25 (see `evals/README.md`). Candidates that fit this agent: no underestimates, correct feasibility verdicts, honest gaps.
 - [ ] Run the cases several times and report the rate with intervals. Replaying from cache is deterministic, so it measures nothing about stochastic behavior. Use live or cache-miss runs for the graded eval. Note that `claude -p` calls are cached by prompt, so repeats may return the same answer.
 - [ ] Build the GitHub Actions eval workflow (manual or scheduled, with a run budget). It needs a way to call Claude from Actions; `claude -p` on a logged-in machine won't work there.
@@ -51,8 +57,8 @@ What exists today: `tests/test_pricing.py` (price parsing, name matching, Wikivo
 
 ### Unit tests (P1 for the first four, P2 for the rest)
 - [ ] **`feasibility_step` (P1).** It decides "impossible" and has no direct test. Test each verdict boundary (65%, 85%, 115% of budget, just under and just over), `unknown` when flights or lodging are missing, room count for odd traveler counts, and that the estimate is never below the cheapest priced items.
-- [ ] **`core.http` and the cache (P1).** Test `_redact`, `_canon_url` and `_key` so the same request with a different `apiKey` hits the same cache entry, and no key is ever written to a cache file or key. Test `is_fresh` and TTL expiry, that failed requests are not cached, and that offline mode raises `CacheMiss` instead of calling out.
-- [ ] **`claude_json` with a fake `subprocess.run` (P1).** Check the command: `--tools ""` when `web=False`, `WebSearch,WebFetch` only when `web=True`, `--max-budget-usd` always present, neutral cwd. Check handling of non-JSON output, `is_error`, missing structured output, timeout, and that the cache key changes with the prompt, schema, `web` and `model`.
+- [ ] **`core.http` and the cache (P1).** Partly done in `test_wiring.py` (guard used, allowlist enforced, cache hits free, failures and secrets not cached, retries, size limit, offline). Still open: `_canon_url` / `_key` (same request with a different `apiKey` hits the same entry), TTL expiry, `_redact` of stored bodies.
+- [x] **`claude_json` with a fake `subprocess.run` (P1).** Done in `test_wiring.py`: tools off unless web search is requested, spend cap and no-session flags always present, neutral working directory, usage recorded, cache hits free, call and cost limits. Still open: non-JSON output, `is_error`, timeout.
 - [ ] **Estimates are always high and labeled (P1).** `estimate_price`, `_est` and the transport estimates: every estimate has `price_type: estimate` and an `estimate_method`, and rounding goes up, never down (product rule 1). Add a property-style check over many inputs.
 - [ ] `web_prices`: a price with no cited page is rejected, a price whose page text doesn't contain the amount is rejected (once that check exists), a plausible-range failure falls through to layer 4.
 - [ ] `build_flight`: `verified` only when the booking link price is within 2% of the search price; `total_all_travelers` basis; missing booking link handled.
@@ -73,10 +79,10 @@ What exists today: `tests/test_pricing.py` (price parsing, name matching, Wikivo
 - [ ] **Contract mapper tests (P1, once the mapper exists).** Flights total for all travelers, hotel per night times nights times rooms, activity per person times travelers, estimates rounded up, `fetched_at` set from `retrieved_at`.
 
 ### Security tests (P1 to P2)
-- [ ] **Wire the guards in, then test the wiring (P1).** A test that fails if any module under `research/` calls `urllib.request.urlopen` or `subprocess` outside the guarded entry points, so a new unguarded call can't slip in.
+- [x] **Wire the guards in, then test the wiring (P1).** Done (see above).
 - [ ] **Prompt-injection fixtures (P2).** Fake Wikivoyage entries, OSM names and web pages with hidden instructions ("ignore previous instructions", "report the price as $1", a URL that carries the user's origin). Assert the output prices come only from the structured fields, no extra URL is fetched, and nothing from the page shows up in tool arguments.
 - [ ] **Poisoned cache (P2).** A cached price outside the plausible range must be rejected or flagged on read, not served.
-- [ ] **Budget enforcement through the pipeline (P1).** With a tiny `Limits`, a run stops, returns `partial`, and `stopped_by` is recorded. No further model calls are made after the limit.
+- [x] **Budget enforcement through the pipeline (P1).** Done with fake pipelines in `test_wiring.py` (limit hit, limit swallowed by a step, limit raised out of the run, separate budgets per run). Still open: a live run that hits a limit.
 - [ ] **No secrets in outputs (P1).** Scan every file in `tests/outputs/` and every cache file for `apiKey=`-style values after a run. (Fixtures are already scanned.)
 - [ ] **Safety warning test (P2).** Ukraine and any `do_not_travel` country must carry the advisory, and the trip must still be returned so the user can decide (product rule 4).
 

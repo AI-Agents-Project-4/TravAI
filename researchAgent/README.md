@@ -151,6 +151,14 @@ See `schema/research_output.schema.json` for the full definition and `tests/outp
 | Currency | Frankfurter, then open.er-api.com | free | Frankfurter lacks some currencies (UAH, for example). |
 | Judgment steps | `claude -p` | your Claude plan | About 5 to 10 calls per stop (resolve, enrichment batches, web price search, day trips); each takes seconds to a few minutes. |
 
+## Security and limits
+
+All outbound requests go through `core._fetch`, which uses the guard in `research/security/fetch_guard.py`: https only, hosts on `FETCH_ALLOWED_HOSTS` (and their subdomains), public IP addresses only, connection pinned to the checked IP, size cap, redirects re-checked (and refused on POST). Wikivoyage and FX calls use `core.raw_get`, which applies the same guard. Nothing else in `research/` may open a connection or run a subprocess (`tests/security/test_wiring.py` checks this).
+
+Each `run()` has a per-trip budget (`research/security/config.py`): HTTP requests, model calls, cost and time. Cache hits are free, so an offline replay uses none. When a limit is hit the run stops, the status becomes `partial`, and a gap says why. Pass `limits=Limits(...)` to change them. The output has a private `_usage` (calls, tokens, cost, `stopped_by`) next to `_schema_errors`; strip both before storing or sending to the frontend.
+
+Links the web search returns are only shown, never fetched, and must be well-formed http(s) URLs with no credentials, IP-address host or odd port.
+
 ## Caching and offline replay
 
 Every HTTP and `claude -p` call is cached on disk under `tests/fixtures/` (`http_cache/`, `llm_cache/`, `wikivoyage/`),

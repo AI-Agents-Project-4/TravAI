@@ -8,6 +8,8 @@ from typing import Callable, Optional
 
 from . import sources
 from .core import ApiError, CacheMiss, claude_json
+from .security.budget import map_in_context
+from .security.fetch_guard import BlockedURL, check_link_shape
 import hashlib
 
 from .pricing import WikivoyageIndex, haversine_m, make_price, name_score, now_iso, price_for, parse_price_text
@@ -130,7 +132,7 @@ def gather_places(lat: float, lon: float, offline: bool, notes: list, radius_m: 
             notes.append(f"Geoapify places '{label}' failed: {e.status}")
             return label, []
     with ThreadPoolExecutor(4) as ex:
-        results = list(ex.map(one, GROUPS))
+        results = map_in_context(ex, one, GROUPS)
     seen, out = set(), []
     for label, ps in results:
         for p in ps:
@@ -182,7 +184,7 @@ def enrich(places: list[dict], city: str, country: str, offline: bool) -> dict:
     idx = list(enumerate(places))
     chunks = [idx[i:i + 30] for i in range(0, len(idx), 30)]
     with ThreadPoolExecutor(3) as ex:
-        res = list(ex.map(batch, chunks))
+        res = map_in_context(ex, batch, chunks)
     return {it["i"]: it for r in res for it in r}
 
 
@@ -242,6 +244,17 @@ def day_trip_candidates(stop: dict, offline: bool, notes: list, n: int = 3) -> l
 
 # ---------- pricing layers 3 and 4 ----------
 
+def _safe_link(url) -> bool:
+    """A link the model found on the web is only shown, never fetched. It must be http(s) with no
+    credentials, IP-address host or odd port (T3). Plain http is allowed because some official
+    tourism sites have no https link."""
+    try:
+        check_link_shape(url or "", allow_http=True)
+        return True
+    except BlockedURL:
+        return False
+
+
 def web_prices(items: list[dict], city: str, country: str, offline: bool) -> dict:
     """Layer 3: Claude web search for official admission prices. Returns {id: result} for verified finds only."""
     def batch(chunk):
@@ -260,11 +273,11 @@ def web_prices(items: list[dict], city: str, country: str, offline: bool) -> dic
             return []
     chunks = [items[i:i + 4] for i in range(0, len(items), 4)]
     with ThreadPoolExecutor(3) as ex:
-        res = list(ex.map(batch, chunks))
+        res = map_in_context(ex, batch, chunks)
     out = {}
     for r in (x for rs in res for x in rs):
         ok = (r["found"] and isinstance(r["amount"], (int, float)) and r["amount"] >= 0 and r["currency"] and
-              re.fullmatch(r"[A-Z]{3}", r["currency"]) and (r["source_url"] or "").startswith("http"))
+              re.fullmatch(r"[A-Z]{3}", r["currency"]) and _safe_link(r["source_url"]))
         if ok:
             out[r["id"]] = r
     return out

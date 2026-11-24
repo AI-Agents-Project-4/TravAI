@@ -10,22 +10,33 @@ from __future__ import annotations
 # Two separate allowlists. A host matches itself and its subdomains
 # ("example.com" also allows "www.example.com").
 #
-# FETCH_ALLOWED_HOSTS: hosts the agent may actually contact at runtime. This is the
-# exfiltration boundary (T4), so keep it as small as possible. We only plan to call
-# Geoapify live (its API host is believed to be api.geoapify.com; confirm in their docs
-# before adding). Ignav and SerpAPI are only used offline to gather snapshot data, so they
-# do not belong here.
-FETCH_ALLOWED_HOSTS: frozenset[str] = frozenset()
+# FETCH_ALLOWED_HOSTS: hosts the agent may actually contact. This is the exfiltration
+# boundary (T4), so keep it as small as possible. These are the hosts `research/sources.py`
+# and `research/pricing.py` call today.
+# TODO(Kyle): Ignav and SerpApi are only needed while gathering test data. Remove them
+# once the data is collected, so a demo or production run can never reach them.
+FETCH_ALLOWED_HOSTS: frozenset[str] = frozenset(
+    {
+        "ignav.com",  # flights (data gathering)
+        "serpapi.com",  # hotels (data gathering)
+        "api.geoapify.com",  # geocoding, places, routing
+        "travel.state.gov",  # advisories RSS
+        "api.frankfurter.dev",  # FX
+        "open.er-api.com",  # FX fallback
+        "en.wikivoyage.org",  # curated listings and prices
+    }
+)
 
-# SOURCE_LINK_HOSTS: hosts an option's source_url may point to. The agent never fetches
-# these (snapshot prices link to the original listing), but the user clicks them, so this
-# is the phishing boundary (T3).
-# TODO(Kyle): fill in from the sites the snapshot data came from.
+# SOURCE_LINK_HOSTS: hosts an option's source_url may point to. Links come from many
+# booking and ticketing sites, so a fixed list does not fit this agent yet. `validate_option`
+# uses it; the agent itself only applies `check_link_shape` to links the model returns.
+# TODO(Kyle): decide whether to allowlist, flag, or only show the domain in the UI (T3).
 SOURCE_LINK_HOSTS: frozenset[str] = frozenset()
 
 # Fetch limits.
 MAX_REDIRECTS = 3
 MAX_RESPONSE_BYTES = 1_000_000
+API_MAX_RESPONSE_BYTES = 10_000_000  # trusted API responses (Ignav, Geoapify, Wikivoyage) can be large
 FETCH_TIMEOUT_SECONDS = 10.0
 
 # Plausible price per option, in USD, for the whole party. The maximum is multiplied
@@ -48,8 +59,15 @@ DEFAULT_USD_RATES: dict[str, float] = {"USD": 1.0}
 MAX_TITLE_CHARS = 200
 MAX_DESCRIPTION_CHARS = 1_000
 
-# Per-trip limits (T6). One trip = one research run.
+# Per-trip limits (T6) for one run of the pipeline. A cache hit costs nothing; only real
+# network requests and `claude -p` calls count. STARTING VALUES: a live three-city trip
+# makes roughly 100 to 200 requests and 20 to 40 model calls, so check them against a real run.
+MAX_HTTP_CALLS_PER_TRIP = 400
+MAX_LLM_CALLS_PER_TRIP = 100
+MAX_COST_USD_PER_TRIP = 25.0
+
+# Generic limits (agent-loop style), used by charge_tool_call / charge_page.
 MAX_TOOL_CALLS_PER_TRIP = 40
 MAX_TOKENS_PER_TRIP = 200_000
-MAX_SECONDS_PER_TRIP = 180.0
+MAX_SECONDS_PER_TRIP = 900.0  # a live run takes 1 to 5 minutes (README)
 MAX_PAGES_PER_TRIP = 25

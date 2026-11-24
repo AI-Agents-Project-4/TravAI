@@ -15,12 +15,12 @@ import os
 import re
 import time
 import unicodedata
-import urllib.error
 import urllib.parse
-import urllib.request
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from typing import Callable, Optional
+
+from .core import ApiError, raw_get
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_CACHE = os.path.join(ROOT, "tests", "fixtures", "wikivoyage")
@@ -189,13 +189,13 @@ class WikivoyageIndex:
     def _api(self, params: dict) -> dict:
         url = "https://en.wikivoyage.org/w/api.php?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
         for attempt in range(6):
-            try:
-                with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
-                    return json.load(r)
-            except urllib.error.HTTPError as e:
-                if e.code != 429 or attempt == 5:
-                    raise
-                time.sleep(float(e.headers.get("Retry-After") or 2 ** attempt * 2))
+            status, headers, body = raw_get(url, headers={"User-Agent": UA}, timeout=30)
+            if status == 429 and attempt < 5:
+                time.sleep(float(headers.get("retry-after") or 2 ** attempt * 2))
+                continue
+            if status >= 400:
+                raise ApiError(status, body.decode("utf-8", "replace"), url)
+            return json.loads(body)
         raise RuntimeError("unreachable")
 
     def _http_fetch_many(self, titles: list[str]) -> dict[str, str]:
@@ -317,7 +317,9 @@ def frankfurter_fx(cache: dict = {}) -> Callable[[str, str], float]:
         key = (base, quote)
         if key not in cache:
             url = f"https://api.frankfurter.dev/v1/latest?base={base}&symbols={quote}"
-            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
-                cache[key] = json.load(r)["rates"][quote]
+            status, _h, body = raw_get(url, headers={"User-Agent": UA}, timeout=30)
+            if status >= 400:
+                raise ApiError(status, body.decode("utf-8", "replace"), url)
+            cache[key] = json.loads(body)["rates"][quote]
         return cache[key]
     return fx
