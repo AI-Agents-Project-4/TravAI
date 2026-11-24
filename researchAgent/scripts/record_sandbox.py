@@ -23,6 +23,10 @@ import urllib.parse
 from datetime import date, timedelta
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# The agent cannot reach the network unless this is set (see research/security/network_policy.py). Only a real
+# recording run (--live) sets it; the dry run, which is the default, never reaches out.
+if "--live" in sys.argv:
+    os.environ["TRAVAI_ALLOW_NETWORK"] = "1"
 sys.path.insert(0, ROOT)
 
 from research import core, sources  # noqa: E402

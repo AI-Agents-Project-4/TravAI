@@ -73,16 +73,15 @@ _default: Optional[Store] = None
 
 
 def default_store() -> Store:
-    """Recorded data when sandbox_data/ has it, else synthetic test data (research/synthetic.py).
-    Force one with TRAVAI_SANDBOX_DATA=recorded|synthetic."""
+    """Recorded data from sandbox_data/. Synthetic test data (research/synthetic.py) is used ONLY when asked for with
+    TRAVAI_SANDBOX_DATA=synthetic (tests, CI): it is never a silent fallback, so a demo cannot show generated prices
+    by accident. With no recordings and no explicit choice the store is empty and searches become gaps."""
     global _default
     if _default is None:
-        choice = os.environ.get("TRAVAI_SANDBOX_DATA", "auto")
-        have_recorded = os.path.exists(os.path.join(DATA_DIR, "flights.jsonl"))
-        if choice == "synthetic" or (choice == "auto" and not have_recorded and synthetic.available()):
-            _default = Store.generated()
-        else:
-            _default = Store.from_dir()
+        choice = os.environ.get("TRAVAI_SANDBOX_DATA", "recorded")
+        if choice not in ("recorded", "synthetic"):
+            raise ValueError(f"TRAVAI_SANDBOX_DATA must be 'recorded' or 'synthetic', got {choice!r}")
+        _default = Store.generated() if choice == "synthetic" and synthetic.available() else Store.from_dir(DATA_DIR)
     return _default
 
 

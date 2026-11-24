@@ -21,7 +21,9 @@ from . import sources
 from .activities import TIER_MULT, build_activities
 from . import sandbox
 from .core import ROOT, ApiError, CacheMiss, claude_json, data_mode, set_cache_ttl, set_data_mode
+from .security.network_policy import network_allowed
 from .pricing import make_price, now_iso
+from .security.budget import BudgetExceeded, Limits, TripBudget, map_in_context, submit_in_context, use as use_budget
 
 SCHEMA = json.load(open(os.path.join(ROOT, "schema", "research_output.schema.json"), encoding="utf-8"))
 VALIDATOR = Draft202012Validator(SCHEMA)
@@ -211,7 +213,7 @@ def _search_flights(ctx: Ctx, o: str, d: str, dep: str, ret: Optional[str], dire
         return []
     picks = pick_flights(its, n)
     with ThreadPoolExecutor(5) as ex:
-        return list(ex.map(lambda it: build_flight(ctx, it, direction, data.get("observed_at", now_iso()), o, d, dep, ret), picks))
+        return map_in_context(ex, lambda it: build_flight(ctx, it, direction, data.get("observed_at", now_iso()), o, d, dep, ret), picks)
 
 
 def flights_step(ctx: Ctx, stops: list, origin: Optional[str], start: date, end: date) -> list[dict]:
@@ -482,22 +484,62 @@ def split_nights(total: int, n: int) -> list[int]:
 # ---------- main ----------
 
 def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, progress=None,
-        cache_ttl_hours: Optional[float] = None, data_mode_override: Optional[str] = None) -> dict:
+        cache_ttl_hours: Optional[float] = None, data_mode_override: Optional[str] = None,
+        limits: Optional[Limits] = None) -> dict:
     """Run the research pipeline.
 
     progress(stage, message): optional callback for UI updates (stages: resolve, search, flights, lodging, activities,
         transport, feasibility, done).
-    data_mode_override: "sandbox" answers Ignav/SerpApi searches from recorded data (see research/sandbox.py); None keeps
-        the current mode (env TRAVAI_DATA_MODE, default live).
+    data_mode_override: "sandbox" answers Ignav/SerpApi searches from recorded data (see research/sandbox.py). Only has an
+        effect when data gathering is on: otherwise the data mode is always "sandbox".
     cache_ttl_hours: cached API/LLM results older than this are refetched. None keeps everything (tests, replay);
         use ~24 in production so prices do not go stale. Process-wide: concurrent runs share the setting.
+    Sandbox: unless TRAVAI_ALLOW_NETWORK=1 is set (data-gathering scripts only), flights and hotels come from the recorded
+        sandbox data, every host except Geoapify is cache-only, and `claude -p` runs only with tools off (never web search).
+        A request the cache cannot cover returns status "error" with a gap.
+    limits: per-trip caps on requests, model calls, cost and time (default: research/security/config.py). Cache hits
+        are free. When a cap is hit the run stops, status becomes "partial" with a gap, and `_usage.stopped_by` says why.
+
+    The result's `_usage` (tokens, cost, calls) and `_schema_errors` are private: strip keys starting with `_` before
+    storing or sending to the frontend.
     """
     set_cache_ttl(cache_ttl_hours)
     if data_mode_override:
         set_data_mode(data_mode_override)
     now = now or datetime.now(timezone.utc)
+    sandbox = not network_allowed()       # core.http / core.claude_json enforce it per host; this only labels the run
     ctx = Ctx(req, offline, now, progress)
+    if sandbox:
+        ctx.notes.append("Sandbox mode: advisories, exchange rates, curated listings and web price lookups come from data collected earlier "
+                         "(see each price's retrieved_at for its age). Only map lookups (Geoapify) and the model's own reasoning steps "
+                         "(no web access) run live.")
     rid = req.get("request_id") or uuid.uuid4().hex[:12]
+    budget = TripBudget(limits or Limits())
+    try:
+        with use_budget(budget):
+            out = _run(req, ctx, rid, now, offline)
+    except BudgetExceeded:
+        out = _empty(ctx, "error", rid)
+    except CacheMiss as e:                # nothing in the sandbox covers this request
+        ctx.gap("other", f"Not in the sandbox data, so it cannot be researched: {str(e)[:160]}")
+        out = _empty(ctx, "error", rid)
+    if budget.stopped_by:
+        out["gaps"].append({"category": "other", "reason": f"Research stopped early: the per-trip {budget.stopped_by} limit was reached"})
+        if out["status"] == "ok":
+            out["status"] = "partial"
+    out["_usage"] = {**budget.usage(), "network": "sandbox" if sandbox else "live"}
+    return _finish(out)
+
+
+def _result(f):
+    """A step's result, or an empty list if the trip budget ran out inside it."""
+    try:
+        return f.result()
+    except BudgetExceeded:
+        return []
+
+
+def _run(req: dict, ctx: Ctx, rid: str, now: datetime, offline: bool) -> dict:
     err = validate_request(req, now.date())
     if err:
         ctx.notes.append(f"Invalid request: {err}")
@@ -546,17 +588,20 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
     out = _empty(ctx, "ok", rid)
     ctx.say("search", f"Searching flights, hotels and things to do in {', '.join(s['city'] for s in stops)}")
     with ThreadPoolExecutor(4) as ex:
-        f_fl = ex.submit(flights_step, ctx, stops, origin, start, end)
-        f_lo = ex.submit(lodging_step, ctx, stops, start, nights)
-        f_ad = ex.submit(advisories_step, ctx, stops)
-        f_ac = [ex.submit(build_activities, s, offline, ctx.cur, ctx.fx, ctx.notes, ctx.gaps) for s in stops]
-        out["flights"], out["lodging"], out["advisories"] = f_fl.result(), f_lo.result(), f_ad.result()
-        out["activities"] = [a for f in f_ac for a in f.result()]
+        f_fl = submit_in_context(ex, flights_step, ctx, stops, origin, start, end)
+        f_lo = submit_in_context(ex, lodging_step, ctx, stops, start, nights)
+        f_ad = submit_in_context(ex, advisories_step, ctx, stops)
+        f_ac = [submit_in_context(ex, build_activities, s, offline, ctx.cur, ctx.fx, ctx.notes, ctx.gaps) for s in stops]
+        out["flights"], out["lodging"], out["advisories"] = (_result(f) for f in (f_fl, f_lo, f_ad))
+        out["activities"] = [a for f in f_ac for a in _result(f)]
     ctx.say("flights", f"Found {len(out['flights'])} flights")
     ctx.say("lodging", f"Found {len(out['lodging'])} places to stay")
     ctx.say("activities", f"Found {len(out['activities'])} activities")
     ctx.say("transport", "Checking how to get around")
-    legs, inter_flights = transport_step(ctx, stops, origin_geo, start, nights)
+    try:
+        legs, inter_flights = transport_step(ctx, stops, origin_geo, start, nights)
+    except BudgetExceeded:
+        legs, inter_flights = [], []
     out["ground_transport"], out["flights"] = legs, out["flights"] + inter_flights
     if not any(l["mode"] != "taxi" for l in legs) and len(stops) > 1:
         ctx.gap("ground_transport", "No intercity routes found between stops", "geoapify_routing")

@@ -9,6 +9,7 @@ from typing import Optional
 
 from . import sandbox
 from .core import ApiError, CacheMiss, data_mode, http, secret
+from .security.network_policy import host_is_live
 
 DAY = 86400
 
@@ -145,7 +146,7 @@ def fx_rate(base: str, quote: str, offline: bool) -> float:
             raise
     except CacheMiss:
         # Errors are never cached, so a currency Frankfurter lacks looks like a cache miss when replaying offline.
-        if not offline:
+        if not (offline or not host_is_live("api.frankfurter.dev")):  # sandbox: this host is cache-only, so a miss means "not covered"
             raise
     d = http("GET", f"https://open.er-api.com/v6/latest/{base}", offline=offline, ttl=DAY)
     if d.get("result") != "success" or quote not in d.get("rates", {}):
