@@ -1,10 +1,15 @@
-"""Run the research agent on a test case. Usage: run_agent.py <case-id> [--offline | --sandbox]
+"""Run the research agent on a test case. Usage: run_agent.py <case-id> [--gather] [--sandbox] [--offline]
 
---offline  replay every call from the exact-request cache (no network at all)
---sandbox  flights and hotels come from the recorded sandbox data, nearest match when the trip was not recorded;
-           Geoapify and Claude still run live"""
+Default is the SANDBOX: flights and hotels come from the recorded sandbox data (nearest match for trips that were not
+recorded), everything else is replayed from the cache, and only Geoapify may be reached live.
+--gather   allow the network (cache-first, spends API quota, fills the cache). Only for collecting data.
+--sandbox  with --gather: still take flights and hotels from the recorded sandbox data, everything else live
+--offline  replay every call from the cache, Geoapify included: no network at all"""
 import json, os, sys, time
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Sandbox by default: only --gather lets the agent reach the network (to collect new data into the cache).
+if "--gather" in sys.argv:
+    os.environ["TRAVAI_ALLOW_NETWORK"] = "1"
 sys.path.insert(0, ROOT)
 from research.agent import run
 
@@ -13,11 +18,11 @@ def main():
     ids = [c["id"] for c in cases]
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = [a for a in sys.argv[1:] if a.startswith("--")]
-    bad = [f for f in flags if f not in ("--offline", "--sandbox")]
+    bad = [f for f in flags if f not in ("--offline", "--sandbox", "--gather")]
     if len(args) != 1 or args[0] not in ids or bad:
         problem = (f"unknown option {bad[0]}" if bad else "missing case id" if not args
                    else f"unknown case id {args[0]!r}" if len(args) == 1 else "give exactly one case id")
-        sys.exit(f"{problem}\nusage: run_agent.py <case-id> [--offline | --sandbox]\ncase ids:\n  " + "\n  ".join(ids))
+        sys.exit(f"{problem}\nusage: run_agent.py <case-id> [--gather] [--sandbox] [--offline]\ncase ids:\n  " + "\n  ".join(ids))
     cid = args[0]
     offline = "--offline" in flags
     case = next(c for c in cases if c["id"] == cid)

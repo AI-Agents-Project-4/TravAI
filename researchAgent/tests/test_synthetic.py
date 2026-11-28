@@ -118,14 +118,16 @@ def test_unmatched_search_is_a_gap_not_made_up_data(synth_mode):
     assert any(g["category"] == "flights" for g in c.gaps)
 
 
-def test_default_store_uses_synthetic_when_no_recordings_exist(monkeypatch, tmp_path):
+def test_default_store_never_falls_back_to_synthetic_silently(monkeypatch, tmp_path):
+    """Decision: generated prices must be asked for explicitly, so a demo cannot show them by accident."""
     monkeypatch.setattr(sandbox, "DATA_DIR", str(tmp_path))
     monkeypatch.setattr(sandbox, "_default", None)
     monkeypatch.delenv("TRAVAI_SANDBOX_DATA", raising=False)
-    assert sandbox.default_store().synthetic is True
+    assert sandbox.default_store().synthetic is False          # no recordings and no choice: an empty store, so gaps
     monkeypatch.setattr(sandbox, "_default", None)
-    monkeypatch.setenv("TRAVAI_SANDBOX_DATA", "recorded")
-    assert sandbox.default_store().synthetic is False
+    monkeypatch.setenv("TRAVAI_SANDBOX_DATA", "synthetic")
+    assert sandbox.default_store().synthetic is True           # only when asked for
+    monkeypatch.setattr(sandbox, "_default", None)
 
 
 def test_params_file_holds_only_aggregates():
