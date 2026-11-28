@@ -8,27 +8,31 @@ Setup, commands, layout and tables are in [README.md](README.md).
 
 - **uv** manages Python 3.13 and dependencies (`pyproject.toml` + `uv.lock` are committed). Run everything through `uv run …`.
 - Before saying a backend task is done, run what CI runs, from `backend/`: `uv run ruff check . && uv run ruff format --check . && uv run mypy . && uv run pytest`. Tests need Postgres (`docker compose up -d db` from the repo root).
-- **pytest** for tests, in `backend/tests/`. They run against a real Postgres (`travai_test`), each test in a rolled-back transaction. Use the `client` and `db_session` fixtures from `tests/conftest.py`.
+- **pytest** for tests, in `backend/tests/`. They run against a real Postgres (`travai_test`), each test in a rolled-back transaction. Use the `client` and `db_session` fixtures from `tests/conftest.py`. With `client`, background jobs run inline, research replays offline from the research agent's committed cache (synthetic flights and hotels), and the planner model is `tests/fakes.FakeLLM`. Use `no_jobs` to test what `POST /trips` stores by itself.
+- A trip request in a test only finds cached research if it matches a case in `researchAgent/tests/test_cases.json` exactly (origin, destination, date, days, travelers, budget, transport mode).
 - **Schema changes go through Alembic.** Edit `app/models.py`, then `uv run alembic revision --autogenerate -m "..."` and review the file. Never edit an applied migration; add a new one.
 - Money is `Decimal` in Python and `NUMERIC(12, 2)` + a 3-letter currency in the DB, never a float. The API sends it as a JSON number (`schemas.Amount`).
 - Settings come from environment variables (root `.env`, e.g. `DATABASE_URL`) via `app/config.py`. Never hard-code secrets.
 - All LLM, search and travel API keys live here, never in the frontend.
 - Unit tests and the PR CI check must **not** call paid or live APIs (LLM, flights, search). Use recorded fixtures or fakes, so the planner can be tested with dummy research data. The eval workflow is the exception: it runs the real agents on purpose (see `evals/README.md`).
 
-## Proposed: measurement support (Jake to accept or change)
+## Measurement support
 
-The course grades two measurements that depend on backend design, so it's cheaper to plan for them now. See [docs/architecture.md](../docs/architecture.md#measurement-support-proposed).
-- A **single-agent mode** with the same tools, to compare against research → planner.
-- **Token and cost logging** for every agent run, saved with the trip.
+What the eval uses (see [docs/architecture.md](../docs/architecture.md#measurement-support-proposed)):
+- **Single-agent mode:** `AGENT_MODE=single` (or `--mode single` in `app/cli.py`). The planner model reads the whole research output instead of the structured option catalog; the same rules check the result.
+- **Cost logging:** every model call is a `model_calls` row (agent, model, tokens, cost), research included. `app/cli.py` prints the same list for one trip.
+- **No silent fallbacks:** when the planner model fails, plans come from simple rules and the result says so (`used_fallback`, a progress step). The eval must count those as failures.
 
 ## Agent boundaries
 
 | Path | Owner | Writes | Reads |
 |------|-------|--------|-------|
-| `app/agents/research/` | Kyle | options (and progress steps) | trip request, cached options |
+| `../researchAgent/` (called via `app/integration/`) | Kyle | research output, progress messages | trip request, its own cache |
 | `app/agents/planner/` | Jake | plans | trip request, options |
 
-- The planner reads **only structured options from the DB**, never the research agent's transcript.
+- The planner reads **only structured options from the DB**, never the research agent's transcript (except in single-agent mode, which is the eval baseline on purpose).
+- The model never decides a number. Totals, the infeasible verdict and budget fitting are in `app/agents/planner/rules.py`, from stored prices.
+- Don't change `researchAgent/`: it's Kyle's. If the backend needs something from it, propose it to him.
 - Every stored option needs `price` (taxes and fees included, rounded up if estimated), `currency`, `source_url` and `fetched_at`. See the `Option` type in the API contract.
 - If no plan can fit the budget, the planner returns `feasible: false` with `min_estimated_cost`. It never stretches a plan to fit.
 - On redraft, items with `locked: true` must stay as they are. Return `dropped_items` with a reason for each.

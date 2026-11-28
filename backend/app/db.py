@@ -1,6 +1,7 @@
-"""Database engine and the per-request session dependency."""
+"""Database engine, the per-request session, and sessions for background jobs."""
 
-from collections.abc import Iterator
+from collections.abc import Callable, Iterator
+from contextlib import AbstractContextManager
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
@@ -11,6 +12,9 @@ from app.config import get_settings
 engine = create_engine(get_settings().sqlalchemy_url, pool_pre_ping=True)
 SessionLocal = sessionmaker(bind=engine, expire_on_commit=False)
 
+# Something that opens a session: `with factory() as session: ...`.
+SessionFactory = Callable[[], AbstractContextManager[Session]]
+
 
 def get_db() -> Iterator[Session]:
     """FastAPI dependency: one session per request, closed afterwards.
@@ -19,3 +23,8 @@ def get_db() -> Iterator[Session]:
     """
     with SessionLocal() as session:
         yield session
+
+
+def get_session_factory() -> SessionFactory:
+    """FastAPI dependency: how background jobs open their own sessions (tests override it)."""
+    return SessionLocal

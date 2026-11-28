@@ -6,10 +6,23 @@ if missing and migrated from scratch once per test run. Each test runs inside
 a transaction that is rolled back afterwards.
 
 Override the database with TEST_DATABASE_URL if needed.
+
+The research agent runs for real, but offline: every HTTP and model call is
+replayed from its committed cache (researchAgent/tests/fixtures/), and flights
+and hotels come from its synthetic test data. The planner's model is a fake.
+Nothing here reaches the network or costs money.
 """
 
 import os
+
+# Before anything reads settings or imports the research agent.
+os.environ["RESEARCH_OFFLINE"] = "true"
+os.environ["TRAVAI_SANDBOX_DATA"] = "synthetic"
+os.environ.pop("TRAVAI_ALLOW_NETWORK", None)
+os.environ["RECOVER_ON_STARTUP"] = "false"  # never touch trips in the dev database
+
 from collections.abc import Iterator
+from contextlib import contextmanager
 
 import pytest
 from alembic import command
@@ -20,8 +33,13 @@ from sqlalchemy.exc import OperationalError
 from sqlalchemy.orm import Session
 
 from app.config import BACKEND_DIR, get_settings, to_sqlalchemy_url
-from app.db import get_db
+from app.db import get_db, get_session_factory
+from app.jobs import get_job_runner
 from app.main import app
+from app.pipeline import get_llm
+from tests.fakes import FakeLLM
+
+get_settings.cache_clear()
 
 
 def _test_database_url() -> str:
@@ -87,8 +105,29 @@ def db_session(engine: Engine) -> Iterator[Session]:
 
 
 @pytest.fixture
-def client(db_session: Session) -> Iterator[TestClient]:
+def no_jobs() -> Iterator[None]:
+    """Don't start research/planning: for tests of what POST /trips stores by itself."""
+    app.dependency_overrides[get_job_runner] = lambda: lambda fn, *args: None
+    yield
+
+
+@pytest.fixture
+def fake_llm() -> FakeLLM:
+    return FakeLLM()
+
+
+@pytest.fixture
+def client(db_session: Session, fake_llm: FakeLLM) -> Iterator[TestClient]:
+    """The API, with background jobs run inline on the test's session and a fake planner model."""
+
+    @contextmanager
+    def same_session() -> Iterator[Session]:
+        yield db_session  # the test's transaction; never closed here
+
     app.dependency_overrides[get_db] = lambda: db_session
+    app.dependency_overrides[get_session_factory] = lambda: same_session
+    app.dependency_overrides.setdefault(get_job_runner, lambda: lambda fn, *args: fn(*args))
+    app.dependency_overrides[get_llm] = lambda: fake_llm
     try:
         with TestClient(app) as client:
             yield client

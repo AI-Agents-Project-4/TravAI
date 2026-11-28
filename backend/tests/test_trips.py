@@ -25,7 +25,9 @@ TOKYO = {
 }
 
 
-def test_create_trip_stores_the_request(client: TestClient, db_session: Session) -> None:
+def test_create_trip_stores_the_request(
+    no_jobs: None, client: TestClient, db_session: Session
+) -> None:
     response = client.post("/trips", json=TOKYO)
 
     assert response.status_code == 201
@@ -40,7 +42,9 @@ def test_create_trip_stores_the_request(client: TestClient, db_session: Session)
 
 
 @pytest.mark.parametrize("case_file", EVAL_CASES, ids=lambda p: p.stem)
-def test_every_eval_case_input_is_accepted(client: TestClient, case_file: Path) -> None:
+def test_every_eval_case_input_is_accepted(
+    no_jobs: None, client: TestClient, case_file: Path
+) -> None:
     case = json.loads(case_file.read_text(encoding="utf-8"))
     if case["input"]["destination"] is None:
         pytest.skip("case input not filled in yet (destination is null)")
@@ -66,7 +70,7 @@ def test_create_trip_rejects_invalid_input(client: TestClient, field: str, value
     assert response.status_code == 422
 
 
-def test_progress_of_a_new_trip(client: TestClient) -> None:
+def test_progress_of_a_new_trip(no_jobs: None, client: TestClient) -> None:
     trip_id = client.post("/trips", json=TOKYO).json()["trip_id"]
 
     response = client.get(f"/trips/{trip_id}/progress")
@@ -75,7 +79,9 @@ def test_progress_of_a_new_trip(client: TestClient) -> None:
     assert response.json() == {"status": "researching", "steps": []}
 
 
-def test_progress_lists_steps_in_order(client: TestClient, db_session: Session) -> None:
+def test_progress_lists_steps_in_order(
+    no_jobs: None, client: TestClient, db_session: Session
+) -> None:
     trip_id = uuid.UUID(client.post("/trips", json=TOKYO).json()["trip_id"])
     db_session.add_all(
         [

@@ -43,9 +43,12 @@ NAMING_CONVENTION = {
 }
 
 TRANSPORT_MODES = ("fly", "drive")
-TRIP_STATUSES = ("researching", "planning", "done", "failed")
+# awaiting_confirmation: a safety warning was shown and research waits for POST /proceed.
+# The API reports it as "researching" (the contract has no separate status for it).
+TRIP_STATUSES = ("awaiting_confirmation", "researching", "planning", "done", "failed")
 OPTION_KINDS = ("flight", "hotel", "activity", "transport", "food")
 AGENTS = ("research", "planner", "single")
+AGENT_MODES = ("two_agent", "single")
 
 
 def _in(column: str, values: tuple[str, ...]) -> str:
@@ -83,6 +86,7 @@ class Trip(Base):
         CheckConstraint("duration_days > 0", name="duration_days_positive"),
         CheckConstraint("travelers > 0", name="travelers_positive"),
         CheckConstraint("budget_amount > 0", name="budget_positive"),
+        CheckConstraint(_in("agent_mode", AGENT_MODES), name="agent_mode"),
     )
 
     id: Mapped[uuid.UUID] = _uuid_pk()
@@ -96,21 +100,50 @@ class Trip(Base):
     budget_currency: Mapped[str] = mapped_column(String(3))
     transport_mode: Mapped[str] = mapped_column(String(10))
 
-    status: Mapped[str] = mapped_column(String(20), server_default="researching")
+    status: Mapped[str] = mapped_column(String(30), server_default="researching")
     # Warnings shown before planning, e.g. a safety warning (product rule 4).
     warnings: Mapped[list[dict[str, Any]]] = _jsonb("[]")
     # Set by the planner. feasible=False comes with a reason and a minimum cost (rule 3).
     feasible: Mapped[bool | None]
     infeasible_reason: Mapped[str | None] = mapped_column(Text)
     min_estimated_cost_amount: Mapped[Decimal | None] = mapped_column(Numeric(12, 2))
+    # Shown to the user when status is "failed" (as the last progress step too).
+    failure_reason: Mapped[str | None] = mapped_column(Text)
+
+    # How this trip was planned: the two-agent design, or the single-agent eval baseline.
+    agent_mode: Mapped[str] = mapped_column(String(20), server_default="two_agent")
+    # The date research actually priced. Equals start_date unless the user left it empty.
+    priced_start_date: Mapped[date | None] = mapped_column(Date)
+    research_run_id: Mapped[uuid.UUID | None] = mapped_column(
+        ForeignKey("research_runs.id", ondelete="SET NULL"), index=True
+    )
 
     created_at: Mapped[datetime] = _created_at()
     updated_at: Mapped[datetime] = _updated_at()
 
+    research_run: Mapped["ResearchRun | None"] = relationship()
     steps: Mapped[list["ProgressStep"]] = relationship(
         back_populates="trip", order_by="ProgressStep.id", cascade="all, delete-orphan"
     )
     plans: Mapped[list["Plan"]] = relationship(back_populates="trip", cascade="all, delete-orphan")
+
+
+class ResearchRun(Base):
+    """One run of the research agent, kept so identical requests can reuse it.
+
+    This is the search cache: a trip whose research request matches a recent run's
+    `request_key` reuses its output instead of researching again. `output` is the
+    research agent's JSON with private `_` keys removed.
+    """
+
+    __tablename__ = "research_runs"
+
+    id: Mapped[uuid.UUID] = _uuid_pk()
+    request_key: Mapped[str] = mapped_column(String(64), index=True)
+    request: Mapped[dict[str, Any]] = _jsonb("{}")
+    status: Mapped[str] = mapped_column(String(20))
+    output: Mapped[dict[str, Any]] = _jsonb("{}")
+    created_at: Mapped[datetime] = _created_at()
 
 
 class ProgressStep(Base):
@@ -194,6 +227,8 @@ class Plan(Base):
     total_currency: Mapped[str] = mapped_column(String(3))
     warnings: Mapped[list[dict[str, Any]]] = _jsonb("[]")
     saved: Mapped[bool] = mapped_column(server_default=text("false"))
+    # Order of the three plans as the planner returned them (0, 1, 2).
+    position: Mapped[int] = mapped_column(Integer, server_default="0")
 
     created_at: Mapped[datetime] = _created_at()
     updated_at: Mapped[datetime] = _updated_at()
