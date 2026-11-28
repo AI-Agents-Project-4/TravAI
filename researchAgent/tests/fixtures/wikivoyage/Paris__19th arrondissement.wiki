@@ -1,0 +1,203 @@
+{{pagebanner|Paris 19e Wikivoyage Banner.png|pgname=19th arrondissement}}
+The '''19th arrondissement''' of [[Paris]] is in the north of the city, and is a peaceful, green and family-friendly refuge from the otherwise quite stuffy and/or shabby city. It is a very leisurely area which can provide fun for all ages, especially in the warmer months, and make one easily forget it is the site of the former slaughterhouse district of the city.
+
+Two large, wide canals (''Canal Saint-Denis'' and ''Canal de l'Ourcq'') traverse the district and intersect in its middle, where the large Parc de La Villette can be found, housing the science-themed ''Cité des Sciences et de l'Industrie'', interesting for all ages, while the ''Cité des Enfants'' section is a boon for the kids. On the opposite end of the park, the ''Cité de la Musique'' will provide other kinds of sensual stimulation, while further south one can find another park, the romantic ''Parc des Buttes Chaumont''. And you can of course stride - or kayak - along the canals.
+
+==Get in==
+[[Image:Passage paris 19th.jpg|thumb|250px|The Bassin de La Villette in the winter]]
+
+===By Métro===
+Three metro lines run east-west through the 19th arrondissement - the M5, M7 and M7bis.
+* the '''M5''' runs through the middle, providing a convenient connection with ''Gare du Nord''
+* the M7 branches to M7 and M7bis right before the border of the 19th arrondissement, at ''Louis Blanc''.
+** '''M7''' goes to the northern part of the arrondissement, stopping in. al. at ''Porte de la Vilette'', where most people begin their visit to ''Parc de La Vilette''
+** '''M7bis''' goes to the southern part and includes the ''Buttes-Chaumont'' station, which is right at the entrance of the namesake park
+[[File:Tramway-line-T3B-in-Paris-near-canal-de-l'Ourcq-DSC 0048.jpg|250px|thumbnail|right|The '''T3b''' tramway crossing the '''Canal de l'Ourcq''']]
+
+Additionally, two metro lines run along the borders of the 19th arrondissement:
+* the '''M2''' runs along the western border, with the stations of ''Stalingrad'' and ''Jaurès'' allowing for changeover the M5 and M7 or M7bis (respectively), as well as entering the 19th arrondissement at the ''Rotonde de La Vilette''
+* the '''M11''' runs along the southern border - you can change to M8bis at ''Place des Fêtes'' and to T3b at ''Porte des Lilas''
+===By tram===
+The '''T3b''' tram runs along the northern and eastern borders of the district, stopping in. al. at ''Porte de la Vilette'' and allowing changeover to M11 and M12 - as well as providing a relatively scenic ride.
+
+===By RER===
+The RER tracks cross the northern part of the 19th arrondissement, there is one station in it, {{station|Rosa Parks|E}} (39 Rue Gaston Tessier) with connection to tram T3b.
+
+==See==
+* {{see
+| name=Canal de l'Ourcq | alt= | url= | email=
+| address=13, quai de la Loire Bassin de la Villette | lat= | long= | directions=
+| phone=+33 1 4239 1500 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Canal de l'Ourcq | image=Canal de l'Ourcq pres de Vignely P1050588.JPG | wikidata=Q1032646
+| lastedit=2016-10-10
+| content=Built in the 19th century by Napoléon to provide Parisians with drinking water. On sunny days, tourists can cruise along the canal or kayak its length.
+}}
+*{{see
+| name=Cité des Enfants | url= | email=
+| address=Cite des Sciences et de l'Industrie, 30, av Corentin-Cariou | lat= | long= | directions=In the Cité des Sciences building
+| phone=+33 1 40 05 12 12 | tollfree= | fax=
+| hours= | price=
+| content=An interactive science museum for children with the aim of arousing their curiosity, answering the questions they ask, and providing quality time for exchanges with parents or teachers.}}
+* {{see
+| name=Cité des Sciences et de l'Industrie | alt=City of Science and Industry | url=http://www.cite-sciences.fr/english/ | email=infocontact@universcience.fr
+| address=30, av Corentin-Cariou | lat=48.895556 | long=2.388056 | directions=Métro: {{station|Porte de la Villette|7|t3b}}
+| phone=+33 1 06 10 77 50 | tollfree=
+| hours=Tue-Sat 09:15-18:00, Sun 09:15-19:00 (closed Mon, Jan 1, May 1 and Dec 25) | price=Adults (25+) €15, youths (6-25) €12, children (2-5) €4, free under 2
+| image=VBRITTO-cite-sciences-2.jpg | wikidata=Q1094338
+| lastedit=2026-07-31
+| content=Opened in 1986 and continuously upgraded, substantially damaged by a 2015 structural fire. This attraction drew over 7 million visitors a year who come to explore the world of science, technology and future possibilities. Includes the Louis Lumière 3D cinema.
+}}
+* {{see
+| name=Cité de la Musique | alt= | url=https://decouvrir.philharmoniedeparis.fr/en/cite-de-la-musique# | email=
+| address=221, av Jean-Jaurès | lat= | long= | directions=Métro/tram: {{station|Porte de la Pantin|5|t3b}}
+| phone=+33 1 4484 4600 | tollfree=
+| hours= | price=
+|lastedit=2026-08-30| content=Music museum that focuses on the culture, the listening and the learning of music. With headsets, visitors can enjoy listening and learning about the history of music. Part of Philharmonie de Paris.
+}}
+
+==Do==
+[[Image:Paris 19th arrondissement map with listings 2.png|thumb|Map of the 19th Arrondissement]]
+
+* {{do
+| name=Buttes-Chaumont Park | alt= | url= | email=
+| address=rue Botzaris | lat= | long= | directions=next to  métro {{station|Botzaris|7bis}}, {{station|Buttes Chaumont|7bis}} close to {{station|Laumière|5}}, {{station|Pyrénées|11}}
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2026-08-30| content=Popular city escape for nature lovers and walkers who can spend hours wandering around this lush green paradise. Biggest, most hilly, and least touristy park in Paris, here you still find a real Parisian atmosphere, far from the crowds at the city's centre (it still is crowded in summer during weekends as many Parisians come to sunbathe on the grass). Climb on top of the hill and overlook the north of Paris with the Montmartre hill right in front of you. The park has an almost enchanted feel, with its waterfall (water is pumped from the nearby canal Saint Martin), stream, lake and its steep cliff, topped with a "temple" which can only be reached via a suspension bridge. A true oasis indeed
+}}
+*{{do
+| name=Cafezoïde | url=http://www.cafezoide.asso.fr/ | email=
+| address=92 bis, quai de la Loire | lat= | long= | directions=Métro Crimée
+| phone= | tollfree= | fax=
+| hours=Wed-Sat 10ː00-18ː00 | price=
+| content=A café for kids, the Cafezoïde a fully weekly calendar of events for kids from 2-16 years old. An English-language sing-along happens on Thursday afternoons at 16ː00.}}
+*'''[https://batman-escape.com/en Batman Escape],''' 30 avenue Corentin Cariou, Boom Boom Villette (Métro Porte de la Villette or Corentin Cariou). Officially licensed Batman escape game spread over 3,000 m² next to the Parc de la Villette: four 70-minute missions with live actors, plus the Gotham City Race and the Bar Gotham. From 7 years old with an adult; team building for groups from 4 people.
+
+==Buy==
+
+==Eat==
+* {{eat
+| name=Au Boeuf Couronné | url= | email=
+| address=188, av Jean-Juarès | lat= | long= | directions=
+| phone=+33 1 42 39 44 44 | tollfree= | fax=
+| hours= | price=
+| content=Charming and laid-back, this restaurant has a somewhat old fashioned decor (think hard leather chairs, etc). As of May 2024, the food and the service are reported as no longer top-quality.}}
+* {{eat
+| name=Café de la Musique | alt= | url= | email=
+| address=213, av Jean-Jaurès | lat= | long= | directions=
+| phone=+33 1 48 03 15 91 | tollfree=
+| hours= | price=
+| content=Its varied selection of music is what draws the crowds here en masse, at any given night you're likely to hear soulful jazz tunes, or a hip DJ spinning robotic techno. Under chef Alain Podou's watch, the food here is sophisticated, yet light, think lobster-studded risotto and brochettes of shrimp with spinach. Highly recommended.
+}}
+* {{eat
+| name=Rosa Bonheur | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This ''buvette'' near the south edge of the Parc des Buttes-Chaumont offers a range of tapas and drinks in a charming relaxed atmosphere. Hang out on a sunny day and watch the kids run around and play.}}
+
+==Drink==
+* {{drink
+| name=La Cascade | url= | email=
+| address=2, place Armand-Carrel | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Quiet bar that serves its beers cold and has an extensive wine list.}}
+*{{drink
+| name=Draco | url= | email=
+| address=90, quai de la Loire | lat= | long= | directions=
+| phone = +33 1 42023394 | tollfree= | fax=
+| hours= | price=€25
+| content=}}
+*{{drink
+| name=Péniche Anako | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Canal d'Ourcq barge, this one specializing in shows celebrating cultures from around the world. On the Quai de Loire side.
+}}
+*{{drink
+| name=Péniche Antipode | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-09-11
+| content=A boat on the Canal d'Ourcq which is now a restaurant & music venue. On the quai de Seine side.
+}}
+* {{drink
+| name=Paname Brewing Company Tap House | alt=PBC | url=https://www.panamebrewingcompany.com/ | email=info@panamebrewingcompany.com
+| address=41 bis Quai de la Loire | lat=48.88777 | long=2.37878 | directions=Métro: {{station|Laumière|5}},{{station|Crimée|7}}
+| phone= | tollfree=
+| hours=10am - 1pm; Lunch 12-3pm; Dinner 6.30pm-11pm | price=
+| lastedit=2022-10-06
+| content=Tap house with 16 beers on tap and restaurant. Great views across along the Ourcq. Pizzas, burgers and salads available.
+}}
+
+==Sleep==
+[[File:St Christopher’s Inn Paris May 2012.jpg|250px|thumbnail|right|The building housing the St Christopher’s Inn and the Holiday Inn Express]]
+
+===Budget===
+*{{sleep | name=St Christopher’s Inns Paris Hostel | alt= | url=http://www.st-christophers.co.uk/paris-hostels | email=paris@st-christophers.co.uk | address=159, rue de Crimée | lat= | long= | directions=On the Bassin de la Villette. Métro Crimée | phone=+33 1 40 34 34 40 | tollfree= | fax=+33 140 343 440 | checkin=14ː00 | checkout=11ː00 | price=€22 | content=A brand new purpose built hostel in Paris opened in 2008.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Crimee | alt= | url= | email=
+| address=188, rue de Crimée | lat=48.891186 | long=2.376643 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Close to the Metro, the hotel boasts a quick and easy connection to downtown Paris.
+}}
+*{{sleep
+| name=Holiday Inn Express Canal d'Ourq | alt= | url= | email=
+| address= | lat=48.888367929347716 2.3785926600493164 | long=2.378593 | directions=Métro Crimée
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=A quite unusually interesting Holiday Inn Express, sharing the building facing the Bassin de La Villette with St. Christopher's Inn. Some rooms have terraces with views of the bassin.
+}}
+* {{sleep
+| name=ibis Paris la Villette Cite des Sciences | alt= | url=https://all.accor.com/hotel/1401/index.en.shtml | email=
+| address=31-35, quai de l'Oise | lat=48.892177 | long=2.384772 | directions=Métro: {{station|Corentin Cariou|7}}
+| phone=+33-1-40-38-04-04 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-10-09
+| content=Hotel with view of the Junction of the Canals Ourcq & St Denis from rooms at the front of the hotel.
+}}
+
+===Splurge===
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 2 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/16th arrondissement|16th arrondissement]]
+| minorl1='''[[Paris/18th arrondissement|18th arrondissement]]'''
+| directionr1=E
+| majorr1=[[Paris/11th arrondissement|11th arrondissement]]
+| minorr1=[[Paris/20th arrondissement|20th arrondissement]]
+
+| image2=Paris Metro 5.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Bobigny]]
+| minorl2=
+| directionr2=S
+| majorr2=[[Paris/3rd arrondissement|3rd arrondissement]]
+| minorr2=[[Paris/10th arrondissement|10th arrondissement]]
+}}
+
+{{usabledistrict}}
+{{geo|48.8876|2.3841|zoom=14}}
+{{IsPartOf|Paris}}
+
+
+
+
+
+
+
+
+{{Mapmask |48.8895,2.3990 |48.8936,2.3980 |48.8946,2.3978 |48.8975,2.3960 |48.8983,2.3955 |48.8993,2.3937 |48.9010,2.3907 |48.9018,2.3862 |48.9022,2.3844 |48.9019,2.3716 |48.9019,2.3703 |48.8969,2.3704 |48.8966,2.3704 |48.8954,2.3718 |48.8954,2.3718 |48.8945,2.3704 |48.8942,2.3701 |48.8867,2.3668 |48.8866,2.3667 |48.8855,2.3658 |48.8844,2.3647 |48.8841,2.3684 |48.8841,2.3685 |48.8833,2.3692 |48.8832,2.3693 |48.8828,2.3702 |48.8827,2.3702 |48.8784,2.3703 |48.8780,2.3703 |48.8738,2.3751 |48.8721,2.3770 |48.8725,2.3787 |48.8728,2.3797 |48.8737,2.3848 |48.8738,2.3849 |48.8744,2.3863 |48.8746,2.3868 |48.8747,2.3877 |48.8747,2.3883 |48.8753,2.3896 |48.8754,2.3900 |48.8752,2.3951 |48.8752,2.3952 |48.8755,2.3988 |48.8755,2.3989 |48.8759,2.4018 |48.8760,2.4026 |48.8782,2.4101 |48.8784,2.4108 |48.8803,2.4093 |48.8804,2.4083 |48.8805,2.4072 |48.8812,2.4046 |48.8814,2.4038 |48.8826,2.4015 |48.8835,2.4005 |48.8838,2.4001 |48.8849,2.3992 |48.8895,2.3990}}

@@ -1,0 +1,399 @@
+{{pagebanner|Sants-Montjuic Barcelona banner.png|caption=Palau Nacional on the Montjuïc|pgname=Sants-Montjuïc|origin=0,0}}
+[[File:Plaça Espanya.jpg|thumb|250px|Plaça Espanya]]
+
+'''[http://w110.bcn.cat/portal/site/Sants-Montjuic Sants-Montjuïc]''' is a district in the southwest of [[Barcelona]]. Many of its attractions focus on the Parc de Montjuïc, which has museums, a castle, Olympic facilities and some great views overlooking the city. The district also contains the high-speed rail train station.
+
+==Get in==
+
+{{marker|type=go|name=Barcelona Sants|wikidata=Q800453|lat=41.37911238|long=2.139878268|url=https://www.adif.es/w/71801-barcelona-sants}} is the city's main railway station.
+
+The easiest way to get into Sants-Montjuïc from other parts of the city is by the '''metro'''. A number of lines connect the district to the rest of Barcelona. The Airbuses A1 and A2 first stop is Plaça Espanya.
+* {{rint|barcelona|L1}} connects with [[Barcelona/Eixample|Eixample]], Plaça Catalunya and [[Barcelona/Sant Martí|Sant Martí]]
+* {{rint|barcelona|L3}} runs along the district border and connects the district with [[Barcelona/Inland Suburbs|Les Corts]] and the [[Barcelona/Ciutat Vella|Ciutat Vella]].
+* {{rint|barcelona|L5}} goes through the north part of the district, connecting it with Eixample and the [[Barcelona/Inland Suburbs|northern suburbs]]
+
+Afterwards, you can use further means of transport to get to the top of the hill:
+* {{go
+| name=Funicular de Montjuïc | alt=Montjuïc funicular | url=https://www.tmb.cat/en/barcelona/other-transport-tmb/montjuic-funicular | email=
+| address= | lat=41.37487 | long=2.16950 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 07:30-22:00, Sat Sun 09:00-22:00; in autumn, winter it closes 2 hr earlier | price=The funicular is a part of the metro system, so the tariffs are the same
+| wikipedia=Montjuïc Funicular | image=Barcelona Metro - Parc de Montjuic.jpg | wikidata=Q388195
+| lastedit=2015-10-21
+| content=Runs from metro {{station|Paral-lel|L2|L3}} to {{station|Parc de Montjuïc}} station (not far from Joan Miró Museum).
+}}
+* {{go
+| name=Telefèric de Montjuïc | alt=Montjuïc cable car | url=http://www.telefericdemontjuic.cat/en | email=
+| address= | lat=41.3688 | long=2.1632 | directions=
+| phone= | tollfree=
+| hours=Apr May Oct: daily 10:00-19:00; Jun-Sep 10:00-21:00; Nov-Mar 10:00-18:00 | price=Adults: single ticket: €10.50, return €16.00 (10% discount at the web site for return tickets)
+| wikipedia=Montjuïc Cable Car | image=Telefèric de Barcelona.JPG | wikidata=Q3324323
+| lastedit=2024-03-11
+| content=Cable car from ''Parc de Montjuïc'' station to {{marker|type=go|name=Castell (Montjuic Castle)|lat=41.36478 | long=2.16645|image=Panoramic views of Barcelona from the Castell de Montjuïc (4).jpg}}:.
+}}
+* {{go
+| name=Port (Vell) Cable Car | alt=Telefèric del Port or Aeri del Port | url=https://www.telefericodebarcelona.com/en/telefericodebarcelonaen/ | email=
+| address= | lat=41.37099 | long=2.17243 | directions=
+| phone= | tollfree=
+| hours= | price=€12.50 one-way; €20.00 return
+| wikipedia=Port Vell Aerial Tramway | image=Teleferico-barcelona.jpg | wikidata=Q1567972
+| lastedit=2024-03-11
+| content=This cable car crosses Port Vell, Barcelona's old harbour, connecting the Montjuïc hill with the seaside suburb of Barceloneta.
+}}
+* Several bus routes go up the hill.
+* From the funicular top station ''Parc de Montjuïc'', walking by foot is quite doable - though esp. in the summer, it may be somewhat exhausting.
+
+==See==
+{{Mapframe|41.368|2.159|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q237189}} <!-- metro -->
+{{mapshape|type=geoline|wikidata=Q388195|stroke-width=5|stroke-opacity=0.5}}
+
+=== Museums ===
+
+* {{see
+| name=Barcelona Pavilion | alt=Pavelló alemany | url=http://www.miesbcn.com | email=pavellomies@miesbcn.com
+| address=Av. Francesc Ferrer i Guàrdia 7 | lat=41.370556 | long=2.15 | directions=Parc de Montjuïc, Bus 13;150, nearest  {{rint|barcelona|metro}}{{station|Espanya|l1|l3|l8}}
+| phone=+34 93 423 40 16 | tollfree= | fax=
+| hours=Every day from 10.00 to 20.00 | price=General public €8, student €4; under 16 free; annual subscription €20; entrance fee for groups: groups of more than 15 people with reservation required €6; architectural tour with reservation required €90; discounts: 25% off with Bus Turístic, Barcelona Card and Barcelona City Tour (2022)
+| wikipedia=Barcelona Pavilion | image=Barcelona Pavilion pool.JPG | wikidata=Q807915
+|lastedit=2024-03-17| content=The Pavilion is one of the emblematic works of Mies van der Rohe and key reference architecture of the twentieth century. The famous German Pavilion was designed for the 1929 Barcelona International Exhibition and reconstructed in 1986 on its original site. Its innovative architectural structure marked a radical change in the layout of space and greatly influenced the development of modern architecture. Furthermore, the Pavilion exhibits the '''''Barcelona Chair''''', also designed by Mies van der Rohe, along with a bronze reproduction of Georg Kolbe’s sculpture '''''Morning'''''. The Fundació Mies van der Rohe veils for the conservation of the Pavilion.
+}}
+* {{see
+| name=Caixafòrum | alt= | url=https://caixaforum.org/es/barcelona/info-centro#servicios | email=
+| address=Avda. Marquès de Comillas 6-8 | lat=41.371331 | long=2.14975 | directions=Plaça Espanya,  {{rint|barcelona|metro}}{{station|Espanya|l1|l3|l8}}
+| phone=+34 934768600 | tollfree= | fax=
+| hours=Sun-Fri 10:00-20:00, Sat 10:00-22:00 | price=€6
+| wikipedia=CaixaForum Barcelona | image=PiC-Casarramona-0294.JPG | wikidata=Q960115
+|lastedit=2024-03-11| content=Arts & cultural centre.
+}}
+* {{see
+| name=Fundació Joan Miró | alt=Joan Miró Museum | url=https://www.fmirobcn.org/en/visit-us/tickets/ | email=
+| address=Parc de Montjuic s/n | lat=41.368611 | long=2.16 | directions={{rint|barcelona|metro}}{{station|Para-lel|l2|l3}}then the Montjunc Funicular{{rint|barcelona|fmontjuic}}
+| phone=+34 934439470 | tollfree= | fax=
+| hours=Oct-Jun: Tue Wed Sat 10:00-20:00, Thu 10:00-21:00, Sun 10:00-14:30; Jul-Sep: Tue Wed Sat 10:00-19:00, Thu 10:00-21:30, Sun 10:00-14:30 | price=€11 included in the Barcelona Art Passport
+| wikipedia=Fundació Joan Miró | image=Fundació Miró.JPG | wikidata=Q867072
+| lastedit=2015-10-22
+| content=Treasured museum dedicated to Joan Miró and always has interesting temporary expositions on display.
+}}
+* {{see
+| name=National Art Museum of Catalonia | alt=Museu Nacional d'Art de Catalunya | url=https://www.museunacional.cat/en | email=
+| address=Avinguda dels Montanyans, Parc de Montjuic | lat=41.368333 | long=2.153306 | directions=Metro: Plaça Espanya, follow Avinguda Maria Cristina and go up the stairs/escalators
+| phone=+34 93 622 03 76 | tollfree=
+| hours=Tue-Sat 10:00-19:00, Sun 10:00-14:30 | price=Adult €12, under 16 or over 65 (EU resident) free, including two visits within 30 days. First Sunday each month is free for everyone. Included in the Barcelona Art Passport
+| wikipedia=Museu Nacional d'Art de Catalunya | image=Museu nacional d'art de catalunya 2.jpg | wikidata=Q861252
+| content=Has the single best collection of Romanesque art in the world, and a fine Gothic collection as well. Includes the ''Pantocrator'' from the [[Taüll]] Romanesque church. The building itself is also very beautiful.
+}}
+* {{see
+| name=Archaeology Museum of Catalonia | alt=Museu d'Arqueologia de Catalunya | url=http://www.mac.cat/ | email=
+| address= | lat=41.369722 | long=2.157778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Archaeology Museum of Catalonia | image=(Barcelona) Museu d'Arqueologia de Catalunya - Entrance.jpg| wikidata=Q3366823
+| content=Situated on the Montjuic, it exhibits archaeological findings from Catalunia from different periods. Under 16 and 65+ free. €3 for others. Special discounts for other groups.
+}}
+* {{see
+| name=Catalan Ethnographical Museum | alt=Museu Etnològic de Barcelona | url=http://www.barcelona.cat/museuetnologic/ | email=
+| address=Passeig Santa Madrona, 16-22 | lat=41.3689 | long=2.15583 | directions=Estació d'Espanya (L1 i L3 of the Metro)
+| phone=+34 934 246 807 | tollfree= | fax=
+| hours= | price=
+| image=Museu Etnològic de Barcelona Façana.jpg | wikidata=Q9046827
+| content=This museum mainly exhibits exponents, which were imported by Catalan sailors as they explored the new world. Free on the first Sunday each month (11:00 to 15:00)
+}}
+* {{see
+| name=Olympic and Sports Museum Joan Antoni Samaranch | alt=El Museu de l'Esport Olímpic | url=https://www.museuolimpicbcn.cat/en/ | email=comunicacio@fbolimpica.es
+| address=Avda. de l’Estadi 60| lat=41.366331 | long=2.157064 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Olympic and Sports Museum Joan Antoni Samaranch | image=Museu Olímpic Joan Antoni Samaranch.JPG | wikidata=Q3820447
+| content=The museum displays high-performance sport competitions, recreational sports, sports in general and sports for disabled people. It shows how sport can promote values, educate, innovate and renew. The museum has a sport idols space with outstanding players.
+}}
+
+[[File:Palau San Jordi Torre Calatrava Barcelona.jpg|thumb|250px|Estadi Olímpic Communication Tower, Barcelona]]
+* {{see
+| name=Olympic Stadium | alt=Estadi Olímpic Lluís Companys | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q275715
+| lastedit=2021-05-11
+| content=The stadium and its surroundings built in 1927 and renovated for the 1992 Summer Olympics provides nice architectonic and city views. Since it's not too crowded outside sport events, it's usually a pretty calm place.
+}}
+
+=== Other attractions ===
+
+* {{see
+| name=Plaça d'Espanya | alt= | url= | email=
+| address= | lat=41.375 | long=2.149167 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaça d'Espanya, Barcelona | image=Plaça Espanya.jpg | wikidata=Q2013874
+| content=Placa d'Espanya was created for the 1929 World Exhibition, on a site once used for public hangings. The fountain in the center of the square is a great attraction and plays music during the summer. Plaça Espanya is located at the base of Montjuic hill.
+}}
+* {{see
+| name=El Poble Espanyol | alt= | url=http://www.poble-espanyol.com | email=info@poble-espanyol.com
+| address=Av. Marques de Comillas, 13 | lat=41.369 | long=2.147 | directions=
+| phone=+34 93 508-6300 | tollfree= | fax=+34 93 508-6333
+| hours= | price=
+| wikipedia=Poble Espanyol | image=| wikidata=Q1062480
+| content=A fake village built in 1929, with replicas of characteristic buildings in Spain (like the Avila walls, the Vall-de-roures town hall, etc.). The village hosts the Fondation Fran Daurel, where you can enjoy an interesting Modern Art collection boasting Miró, Picasso, Tapiès and other, mostly Spanish and Catalan, contemporary artists. The audio tour is very worthwhile there. Also worth seeing - the flamenco show at Tablo de Carmen. You can also step into several of the workshops to see craftsmen at work such as glassblowers and leather workers.
+}}
+* {{see
+| name=Botanical Garden | alt=Jardí Botànic de Barcelona | url=https://museuciencies.cat/en/ | email=
+| address= | lat=41.3618 | long=2.1587 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jardí Botànic de Barcelona | image=Botanical garden barcelona2.jpg | wikidata=Q2605209
+|lastedit=2024-03-22| content=Although a botanic garden had been established in Barcelona as early as 1888, the current gardens date from 1999.
+}}
+* {{see
+| name=Miramar gardens | alt=Jardines de Miramar | url= | email=
+| address= | lat=41.369911 | long=2.172161 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=es:Jardines de Miramar | image=Jardins Miramar2.jpg | wikidata=Q14886513
+| content=This is where you arrive by a harbour cable car. Marvelous place in the spring, full of roses and fountains. Entrance to the cactus garden is nearby. The Mirador Miramar offers splendid views over the city.
+}}
+* {{see
+| name=The Montjuïc Castle | alt=Castell | url=https://ajuntament.barcelona.cat/castelldemontjuic/en | email=
+| address= | lat=41.36342 | long=2.16617 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Montjuïc Castle | image=Castell de Montjuïc (Barcelona) - 3.jpg | wikidata=Q2500125
+|lastedit=2024-03-22| content=Provides a beautiful panorama view over the rest of the city. The Montjuic Castle is in the Montjuic hill. From the ''Montjuïc Castle'', take [[#Harbour Cable Car|the harbor cable car]] to [[Barcelona/Barceloneta#See|Barceloneta]] for more splendid views.
+}}
+
+==Do==
+[[File:Pool-montjuic.jpg|thumb|La Piscina Municipal de Montjuïc - for majestic swimming.]]
+* {{do
+| name=Piscina Municipal de Montjuïc | alt=Swimming pool on Montjuic | url=http://www.picornell.cat/ | email=
+| address=Av Miramar 31 | lat=41.36944 | long=2.16512 | directions=
+| phone=+34 934430046 | tollfree= | fax=
+| hours=Mon-Fri 11:00-18:30 | price=€5.05 for adults
+| content=In the summer months July and August the outdoor swimming pool is open for public. This pool offers spectacular views over the whole city. The pool is close to the exit from the funicular that departs from metro station Parallel; metro ticket is valid for the funicular.
+}}
+* '''[http://www.tablaodecarmen.com Tablao de Carmen]''', in Poble Espanyol, offers a spectacular flamenco evening. The entrance fee (€31) includes the 1½-2 hour show, drink and free of charge entrance in Poble Espanyol. A cheaper alternative is the flamenco night in jazzclub '''[http://www.tallerdemusics.com/ Jazz Si]''' in the Raval neighbourhood.
+
+==Buy==
+
+==Eat==
+There are lots of small restaurants along and next to the pedestrian Calle Blai.
+
+===Budget===
+* {{eat
+| name=Taberna Blai Tonight | alt= | url= | email=
+| address=Calle Blai 23-25 | lat=41.373575 | long=2.164722 | directions=
+| phone=+34 648 73 32 00 | tollfree= | fax=
+| hours= | price=€1 tapas
+| content=A big variety of tapas including cheese, tortillas, seafood and meat options are offered by friendly staff. First one has to choose a plate and a drink. At the end one pays for the number of toothpicks. Cheap drinks attracts a young public.
+}}
+
+===Mid-range===
+* {{eat | name=El Sortidor | alt= | url=http://elsortidor.com/ | email= | address=Plaça del Sortidor, 5 | lat=41.372517 | long=2.162117 | directions=Metro Poble Sec | phone=+34 935 18 85 44 | tollfree= | fax= | hours= | price= | content=Going back to 1908 the restaurant is known for its anchovies accompanied with good vermouth.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Koska Taverna | alt= | url=http://www.koskataverna.com/ | email=info@koskataverna.com
+| address=Carrer de Blai, 8 | lat=41.373166 | long=2.166108 | directions=
+| phone=+34 93 127 0313 | tollfree= | fax=
+| hours= | price=
+| content=The tapas bar has great drink choices and serves original non traditional food.
+}}
+* {{eat
+| name=Quimet & Quimet | alt= | url= | email=
+| address=Carrer del Poeta Cabanyes, 25 | lat=41.373963 | long=2.165534 | directions=Metro Paral-lel
+| phone=+34 934 42 31 42 | tollfree= | fax=
+| hours= | price=€2.50 sandwich, €1.90 vermouth
+| content=Lively little bar that serves excellent sandwiches and has a good selection of wines.
+}}
+* {{eat
+| name=La tasqueta de Blai | alt= | url= | email=
+| address=Blai 17 | lat=41.373369 | long=2.165254 | directions=Metro Paral-lel
+| phone=+34 931 730 561 | tollfree= | fax=
+| hours= | price=
+| content=The tapas bar is very popular and hence always packed. It offers interesting varieties including sweet dessert ones.
+}}
+
+===Splurge===
+
+==Drink==
+Off the beaten path one can find a great choices of different bars:
+* {{drink | name=Celler Cal Marino | alt= | url=http://www.cellercalmarino.com/ | email= | address=Carrer de Margarit, 54 | lat=41.372473 | long=2.163083 | directions= | phone=+34 933 294 592 | tollfree= | fax= | hours=Tue-Fri 12:00-15:30, 19:30-23:30, Sat 11:30-15:00, 19:30-23:30, Sun 11:30-15:00 | price= | content=Wine bar with lots of local choices plus a great selection of cheeses. They have great suggestions according to personal taste.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{drink | name=Gran Bodega Saltó | alt= | url=http://bodegasalto.net/ | email= | address=carrer de Blesa, 36 | lat=41.372787 | long=2.167149 | directions= | phone=+34 934 41 37 09 | tollfree= | hours= | price= | content=Bar that seems out of the eighties. It is very popular and plays regular concerts.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink | name=Maumau | alt= | url=http://www.maumaunderground.com/ | email=info@maumaubarcelona.com | address=Carrer Fontrodona, 35 | lat=41.372217 | long=2.166455 | directions=Metro Parallel | phone=+34 934418015 | tollfree= | fax= | hours=Thu 21:00-02:30, Fri Sat 21:00-02:30 | price= | content=A chilled out lounge bar with groovy tunes that uses its space to host short film nights, installations and concerts. Their webpage is worth a look for upcoming events and shows in Barcelona.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Sala Apolo | alt= | url=https://www.sala-apolo.com/ | email=
+| address=Carrer Nou de la Rambla, 113 | lat=41.374387 | long=2.169561 | directions=Metro Parallel
+| phone=+34 934 41 40 01 | tollfree= | fax=
+| hours= | price=
+| content=It is one of the best clubs in town, and the place to be on Monday nights. Concerts every weekend and also during the week.
+}}
+* {{Drink|name=Abirradero|url=https://www.abirradero.com/|email=abirradero@gmail.com|address=Carrer de Vila i Vilà, 77|lat=41.37418032|long=2.16855640|directions={{rint|barcelona|metro}}{{station|Para-lel|l2|l3}}{{rint|barcelona|fmontjuic}}|phone=+34 934 61 94 46|lastedit=2024-03-17|content=Brew pub in the Poble Sec area. A range of dishes to go with the beer.}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Alberguinn - Sants Youth Hostel | alt=Alberguinn | url=http://www.alberguinn.com | email=alberguinn@alberguinn.com
+| address=Carrer Melcior de Palau 70-74 entresuelo | lat= | long= | directions=
+| phone=+34 93 490 59 65 | tollfree= | fax=+34 93 491 19 41
+| checkin=13:00 | checkout=11:00 | price=From €15 (€26 during July-August)
+| content=Clean, secure and trendy hostel with a team of receptionists that will strive to help you with anything that you may need. The beds are comfortable and a continental breakfast is included. Free computers to use and WIFI. Lockers and bed linen included. Main train station is a few blocks away, as well as 3 metro lines (L1 L3 L5) and an international bus station. Luggage room is also free to use before check-in and after check-out.
+}}
+* {{sleep
+| name=Best Western Alfa Aeropuerto | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+
+===Mid-range===
+* {{sleep| name = Terra by Ona Hotels| url = https://www.onahotels-terra.com| address = C/ de la Creu Coberta, 20-22| content = | phone = +34 936 26 88 44 }} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Gran Torre Catalunya | alt= | url=http://www.torrecatalunya.com/en/ | email=
+| address= | lat=41.37968 | long=2.14242 | directions=
+| phone=+34 93 600 69 99 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Avda. Roma, 2-4. Next to Sants Central Station. Restaurant on the 23rd floor, spa, gym. €100.
+}}
+* {{sleep | name=Hotel Medium Prisma 2* | url=https://www.mediumhoteles.com/es/espana/barcelona/sants/hotel-medium-prisma {{dead link|December 2020}} | email=prisma@mediumhoteles.com | address=Av. Josep Tarradellas, 119-121 | lat= | long= | directions= | phone=+34 934 39 42 07 | tollfree= | fax= | hours= | price= | checkin= | checkout= | lastedit=2024-01-10 | content=Between Sants Station and Plaza Francesc Maciá. 50 rooms, free Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hotel Silken Concordia | alt= | url=http://www.hoteles-silken.com/hoteles/concordia-barcelona/ | email= | address=Avinguda del Paraŀlel, 115 | lat=41.374802 | long=2.160878 | directions=Metro Poble Sec | phone=+34 933 24 91 80 | tollfree= | fax= | price=€90 for a double. | checkin= | checkout= | content=On a major street. The metro station "Poble Sec" is right across from the hotel. If you prefer to walk you can reach "La Rambla" and all the major atrractions in downtown Barcelona in just 15 minutes. The rooms are spacious, the furniture is almost like new, and the staff are quite friendly.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Hotel Medium City 4* | url=https://www.mediumhoteles.com/es/espana/barcelona/sants/hotel-medium-city {{dead link|December 2020}} | email=mediumcity@mediumhoteles.com | address=Nicaragua, 47 | lat= | long= | directions= | phone=+34 933 63 74 74 | tollfree= | fax= | hours= | price= | checkin= | checkout= | lastedit=2024-01-10 | content=Hotel fully renovated, just two minutes walking from the Sants Station. 80 rooms, restaurant, meeting rooms, free Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Catalonia Barcelona Plaza | alt= | url= | email=
+| address= | lat=41.3755 | long=2.1484 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Paral·lel | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hotel Coronado | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Tryp Barcelona Apolo Hotel | alt= | url=http://trypapolo.barcelonahotels.it/ | email=
+| address=Avinguda del Paraŀlel, 57-59 | lat=41.37472 | long=2.17006 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=€82
+| content=This has to be one of the world's oldest Tryps, and it is so old that it is literally falling apart. The reason why it is still in business is the unparalleled location next to MEtro (pardon the pun) Parallel.
+}}
+* {{sleep
+| name=Pestana Arena Barcelona | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hotel Nuevo Triunfo | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Abba Sants | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hotel Azul Barcelona | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Ayre Hotel Gran Vía | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Expo Hotel Barcelona | alt= | url= | email=
+| address= | lat=41.37923 | long=2.14283 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=hotel Best Auto Hogar Barcelona | alt= | url=http://www.hotelautohogarbarcelona.com/en/ | email=
+| address=Av. Paral·lel, 64, 08001 | lat= | long= | directions=
+| phone=+34 934 439 850 | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2017-08-15
+| content=Nice 4-star hotel of the chain Best.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Miramar Barcelona | alt= | url= | email=
+| address= | lat=41.37052 | long=2.17112 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=AC Hotel Sants by Marriott | alt= | url=https://www.marriott.com/hotels/travel/bcnsa-ac-hotel-sants/ | email=
+| address=Passeig de Sant Antoni, 36-40 | lat=41.37755 | long=2.13875 | directions=directly southeast from Barcelona-Sants station
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=€110
+| content=AC does the trick by wrapping quite small rooms and limited facilities in modern design in very toned-down hues. Don't expect anything fancy, this is Marriott's lowest-tier brand in Spain. Some of the rooms begin to show dents and cracks after guests failed to properly navigate the narrow bits. The location next to the Sants station is convenient even if a bit sombre.
+}}
+* {{sleep
+| name=Hotel Grums Barcelona | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Fira Palace | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Barceló Sants | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+|lastedit=2024-06-14| content=
+}}
+
+<!--
+===Apartments===
+
+* {{sleep
+| name=The Urban Suites | alt= | url=https://theurbansuites.com/en/ | email=info@theurbansuites.com
+| address= | lat= | long= | directions=
+| phone= +34 932015164 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=''Holiday Aparments Barcelona'': Sant Nicolau 3, 08014. Suites and apartments within walking distance to Spain Square, Sants Station and Montjuic Area. Very well comunicated, through public transport, with the airport and the city center. Free wifi and parking in the same building. Disable friendly.
+}}-->
+
+==Connect==
+
+{{usabledistrict}}
+{{geo|41.363283|2.162589}}
+{{IsPartOf|Barcelona}}

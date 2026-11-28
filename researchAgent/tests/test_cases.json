@@ -1,0 +1,412 @@
+{
+  "description": "Input cases for the TravAI research agent. 'input' is what the backend sends; 'expect' are checkable assertions on the output (see schema/research_output.schema.json). Dates assume a run in late Nov 2026; replace with relative offsets if run later.",
+  "input_schema_note": "origin is an IATA code or a city/address; destination can be a city, region, or a list of stops. transport_modes lists what the user allows.",
+  "cases": [
+    {
+      "id": "tokyo-5d-5000",
+      "source": "PROPOSAL walkthrough / appendix 1",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Tokyo, Japan"
+        ],
+        "start_date": "2027-03-10",
+        "duration_days": 5,
+        "travelers": 1,
+        "budget": 5000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "min_counts": {
+          "flights": 4,
+          "lodging": 5,
+          "activities": 25
+        },
+        "feasibility_verdict_in": [
+          "comfortable",
+          "tight"
+        ],
+        "must_hold": [
+          "every flight departs from DEN area airports and arrives at HND or NRT",
+          "every priced item has source.url and price.retrieved_at",
+          "JPY prices carry amount_normalized and fx_rate",
+          "activities include at least 3 categories, and day trips list round_trip_from_base_minutes",
+          "flight prices are within 30% of a manual Google Flights check"
+        ]
+      }
+    },
+    {
+      "id": "cos-daytrip-500",
+      "source": "PROPOSAL appendix 2",
+      "input": {
+        "origin": "Denver, CO",
+        "destinations": [
+          "Colorado Springs, CO"
+        ],
+        "start_date": "2027-05-15",
+        "duration_days": 1,
+        "travelers": 1,
+        "budget": 500,
+        "currency": "USD",
+        "transport_modes": [
+          "drive"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "min_counts": {
+          "activities": 8,
+          "ground_transport": 1
+        },
+        "max_counts": {
+          "flights": 0,
+          "lodging": 0
+        },
+        "feasibility_verdict_in": [
+          "comfortable"
+        ],
+        "must_hold": [
+          "ground_transport includes a drive leg with distance_km near 110 and a fuel/parking estimate typed 'estimate' with estimate_method",
+          "no flights or lodging returned for a day trip",
+          "activities have hours so the planner can fit a single day"
+        ]
+      }
+    },
+    {
+      "id": "europe-2w-10000",
+      "source": "PROPOSAL appendix 3",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Paris, France",
+          "Rome, Italy",
+          "Barcelona, Spain"
+        ],
+        "start_date": "2027-06-05",
+        "duration_days": 14,
+        "travelers": 2,
+        "budget": 10000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight",
+          "train"
+        ],
+        "start_point": "Paris, France",
+        "end_point": "Barcelona, Spain"
+      },
+      "expect": {
+        "status": "ok",
+        "min_counts": {
+          "flights": 4,
+          "lodging": 9,
+          "activities": 40,
+          "ground_transport": 2
+        },
+        "feasibility_verdict_in": [
+          "comfortable",
+          "tight",
+          "very_tight"
+        ],
+        "must_hold": [
+          "ground_transport covers Paris to Rome and Rome to Barcelona with at least one option per leg",
+          "price.basis is explicit for 2 travelers (no per-person price treated as a total)",
+          "lodging is grouped across all three cities and respects check_in/check_out ranges",
+          "EUR prices carry amount_normalized and fx_rate"
+        ],
+        "note": "very_tight allowed: for 2 travelers the agent assumes mid-range food (~$120/person/day) and excludes activities, so ~86% of budget is a realistic result. Revisit if the planner can build 3 plans anyway."
+      }
+    },
+    {
+      "id": "japan-month-500-impossible",
+      "source": "PROPOSAL appendix 4",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Japan"
+        ],
+        "start_date": "2027-04-01",
+        "duration_days": 30,
+        "travelers": 1,
+        "budget": 500,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "infeasible",
+        "feasibility_verdict_in": [
+          "likely_impossible"
+        ],
+        "must_hold": [
+          "feasibility.estimated_minimum_total is well above 500 and never below the real cheapest flight found",
+          "reasoning names flights as the main cost, with a breakdown",
+          "agent does not pad lodging or flights with fake low prices to fit the budget",
+          "still returns the cheapest flight and lodging it found, so the planner can explain"
+        ]
+      }
+    },
+    {
+      "id": "ukraine-3d-1000-hard",
+      "source": "PROPOSAL appendix 5",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Lviv, Ukraine"
+        ],
+        "start_date": "2027-04-10",
+        "duration_days": 3,
+        "travelers": 1,
+        "budget": 1000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight",
+          "train",
+          "bus"
+        ]
+      },
+      "expect": {
+        "status_in": [
+          "ok",
+          "partial"
+        ],
+        "must_hold": [
+          "advisories contains an entry with level 'do_not_travel' (or the current State Dept level) with source_url",
+          "advisories entry sets map_data_reliability to 'uncertain' or 'poor'",
+          "the advisory is present before any other output is considered, and results are still returned so the user can proceed",
+          "flights note that commercial service to Ukraine is unavailable if true, and the gap or an overland route via Poland is reported rather than invented",
+          "estimated_minimum_total reflects the overland detour cost, not a direct-flight price"
+        ]
+      }
+    },
+    {
+      "id": "solo-budget-cheap-regional",
+      "source": "added",
+      "input": {
+        "origin": "ORD",
+        "destinations": [
+          "Mexico City, Mexico"
+        ],
+        "start_date": "2027-02-12",
+        "duration_days": 4,
+        "travelers": 1,
+        "budget": 1200,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "min_counts": {
+          "flights": 3,
+          "lodging": 5,
+          "activities": 15
+        },
+        "feasibility_verdict_in": [
+          "comfortable",
+          "tight"
+        ],
+        "must_hold": [
+          "MXN prices normalized to USD with fx_rate"
+        ]
+      }
+    },
+    {
+      "id": "tight-budget-borderline",
+      "source": "added",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Lisbon, Portugal"
+        ],
+        "start_date": "2027-03-02",
+        "duration_days": 7,
+        "travelers": 1,
+        "budget": 1800,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status_in": [
+          "ok",
+          "partial"
+        ],
+        "feasibility_verdict_in": [
+          "tight",
+          "very_tight"
+        ],
+        "must_hold": [
+          "breakdown sums within 5% of estimated_minimum_total",
+          "does not label it comfortable if the cheapest combination uses over 85% of budget"
+        ]
+      }
+    },
+    {
+      "id": "group-of-four",
+      "source": "added",
+      "input": {
+        "origin": "SEA",
+        "destinations": [
+          "Reykjavik, Iceland"
+        ],
+        "start_date": "2027-09-08",
+        "duration_days": 6,
+        "travelers": 4,
+        "budget": 9000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight",
+          "drive"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "must_hold": [
+          "flight prices are multiplied or labeled correctly for 4 travelers (basis per_person vs total_all_travelers)",
+          "lodging returns options that fit 4 people or notes multiple rooms",
+          "car rental or drive legs appear since drive is allowed"
+        ]
+      }
+    },
+    {
+      "id": "ambiguous-destination",
+      "source": "added edge case",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Paris"
+        ],
+        "start_date": "2027-04-20",
+        "duration_days": 5,
+        "travelers": 1,
+        "budget": 3000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "must_hold": [
+          "resolves Paris to Paris, France, and records the assumption in notes",
+          "no results from Paris, Texas"
+        ]
+      }
+    },
+    {
+      "id": "remote-sparse-data",
+      "source": "added edge case",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Tristan da Cunha"
+        ],
+        "start_date": "2027-05-01",
+        "duration_days": 5,
+        "travelers": 1,
+        "budget": 6000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status_in": [
+          "partial",
+          "infeasible",
+          "error"
+        ],
+        "must_hold": [
+          "gaps lists flights/lodging that could not be found, with reasons",
+          "no fabricated flight numbers, hotels or prices",
+          "every item that is returned still has a source.url"
+        ]
+      }
+    },
+    {
+      "id": "invalid-past-date",
+      "source": "added input validation",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Tokyo, Japan"
+        ],
+        "start_date": "2024-01-10",
+        "duration_days": 5,
+        "travelers": 1,
+        "budget": 5000,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "error",
+        "must_hold": [
+          "gaps or notes say the start date is in the past",
+          "no searches against flight APIs wasted"
+        ]
+      }
+    },
+    {
+      "id": "invalid-zero-budget",
+      "source": "added input validation",
+      "input": {
+        "origin": "DEN",
+        "destinations": [
+          "Tokyo, Japan"
+        ],
+        "start_date": "2027-03-10",
+        "duration_days": 5,
+        "travelers": 1,
+        "budget": 0,
+        "currency": "USD",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status_in": [
+          "error",
+          "infeasible"
+        ],
+        "must_hold": [
+          "rejects or flags the zero budget without calling paid APIs"
+        ]
+      }
+    },
+    {
+      "id": "non-usd-budget",
+      "source": "added",
+      "input": {
+        "origin": "LHR",
+        "destinations": [
+          "New York, USA"
+        ],
+        "start_date": "2027-10-05",
+        "duration_days": 4,
+        "travelers": 2,
+        "budget": 3500,
+        "currency": "GBP",
+        "transport_modes": [
+          "flight"
+        ]
+      },
+      "expect": {
+        "status": "ok",
+        "must_hold": [
+          "top-level currency is GBP",
+          "USD quotes are converted with amount_normalized and fx_rate",
+          "lodging price basis per_night is converted to a stay total correctly"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1914 @@
+{{pagebanner|Lviv banner 1.jpg|unesco=yes|unesco_cc=yes}}
+
+'''Lviv''' (also spelled ''L'viv''; Ukrainian: Львів; Polish: ''Lwów'', German: ''Lemberg'', Russian: Львов), formerly known as '''Lvov''' after its Russian name, is in [[Western Ukraine]]. It's the biggest city of the region and a major Ukrainian cultural centre on the [[UNESCO World Heritage List]].  Visiting Lviv is very rewarding for the pioneer traveller, as living is extremely cheap here and the place has a truly authentic feeling, unlike places like Kraków or Prague, which are swamped with tourists.
+
+==Understand==
+{{climate chart
+|Lviv
+|-5.7 |0.2 |46.0
+|-4.8 |2.0 |48.0
+|-1.4 |7.0 |48.0
+|3.8 |14.5 |52.0
+|8.4 |19.5 |93.0
+|12.0 |23.0 |86.0
+|13.7 |24.7 |96.0
+|13.2 |24.5 |73.0
+|8.7 |19.0 |70.0
+|4.4 |13.2 |57.0
+|0.4 |6.8 |50.0
+|-4.1 |1.5 |50.0
+
+|float=right
+|clear=right
+|description=Source: [[w:Lviv#Climate|Wikipedia]]
+}}
+
+=== History ===
+[[File:Lwów - Cerkiew Uspieńska.jpg|thumb|Dormition Church and the 400-year-old Korniakt Tower]]
+The city has a multicultural history but little of the evidence of this has survived until today. It was founded in 1256 by King Daniel of Galicia (Ukrainian: Король Данило Галицький - Korol' Danylo Halytskyy) and fell under Polish control in the 14th century. Poles, Jews, Ukrainians, Armenians, Germans and others lived there together for centuries. This multicultural experience virtually came to an end during and after WWII. Germans killed most of the Jews (about one third of Lviv's population at that time). At the end and in the direct aftermath of the war, the remaining Polish population (about 65% of the population) was then "repatriated" to Poland in its new borders by the Soviet government. Some Polish and Jewish heritage is preserved, for example remains of some synagogues and a number of catholic churches, also  one can find some inscriptions on former shops in Polish, Yiddish and German.
+
+Because of Lviv's proximity to the EU and its openness to foreigners, the city's multicultural feel has experienced a resurgence. Even today, walking through the city centre, a traveller can hear Poles laughing and taking pictures of the beautiful old buildings, Germans walking through the city on guided tours, Ukrainian or Russian tourists and students joking about this or that, and American or British businessmen chatting in cafes. There is even a small Jewish community in the city. The many universities in Lviv attract students from every continent on the globe, and its old architecture draws tourists from various parts of the world, including Ukraine.
+
+The Polish king John II Casimir founded the Lviv University in the 17th century and Lviv (known as ''Lwów'') was by that time one of the most important cities in the Polish-Lithuanian Commonwealth, along with [[Kraków]], [[Warsaw]], [[Gdańsk]] and [[Vilnius]].
+
+In 1772 the city was taken by the Habsburgs, and in Austrian times it was known as ''Lemberg'', the capital of Galicia. After the dissolution of the Austro-Hungarian Empire in 1918, it was returned to Poland.
+
+As a result of World War II, Stalin moved the Soviet frontier westward so Lviv became part of the USSR under its Russian name ''Lvov'' (still widely used by supporters of Russia, but very offensive to most locals). After Ukrainian independence in 1991, the Ukrainian name of ''Lviv'' was gradually adopted in English.
+
+=== Identity ===
+Lviv is the region of Ukraine with the strongest sense of Ukrainian identity. Even when it was part of the Soviet Union, most signs were only in Ukrainian, and only a few also in Russian. Because of its history as part of the [[Polish-Lithuanian Commonwealth]] and the [[Austro-Hungarian Empire]], Lviv has a Central European flair in its architecture that makes it one of the most beautiful cities in Eastern Europe, and also has a Catholic majority, unlike most of majority-Eastern-Orthodox Ukraine. Lviv has even been called "the capital of Ukrainian culture". The people there are very warm, although somewhat direct (which is very common in eastern Slavic cultures).
+
+=== Tourism ===
+The city is tourist-friendly. All downtown street signs are in Ukrainian and English, and the staff of the Information Center on Rynok Square speak many different languages. Maps, schedules of local events, and tourist guides can be obtained there for free in English, German, Polish, and Russian. There are small information kiosks beside some monuments (small touch-screen TVs that offer maps and information about the city).
+* [https://lviv.travel/en lviv.travel Lviv Tourism] website.
+
+==Get in==
+===By plane===
+
+Due to the Russia-Ukraine war, Ukraine's airspace is closed to civil aviation.<!-- 1 Lviv international airport (LWO IATA Міжнародний аеропорт Львів імені Данила Галицького), Liubinska str., 168 (is within the city border just 7 km from the beautiful central city. Taxi from the airport to town (or vice versa) should cost around 45 грн, depending on the time of day. Negotiate prior to departure. There is line 29 operated by trolleybuses from Airport to city centre (5 грн, also available 50% discounts for students), and line 48 operated by buses (7 грн, without discounts) from the airport. Both are frequent (every 10–15 minutes). The Express Bus to the Railway Station costs 20 грн.), ☏ +380 32 2 29-81-12. Its brand-new terminal building replaced the cramped old one, which is still seen nearby as a sublime example of Stalinist architecture, with gorgeous sculptures that are, unfortunately, visible from the runways only. Lviv is served via direct international routes including daily flights from Vienna (Austrian Airlines), Munich (Lufthansa), Warsaw (LOT Polish Airlines), as well as regular service to Rome, Vilnius, Poznań, Prague and Tel Aviv. You can also fly from Kyiv (4-5 daily flights by UIA, UTair Ukraine, Dniproavia). Another option is to fly from Istanbul with Turkish Airlines or Pegasus. (updated Jul 2017) -->
+
+The closest operating airports are in [[Poland]]. From the airport, take a train or a bus to Lviv, that will bring you into Ukraine across the border. 
+* Jasionka International Airport {{IATA|RZE}} is a 4-hour train trip to Lviv.
+* Krakow Airport {{IATA|KRK}} is a 6-hour train trip to Lviv.
+* Lublin Airport {{IATA|LUZ}} is an 8-hour train trip to Lviv.
+* Warsaw Airport {{IATA|WAW}} is a 10-hour train trip to Lviv.
+
+===By train===
+Tickets must be purchased online ahead of time.
+{| class="wikitable sortable"
+|+International trains
+!From
+!Country
+!Direct / connecting
+!Trip duration
+!Link to book a ticket
+|-
+|[[Przemyśl|Przemysl]]
+|{{flag|Poland|link=yes}}
+|Direct
+|2 hours 
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Rzeszów|Rzeszow]]
+|{{flag|Poland|link=yes}}
+|Connecting
+|5 hours
+|[https://regiojet.com/?tariffs=REGULAR&fromLocationId=5990055007&fromLocationType=CITY&toLocationId=271526030&toLocationType=CITY RegioJet]
+|-
+|[[Kraków|Krakow]]
+|{{flag|Poland|link=yes}}
+|Connecting
+|6 hours
+|[https://regiojet.com/?tariffs=REGULAR&fromLocationId=1225791000&fromLocationType=CITY&toLocationId=271526030&toLocationType=CITY RegioJet]
+|-
+|[[Lublin]]
+|{{flag|Poland|link=yes}}
+|Connecting
+|7 hours
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Warsaw]]
+|{{flag|Poland|link=yes}}
+|Connecting
+|9 hours 
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Košice|Kosice]]
+|{{flag|Slovakia|link=yes}}
+|Connecting
+|10 hours
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Budapest]]
+|{{flag|Hungary|link=yes}}
+|Direct
+|13 hours
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Vienna]]
+|{{flag|Austria|link=yes}}
+|Direct
+|16 hours
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|}
+''For more information on international trains into Ukraine, see [[Western_Ukraine#Get_in|here]]''.
+{| class="wikitable sortable"
+|+Domestic trains
+!From
+!Direct / connecting
+!Trip duration
+!Link to book a ticket
+|-
+|[[Uzhhorod]]
+|Direct
+|5 hours 
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Kyiv]]
+|Direct
+|7 hours 
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|-
+|[[Odesa]]
+|Direct
+|11 hours
+|[https://uz.gov.ua/en/ Ukrzaliznytsia]{{Dead link|date=May 2026 |bot=InternetArchiveBot }}
+|}Overnight sleeping trains may be more comfortable for the longer trips.
+[[File:Lemberg Hauptbahnhof 2.JPG|thumb|The Art Nouveau Main Railway Station of Lviv]]
+*{{go | name=Lviv Central Railway station | alt=Центральний залізничний вокзал Львів | url=https://railway.lviv.ua | email= | address=Dvirtseva Sq, 1 | lat=49.83973 | long=23.99397 | directions=NW of the centre, take a westbound tram | phone=+380 32 2 26-20-68 | tollfree= | hours= | price= | wikidata=Q801139 | lastedit=2025-02-22 | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{go
+| name=Lviv Suburban Railway station | alt=Залізнична станція Львів | url= | email=
+| address=Vul. Horodots'ka str., 110 | lat=49.8367 | long=23.9968 | directions=west of the centre, take a westbound tram
+| phone=+380 32 2 26-22-00 | tollfree=
+| hours= | price=
+| wikidata=Q4271107
+| lastedit=2025-02-22
+| content=
+}}
+
+===By bus===
+
+*{{listing
+| name=Bus station No.1 | alt=Автостанція №1 | url=https://e-vokzal.com/ | email=
+| address=Vul. Stryiskyi, (вул. Стрийська) 109 | lat=49.78676 | long=24.01631 | directions=South 6 km
+| phone= | tollfree= | fax= 
+| checkin=05:00 | checkout=23:00 | hours= | price= 
+| wikidata=Q4271066
+| lastedit=2025-05-15
+| content=Buses from [[Warsaw]], [[Przemyśl]], [[Lublin]], [[Wrocław]] and [[Prague]]. ''For more information on international buses see [[Western_Ukraine#By_bus]]''.
+}}
+*{{listing
+| name=Bus station No.2 | alt=Автостанція 2 | email=
+| address=Khmelnytskogo, (л. Б. Хмельницкого,) 225 | lat=49.86428 | long=24.05123 | directions=N 3 km from centre
+| phone=+380 32 2 38-83-08 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+*{{listing
+| name=Bus station No.8 | alt=Автостанція 8 | email=
+| address=Dvirtseva Sq, 1 | lat=49.83982 | long=23.99565 | directions=NW-W, at the R.S.
+| phone=+380 32 2 38-83-08 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+===By car===
+{{seealso|Western_Ukraine#By_car}}
+
+From Poland: take the E40, this will end at the city centre. Formalities at the border take at least one hour. There will be a long line for trucks, which you can pass if you travel by car. Don't expect the border police to treat you respectfully, or speak any language other than Ukrainian, Polish or Russian. 
+
+It is illegal to drive in the city centre (including Prospekt Svobody) on Sundays and holidays. This is signposted in Cyrillic only, and there are always police present to catch some unsuspecting foreigner.
+
+== Get around ==
+{{mapframe|49.8434|24.0302|zoom=14|align=right}}
+{{Mapshape|wikidata=Q20077683,Q16696014,Q28707509|type=geoline|stroke-width=3|title=Train|group=go}}
+{{Mapshape|wikidata=Q327162,Q1733534,Q2013618|type=geoline|stroke=#ff0000|stroke-width=3|title=Highway|group=go}}
+{{Mapshapes|Q1566611}}
+
+=== By public transport ===
+Single ride tickets in trams, trolleybuses, buses and marshrutka cost:
+
+* 26 ₴, tap the validator inside the bus with NFC-enabled bank card or smartphone (Apple Pay or Google Pay).
+* 23 ₴ if tapped with a [https://leocard.lviv.ua/ public transport card] LeoCard or [https://play.google.com/store/apps/details?id=org.lvivavtodor.eticket app].
+* 30 ₴ if paid in cash to the driver.
+
+Lviv has a convenient public transport system that includes:
+
+* 8 tram routes
+* 10 trolleybus routes
+* 18 bus routes
+* 31 marshrutka routes
+
+Monthly [https://tickets.lvivelectrotrans.com.ua/en travel passes]{{Dead link|date=July 2025 |bot=InternetArchiveBot }} are available for 420 ₴.
+
+Passes can be used in trams and trolleybuses.
+
+Schedules are available on [https://lad.lviv.ua the map] and on [https://lviv.rozklad.in.ua rozklad.in.ua] (in Ukrainian).
+
+You can also check information about public transport on [https://city.dozor.tech/ua/lviv/city DozoR] (in Ukrainian), [https://www.eway.in.ua/en/cities/lviv EasyWay] and Google Maps.
+
+=== By taxi ===
+Taxi is the easiest way of getting around the city, and are very cheap by European standards. Most trips which are not of exceptional distance or at exceptionally busy times should cost under €5. Some popular taxi companies include:
+
+* [https://www.uber.com '''Uber'''] (Убер)
+* [https://bolt.eu '''Bolt'''] (Болт)
+* [https://uklon.com.ua/en/ '''Uklon'''] (Уклон)
+* [https://ontaxi.com.ua/en '''OnTaxi'''] (ОнТаксі)
+* [https://opti.global/en/ '''Opti'''] (Опті)
+* [https://shark-taxi.ua/en '''Shark'''] (Шарк)
+* '''[https://play.google.com/store/apps/details?id=com.mobox.taxi&hl=uk&pli=1 Taxi838]''' 
+Note: Many taxi apps do not operate during the 00:00-05:00 curfew. Uklon and Taxi838 are exceptions, and can be used to get to or from your hotel if your train departs or arrives during curfew.
+
+=== By scooter ===
+Renting a kick scooter is a fun way to get around the city quickly.
+
+* {{Listing|name=Bolt|alt=Болт|url=https://bolt.eu|lastedit=2023-09-19}}
+* {{Listing|name=E-wings|url=https://e-wings.com.ua|lastedit=2023-09-19}}
+* {{Listing|name=BikeNow|alt=БайкНау|url=https://bikenow.com.ua/en/home-2/|lastedit=2023-10-18}}
+
+=== By bike ===
+There are more than [https://map.city-adm.lviv.ua/map/velo 100 km of infrastructure] for bicycles in Lviv. While you can use your own bike, you can also rent one using one of the following companies:
+
+* {{Listing|name=nextbike|url=https://www.nextbike.ua/en/|lastedit=2023-09-20}}
+
+==See==
+[[File:Ukraine-Lviv-Latin Cathedral-8.jpg|thumb|300px|Latin Cathedral]]
+
+===Churches in the Old Town===
+*{{see | name=Jesuit Roman-Catholic Church | alt=Костьол єзуїтів | url=https://petrapavla.org.ua/ | email= | address=Teatral'na str, 11 | lat=49.8415 | long=24.0291 | directions= | phone= | tollfree= | hours= | price= | wikidata=Q2389158 | content=Go explore the underground space beneath the church (entrance from the back side of the church). Ask for a tour guide, you will learn a lot about the city history. Church itself was built based on Rome's Il Gesu church. It could accommodate up to 5,000 faithful. Built in baroque style in 1610–1630, finishing work continued into 1660. In 1775–1848, the church building took place in meetings of the birth of the Diet Galicia, the first provincial parliament.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Church of the Transfiguration of the Lord | alt=Tserkva Preobrazhennia Hospoda Nashoho Isusa Khrysta, Церковь Преображения Господа Нашего Иисуса Христа | url= | email=
+| address=Krakivs'ka str, 21 | lat=49.843611 | long=24.029444 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Church of Transfiguration, Lviv | image=Church of Transfiguration, Lviv.jpg | wikidata=Q1982263
+| content=On the site of the former church of the Holy Trinity which was part of The Trinitarian fathers monastery (1703). In 1783, the monastery was closed. Inside the church is a library and assembly hall. Burned out. The Church of Transfiguration was consecrated on 29 April 1906.
+}}
+*{{see
+| name=Armenian Cathedral | alt=Вірменський собор | url= | email=
+| address=Virmenska str, 7-13 | lat=49.843333 | long=24.030833 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Armenian Cathedral of Lviv | image=Lwów - Katedra Ormiańska 01.JPG | wikidata=Q684239
+| content=An architectural complex of the centre around which other buildings are grouped to form three small enclosed courtyards. Constructed between 1363 and 1370, later remodelled a few times. Very interesting interior.
+}}
+*{{see
+| name=Dominican Roman-Catholic Church | alt=Домініканський костьол (Церква Пресвятої Євхаристії) | url= | email=
+| address=Muzeina sq, 1 | lat=49.84275 | long=24.03412 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2994596
+| content=Built in the Gothic style in the years 1370–1375. Impressive Baroque temple rebuilt for Dominicans in 18th century. Resembles the church of St. Charles Borromeus in Vienna with its concave façade and huge elliptical dome. After World War II, the building served as a warehouse and later Museum of Religion and Atheism. Now it is a Greek Catholic parish church.
+}}
+*{{see
+| name=Assumption Church | alt=Успенскої церкви, or Dormition Church | url= | email=
+| address=Pidvalna str, 9 | lat=49.84206 | long=24.03436 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q575468
+| content=In the 1550s the Dormition brotherhood emerged in which the school operated and printing. The 65-m-high church has a two-headed Russian eagle image as the memory of the significant donation of funds to build a church, made by Tsar Feodor I of Russia in 1592. Here is also Chapel of the Three Holy Bishops (Каплиця Трьох святителів) a Renaissance architecture, built by architect Peter Krasovsky in 1578–1591, it is adjacent to one side of the northern wall of the Assumption Church. Also here is the Tower of Korniakt (Вежа Корнякта), built as the belfry of the Assumption Church, served as defence towers in the siege and fire guards patrol the item, built in 1572–1578.
+}}
+*{{see
+| name=Cathedral (Latin) | alt=Кафедральний (Латинський) собор | url= | email=
+| address=Katedralna sq., 1 | lat=49.840556 | long=24.030556 | directions=southwestern corner of Market Square, next to the Latin Cathedral
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Cathedral Basilica of the Assumption, Lviv | image=Латинський катедральний костел.jpg | wikidata=Q122324
+| content=Founded in the 1360s, built over a long time—up to 1481, in typical European Gothic style. In the walls, high windows, covered with stained glass. Parts: Kampianiv Chapel (Каплиця Кампіанів)—built near the northern wall of the Latin Cathedral in 1619—and the Boimiv Chapel (Каплиця Боїмів) which built as a tomb in 1610s for the merchant Boim family. A mannerist architecture marvel all made of black stone.
+}}
+*{{see
+| name=Bernardynskyi monastyr | alt=Бернардинський монастир | url= | email=
+| address=Square Soborna, (Соборна пл.,) 1-3 | lat=49.839444 | long=24.034722 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bernardine Church, Lviv | image=Lviv Klasztor Bernardinow SAM 2986 46-101-9013.JPG | wikidata=Q1966798
+| content=The monastery occupies a triangular plot, which was the basis for the shaft between the Galician city gates and Royal bastion, and the top—a strong bastion of what was called Bernardine. It was surrounded by strong stone walls with battlements and a tower with Hlynyanskymy gate. There were adjacent farm buildings—smithy, stable, and others. The monastery main part is the Bernardyns'kyi Roman-Catholic Church (Бернардинський костьол). First built in wood, in 1600, finishing work continued into 1630. In 1738–1740 rebuilt in hewn stone.
+}}
+* {{see
+| name=Remains of the former Golden Rose Synagogue | alt=Руїни синагоги Золота Роза | url= | email=
+| address=Staroievreiska str | lat=49.84129 | long=24.0347 | directions=Old Town
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q926505
+| lastedit=2019-09-09
+| content=This was the oldest synagogue in Ukraine. In 1941 the Nazi invaders destroyed this building together with other synagogues. Today you can visit the foundations and one remaining wall; also, there is a commemorative plaque.
+}}
+
+===Other churches and synagogues===
+* {{see | name=Saint George (Jura) Cathedral | alt=Собор св. Юра | url=http://sobor-svyura.lviv.ua/ | email= | address=Sviatoho Yura sq (Святого Юра пл.,), 5 | lat=49.838611 | long=24.013056 | directions=SW | phone= | tollfree= | hours= | price= | wikidata=Q1774485 | content=Built in 1363–1437 as a stone church in the Byzantine basilica style. The present Greek Catholic Cathedral was built in 1744–1770: it is a classic example of Baroque architecture of the period.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Tsori Gilod Synagogue | alt= | url= | email=
+| address=Brativ Mikhnovs'kykh St, 4 | lat=49.83804 | long=24.00435 | directions=west: Tram 6 to 'Kropyvnytskoho Square'
+| phone=+380 32 2 38-38-04 | tollfree=
+| hours= | price=
+| wikidata=Q814897
+| content=Built in 1925, used as a warehouse during the German occupation, returned to the Jewish community in 1989, then renovated.
+}}
+* {{see
+| name=Temple of Svaty Apostola Andriia | alt=Храм св. Апостола Андрія | url= | email=
+| address=Varshavska str., 38 | lat=49.85746 | long=24.01230 | directions=NW: Bus 12 or 28 to 'Strumok St'
+| phone=
+| hours= | price=
+| content=
+}}
+*{{see
+| name=St. Parasceva Pyatnitsy Church | alt=Церква св. Параскеви П'ятниці | url= | email=
+| address=Khmelnytskoho B. str, 63 | lat=49.8518 | long=24.0306 | directions=NW. Near to Beer Museum
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=St. Paraskeva Church, Lviv | image=Церква Параскеви.Львів.jpg | wikidata=Q575463
+| content=The church was built in 1645 with lower in stonework and upper in brick.
+}}
+*{{see
+| name=Armenian Roman-Catholic Church | alt=Церква Святого Хреста | url= | email=
+| address=Zamarstynivska str., 9 | lat=49.8494 | long=24.027 | directions=NW
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4235782
+| content=A half-round apse temple built in the 1630s. Gothic architecture.
+}}
+* {{see
+| name=Church and monastery of Saint Onufrii | alt=Церква та монастир свОнуфрія | url= | email=
+| address=Khmelnytskoho B.str, 36 | lat=49.84926 | long=24.02851 | directions=NW: Bus 700 richia Square 1A, 8, 22, 26, 35, 37, 39, 46, 50, 53 to 700 Richia Square
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1966813
+| content=Here was a wooden church, where monks settled in the early 15th century. Around 1550, Prince Constantine Ostrozhsky built a brick church. In the 18th century, there were two churches: a primary—the so-called "big church" and the Trinity Chapel on the south side—the "small church," built in 1680. In 1776 the "high (big) church" and the chapel were connected. In 1821—1824, the eastern area of ​​the altar was expanded, and the sacristy and porch were constructed. Finally in 1902, the north aisle was built, repeating the shape of the southern chapel. As a result the church now has three naves.
+}}
+* {{see
+| name=Church of St. Nicholas | alt=Церква Св. Миколая | url= | email=
+| address=Khmelnytskoho B. str.,(ulica Bogdana Chmielnickiego,) 28 | lat=49.84744 | long=24.02903 | directions=Tram 4, 5, 6 to 'Staryi Rynok Square'
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4505078
+| content=From the primary structures of the 8th century, only the lower part of the foundation and walls composed of blocks of white limestone have survived. In the 18th century, the church was covered with shingles. The condition of the church's interior is extremely poor.
+}}
+* {{see
+| name=Museum of ancient monuments of Lviv | alt=Музей найдавниших пам'яток Львова | url= | email= | address=Uzhhorodska str (Ужгородська ул),1 | lat=49.84684 | long=24.03060 | directions=NW
+| phone=+380 32 2 72-28-86
+| hours= | price=
+| content=In the '''Church of St. John the Baptist'''. The exhibits contains archaeological findings, antiquities, works of art, and historical information about the oldest period of the city.
+}}
+* {{see
+| name=Church of the Saint Family of Reformat Order | alt=Костьол Св. Родини ордену реформатів or Church of Saint Andrew the Apostle, Церква святого Андрія Первозваного | url=http://www.dlab.com.ua | email=
+| address=Shevchenka T. str, 66 | lat=49.846 | long=24.0074 | directions=NW - Tram 7 to 'Turyanskoho St'
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q11746316
+| content=Orthodox church, former Roman-Catholic Church.
+}}
+* {{see
+| name=Saint Anna Temple | alt=Храм св. Анни | url= | email=
+| address=Shevchenka T. str, 1 | lat=49.84254 | long=24.01706 | directions=NW
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4301555
+| content=First a wooden church was built in 1507. In 1599, it was restored. A stone church was then constructed here in the 1760s.
+}}
+* {{see
+| name=St. George's Church | alt=Церква святого великомученика Георгія | url= | email=
+| address=Korolenka V. str., 3 | lat=49.8419 | long=24.0407 | directions=on the hill
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1969395
+| content=Neo-Byzantine Cathedral of the Ukrainian Orthodox Church (Moscow Patriarchate).
+}}
+* {{see
+| name=Church of the Holy Spirit | alt=Церква Святого Духа | url= | email=
+| address=Kopernyka M. str.(Коперника М. ул.), 40 | lat=49.8360 | long=24.0221 | directions=Tram
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q12168571
+| content=During World War II, the church was destroyed. Preserved only bell-tower—stone, square in plan, three-storey, with baroque completion. In 1786 it set the clock. In 1957 the monument was restored. Now here is open Mermaids Dnistrova Museum.
+}}
+
+===Scenic viewpoints===
+
+* {{See
+|name=City center view from the rooftop of Vernisazh Lviv Mall |url=
+|lat=49.8420893 |long=24.0296856 |directions=Enter Vernisazh Lviv Mall, take an elevator to the top floor and walk upstairs to the roof
+|price=Free
+|lastedit=2025-03-12
+|content=One of the best spot for taking selfies in the city center of Lviv with the historic scenery in the background.}}
+
+===Monuments in the Old Town===
+* {{see
+| name=Griffon House | alt=гриффонів будинок | url= | email=
+| address=Krakivs'ka str., 34 | lat=49.84447 | long=24.02982 | directions=
+| phone= | hours= | price=
+| content=Original staircase, decorated with fine reliefs in the Empire style with motifs Griffon, vases and playful sense. Relief, that contain trade mark.
+}}
+* {{see | name=City Theatre (M. Zankovetska Ukrainian Drama Theatre) | alt=Міський театр (Український драматичний театр ім. М. Заньковецької) | url=http://www.zankovetska.com.ua/ | email=office@zankovetska.com.ua | address=Lesi Ukrainky str, 1 | lat=49.84403 | long=24.02745 | directions= | phone=+38 32 2 35-55-83 | tollfree= | hours= | price= | wikidata=Q1986941 | content=Built in the style of Viennese classicism. Length is about 96 m, width 76 m, area of ​​7,000 m². One of Europe's largest theatre buildings after Milan's La Scala and the court theatre in Dresden. Since 1944 home of the Zankovetska theatre troupe.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Lviv Opera and Ballet National Academic Theatre | alt=Театр опери і балету ім. І. Франка (С. Крушельницької),''Lvivskyi Derzhavnyi akademichnyi teatr Opery ta baletu imeni Solomyiyi Krushelnytskoii'' | url=http://www.opera.lviv.ua/en | email=
+| address=28 Svobody ave | lat=49.844167 | long=24.026389 | directions=Centre western limit
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1246092
+| content=Founded in June 1897. Lavishly decorated outside and inside.
+}}
+* {{see
+| name=Korniakt Tower | alt=Вежа Корнякта | url= | email=
+| address=Pidval'na str | lat=49.84226 | long=24.03459 | directions=Old Town
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4080258
+| content=This is 65 m high built in the Renaissance period as a bell tower and opened in 1578.
+}}
+* {{see
+| name=Narodnyi Dim (Nation Home) | alt=Народний Дім | url= | email=
+| address=Teatralna str., 22 | lat=49.84291 | long=24.02883 | directions=
+| phone= | hours= | price=
+| wikidata=Q4400806
+| content=One of the oldest and richest cultural and educational institutions in Galicia, in 1849—1939. At the People's House, there were a library and museum. It was some time Russian Casino, Academic Club, a place for the "Russian society ladies". In 1862 the first Ukrainian academic high school moved here. Here opened the Seminary. In addition to schools, it houses the Archaeological, Art and Natural History Museum.
+}}
+* {{see
+| name=Poleyovskiy house | alt=будинок Полейовський | url= | email=
+| address=Krakivska str., (Краківська вул.) 24 | lat=49.84368 | long=24.03007 | directions=
+| phone= | hours= | price=
+| content=Corner house longer side face (north) out on the street Ukrainian Lesya. Building dates from 1780s. (Architect P. Poleyovskiy), restructured in 1783 and 1894. Architecture stone shows stylistic features Baroque and Historicism. This mansion is a three-storey, brick building. At the level of the ground floor façades laid ashlar. Centre accented balcony on stone consoles, 18th century. Today the building is used as a dwelling house. Also there are more monument buildings on Krakivska str at numbers 4, 13, 15, 17 and 22.
+}}
+* {{see
+| name=Patio's house | alt=будинок із дворик | url= | email=
+| address=Lesi Ukrainky str. (Лесі Українки вул.) 10 | lat=49.84369 | long=24.03063 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Three-storey, brick, rectangular in plan building with patio. Rebuilt in the 19th century. Smooth plastered facade diversify flat pilasters. Also monument houses on Lesi Ukrainky street: No. 12, 14, 16 and 26.
+}}
+* {{see
+| name=Royal Arsenal | alt=Королівський арсенал | url= | email=
+| address=Pidvalna str., 13 | lat=49.84286 | long=24.03461 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4233747
+| content=Built by order of Polish King Wladyslaw IV. Because it was the Main Royal Arsenal, built between the city walls. Completed in 1646. The façade of the building was decorated bronze sculptures, cast in 1639, now is in History Museum. The building is made of stone, rectangular plan, with two L-shaped wings connected by a wall, these walls to protect the east side of the patio. The façade decorated with balcony and pediment in baroque style. On the side façade of the east wing preserved carved stone portal in the Renaissance style.
+}}
+* {{see
+| name=Fedorova house | alt=будинок Федорова | url= | email=
+| address=Fedorova I. str. (Федорова І. вул.) 1 | lat=49.84318 | long=24.03331 | directions=
+| phone= | hours= | price=
+| content=This four-storey building has an invalid quadrilateral plan with patio. Three open fronts—in Armenian Street, Fedorova Street and Stavropihyyskoy square, plastered, painted lower floors. Built in the 17th century. This house has kept features of different eras and style.
+}}
+* {{see
+| name=Seasons house | alt=Кам'яниця Пори року | url= | email=
+| address=Virmenska str., (Вірменська вул.) 23 | lat=49.84388 | long=24.03120 | directions=
+| phone= | hours= | price=
+| content=A plastered, elongated, four-storey house made of brick. The last renovation was in the 19th century, it holds its shape today. Façade design style of late classicism: the second and third floors are connected by Ionic pilasters, between them at the second floor is a depiction of Chronos and at the sides—four reliefs with scenes from people's everyday lives, symbolizing seasons. Above, in front stretched the entire length of frieze depicting the zodiac signs. Painted in 1860s. Also there monument houses on Virmenska street: No.&nbsp;17, 27 and 33.
+}}
+* {{see
+| name=Domazhyrs'ka house | alt=Кам'яниця Домажирська | url= | email=
+| address=Virmens'ka str., 15 | lat=49.84329 | long=24.03151 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q84834556
+| content=The house top floor made in the 18th century. A brick, plastered, three storey invalid rectangle form building with a narrow courtyard. The main architectural accent of the main facade is a big portal, keystone is the stone along with two symmetrically positioned consoles supporting a balcony with openwork metal grille.
+}}
+* {{see
+| name=Ratusha (Town Hall) | alt=Ратуша | url= | email=
+| address=Market Square, Ploshcha Rynok, Площа Ринок | lat=49.841835 | long=24.031326 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4271056
+| content=You can climb the tower of the town hall: go in via the main entrance, wander about until you see a sign 'вхид на вежу', then follow those signs up 103 steps to a ticket-office and up 305 more steps to the top of the tower. There's a great view of the Old Town, and this is clearly one of the romantic spots of the city. The City Hall is made of brick, four-square plan, with patio, in 1830—1835, in the Viennese classicism style. Added the town hall a clock tower. Around the building on the square are three fountains in 1900s: first the Fountain Adonis (to Northeast) has a cup, which stands on the pavement, in the centre of a star, outlined in red and black stone. In the centre of the bowl—a statue of the hero character of ancient mythology Adonis with a dog and boar killed him; Fountain Neptune (to Southwest) In the centre of the bowl—a statue of ancient mythology character Neptune—the Roman god of freshwater and the sea—which is situated at the feet of dolphin; and also on the square is the Fountain Amphitrite (to Northwest) with a statue of ancient mythology character Amfitryta, consort of Neptune with a dolphin.
+}}
+
+===Landmarks===
+[[File:Будинок вчених.JPG|thumb|House of scientists]]
+* {{see
+| name=Public casino (Casino of Herkhard) or House of scientists | alt=Народне казино (Казино Герхарда) - Будинок вчених | url=http://budynokvchenyh.lviv.ua | email=
+| address=Lystopadovoho Chynu str., 6 | lat=49.841134 | long=24.021313 | directions=west: next to Ivan Franko National University of Lviv
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4165616
+| content=Monument of architecture.
+| lastedit=2025-03-12}}
+* {{see
+| name=Lychakivsky Tsvyntar | alt=Lychakiv Cemetery, ''Ukrainian: Личаківський цвинтар, translit. Lychakivs’kyi tsvyntar; Polish: Cmentarz Łyczakowski we Lwowie'' | url=http://www.lviv-lychakiv.com.ua/en/visitors | email=
+| address=Vul. Mechnikhova (вул. І. Мечнікова), 33 | lat=49.8325 | long=24.056111 | directions=east {{convert|5|km}}: Tram 7 to 'Pekarska St'
+| phone= | tollfree=
+| hours= | price=30&nbsp;грн
+| wikipedia=Lychakiv Cemetery | image=Luetzenhofer Friedhof 006.JPG | wikidata=Q1316721
+| lastedit=2015-06-25
+| content=There are about 400,000 people buried here, including Ukrainian heroes such as Ivan Franko. Cemetery is an enormous {{convert|42|ha}}, and very pleasant to wander around on a network of variously-maintained paths. At the back there are series of war memorials. The cemetery is considered a museum - hence the entry fee. There's also supposedly a further fee charged for permission to take pictures (it might be for professional shoots, there's no way they can enforce such fee for simple tourist).
+}}
+* {{see
+| name=High Castle | alt=Union of Lublin mound,Vysokyi zamok | url= | email=
+| address=Vysokyi Zamok street | lat=49.84855 | long=24.03723 | directions=East
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2623848
+| content=The place where a historic castle used to stand and now stands a mound built in 1869 to commemorate 300th anniversary of Lublin Union. On the mound there is an observation platform with nice views of the city and another sandy mound, which you can also climb, and which has a cross devoted to the dead of the war in Afghanistan. From the mound you can walk around the whole central hill-park of the town. very recommendable. easy to find and free of charge.
+}}
+* {{see
+| name=Shevchenko Monument | alt= | url= | email=
+| address=Svobody Ave, | lat=49.84102 | long=24.02822
+| directions=Tram 1, 2, 10, Bus 48,114,138 all to 'Petra Doroshenka St' | phone= | hours= | price=
+| content=Donated by members of the Argentine Ukrainian diaspora, and absolutely unmistakable in the centre of town; a sculpture of the writer, and a wave-shaped monument with Ukrainian folk-art motifs rising to his side. Sometimes seems to be used by locals as a climbing-wall.
+}}
+* {{see
+| name=Lviv Municipal Theatre | alt=Львівський академічний драматичний театр імені Лесі Українки | url=http://teatrlesi.lviv.ua | email=teatrlesi@teatrlesi.lviv.ua
+| address=36 Horodotska Street | lat=49.84102 | long=24.02822 | directions=Tram 6, 7, Bus 6A, 7, 9, 17, 20, 25, 28, 29, 30, 31, 34, 36, 41, 49, 51 to 'Teatr im. Lesi Ukrainki'
+| phone=+380 32 2 33-31-88, +380 32 2 33-31-85, +380 32 2 33-31-79 | tollfree=
+| hours= | price=
+| wikidata=Q4271077
+| content=
+}}
+* {{see
+| name=Lviv National Polytechnic University | alt=Lviv University (named after Ivan Franko)? Ukrainian: Львівський університет | url=http://www.lnu.edu.ua | email=
+| address=Vul. (вул. Степана Бандери), 12 | lat=49.8354 | long=24.0145 | directions=Tram 9, 10 or Bus 41, 42, 43 to stop 'Lvivska politekhnika'
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1817355
+| content=
+}}
+* {{see
+| name=Lviv Rail Terminal | alt= | url= | email=
+| address=See above | lat=49.83953 | long=23.99423 | directions=
+| phone= | hours= | price=
+| content=Built in 1904 Art Nouveau style.
+}}
+* {{see
+| name=Former "European" Hotel | alt= Колишній Готель Європейський | url= | email=
+| address=Ploshchad' Mitskevicha, 4 | lat=49.83897 | long=24.03001 | directions=Tram to 'Petra Doroshenka St'
+| phone=
+| hours= | price=
+| content=Rebuilt in 1930. From 1950 to 1980, it was the Hotel Ukraine. After 2006, this building is a branch of the Ukreximbank.}}
+
+===Museums in the "Old Town"===
+* {{see
+| name=Arsenal Museum | alt=Державний історичний музей старовинної зброї Арсенал | url= | email=
+| address=Pidvalna str. (вул. Підвальна), 5 | lat=49.8413 | long=24.0355 | directions=
+| phone=+380 235-7060, +380 235-8061, +380 32 2 35-86-61, +380 97 866 1878 | tollfree=
+| hours=Summer 10:00—17:30; winter: 10:00—16:30 | price=
+| wikipedia=Lviv Arsenal | image=Арсенал львов.jpg | wikidata=Q1967013
+| content=It was a city fortification, built in 1554—1556, in Renaissance military architecture style. Weapons and armour from medieval times to the beginning of 20th century, from over 30 countries. The museum is located in the oldest (16th century) of three historic arsenal buildings in Lviv. Temporarily closed as of July 2022.
+}}
+* {{see
+| name=The Lviv National Museum | alt=Національний музей у Львові ім. А.Шептицького | url=http://nm.lviv.ua/ | email=
+| address=Svobody ave, (пр. Свободи,) 20 | lat=49.843056 | long=24.028056 | directions=
+| phone=+380 32 2 35-88-56 | tollfree= | fax=
+| hours=Tue—Sun 10:00—18:00 | price=9&nbsp;грн, children 3&nbsp;грн; temporary exhibitions: 3/1; permanent exhibitions: 5/1. Excursions: 15/10. Tours in (English, Polish, Russian): 50&nbsp;грн
+| wikipedia=Lviv National Museum | image=Zabytki Lwowa 106.jpg | wikidata=Q2037262
+|lastedit=2023-09-04| content=The main building displays Ukrainian Art from the Middle Ages up to the 19th century. The Lviv Art Gallery mainly shows foreign art in its art collections so if you are more interested in Ukrainian art you should definitely visit this museum. About the buildings: former Art and Industry Museum, built in 1904, in Neo-Renaissance style. From 1950 to 1990 it housed a branch of the Central Lenin Museum.
+}}
+* {{see
+| name=Museum of Natural history | alt= | url=http://www.smnh.org/ua/ | email=office@museum.lviv.net
+| address=Vul. Teatral'na. (вул. Театральна,), 18 | lat=49.84255 | long=24.02933 | directions=
+| phone=+380 32 2 35-69-17 | tollfree=
+| hours=Tue-Thu Sat Sun 10:00-17:00 | price=
+| wikidata=Q4155883
+| content=Collection include more than 500,000 items. The museum building is in the palace 'Dzieduszyckis - Magistrates', 18th century building, in the 19th century rebuilt in the classical style. One of the items that are most proud of the museum is Europe's first full carcass hairy rhinoceros and mammoth unearthed from Starunia village, (Ivano-Frankivska oblast) an earlier mud volcano site.
+}}
+* {{see
+| name=The Gallery of Ukrainian Military Uniforms | alt=Галерея українського військового однострою | url=http://lviv.travel/en/lvivgalleries/galleries/~244/galereya-istorichnogo-ukrajinskogo-vijskovogo-odnostroyu | email=
+| address=Rynok sq., 40 | lat=49.84253 | long=24.03138 | directions=
+| phone=+380 32 2 97-51-93 | tollfree=
+| hours=Tue—Sun 11:00—18:00 | price=
+| wikidata=Q12094037
+| content=The exhibition represented uniform and Ukrainian troops from the early 20th century.
+}}
+* {{see
+| name="Under the Black Eagle" Pharmacy Museum | alt=Аптека-музей "Під чорним орлом" | url=http://lvivpharmacy.org.ua/ | email=lvivpharmacy@yandex.ru
+| address=Drukars'ka str., 2 (st. Stavropihiis'ka, 1) | lat=49.84274 | long=24.03236 | directions=at the Market Square in the corner house, where Drukarskaya and Stavropigiyskaya streets begin.
+| phone=+380 32 2 72-00-41 | tollfree= | fax=
+| hours=Mon—Fri 09:00—19:00, Sat Sun 10:00—18:00 | price=8&nbsp;грн
+| wikipedia=Pharmacy Museum | wikidata=Q1989108
+| lastedit=2023-09-04
+| content=The oldest pharmacy in Lviv, opened in 1735. More than three thousand items. 16 exhibition halls with a total area of 700 m².
+}}
+* {{see
+| name=Museum of the History of Religion | alt=Львівський музей історії релігії | url=http://www.museum.lviv.ua/ | email=religio@ukrpost.ua
+| address=Museina Sq,(пл. Музейна,) 1 | lat=49.84302 | long=24.03381 | directions=
+| phone=+380 32 2 72-91-00 | tollfree=
+| hours=Tue—Sun 10:00—18:00 | price=Adults/discount 10/5&nbsp;грн; Guided tour: 10/5&nbsp;грн
+| wikidata=Q4306348
+| lastedit=2023-09-04
+| content=An interesting museum documenting Jewish and Christian history of Lviv in one of Lviv's biggest and most beautiful Baroque churches of 14th—18th century. The museum has a specialized library of religious profile, which is unique in the state. Among the 150 000 copies - labours of theologians of Kyiv, Lviv, St. Petersburg and Moscow Theological Academies and their periodicals. And religious literature of Catholic institutions from Italy, Germany, Austria, France and Poland. A collection of religious books of the Crimean Khanate time, works of publishing house of Ukrainian Catholic University in Rome. A unique collection of Bibles in different languages: Greek, Latin, German, French, Chinese, English, etc. Among them—the Ostrog Bible of Ivan Fedorov, the Paris edition of 1563, and a Venetian edition of 16th century.
+}}
+* {{see | name=Dzyha GalleryA | alt=Галерея сучасного мистецтва "Дзига" | url=http://dzyga.com/artgallery/index.php?lang=en | email=dzygainfo@gmail.com | address=St. Virmenska, 35 | lat=49.84337 | long=24.03346 | directions= | phone=+380 32 2 97-56-12, +38 32 2 76-74-20 | tollfree= | fax= | hours= | price= | content=A showroom of a cultural and artistic association of the city. That supports, produces and promotes multi-genre contemporary arts: art, music, literature, theater, cinema, multimedia and more.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museum of Post | alt=Музей пошти, Палац Бандінеллі | url= | email=
+| address=2 Rynok Sq | lat=49.84248 | long=24.03253 | directions=
+| phone=+380 32 2 72-06-71 | tollfree=
+| hours=Thu—Tue 10:00—17:30 | price=Adults/discount 10/5&nbsp;грн, Excursions: 40/20&nbsp;грн
+| wikidata=Q4306434
+| lastedit=2023-09-04
+| content=In the beautiful Palace of Bandinelli, built in the late renaissance, in the late 16th century. At the beginning of the 17th century, the building became the property of the Florentine merchant R. Bandinelli who known that he perfected the Lvov-mail. Since 1629, it housed the first post office in Ukraine. In the 19th century there was a bookstore, and a club for intellectuals. Check whether the museum is open.
+}}
+* {{see | name=Hotyk-Khol (Gothic Hall) Art Gallery | alt=Арт-галерея Готик-Хол | url=http://www.gothic-hall.com/ | email=info@gothic-hall.com | address=Rynok sq., 6 | lat=49.84222 | long=24.03274 | directions= | phone=+380 32 2 35-69-90 | tollfree= | fax= | hours= | price=Adults/discount 5/2&nbsp;грн | lastedit=2023-09-04 | content=An 'antique shop-salon' in Kornyak Palace, has more than 300 years of history and is one of the masterpieces of Lviv and, simultaneously, the European architecture of the Middle Ages. Its first description refers to the 17th century. The building was designed by architect Peter Barbone. Paintings and drawings, icons, furniture, interior decor items, tableware, household items, sculptures, jewelry, vintage, watches and coins.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museum of furniture and porcelain | alt=Музей меблів та порцеляни | url= | email=
+| address=Rynok sq.,(пл. Ринок,) 10 | lat=49.84177 | long=24.03301 | directions=
+| phone=+380 32 2 74-33-88 | tollfree=
+| hours=Tue—Sun: 11AM—5:30PM | price=
+| wikidata=Q16707668
+| content=There a remarkable collection of almost 700 examples of Ukrainian and European furniture, and textiles as well as 17th– to 19th-century metalwork. The museum also owns a collection of porcelain, art glass and pottery from the 16th to 20th centuries that includes over 11,000 artifacts.
+}}
+* {{see
+| name=Herdan gallery | alt=Галерея Гердан | url= | email=
+| address=Rus'ka str., 4 | lat=49.84150 | long=24.03317 | directions=
+| phone=+380 32 2 72-50-46, +380 32 2 97-10-01 | fax=
+| hours=Mon–Fri 14.00–17.00 | price=
+| content=Exhibition and sale of contemporary art: painting, graphics, ceramics.
+}}
+* {{see
+| name=Lviv Historical Museum, Department of “Ancient History of Ukraine and Archaeology Department | alt=Львівський історичний музей | url= | email=
+| address=Rynok sq., 24 | lat=49.84124 | long=24.03068 | directions=
+| phone=+380 32 2 35-68-74 | tollfree=
+| hours=Thu–Tue 10.00–17.30 | price=Adult/children 10/5&nbsp;грн, tours 40/20&nbsp;грн
+| lastedit=2023-09-04
+| content=About the building: the Massarivs'ka Palace (Кам'яниця Массарівська) rebuilt in Renaissance style after a fire in 1527. The last realignment was in 1920. Attica parapet was replaced with a bas-relief work Kurchynskoho, this time to include balcony and sculpture over the portal. Brick, plastered, elongated in the bottom plot, four-storey building. There are remains of Gothic windows of the ground floor. Divided into many departments most of which are in the old town displaying archeology, history from medieval times up to the Ukrainian struggle for nationalism, as well as jewellery and armoury.
+}}
+
+=== More museums ===
+* {{see
+| name=The Lviv Art Gallery | alt=Tovarystvo Prykhylnykiv Fortets I Palatsiv | url=http://lvivgallery.org.ua/ | email=
+| address=Stefanyka st (ул. Стефаника), 3 | lat=49.837017 | long=24.025308 | directions=Tram 1, 2, 10 Bus 21, 48 to stop 'Holovna Poshta'
+| phone=+380 32 2 74-40-47 | tollfree=
+| hours= | price=
+| wikidata=Q2391444
+| content=Divided into several departments the central of which is on display at Potoskiy Palace showing mainly Renaissance and Baroque European art (for Ukrainian art see National Museum). Nearby is the '''Palace of Arts''' where changing contemporary art exhibitions take place. Other interesting branches of the Lviv Gallery are the '''Museum of Ancient Books''', '''Museum of Relics''' and '''Pinsel Museum''' (dedicated to the local Baroque wood carver).
+}}
+* {{see
+| name=Museum of Ethnography and Arts and Crafts | alt=Музей етнографії та художнього промислу Інституту народознавства Н.А.Н. України | url=http://ethnology.lviv.ua | email=
+| address=15 Svobody Avenue | lat=49.84105 | long=24.02714 | directions=West - Tram 1, 2, 10 to 'Petra Doroshenka St'
+| phone=+380 32 2 72-78-08 | tollfree=
+| hours= | price=5&nbsp;грн normal, 2&nbsp;грн discount
+| wikidata=Q4306518
+| lastedit=2023-09-04
+| content=The museum has a unique and extensive collections of monuments of culture and traditional Ukrainian folk art, and examples of decorative art.
+}}
+* {{see
+| name=Museum of National Folk Architecture and Rural Life «Shevchenkivsky Hay» | alt=Музей НАРОДНОЇ АРХІТЕКТУРИ І ПОБУТУ | url=http://lvivskansen.org/ | email=
+| address=1 Chernecha Gora str.(вулиця Чернеча Гора) | lat=49.8446 | long=24.0673 | directions=east: Tram 2, 10 to 'Pasichna St'
+| phone=+380 32 2 47-18-82 | tollfree=
+| hours=10:00–18:00 | price=15&nbsp;грн
+| wikidata=Q4522268
+| lastedit=2023-09-04
+| content=On the central hill about a half-hour walk from the Lychakivskiy Cemetery. This is a collection of wooden buildings from all over Western Ukraine, dismantled and reassembled here; the multi-tiered churches are the most spectacular buildings, and are all still working churches. Tickets: 10&nbsp;грн normal, 5&nbsp;грн discount.
+}}
+* {{see
+| name=Beer Brewing Museum | alt=Музей пива во Львове | url=http://lvivarnya.com.ua/ | email=
+| address=Kleparivska str, 18 | lat=49.84775 | long=24.01565 | directions=NW {{convert|2|km}}: Tram to 'Pid Dubom St' {{convert|400|m}}
+| phone= | tollfree=
+| hours= | price=15&nbsp;грн normal, 10&nbsp;грн discount
+| wikidata=Q4306415
+| lastedit=2023-09-04
+| content=The museum has a tasting room, where you can try all sorts of beautiful beer in a cosy atmosphere.
+}}
+* {{see
+| name=The History of Printing Museum | alt=Музей книги та друкарства України | url= | email=
+| address=Ivana Fedorova, 11 | lat=49.842024 | long=24.033766 | directions=
+| phone=+380 32 2 61-30-12 | tollfree=
+| hours= | price=
+| content=
+}}
+* {{see
+| name=Museum of Metrology | alt=Музей метрології та вимірювальної техніки | url= | email=
+| address=Kniazia Romana str., 38 | lat=49.83626 | long=24.03407 | directions=south
+| phone=+380 32 2 61-60-30 |tollfree= | fax=
+| hours= | price=
+| lastedit=2020-01-01
+| content=The museum collection has more than 500 exhibits.
+}}
+* {{see
+| name=Panchyshyn Museum of the History of Medicine | alt=Музей історії медицини Галичини ім. Мар'яна Панчишина | url= | email=
+| address=Karmeliuka U. str., 3 | lat=49.83961 | long=24.04862 | directions=east
+| phone=+380 32 2 76-97-98 | tollfree= | fax=+380 32 2 76-78-35
+| hours= | price=
+| wikidata=Q20082492
+| content=
+}}
+* {{see
+| name=Center for Urban History of East Central Europe | alt=Центр міської історії Центрально-східної Європи | url=http://www.lvivcenter.org/ | email=
+| address=Bohomol'tsia O. akad. str., 6 | lat=49.83723 | long=24.03599 | directions=south
+| phone=+380 32 2 75-17-34
+| hours= | price=
+| content=The center produces various exhibitions, seminars and conferences. There are films, sound recordings from private collections and official collections which represent life of large and small towns of Central and Eastern Europe.
+}}
+* {{see
+| name=Pinsel Museum of Sacred Baroque Sculpture | alt=Музей сакральної барокової скульптури Пінзеля | url= | email=
+| address=Mytna sq ( Мытна пл.), 2 | lat=49.83649 | long=24.02574 | directions=
+| phone=+380 32 2 75-69-66 | tollfree=
+| hours= | price=
+| wikidata=Q4235779
+| content=Former Roman-Catholic Church of Klarysok (Saint Clare; 1607). The collection include 32 exhibits, which are representing the work of the famous Lviv sculptor John George Pinsel, from the 1790s.
+}}
+* {{see
+| name=Museum of the Prison on Lontskogo | alt=Музей-меморіал жертв окупаційних режимів "Тюрма на Лонцького" | url=http://www.lonckoho.lviv.ua/ | email=
+| address=Bandery S. str., 1 | lat=49.83452 | long=24.01881 | directions=West - Tram 2 to 'Stepana Bandery St'
+| phone=+380 32 2 47-42-20 | tollfree=
+| hours= | price=
+| wikidata=Q4467697
+| content=
+}}
+*{{see
+| name=Museum of ancient Ukrainian book | alt=Музей мистецтва давньої української книги | url= | email=
+| address=Ulica Kopernika, 15 | lat=49.83807 | long=24.02759 | directions=SW: Tram 1, 2, 10 to 'Petra Doroshenka St'
+| phone=+380 32 2 72-25-36 | tollfree=
+| hours= | price=
+| wikidata=Q4306287
+| content=Museum and research centre. Collections of the museum include 12,000 exhibits, including manuscripts and Early Printed Books. Book plates and book illustrations, pedagogical literature. The exposition consists of four rooms.
+}}
+* {{see
+| name=Historical complex of Sheptytsky National Museum | alt= | url=https://nml.com.ua/en/museum/istorichniy-kompleks-natsionalnogo-muzeyu-u-lvovi-im-andreya-sheptitskogo/ | email=
+| address=Drahomanova M. str., 42 | lat=49.8332 | long=24.0283 | directions=South - Tram 3, 5, 9 to 'Ivana Franka Square'
+| phone=+380 32 2 61-35-94 | fax=
+| hours= | price=
+| content=There is a fine arts collections, which includes almost 117 000 items (icons from the 14th to 18th centuries).
+}}
+*{{see
+|name=Palace of Art |alt=Львівський Палац мистецтв |url=http://www.lvivpalace.art/ |email=palace@i.ua
+|address=Kopernyka M. str., 17 |lat=49.83755 |long=24.02595 |directions=In the centre
+|phone=+380 32 2 72-75-73 |fax=+380 32 2 61-47-33
+|hours= |price=
+|wikidata=Q4271076
+|content=Exhibition centre.}}
+
+=== Further afield ===
+[[File:Krystynopol.jpg|thumb|Chervonograd]]
+* {{see
+| name=Belz | alt=Ukrainian: Белз, Polish: Bełz, Yiddish/Hebrew: בעלז| url= | email=
+| address= | lat=50.36667 | long=24.0 | directions={{convert|3|km}} from the Ukrainian-Polish border, {{convert|12|km}} from Chervonograd and {{convert|25|km}} from the district centre - Sokal
+| image=
+| content=day trip. Sights: Arian Tower (1606) only survived part of a medieval fort; the Dominican Sisters Monastery, (1647, rebuilt 1743, 1861); St. Paraskeva Church, with a bell tower, built in 18th century; Ancient Settlement Archeological Site of Belz (old city, probably founded in 1088); Nicholas Cathedral (1926), Church of St. Valentine, (built in 1907–11, neo-gothic style); Jewish cemetery; Bandery villa.
+}}
+* {{see
+| name=Chervonograd |alt=Червоноград |url= |email=
+| address=Lviv Oblast |lat=50.39 |long=24.23 |directions={{convert|73|km}} North from Lviv
+| image=Krystynopol.jpg
+| content=Good day trip. Sights: a branch of the Lviv Museum of the History of Religion (Potocki Palace), the St. Dukha Church (the St. Vladimir church), the St. Yury Basilian monastery (1771–76); Bernardines monastery (1692–1767) 21 B.Khmel'nyts'kogo st.; Potocki's palace (1736–57), 10 Shashkevycha st. built in baroque and classicism style
+}}
+* {{see
+|name=Brody |alt=Ukrainian: Броди, Polish: Brody, Yiddish: בראָד |url=
+|address=Brody Raion, Lviv Oblast |lat=50.083 |long=25.145 |directions=North-East about {{convert|90|km}} from Lviv - Take a train to here
+|image=Brody 203.jpg
+|content=Good day trip. St. Yuriya Church (Церковь св. Юрия), built at the beginning of the 17th century, restored in 1867; [http://ukrainetrek.com/brody-city Palace of Pototskyi] Count (1630–1635), History Museum, Ruined Big Synagogue (1742), Palace of Tyshkevich is built in 1909, in English style. }}
+[[File:Drohobych town hall.jpg|thumb|Drohobych]]
+* {{see
+|name=Drohobych |alt=Ukrainian: Дрогóбич; Polish: Drohobycz |url=
+|address=Lviv Oblast |lat=49.351 |long=23.506 |directions=
+|image=Drohobych town hall.jpg
+|content=Good day trip. St. Apostles Peter and Paul Monastery), Vultsa Stryiska, 1; St. Bartholomew Catholic Church with the former defence tower now the bell tower of the St. Bartholomew church; Palace of Arts Local Museum, Bruno Shults (Polish Writer) Museum, Vultsa I. Franka, 24; Picture gallery, Sichovykh Striltsiv, 16; Church of Holy Exaltation Cross (Церква Воздвиження Чесного Хреста), 1661, Vulitsa Zvarits'ka, 9
+}}
+* {{see | name=Horodok | alt=Gorodok, Ukrainian: Городок, Polish: Gródek Jagielloński, | url=http://gorodok.lviv.ua/ | email= | address=Horodok Raion, Lviv Oblast | lat=49.782222 | long=23.643611 | directions=west {{convert|25|km}} | phone= | tollfree= | hours= | price= | wikidata=Q930449 | content=A good day trip. Visit: John the Baptist Church (1755)
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Krekhiv monastery | alt=Ukrainian: Крехів, Polish: Krechów | url=https://www.krekhivmonastery.org/ | email=
+| address=Kozulka settlement, Lviv Oblast | lat=50.033837 | long=23.797846 | directions={{convert|25|km}} NW: at northern rim of the Yavorivskyi National Park
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1193751
+| content=day trip.
+}}
+[[File:Olesko - Zamek 02.jpg|thumb|Castle Olesko]]
+* {{see
+| name=Olesko | alt=Ukrainian: Олесько; Polish: Olesko; Yiddish: אלעסק Alesk | url=
+| address=Lviv Oblast | lat=49.963 | long=24.893 | directions=E ~{{convert|60|km}} - take bus toward Brody or Dubno
+| image=Olesko - Zamek 02.jpg
+| content=Good day trip. See here: St. Joseph Church and monastic cells of the monastery of capuchins (1838); the Castle, Vulitsa Zamkova, 34 (14-17th centuries); take a walk in the Castle Park (13 ha); right the next is the Capuchin Monastery (1700s); visit the Holy Trinity Catholic Church, Vulitsa T. Shevchenka, 59
+}}
+* {{see
+| name=Pidhirtsi | alt=Ukrainian: Підгірці; Polish: Podhorce | url=
+| address=Lviv Oblast | lat=49.9406 | long=24.9851 | directions={{convert|80|km}} east of Lviv, ~2 hours by bus
+| image=Podhorce - Zamek 01A.jpg
+| content=A good day trip to see the Konietspolskikh Castle (замок Конецпольських), 1635–1640; Pidhoretskyi Landscape Park (17 ha); St. Joseph Catholic Church (Костел св. Иосифа), 1765; Plisnesk Archeological Site, 7th–13th centuries; Cells of monastery (Келії Підгорецького монастиря) 18th century, Church of the Nativity of the Theotokos? (Церковь Рождества Богородицы), part of the former Vasylyi Monastery (1180)
+}}
+* {{see | name=Rava-Rus'ka | alt=Ukrainian: Рава-Руська, translit. Rava-Rus'ka; Russian: Рава-Русская, translit. Rava-Russkaya; Polish: Rawa Ruska; Yiddish: ראווע, Rave | url=http://rava.org.ua/ | address=Lviv Oblast | lat=50.232 | long=23.621 | directions=~{{convert|50|km}} NW | image= | lastedit=2021-05-24 | content=St. Michael Church and monastic cells of the Franciscan Abbey (Костел Св. Михайла та монастирські келії монастиря ордену Реформаторів), the first wooden chapel, built here in 1725. St. Joseph Catholic Church from 1843 with the miraculous icon of Mother of God (1670s). French Second World War soldiers' cemetery.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+[[File:SamborUniwersytet.JPG|thumb|Sambir, University]]
+* {{see
+| name=Sambir | alt=Ukrainian: Самбір, Polish: Sambor | url=
+| address=Sambir Raion, Lviv Oblast | lat=49.515 | long=23.203| directions={{convert|75|km}} SW from Lviv - train connection
+| image=SamborUniwersytet.JPG
+| content=Good day trip. - Sights: Town hall (Самбірська ратуша), Square Rynok, 1; St. Ivan Church, Street Pushkina, 7; Bernardine monastery (Монастир бернардинців), Street A. Mitskevycha, 5-A; Nativity Church (Церква Різдва Пресвятої Богородиці), built in 1738;
+}}
+* {{see
+| name=Slavske | alt=Ukrainian: Славське, Polish: Sławsko | url=
+| address=Skolivskyi Raion | lat=48.84861 | long=23.44722 | directions={{convert|120|km}} S/SW of Lviv, take a train to here
+| image=Смт. Славське. Церква Успення Пресвятої Богородиці (1901)..JPG
+| lastedit=2023-09-13
+| content=Good day trip. Take a chair lift on Trostyan mountain for a good walk; Visit the Cave of Painted Draw-well. Cheap accommodations: [http://www.alpenhof.com.ua Al'piis'kyi dvir Guesthouse] (Пансионат "Альпийский двор") Tel +380 67 672 7230; Rozhanka Resting house (База відпочинку "Рожанка") north-east {{convert|2|km}}. Tel. +380 32 2 98-53-31; - Lys Mykyta Cottages Resting house (Котеджі "Лис Микита"), Franka str., 59А Tel. +380 50 334 8295; - U Lili ta Yaroslava B&B (Приватна садиба "У Лілі та Ярослава") Tel. +380 67 977 3598; Cottage Zyhva (Котедж "Зигва"), +380 32 514-25-78; U Tetiany Hotel (Мини-отель "У Татьяны") Tel.+380 32 514-23-32. - Sights: Carpathian Museum of the liberation struggle (Карпатський музей визвольної боротьби), Sichovykh Striltsiv Street, 2. Tel.+380 97 333 4630; Assumption of the Virgin Mary church Church (Церква Успіння Пресвятої Богородиці), T. Shevchenka street., built in 1901.
+}}
+[[File:Stare Selo castle inner yard 01.jpg|thumb|Castle Stare Selo, Inner Yard]]
+* {{see
+| name=Stare Selo | alt=Ukrainian: Старе Село; Polish: Stare Sioło; literally, "old village" | url=
+| address=Pustomyty Raion, Lviv Oblast | lat=49.701944 | long=24.194722 | directions={{convert|25|km}} SE
+| image=Stare Selo castle inner yard 01.jpg
+| content=Castle (Старе Село замок), 1584–1654
+}}
+* {{see
+| name=Svirzh | alt=Ukrainian: Свірж | url= | email=
+| address=Peremyshliany Raion | lat=49.65224 | long=24.43265 | directions={{convert|40|km}} SW: direct public transport almost nonexistent; take any minibus or bus toward Rohatyn and get off at Bibrka on H09 hwy or at Peremyshlyany on T1414 further {{convert|8|km}} from both
+| image=Svirzh.jpg
+| content=Sights: Assumption of the Virgin Mary church (костел Успіння Богородиці), 1546, early 17th century., 1770s; Defense tower (ruins), grotto (оборонна башта, грот), 1484, Svirzh castle (Свірж замок), 1484–1660s.
+}}
+* {{see
+| name=[[Zhovkva]] | alt=Жовква | url=http://zhovkva-tour.info/ | email=
+| address=Zhovkva Raion | lat=50.066667 | long=23.966667 | directions={{convert|25|km}} north
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q864836
+| content=A good day trip. Visit the Monastery
+}}
+[[File:Золочев. Замок..jpg|thumb|Remains of Castle Zolochiv]]
+* {{see
+| name=Zolochiv | alt=Золочів | url= | email=
+| address= | lat=49.8055 | long=24.8991 | directions={{convert|70|km}} East, Zolochiv Raion, Lviv Oblast - train station {{convert|2|km}} south from the town
+| phone= | tollfree=
+| hours= | price=
+| image=Золочев. Замок..jpg
+| content=Good day trip for visiting: Ascension of Virgin Mary church + cells (костел Вознесіння Діви Марії + келії), 1731–1763; Castle (Золочів замок), 1634–1686; Arsenal (арсенал), 15th century.; Polish cemetery (польський цвинтар).
+}}
+* {{see
+| name=Trukhaniv | alt=Труханів | url=
+| address=Skolivskyi Raion | lat=49.054444 | long=23.639167 | directions={{convert|108|km}} S of Lviv
+| image=Plav'ya - a village in Ukraine..JPG
+| lastedit=2023-09-13
+| content=Good day trip. Rocks and Cave of Dovbush ({{convert|6|km}} from here), The bottom edge of the village is a picturesque waterfalls cascade, the Sukilski waterfalls, also in the village is a St. Michael Church built in 1840
+}}
+* {{see | name=[[Truskavets]] | alt=Трускавець | url=http://truskavets-city.gov.ua/ | address=Lviv Oblast | lat=49.279 | long=23.506 | directions={{convert|70|km}} SW: take a train to here | image=Truskavets1.JPG | content=Good for a day trip
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Univ monastery | alt=Унів, Міжгір’я? | url=http://studyty.org.ua/ | email=
+| address=Peremyshlians'kyi Raion, | lat=49.714 | long=24.5924 | directions={{convert|40|km}} east: take a bus or minibus to here
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2080263
+| content=Founded in 1390s. It consists of a church, partly saved fortress walls with two north and south-west towers (15th century), a building of monastic cells (17th–19th centuries) and the house of the metropolitan (19th century). Good for a day trip.
+}}
+
+==Do==
+[[File:LvivOperaHouse.JPG|thumb|right|320px|Lviv Opera House (Svobody Ave)]]
+
+=== Culture ===
+*Attend a '''concert or festival'''. Lviv has been called the "Queen of Festivals" as a city, because there is often a different festival every other week. Some festivals with many free activities are the Chocolate Festival, the Coffee Festival, and the Alpha Jazz Festival. Stop by the Tourist Information Center on Rynok Square to find out more about what festivals are happening during your stay in Lviv.
+* {{do
+| name=S. Krushelnytska Opera House | alt= | url=https://opera.lviv.ua/ | email=
+| address=Svobody Ave, 28 | lat=49.843989 | long=24.026178 | directions=Tram
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1246092
+| lastedit=2023-09-04
+| content=In the very heart of Lviv the historic opera house offers regular performances of various operas and ballets. Tickets can be purchased at the theatre cashier ("Kaca") ranging in price from 50&nbsp;грн to 80&nbsp;грн. Even if opera and ballet is not your cup of tea, a night at the theatre is worthwhile, at the very least, to enjoy this spectacular venue.
+}}
+* {{do
+| name=Lviv philharmonic Society Concert hall | alt=Львівська обласна філармонія | url=http://www.philharmonia.lviv.ua/ | email=spilka@mail.lviv.ua
+| address=Chaikovs'koho P. str.,7 | lat=49.83755 | long=24.03043 | directions=South - Bus 3А, 4А, 48, 53 to 'Knyazya Romana St'
+| phone=+380 32 2 72-10-42 | fax=+380 32 2 35-81-22
+| hours=Cash Desk 11:00-19:00 | price=40, 60, 80, 100&nbsp;грн
+| lastedit=2023-09-04
+| content=
+}}
+* {{do
+| name=Mini "People and Dolls" Theatre | alt=Львівський театр естрадних мініатюр "І люди, і ляльки" | url=http://www.puppet.lviv.ua/ | email=
+| address=Fredra O. str.(вул. Фредра), 6 | lat=49.83628 | long=24.03287 | directions=
+| phone=+380 32 2 61-31-25, +380 32 2 61-21-27
+| hours= | price=
+| content=
+}}
+* {{do
+|name=Les Kurbas youth theatre |alt=Львівський молодіжний театр ім. Леся Курбаса |url= |email=
+|address=Kurbasa L. str., 3 |lat=49.8421 |long=24.0255 |directions=Tram 2, 9, 10 to 'Petra Doroshenka St'
+|phone=+380 32 2 72-49-14, +380 32 2 72-92-04 |fax=
+|hours= |price=
+|content=
+}}
+* {{do
+| name=The first Ukrainian theatre for children & young people | alt=Перший український театр для дітей та юнацтва | url= | email=
+| address=Hnatiuka V. akad. str., 11 | lat=49.84152 | long=24.02473 | directions=Tram 2, 9, 10 to 'Petra Doroshenka St'
+| phone=+380 32 2 72-68-41, +380 32 2 72-78-10
+| hours= | price=
+| content=
+}}
+* {{do
+| name=Lviv State Circus | alt=Львівський державний цирк | url= | email=
+| address=Horodots'ka str., 83 | lat=49.83999 | long=24.01385 | directions=
+| phone=+380 32 2 38-53-27, +380 32 2 38-53-30
+| hours= | price=
+| content=
+}}
+
+=== Sports ===
+
+* {{do
+| name=Stadiumn Torpedo | alt=Стадион "Торпедо" | url= | email=
+| address=Vul. Gorbenka (вулиця Горбенка) | lat=49.8509 | long=24.0055 | directions=Take tram 7 to stop Turyanskoho St
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{do
+| name=SKA Stadium | alt=Стадион СКА | url= | email=
+| address=Kleparivska St (вул. Клепарівська), 39 | lat=49.85262 | long=24.01351 | directions=
+| phone=+380 32 2 33-23-79 | fax=
+| hours= | price=
+| content=
+}}
+
+=== Relax ===
+* {{do
+| name=Pliazh Aquapark | alt=Аквапарк Пляж| url= | email=
+| address=str. Princess Olga 114 (Kniahyni Ol'hy str., 114) | lat=49.8063 | long=23.9978 | directions=South 5km
+| phone=+380 32 2 63-82-97, +380 32 2 63-60-55 | fax=
+| hours= | price=Tariff 100&nbsp;грн per day (2014)
+| lastedit=2023-09-04
+| content=Escape from summer heat. Area 1.4 ha. Enjoy Greek-Roman steam room and jacuzzi, bars “Tropic” and “Hawaii” in the wet area.
+}}
+* Visit the '''Bania''', a Russian-style sauna for men and women (non-communal). There are a few in Lviv and well worth the trip. The experience can be mildly confronting for the prudish Westerner, as all activities are conducted in the nude but don't worry, it is a highly civilized environment.
+
+===Parks and gardens===
+* {{do
+| name=Lviv hippodrome | alt=Львівський іподром | url= | email=
+| address=Stryis'ka str., 117 | lat=49.7796 | long=24.0186 | directions=7 km south
+| phone=+380 32 2 64-97-27, +380 32 2 64-97-29 | fax=
+| hours= | price=
+| content=Race courses.
+}}
+* {{do
+| name=Ivan Franko Park | alt=Парк ім. Івана Франка (колишній парк Костюшко) | url= | email=
+| address=str. Universytetska (вул. Університетська) | lat=49.838333 | long=24.019167 | directions=1 km west from centre - Tram 1, 2, 10 or bus 21, 48 to stop 'Holovna Poshta'
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4345301
+| content=is oldest park in the city. Traces of that time may be found in three- hundred-year-old oak and maple trees. Upon the abrogation of the Jesuit order in 1773 the territory became the town property. A well-known gardener Bager arranged the territory in the landscape style, and most of trees were planted within 1885-1890.
+}}
+* {{do
+| name=Bohdan Khmelnytsky Culture and Recreation Park | alt=Парк культури та відпочинку імені Богдана Хмельницького, Парк ім. Богдана Хмельницького | url=https://www.centralpark.lviv.ua/ | email=
+| address=streets Striyskeyu (ulitsa Zaritskikh) | lat=49.829444 | long=24.021944 | directions=SW 1.5 km from old town - Tram 3, 5, 9, 11 to 'Kultury Park'
+| phone=+380 32 2 72-78-77, +380 32 2 72-79-31 | tollfree=
+| hours= | price=
+| wikidata=Q4345333
+| content=in the Halych district of the city , interesting garden art local value (1984). It's one of the best organized and modern green zones containing a concert and dance hall, stadium, the town of attractions, central stage, numerous cafes and restaurants. In the park there are Ferris wheel. Between the streets Striyske , Guardyisko , Vitovskogo and Zaritsky. At the top of the park is culture Glory Monument. The area of ​​the park is 26 hectares.
+}}
+* {{do
+| name=Stryiskyi Park | alt=Стрийський парк | url= | email=
+| address=Between Str. Stryis'ka and Str. Ivana Frank, 156 | lat=49.8234 | long=24.0257 | directions=1.5 km south from old town, Take bus No.30. or trolley No.25 to 'Park Kultury' stop
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1980030
+| content=It is considered one of the most picturesque parks in the city. The park has over 200 species of trees and plants. It is well known for a vast collection of rare and valuable trees and bushes. At the main entrance gate you will find a pond with swans.
+}}
+* {{do
+| name=Regional Landscape Park Znesinnya | alt=Регіональний ландшафтний парк «Знесіння» | url=http://city-adm.lviv.ua/portal/catalog/pam-jatniki-parki-ta-sadi/parki-ta-sadi/6388 | email=
+| address=Street Novoznesens'ka, (вулиця Новознесенська) | lat=49.84653 | long=24.06139 | directions=1.5 km northeast,
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4192952
+| content=Ideal site for cycling, skiing sports, and hiking. It's on green hilly parts of the historical village Znesinnya. Area: 312.1 ha. The park includes rare specimens of plants, as well as sandstones, limestones containing fossils, hills covered by forests and picturesque valleys with ponds and streams.
+}}
+* {{do
+| name=Shevchenkivskyi Hay | alt=Шевченківський гай | url=http://lvivskansen.org/ | email=
+| address=Vul. Chernecha hora. (вул. Чернеча гора) | lat=49.844833 | long=24.066389 | directions=nearby (west) is a park "High Castle"
+| phone=+380 32 2 43-78-23 | tollfree=
+| hours=10:00-18:00 | price=15&nbsp;грн
+| wikidata=Q4522268
+| lastedit=2023-09-04
+| content=In the park is a unique open-air museum that has gathered the best collection of Ukrainian wooden architecture. Museum successfully combines hilly terrain, vegetation Carpathians restored and carefully moved historic buildings from different regions of Western Ukraine. The park is approx. 84 ha.
+}}
+* {{do | name=High Castle Park | alt=Високий Замок парк | url=http://city-adm.lviv.ua/portal/component/content/article/306-turistu/varto-pobachyty/parki-ta-sadi/5436-park-visokij-zamok | email= | address= | lat=49.8481 | long=24.0392 | directions=1 km NE | phone= | tollfree= | hours= | price= | wikidata=Q4129315 | content=It is on the highest city hill (413 m) and occupies the territory of 36 hectares consisting of the lower terrace once called Knyazha Hora (Prince Mount), and the upper terrace with a television tower and artificial embankment.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{do
+| name=Zalizni Vody Park | alt=Залізна Вода | url= | email=
+| address=Located between the streets Stusa, Myshugy, Ternopylska and Yaroslavenka | lat=49.81943 | long=24.03727 | directions=2 km S
+| phone= | hours= | price=
+| content=It began from the former garden Zalizna Voda (Iron water) combining Snopkivska street with Novyi Lviv district. The park owes its name to the springs with high iron concentration. This beautiful park with ancient beech trees and numerous paths is a favorite place of many locals. The total area of ​​19.5 hectares the park. Here, among the western slopes of the plateau of Lviv, near the park originates Poltva. In the park you can see the outputs of marl, which is the reason for the existence of multiple sources. The name of the park comes from the high iron content in the springs that flow here. - Vegetation: beech, pine, oak, birch, poplar, willow, ornamental trees and shrubs. It also grows old apple orchard.
+}}
+* {{do
+| name=Lychakivskyi Park | alt=Личаківський парк | url= | email=
+| address=Between Street Tsetnerivka, Street Lychakivska & Street Pasichna | lat=49.83409| long=24.06576 | directions=
+| phone= | hours= | price=
+| content=Founded in 1892 and named after the surrounding suburbs. A botanic garden is on the park territory, founded in 1911 and occupying the territory of 18.5 hectares. At the park is a sportcomplex of the Lviv State University of Physical Culture, the "Stadium Skiff".
+}}
+* {{do
+| name=Zamarstynivs'kyi forest park |alt=Замарстинівський лісопарк | url=
+| address=Ulitsa Filippa Orlika | lat=49.8766 | long=24.0298 | directions=N 3km-Trolley 13 to 'Pylypa Orlyka St' and head north 0.5 km
+| phone= | fax=
+| hours= | price=
+| content=
+}}
+* {{do
+| name=Park the name of the 700year of Lviv | alt=Парк ім. 700-річчя Львова | url=
+| address=prospekt Vyacheslava Chernovola, 91 | lat=49.8649 | long=24.0194 | directions=N 2 km: Trolley 13 to 'Torfiana St'
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Park Na Valakh | alt=Парк "На Валах" | url= | email=
+| address= Pidval'na str. | lat=49.84355 | long=24.03550 | directions=east
+| phone= | hours= | price=
+| content=There is a {{see |name=Fire Tower |alt= |lat=49.84288 |long=24.03563 |content= }}
+}}
+* {{do
+| name=Sviatoiurs'kyi park | alt=Святоюрський парк, Сад собору святого Юра, Схил Святоюрської гори, | url=
+| address=Lystopadovoho Chynu street, | lat=49.8386 | long=24.0153 | directions=west
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Student park | alt=Студентський парк | url=
+| address=Sakharova A. akademika str. | lat=49.8283 | long=24.0130 | directions=2km SW
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Botanical Garden of Lviv Ivan Franko National University | alt=Ботанічний сад Львівського національного університету ім. І.Франка (стара частина) | url= | email=botsad@franko.lviv.ua
+| address=Cheremshyny str, (вул. Черемшини), 44 | lat=49.8301 | long=24.0651 | directions=E 4 km: Tram 2, 10 to 'Pasichna St' walk 600 m south or bus 15, 19, 23, 27, 40, 47A, 50, 117, 138 to 'Tadzhykska St' 200 m
+| phone=+380 32 2 76-83-69 | tollfree=
+| hours= | price=
+| content=There are 1025 tree and shrub species; 720 natural herbaceous species; 1095 cultural herbaceous species and sorts; 1630 tropical and subtropical species.
+}}
+* {{do
+| name=Botanical garden of the Lviv Forestry Engineering Institute| alt=Ботанічний сад Львівського лісотехнічного інституту | url= | email=
+| address=Chuprynky T. henerala str | lat=49.8253 | long=24.0030 | directions=west 4 km: between the streets of Chuprinky (former Pushkina) and Pryrodnoiu - Tram 2 to stop 'Hordynskyh St'
+| phone= | hours= | price=
+| lastedit=2023-09-13
+| content=The land area ​​10.8 ha. There is a flower collection, educational area and a small research farm. Also the collection include about 200 species of trees and shrubs.
+}}
+* {{do
+| name=Park Piskovi Ozera | alt=Park Pischani ozera, Парк "Піщані озера" | url= | email=
+| address=Hordynskykh str. | lat=49.8238 | long=23.9977 | directions=west 5 km - Tram 2 to 'Konovaltsia St'
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Kulparkivskyi park | alt=Кульпарківський сквер | url= | email=
+| address=ulitsa Evgeniya Konovaltsa, ~111 | lat=49.8240 | long=23.9917 | directions=west 5.3 km: Tram 2 to 'Konovaltsia St'
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Horikhovyi hai Park |alt=Парк "Горіховий Гай" | url=
+| address=Boikivs'ka str. | lat=49.8183 | long=24.0115 | directions=SW 5 km: Tram 3, 5 to 'Boychuka St'
+| phone= | hours= | price=
+| content=
+}}
+* {{do
+| name=Bear Sanctuary Domazhyr | alt= | url=https://www.bearsanctuary-domazhyr.org/ | email=bsd-office@four-paws.org
+| address=1 Vedmezhy Krai St, Zhornyska, Yavoriv District | lat= | long= | directions=in the Unesco Roztochya Biosphere Reserve
+| phone=+380 67 509 3058 | tollfree=
+| hours= | price=
+| wikidata=Q65120525
+| content=The sanctuary was built by the animal welfare organisation Four Paws in 2016. The whole area comprises 20 ha and offers guided tours and exhibitions for environmental education.
+}}
+
+==Buy==
+===Market===
+[[File:Vyshyvanka for sale in Lviv.jpg|thumb|Vyshyvanka for sale in Lviv]]
+* {{buy
+| name=Staryi Lytsar ? Rynok| alt=Ринок Старий лицар | url= | email=
+| address=Chornovola V. ave., 67 | lat=49.8595 | long=24.0192 | directions=north: Trolley 13 to 'Shevchenkivska administratsiya'
+| phone=+380 32 2 24-71-36 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Krakivs'kyi | alt=Ринок Краківський | url= | email=
+| address=Bazarna str., 11 | lat=49.8462 | long=24.0182 | directions=west: Tram 6, 7 to stop 'Tserkva Anny' & 0.4 km to north
+| phone=+380 32 2 33-80-54 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Pryvokzal'nyi | alt=Ринок "Привокзальний" | url= | email=
+| address=Hors'koi A. str., 2 | lat=49.8358 | long=24.0007 | directions=west: Tram 11 to 'Pryvokzalnyi rynok'
+| phone=+380 32 2 37-21-34 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Novyi rynok | alt=Новий ринок| url= | email=
+| address= Petliury S. str., 11B | lat=49.8232 | long=23.9798 | directions=West: Tram 2 to stop 'Konovaltsia St'
+| phone=+380 32 2 92-23-28 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Halytskyi market | alt=Галицький базар | url= | email=
+| address=Vulitsa Serbska (вулиця Сербська) | lat=49.83853 | long=24.03363 | directions=Bus 1A, 5А, 6A, 24, 45, 47A to 'Halytska Square'
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Shuvar | alt=Ринок Шувар | url=http://www.shuvar.com/ | email= office@shuvar.com
+| address=Khutorivka str. (вул. Хуторівка), 4A | lat=49.7997 | long=24.0271 | directions=south ~7 km: Bus 7, 11, 14, 23, 32, 38, 40, 41, 116, 117, 287 to 'Demianska St'
+| phone=+380 32 2 95-19-19 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Vynnykivs'kyi Market | alt=Ринок Винниківський | url= | email=
+| address= Solodova str., 4 | lat=49.84065 | long=24.04784 | directions=east: Tram 2, 7, 10 or Bus 5А, 15, 18, 29, 36, 39, 47A, 50, 102, 105, 110, 138, 147, 217A to stop 'Oblasna Klinichna Likarnia'
+| phone=+380 32 2 75-34-57 | hours= | price=
+| content=
+}}
+* {{buy
+| name=Pidzamche Market | alt=Ринок Підзамче | url= | email=
+| address=Khmel'nyts'koho B. str., 120 | lat=49.8550 | long=24.0452 | directions=Bus 9, 20 to stop 'Novoznesenska St'
+| phone=+380 32 2 52-21-84 | hours= | price=
+| content=
+}}
+
+=== Other stores ===
+* {{buy
+| name=Foxtrot Electronics Supermarket | alt= | url= | email=
+| address=Chornovola V. Ave. (просп. В'ячеслава Чорновола), 57 | lat=49.85601 | long=24.02130
+| directions=Bus 1A, 7, 8, 17, 22, 25, 26, 28, 31, 34, 35, 37, 39, 41, 46 to stop 'Shevchenkivska administratsiya'
+| phone=+380 32 2 42-25-07 | fax=
+| hours= | price=
+| content=
+}}
+
+=== Shopping centre ===
+* {{buy
+| name=Dobrobut Shopping centre | alt=Торговий центр Добробут | url= | email=
+| address=Stara str.(вулиця Стара), 3 | lat=49.84516 | long=24.02779| directions=NW: Tram 6, 7 or Bus 1A, 3А, 4А, 5А, 6A, 15, 26, 29, 35, 36, 37, 39, 46, 47A, 50 to stop 'Teatralna Street'
+| phone=+380 32 2 97-56-14
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Hypermarket Epicentr | alt=гіпермаркет Епіцентр-2 | url=http://epicentrk.com.ua/ | email=
+| address=Vulytsya Bogdana Khmelnitskogo, 188A, | lat=49.86355 | long=24.05380 | directions=take a bus 9, 19, 20, 25, 35 to stop Bus Station #2
+| phone=+380 32 2 35-11-45 | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Magnus Shopping centre | alt=Торговий центр Магнус | url=http://magnus-store.com | email=
+| address=Shpytal'na street (ulitsa Gospitalnaya), 1 | lat=49.84432 | long=24.02403 | directions=NW: Tram 6, 7 to 'Teatralna St'
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=King Cross Leopolis and Auchan Hypermarket | alt=Ашан | url=http://www.kingcross.com.ua/en/ | email=
+| address=Stryiska Str., 30 | lat=49.773056 | long=24.010556 | directions=south 7 km: Bus 116, 133 to stop 'King Cross Leopolis'
+| phone=+380 32 2 42-05-80 | tollfree=
+| hours= | price=
+| wikidata=Q6411412
+| content=[http://auchan.ua Auchan]
+}}
+* {{buy
+| name=Sykhivskyi Shopping centre | alt=Торговий центр Сихівський | url= | email=
+| address=Sykhivs'ka str., 16A | lat=49.79514 | long=24.06423 | directions=Bus 13, 16, 19, 23, 37, 38, 40, 41, 46, 47A, 117 or Trolley 25 to 'Ivana Kavaleridze St'
+| phone=+380 32 2 21-91-27
+| hours= | price=
+| content=
+}}
+
+===Money===
+''For more information on currency see [[Ukraine#Money|here]]''
+
+Apple Pay and Google Pay are commonly accepted in the restaurants, cafes, hotels and hostels. Also at the main bus station and long distance train station. All small grocery stores also accept bank card payments.
+
+ATMs (known as "bankomats") and currency exchanges ("obmin valyuti") are ubiquitous throughout Lviv, particularly in the city center. Most ATMs will accept Visa and MasterCard. Currency exchanges will often only accept foreign currency in pristine condition, though this has changed since the beginning of the full-scale war (as demand for foreign currency has increased with the economic crisis).
+
+Currency exchanges have locals, rather than foreigners, as their prime customers. It is very common for Ukrainians to keep their savings in USD or EUR, as they are seen as more stable means of storing value (there is a joke that one is not truly broke in Ukraine until one goes to sell their dollars). Therefore, to compete with each other for customers, currency exchanges offer very competitive, near-market rates for the most popular currencies, like USD, EUR, and PLN. 
+
+Travellers' checks are not very useful in Lviv; however, there are still a few hotels and banks that will cash them for you.
+
+Attempting to pay for something inexpensive in cash with a large denomination (200&nbsp;грн and above) will often at the very least annoy the shopkeeper; salespeople may even refuse to sell to you if you do not have any smaller denominations. Grocery stores and other high-volume shops are an exception to this rule.
+* {{buy
+| name=OTP Bank, Teatralne office | alt=OTP Bank, відділення Театральне | url=http://www.otpbank.com.ua/ | email=
+| address=Svobody ave.(пр. Свободи), 22 | lat=49.8434 | long=24.0274 | directions=centre: Tram 6, 7 to 'Teatralna St'
+| phone= | tollfree=+380 800 300 0500 | fax=
+| hours=Mon-Fri 09:00-18:00 | price=
+| content=
+}}
+* {{buy
+| name=OTP Bank, Naukova office | alt=OTP Bank, відділення Наукове | url=http://www.otpbank.com | email=
+| address=Naukova Street (вулиця Наукова), 96-А | lat=49.80534 | long=23.98860 | directions=SW 3 km
+| phone= | tollfree=+380 800 300 0500 | fax=
+| hours=Mon-Fri 09:00-18:00 | price=
+| content=And more two units: Str. Ivan Franko, 20; - prospect V. Chornovola, 59
+}}
+* {{buy
+| name=Raiffeisen Bank Aval, Branch 6 | alt=Райффайзен Банк Аваль, відділення 6 | url= | email=
+| address=Kopernyka M. str., 14 | lat=49.8389 | long=24.0268 | directions=west: Tram 1, 2, 10 to stop 'Petra Doroshenka St'
+| phone= | hours= | price=
+| content=
+}}
+* {{buy | name=Raiffeisen Bank Aval, Branch 1 | alt=Райффайзен Банк Аваль, відділення 1 | url=http://aval.ua | email= | address=West - Liubins'ka str., 4 | lat=49.8338 | long=23.9904 | directions= | phone= | hours= | price= | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy | name=Raiffeisen Bank Aval, Soborne | alt=Райффайзен Банк Аваль, Соборне відділення | url=http://aval.ua | email= | address=Halyts'ka sq., 14 | lat=49.83907 | long=24.03162 | directions=Tram 1, 2, 10 to 'Petra Doroshenka St' 400m | phone= | hours= | price= | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=UniCredit Bank (Ukrsotsbank) | alt=Укрсоцбанк | url= | email=
+| address=Politekhnichna str., 2 | lat=49.83444 | long=24.01425 | directions=Tram 1, 10 to 'Lvivska politekhnika'
+| phone= | tollfree=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=UniCredit Bank | alt=Укрсоцбанк | url= | email=
+| address=Mitskevycha A. sq., 10 | lat=49.83961 | long=24.03078 | directions=Old Town
+| phone= | tollfree=
+| hours= | price=
+| content=
+}}
+
+==Eat==
+===Budget===
+Life in Lviv is very cheap. It's not difficult to find a place where you can have a full meal for 200 UAH. The challenge is rather ordering if you don't speak Ukrainian.
+* {{eat
+| name=Arsen #2 Supermarket | alt=Супермаркет Арсен N2 | url=http://www.evrotek.com/ru/arsen/ | email=
+| address=Viacheslava Chornovola Ave. (пр-т Черновола), 93 | lat=49.8623 | long=24.0169 | directions=Northwestern quarter - 'Lviv 700 years old' Park
+| phone=+380 32 2 97-60-70 | fax=
+| hours=Mon-Fri 08:00-23:00, Sun 09:00-22:00
+| lastedit=2023-09-13
+| content=More units: west 2.5 km ul. Paton, 37, Phone +380 32 2 44-19-25, M-F 08:00-23:00, Su 09:00-22:00; southeast 1.5 km ul. Zelenaya, 147, Phone +380 32 2 40-52-58, M-F 08:00-23:00, Su 09:00-22:00; south 3 km ul. Kn. Olga, 120, Phone +380 32 2 45-76-54 M-F 08:00-23:00, Su 09:00-22:00
+}}
+* {{eat
+| name=Potato House Fast Food Restaurant | alt=Ресторан Картопляна хата | url=http://www.potatohouse.biz | email=
+| address=Chornovola V. ave., 65 | lat=49.85896 | long=24.01918 | directions=Northwestern quarter - Eldorado Shopping Center
+| phone=+380 32 2 52-19-75 | fax= 
+| hours= | price=
+| content=Restaurant chain.
+}}
+* {{eat | name=McDonald's Restaurant | alt=Ресторан Макдональдз | url=http://www.mcdonalds.ua | email= | address=Chornovola V. Ave., 12 | lat=49.84712 | long=24.02602 | directions=Northwestern quarter | phone=+380 32 2 97-04-14 | fax= | hours= | price= | content=Restaurant chain. Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Bistro | alt=Бістро | url=http://bistro.com.ua/ | email=
+| address=Panteleymona Kulisha, 13 | lat=49.84600 | long=24.02393 | directions=Northwestern quarter
+| phone=+380 32 2 72-21-65 | fax=
+| hours= | price=
+| content=
+}}
+* {{eat
+| name=Bistro | alt=Бістро | url=http://bistro.com.ua/
+| address=Horodotska str., 11 | lat=49.84389 | long=24.02441 | directions=Northwestern quarter
+| phone=+380 32 2 40-35-98 | fax=
+| hours= | price=
+| content=Fast Food Chain
+}}
+* {{eat
+| name=Puzata Hata | alt=Ресторан Пузата хата | url= | email=
+| address=Sichovykh Striltsiv Str., 12 | lat=49.84022 | long=24.02378 | directions=Northwestern quarter - in same building Mini Hostel/Hostel2 Lviv
+| phone= | tollfree=
+| hours= | price=
+| content=This fast food chain offers hearty Ukrainian smörgåsbord. Cafeteria-style eatery has a selection of traditional Ukrainian food mixed with some other food found around the area.
+}}
+* {{eat
+| name=Acropolis Tavern | alt= | url= | email=
+| address=44 Rynok Square | lat= | long= | directions=
+| phone=+380 97 550 3311 | tollfree=
+| hours=09:00-23:00 daily | price=Gyros and souvlaki for 120 грн
+| lastedit=2023-09-28
+| content=A Greek casual diner. The staff speak English and may well start dancing, in traditional style, given any amount of encouragement.
+}}
+* {{eat
+| name=Idalnia #1 Gurman | alt=Gourmet | url=
+| address=Petra Doroshenka 7 | lat=49.84003 | long=24.02712 | directions=Tram 2,9, 10 to 'Petra Doroshenka'
+| phone= | hours= | price=
+| content=They are cooking only from Ukrainian products.
+}}
+
+===Mid-range===
+* {{eat
+| name=Cafe 1 | alt= | url= | email=
+| address= sq. Katedralna 5 | lat=49.84044 | long=24.02988 | directions=Center- off Rynok Square
+| phone= | hours= | price=
+| content=A very cosy cafe/casual dining restaurant that offers a varied range of modern cuisine. It has a warm atmosphere with non-smoking and smoking areas plus friendly and thoughtful staff.
+}}
+*{{eat | name=Hutsulsky Dvir | alt=Етно-ресторан "Гуцульський Двір" | url=http://guculy.com.ua/ | email= | address=36 Schyretska str. | lat=49.8096 | long=23.9749 | directions=At Sknylivs'kyi park - SW 5km | phone=+380 32 2 95-25-64 | hours= | price= | lastedit=2025-06-05 | content=One of the most picturesque ethnic restaurants in the city. Ukrainian ethnic cuisine, great atmosphere of wooden restaurant with lots of trees around is a must to visit while staying in Lviv.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Kavkaz Georgian Restaurant |alt=Ресторан «Кавказ», ПП "КАРРО" |url= |email=
+| address=Zelena street (вул. Шота Руставеллі), 2 | lat=49.8340 | long=24.0352 | directions=Tram 3, 4, 5, 9, 11 to 'Zelena street'
+| phone= |hours= |price=
+| content=Try harcho soup and fig salad.
+}}
+* {{eat
+| name=Kupol |alt= | url= |email=
+| address=Chaikovskogo 37 | lat=49.83652 | long=24.02508 | directions=Tram 2, 9, 10 to 'Holovna Poshta' - next to Lviv Art Gallery
+| phone=+380 32 2 61-44-54 | fax=
+| hours= | price=
+| content=Has a touch of understated Habsburg grandeur. Homestyle quality.
+}}
+* {{eat
+| name=Trapezna Idey | alt=Трапезна Ідей | url= | email=
+| address=Valova 18A | lat=49.84001 | long=24.03484 | directions=located in Bernardine monastery cellars
+| phone= | hours= | price=
+|lastedit=2025-06-05| content=This place is a hidden gem specializing in Galician regional cuisine located in the cellar of an old church. Ukrainians will recognize the use of idiomatic Western Ukrainian words on the menu. Order wine or a craft vodka infusion/cocktail to be served in delightful, hand-crafted glassware. This glassware is also available for sale upstairs in a small museum and exhibition space.
+}}
+* {{eat
+| name=New York Street Pizza | alt= | url=http://pizza-nys.com.ua/ | email=
+| address=5, Sichovykh Striltsiv Street (Січових Стрільців) | lat=49.84080 | long=24.02521 | directions=W 0.5km
+| phone=
+| hours= | price=
+| content=More units: 51, Volodymyra Velykogo Str, 37, Patona Str, 4, Stefanyka Str, 36, Generala Chuprynky Str, 5, Tershakovtciv Str, 59, Grushevskogo Str, 1, Valova Str, 51, Chervonoi Kalyny pr, 2, Sv. Teodora pl. Tasty pizza, soups, salads, cakes and beverages.
+}}
+* {{eat
+| name=Pid Kelpsydroyu café/restaurant | alt=Under Clepsydra | url= | email=
+| address=Vir’menska 35 | lat=49.8438 | long=24.0324 | directions=opp. Dzyga Cultural Centre, you'll see about 15 large tables with patio umbrellas crowding the street
+| phone= | hours= | price=
+| lastedit=2023-09-28
+| content=You'll also see the city's sophisticated set sipping Under Clepsydra's famous forest tea. Under Clepsydra has three sections. The indoor café/restaurant inspired by the Parisian brasseries of the left bank has two sections, smoking and non-smoking, that share a soundtrack of classic French jazz and folk music. Upstairs you’ll find the more popular late-night section of the establishment. But what really sets it apart from other Lviv hangouts is the menu. Vegetarian restaurants in Lviv are, well, non-existent, but Under Clepsydra you’ll find a collection of fresh, meat-free dishes made with local ingredients. Potato and mushroom crepes are less than 80 грн, and fresh soups and salads are anywhere between 40-80 грн. Menus are in English. The carnivorous set has plenty of options as well. Few dishes run more than 200 грн, and entrees include duck, pork, grilled chicken, smoked salmon.
+}}
+* '''Boykivska Hostynya,'''  Mytropolyta Andreya St, 8: Located a bit outside of downtown near the St. Yuriy Cathedral complex and Lviv Polytechnic University, this restaurant is a tribute to the cuisine and culture of the Boyko people, a sub-ethnicity native to the nearby Carpathian Mountains. The owner, Andriy, runs a local non-profit for the promotion and preservation of Boyko culture. 
+* {{eat
+| name=Tsukerna Confectionary | alt= | url= | email=
+| address=pr. Staroevraiski | lat=49.84047 | long=24.03116 | directions=Old Town
+| phone= | hours= | price=
+| content=Viennese-style cake and coffee.
+}}
+
+===Splurge===
+* {{eat
+| name=Amadeus | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone=
+| hours= | price=
+| content=A broad European and Ukrainian menu in a 5-star environment with 4-star food and 2.5-star prices.
+}}
+* {{eat
+| name=Viden’ska Kavyarnia | alt=Viennese Café | url= | email=
+| address= Svobody Prospect | lat= | long= | directions=Next to Opera House
+| phone= | hours= | price=A main course 120-160 грн, a three-course meal 240-280 грн
+| lastedit=2023-09-28
+| content=This place has menus in English and English-speaking staff. The Wiener Schnitzel is great, so are all the soups, the breakfasts, the potato pancakes and the Apfelstrudel.
+}}
+*'''Veronica''', on the Shevchenko Prospect is both a French style cafe (upstairs) and stylish restaurant downstairs.
+
+==Drink==
+Ukraine in general (and Lviv in particular) have developed a fantastic beer and wine scene since the Revolution of Dignity in 2014. In addition to mass-market brands like Chernihivske and Lvivske (which has its brewery in Lviv at Kleparivska 18 and includes a lovely beer museum), there is a wide variety of craft brands. Highlights include Pravda (an iconic Lviv brand with excellent beer and legendary bottle art, with its flagship location at the bottom of Ploscha Rynok), Mova, Ten Men, Varvar, Tsypa, and First Dnipro.  
+
+Cheap beer on tap in Lviv is in the range of 60-80 UAH (~1.25-2.00 EUR). Crafty, expensive beer is in the 120-160 UAH (3-5 EUR) price range. 
+
+===Cafés===
+* {{drink | name=Mapa | alt= | url=http://mapa.lviv.ua/ | email= | address=Halyc'ka 4 | lat= | long= | directions= | phone= | hours= | price= | content=(''Map''), a quiet café with a special atmosphere and tasty Italian coffee. There are three large rooms for visitors: a large room on the first floor, and old-style rooms in the basement.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Rodzinka Cafe | alt= | url= | email=
+| address=Lukschy street Anhelovych, 32 | lat= | long= | directions= 
+| phone=+380 96 274 0538
+| hours= | price=
+| lastedit=2019-05-02
+| content=Cheap, but very good.
+}}
+* {{drink | name=Pid Synoju Flyazhkoju | alt=Under the Blue Bottle | url=http://bluebottle.lviv.ua | email= | address=Ruska 4 | lat=49.841264 | long=24.033179 | directions= | phone=+38 32 2 94-91-52 | tollfree= | hours=10:00-22:00 | price= | lastedit=2022-03-12 | content=Intimate, medieval.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Bars===
+* '''Tsehla Bar''' (''Brick Bar in Ukrainian''), Brativ Rohatyntsiv, 9. This bar is the favorite hangout of the foreign volunteer crowd, particularly after volunteering shifts end at around 8 or 9 PM. Provides a standard offering of beers on tap, along with ciders, mixed drinks, and house-made liqueurs, all for low prices even by Lviv standards.
+* '''Dobryy Druh Pub''' (Good Friend Pub), several locations across downtown. Dobryy Druh has around 5 pubs in the downtown area with standard and craft beers, cocktails, liqueurs, and standard pub food. Popular with younger crowds (especially the location on Kryva Lypa near Ivan Franko University), and often a good place to catch a football match.
+* {{drink
+| name=Kriyivka Bar | alt=Hiding Place in Ukrainian | url=https://www.fest.lviv.ua/uk/restaurants/kryjivka/ | email=
+| address= | lat=49.841296 | long=24.032269 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q12114941
+| lastedit=2025-03-12
+| content=“Slava Ukrayini” - the phrase means ‘Glory to Ukraine,’ and it’s your ticket to this underground, unmarked bar called Kryivka. When you do finally find it, state the password to a man toting a prop vintage machine gun, receive your shot of medovukha, and descend into the cozy wooden dining room you’ll be glad you took the time to find. This Ukrainian Independence themed bar is decorated with artifacts from Ukraine’s valiant struggle to stay autonomous - with guns, maps and posters lining the walls. You’ll also notice the names of dishes on the English menu harken back to a military tradition stretching back to the Austrian Empire. Culinary highlights include a half-metre long sausage, pickles soaked in honey and savory vereniky. There is also a bit of theatre during a dinner at Kryivka. If you’re lucky, a “Russian spy” may have snuck in to the restaurant and the brave staff will turn off the lights, grab a flashlight, root out this spy and serve him a healthy portion of justice. Once the intruder has been detached, celebratory live music erupts in the basement venue and locals burst into traditional songs of freedom. Kryivka on its peak popularity in early 2000s used to be an iconic bar and restaurant symbolizing Ukrainian Lviv patriotic history.
+}}
+* {{drink
+| name=Hasova Lyampa Bar | alt=Kerosene Lamp | url=http://gasovalampa.lviv.ua/ | email=
+| address=Virmenska 20 | lat= | long= | directions=
+| phone=
+| hours= | price=
+| content=You’ll most likely see a man dressed in old time regalia pacing in front of the entrance, beckoning people inside. If he’s not there another greeter awaits in the form of a metal statue sitting at a desk with a... you guessed it, lit gas lamp. Once inside you’ll find a spiral staircase ascending up three flights of dining space. Each floor is cozy, candle lit, and decorated with classic gas lamps. Gas Lamp also has one of Lviv’s best patios, in the form of their rooftop dining section. While the entrees are standard, the snacks that go with beer are real standouts. Try the seasoned croutons, chips and a variety of dipping sauces they’re the perfect accompaniment for their wide selection of cold local brews.
+}}
+* {{drink
+| name=House of Legends Bar| url= | email=
+| address=Staroevreyska 48 | lat= | long= | directions=
+| phone=
+| hours= | price=
+| content=A bar with small staircase connecting few floors and a roof terrace (great views!), where each room is differently designed around a theme of a Lvivian 'legend'.
+}}
+* {{drink
+| name=Masoch Café/Bar | alt= | url=http://masoch-cafe.com.ua/ | email=
+| address=Serbska 7 | lat=49.841068 | long=24.033147 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q12120365
+| content=A place where you get whipped by the bar staff. Yes, seriously.
+}}
+* {{drink
+| name=Kumpel beer restaurant | alt= | url=http://www.kumpel.biz/ | email=
+| address=Vynnychenka 6 | lat= | long= | directions=on Mytna square
+| phone=
+| hours= | price=
+| content=Mini-brewery.
+}}
+*'''Franz Josef''' The twilight zone. 24-hour outdoor freak show. See the local intelligentsia acting rather unintelligent.
+* {{drink
+| name=Dublin Irish Pub | alt= | url= | email=
+| address=Kryva Lypa 5 | lat= | long= | directions=
+| phone=+380 32 2 61-61-71 | tollfree=
+| hours=Mon-Thu 12:00-00:00, Fri Sat 12:00-02:00 | price=
+| content=In the busy courtyard just off Doroshenka St. The name is written in Cyrillic as well as Latin. Staff do not speak English but the menu is in English. Live soccer on TV.
+}}
+* {{drink
+| name=Korzo Irish Pub | alt= | url= | email=
+| address=Brativ Rohatinskiv street | lat= | long= | directions= off the main Rynok
+| phone=
+| hours= | price=
+| content=Though it may sometimes seem like it, not every bar or restaurant in Lviv has some kind of theme or hook, and Korzo Pub is one of these places - nothing too fancy here, just an oak bar, brass taps and well worn tables that have eavesdropped on hundreds of conversations, arguments and romantic encounters. Korzo also has a great selection of international spirits, so if you’re the kind of person who needs a shot of tequila to get the night going, this is your place. As the beer flows, you might want to try the fish soup, hearty and robust, locals say it is the perfect ballast to prevent a hangover the next morning. If quenching your thirst on a sunny afternoon of exploring is your goal, Korzo has one of Lviv’s largest patios.
+}}
+* '''Drunken Duck''' (П'янна Качка), Brativ Rohatyntsiv St, 45. Along with its sister bar, '''St. Christopher Craft Beer University''' (Львівський Університет Крафтового Пива ім. Св. Христофора) at Ivana Franka, 3, Drunken Duck is a craft pub offering a wide variety of draft and bottled craft beers from Ukraine's leading craft breweries, along with well-made standard pub fare. This bar is an excellent place to try some of the best of what the Ukrainian craft beer revolution has to offer. While it is pricey by Lviv standards, you can enjoy a half liter of excellent craft beer for a maximum of around €4.
+* '''Vynolovy (Винолови),''' Brativ Rohatyntsiv, 22: Like Ukrainian beer, Ukrainian wine has undergone an amazing transformation since 2014, and can now hold its head high amongst any other European country's wine industry. Vynolovy is an excellent place to sample the highlights of Ukrainian wine, with bottles at both lower and higher price points (although 500 грн is the beginning of Ukraine's higher price point), and with bottles from all over the country. The staff speaks decent English and is knowledgeable and proud of their products. 
+* '''More Vina (Море Вина),''' Dzhokhar Dudaev St, 22: A hangout of the local intellectual sort which is a bit outside of the main downtown area, More Vina offers super cheap but rather good Ukrainian wine. Enjoy a full 250 ml glass for less than €1.50 while listening to soft music and admiring the paintings of local artists. 
+
+===Clubs===
+Ukraine's nightlife is constrained by the wartime curfew, but there is still fun to be had until everything shuts down by around 23:30.
+* {{drink
+| name=Fashion Club | alt= | url= | email=
+| address=Ivana Pidkovy Square, 1 | lat= | long= | directions=
+| phone=+380 67 374 4491 | tollfree=
+| hours=Open 24 hours | price=
+| content=Bizarre nouveau riche.
+}}
+* {{drink
+| name=Club Metro disco | alt=Нічний клуб | url=http://metroclub.com.ua | email=
+| address=Zelena 14 | lat= | long= | directions=outskirts of the centre
+| phone=+380 32 2 42-07-88 | hours= | price=
+| lastedit=2023-09-28
+| content=Metro isn’t the easiest place to spot during the day, but at night, just follow the hordes of fabulously dressed young people as they make their way there. Entrance will probably set you back about 120 грн and once inside the first thing you’ll see is a large disco. A raised platform in the centre of the dance floor features male and female go-go dancers (and any brave customers who decide to join them on stage). A bar opposite provides local beers, vodka and champagne. For a change of pace, head downstairs where you’ll find two more bars. One serves the techno and house room, the other the lounge, private rooms and the hip hop dance floor. To cool off from all of the dancing, hit the giant upstairs patio with its heat lamps during winter and umbrellas for those rainy Lviv nights.
+}}
+* {{drink | name=Pozitiff | url=http://pozitiff.ae/ | email= | address=14 Zelena St. | lat= | long= | directions= | phone=+380 32 2 29-49-05 | hours= | price= | lastedit=2023-09-28 | content=If you’ve been to Metro Club you may have noticed a long line of locals trying to gain access to Pozitiff. This place is not easy to get into, and there are no guarantees that your money, passport or even begging can ensure you gain entrance. It’s all the bouncers call. Your best bet is to arrive with a small group of the most attractive people you can find. At this point the door man will either let you in, or not. If he does you’ll have negotiate an entrance fee. This cover charge usually depends on how cool and attractive your group is: The better-looking, the lower the fee. Expect to pay close to 240 грн for entrance. As entrance is so difficult, some patrons make the most of their trial, floating through the bar mingling, chatting and flirting. Others, displaying the icy confidence that got them in in the first place simply recline in their booth and radiate cool. No matter how you choose to play this one you’ll find enough friendly professionals to chat with and if you need to check your email, the Internet café section remains operational even into the wee hours of a rocking party.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Sleep==
+Lviv has a variety of hotels, hostels and apartments to suit all budgets and needs. The best deals for budget travellers (2-3 people) are found with the lovely apartments for rent all over town. These can be found online (preferably in Russian) or on arrival at the train station. Expect to pay 6,000-8,000 грн/month for a nice studio apartment with a kitchen, TV and a nice warm-water bathroom.
+
+===Budget===
+The hostel scene is quite new in Lviv so be sure to check reviews of hostels using well known booking agents and forums.
+* {{sleep
+| name=Cats' house hostel | url=http://catshostel.org/ | email=catshostel@catshostel.org
+| address=20 ulitsa Saksaganskogo, apt. 4 (Second Floor) - вул. Саксаганського, 20, кв. 4 | lat=49.83398 | long=24.03358 | directions=south: Tram 3, 4, 5, 9, 11 to 'Zelena St'
+| phone=+380 93 483 7665 | fax=
+| hours=24/7 | price=From 240 грн
+| checkin=12:00 | checkout=
+| lastedit=2023-09-04
+| content=20 beds, 24 hour reception, English, Ukrainian, Russian speaking staff, free Wi-Fi, tea, coffee, breakfast, bed linen, towels, slippers included, washing machine, library, tourist assistance – information, maps, luggage storage. Hostel is in the old Austrian house in the middle of the city near tram and bus stop.
+}}
+* {{sleep
+| name=Central Square Hostel | url=http://cshostel.com/en | email=cshostel@gmail.com
+| address=5 Rynok Square | lat=49.84233 | long=24.03264 | directions=Old Town
+| phone=+380 95 225 6654 | fax=
+| hours= | price=Bed in dorm 95&nbsp;грн, double room 350&nbsp;грн
+| checkin=12:00 | checkout=11:30
+| lastedit=2023-09-04
+| content=Cozy hostel in the heart of the city - 18 beds, English, Polish, Russian speaking staff, free Wi-Fi, tourist information, free maps, coffee & tea, linens & towels included, washing machine. Also will show you the city.
+}}
+* {{sleep | name=Coffee Home Hostel | url=http://homehostels.com.ua/coffee/ | email=coffee@homehostels.com.ua | address=Ulitsa Teatral'naya, 10 | lat=49.84151 | long=24.02973 | directions=Old Town | phone=+380 63 341 9594 | hours= | price=From 320 грн | checkin= | checkout=11:00 | lastedit=2023-09-28 | content=Next to main square. Chamber hostel &mdash; 20 beds, English, Spanish, Russian speaking staff, free Wi-Fi, touristic information, free maps, breakfast, coffee & tea, linens & towels included, laundry. Coffee interior style.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=The Georgehouse Hostel | alt= | url= | email=hostel.lviv@gmail.com
+| address=Ustyjanovycha (вулиця Устияновича), 8 | lat=49.8366 | long=24.016 | directions=West - Tram 1, 10 to 'Lvivska politekhnika'
+| phone=+380 50 430 6454 | tollfree=
+| checkin= | checkout=11:00 | price=From 95&nbsp;грн
+| lastedit=2023-09-04
+| content=4-bed and 8-bed mixed dormitories, free Wi-Fi, maps, breakfast, linens & towels included, modern colourful design. Free bed on your birthday (with ''minimum stay two nights'').
+}}
+* {{sleep
+| name=Hostel Centrum | alt= | url= | email=bookings@minihostellviv.com
+| address=Sichovykh Striltsiv St.,(вулиця Січових Стрільців) 12, Ap. 16 | lat=49.84036 | long=24.02381 | directions=West - Tram 1, 2, 10 to 'Petra Doroshenka St'
+| phone=+380 97 931 5628 | tollfree=
+| checkin=12:00 | checkout=11:00 | price=From 200 грн
+| lastedit=2023-09-19
+| content=Close to the Opera House and the main square. Free wi-fi, maps, coffee, tea, and free pub crawls.
+}}
+* {{sleep | name=Hostel TSisar Bankir | alt=Хостел Цісар Банкір | url=http://www.hotel-cisar.com | email= | address=Khmel'nyts'koho B. str., 23 | lat= | long= | directions=Northwestern quarter | phone=+380 32 2 25-56-27, +380 67 672 5076 | tollfree= | fax= | checkin= | checkout= | price= | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Mid-range===
+* {{sleep
+| name=Arho Hotel | alt=Готель Арго | url= | email=
+| address=Shevchenka T. str., 186 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 33-32-48, +380 32 2 98-64-51 | tollfree= | fax= 
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Trial Hotel | alt=Готель Тріал | url= | email=
+| address=Zamarstynivska Str., 122 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 52-03-88 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Gerold Hotel | alt=Готель Герольд | url= | email=
+| address=Pancha P. str., 7 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 45-54-31, +380 32 2 45-54-32 | tollfree=
+| checkin=14:00 | checkout= | price=
+| content=Stone-and-wood hotel. Restaurant on premises.
+}}
+* {{sleep
+| name=Vlasta Hotel | alt=Готель Власта | url= | email=
+| address=Kleparivska str., 30 | lat=49.85231 | long=24.01530 | directions=Northwestern quarter opposite Stadium SKA
+| phone=+380 32 2 45-54-32, +380 32 2 33-34-27 | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep | name=Kupava deluxe Hotel | alt=Готель Купава | url=http://www.kupavahotel.com | email= | address=Komarova Str., 17 | lat= | long= | directions=Northwestern quarter | phone=+380 32 2 45-03-45, +380 32 2 45-05-67 | fax= | checkin= | checkout= | price= | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Electron Hotel | alt=Готель Електрон | url= | email=
+| address=Kvitky-Osnovyanenka H., 4 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 33-50-44 | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Prestige Hotel | alt=Готель Престиж | url= | email=
+| address=Yaroslava Mudroho Str.,33 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 44-41-79, +380 32 2 44-41-78, +380 97 848 8978 | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Irena Hotel | alt=Готель Ірена | url=http://www.irenahotel.com.ua | email=
+| address=Storozhenka O. Str.,21 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 39-58-94 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Hotel Lviv | alt=Готель Львів | url= | email=
+| address=Chornovola V. Ave., 7 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 42-32-70 | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep | name=TSisar Hotel | alt=Готель Цісар | url=http://www.hotel-cisar.com | email= | address=Kotliarska Str.,3 | lat= | long= | directions=Northwestern quarter | phone=+380 32 2 35-82-28, +380 96 372 3232 | fax= | price= | checkin= | checkout= | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=Staryi Krakiv Hotel | alt=Готель Старий Краків | url=http://staryikrakiv.lviv.ua | email= | address=Shpytalna str.,21 | lat=49.84461 | long=24.02107 | directions=In the historic center | phone=+380 32 2 97-16-30 | tollfree= | fax= | checkin= | checkout= | price= | content=A comfortable mini-hotel in a renovated three-storey mansion. Single, double and triple rooms. Cosy cafe on the ground floor.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Kyiv Hotel | alt=Готель Київ | url= | email=
+| address=Horodots'ka Str.,15 | lat= | long= | directions=Northwestern quarter
+| phone=+380 32 2 72-85-71 | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Hotel George | alt=Жорж | url=http://www.georgehotel.com.ua/index.htm | email=
+| address=Pl. Mickiewicz 1 | lat= | long= | directions=
+| phone=+380 32 2 72-59-52 | fax=
+| hours= | price=From 1,520 грн | checkin= | checkout=
+| lastedit=2023-09-28
+| content=Only some rooms have private bathrooms (from 2,920 грн).
+}}
+* {{sleep
+| name=Hotel NTON | alt=Готель НТОН | url=http://www.hotelnton.lviv.ua | email=booking@nton.info
+| address=Shevchenka St., 154b (вул.Шевченка 154б) | lat= | long= | directions=North-West 3 km from the downtown
+| phone=+380 32 2 33-31-23 | tollfree= | fax=
+| checkin= | checkout= | price=From 1,120 грн
+| lastedit=2023-09-28
+| content=Hotel NTON has been in operation since 2001. Offers more than 70 modern comfortable rooms equipped with phones, TV-sat, showers and bathrooms, air conditioning, hairdryers, refrigerators with mini-bars. Hot & cold water is around a clock, heating is autonomous. Services include restaurant, guarded parking place, 4 conference halls, business center and free wireless Internet. The hotel transfer service brings you to the hotel and any destination point in the downtown or behind the city at any time. Moreover the hotel also has fitness complex 'Pharaoh' (offering pharaonic massage, fitness gym, solarium, sauna, Turkish bath, jacuzzi, IR-sweating).
+}}
+* {{sleep | name=Hotel Volter | alt=Готель Волтер | url=http://www.hotelvolter.com.ua | email=booking@nton.info | address=Lypynskoho 60a | lat= | long= | directions=3 km from the downtown | phone=+380 32 2 94-88-88 | tollfree= | fax= | hours= | price=From 1,320 грн | checkin= | checkout= | lastedit=2023-09-28 | content=Offers 56 comfortable rooms of different categories, namely, standard, superior, semi-suite, Deluxe suite, equipped according to modern norms and standards. Includes round-the-clock hot and cold water supply, installed independent heating system, satellite television, telephone, hair-drier and mini-safe in each room. The restaurant's staff is available round-the-clock.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Optima Dworzec Lviv | alt=Optima Дворжец Львів | url=https://optimahotels.com.ua/en/hotels/dworzec/ | email=dworzec.lviv@optimahotels.com.ua
+| address=107 Horodotska Street
+| phone=+380 32 2 42-51-26, +380 67 219 3863
+| checkin=14:00 | checkout=12:00 | price=From 1,428 грн
+| lastedit=2023-09-13
+| content=
+}}
+* {{Sleep
+|name=Optima Collection Medievale Lviv |alt=Optima Collection Медiваль Львiв |url=https://optimahotels.com.ua/en/hotels/medievale-lviv/ |email=medievale.lviv@optimahotels.com.ua
+|address=9 Drukarska Street
+|phone=+380 32 2 42-51-33, +380 67 219 6255
+|checkin=14:00 |checkout=12:00 |price=From 1,547 грн
+|lastedit=2023-09-13
+}}
+* {{Sleep
+|name=Optima Collection Mural Lviv |alt=Optima Collection Мурал Львів |url=https://optimahotels.com.ua/en/hotels/optima-mural-lviv/ |email=mural.lviv@optimahotels.com.ua
+|address=3 Vesela Street
+|phone=+380 32 2 42-10-01, +380 67 238 1629
+|checkin=14:00 |checkout=12:00 |price=From 1,510 грн
+|lastedit=2023-09-13
+}}
+* {{sleep
+| name=Rudolfo Hotel | alt=Готель Рудольфо | url=https://rudolfo.ua/ | email=info@rudolfo.ua
+| address=4, Virmens'ka St | lat= | long= | directions=between Rynok Square and the Opera House
+| phone=+380 96 756 93 08 | tollfree= | fax=
+| checkin=14:00 | checkout=12:00 | price=€50-€150 (breakfast included)
+| wikidata=
+| lastedit=2025-09-10
+| content=
+}}
+* {{sleep | name=Wien Hotel | alt=Готель «Відень» | url=http://wienhotellviv.tilda.ws | email=wienhotel1@gmail.com | address=12 Svobody Avenue | lat= | long= | directions= | phone=+380 97 244 4314 | tollfree= | checkin=14:00 | checkout=12:00 | price=From 1,520 грн | lastedit=2023-09-13 | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{Sleep
+|name=ibis Styles Lviv Center |url=https://all.accor.com/hotel/9709/index.en.shtml |email=H9709@accor.com|address=3 Shukhevycha Street
+|phone=+380 32 2 54-67-67
+|price=From 1,810 грн
+|lastedit=2023-09-11
+}}
+* {{Sleep
+|name=ibis Lviv Center |url=https://all.accor.com/hotel/B7H4/index.en.shtml |email=HB7H4@accor.com
+|address=23A Franka Street
+|phone=+380 32 2 26-79-00
+|price=From 1,564 грн
+|lastedit=2023-10-18
+}}
+* {{sleep
+| name=Hotel Chopin | alt=Готель «Шопен» | url=https://chopinhotel.com.ua | email=info@chopinhotel.com.ua
+| address=7 Malaniuka Square
+| phone=+380 97 222 7330
+| price=From 1,025 грн
+| lastedit=2023-09-11
+| content=Four-star hotel. Knightly and romantic style architectural elements and decorations of the facade structure inherent to an eclectic style that prevailed at the 19th and 20th centuries in building cities of Austria-Hungary.
+}}
+* {{sleep
+| name=Swiss Hotel | alt=Готель «Швейцарський» | url=https://swiss-hotel.lviv.ua/en/ |email=info@swiss-hotel.lviv.ua
+| address=20 Knyazya Romana Street
+| phone=+380 32 2 40-37-77, +380 96 240 3777
+| checkin=14:00 | checkout=12:00 | price=From 1,680 грн
+| lastedit=2023-09-11
+}}
+* {{sleep
+| name=Luxury Boutique Andreevskiy | alt= | url=https://andreevskiyhome.com/en/ | email=info@andreevskiyhome.com
+| address=112 Levytskoho Street
+| phone=+380 63 770 7055, +380 95 832 4061, +380 32 2 75-20-35
+| price=From 1,550 грн
+| lastedit=2023-09-11
+}}
+* {{sleep
+| name=Eney Hotel | alt=Готель «Еней» | url=https://eney.lviv.ua/eng/about_eng.html | email=eney@mail.lviv.ua
+| address=2 Shimzeriv street
+| phone=+380 68 502 4120
+| price=From 1,800 грн | checkin= | checkout=
+| lastedit=2023-09-11
+}}
+
+===Splurge===
+* {{sleep
+| name=Premier Hotel Dnister | url=https://dnister-hotel.phnr.com/en | email=reservation@dnister.lviv.ua
+| address=6 Mateyka Street
+| phone=+380 32 2 97-43-05, +380 32 2 97-43-06, +380 32 2 97-43-17, +380 67 673 6705
+| checkin=15:00 | checkout=12:00 | price=From 2,588 грн
+| lastedit=2023-09-11
+}}
+* {{sleep
+| name=Park-hotel “Drevny Grad” | alt=Парк-готель «Древній Град» | url=https://drevnygrad.com.ua/en/ | email=info@drevnygrad.com.ua
+| address=Kyiv highway 7-th km
+| phone=+380 67 212 7144
+| price=From 2,200 грн
+| lastedit=2023-09-11
+| content=
+}}
+* {{sleep
+| name=Leopolis Hotel | alt=Готель «Леополіс» | url=https://leopolishotel.com | email=hotel@leopolishotel.com
+| address=16 Teatralna Street
+| phone=+380 32 2 95-95-00, +380 50 371 3937 | fax=
+| price=From 4,900 грн | checkin=14:00 | checkout=12:00
+| lastedit=2023-09-11
+| content=Prestigious Leopolis Hotel is a luxurious boutique hotel in the heart of the city centre.
+}}
+* {{sleep
+| name=Grand Hotel Lviv | alt= | url=https://grand-hotel.com.ua/en | email=reservation@grand-hotel.com.ua
+| address=13 Svobody Avenue
+| phone=+380 93 171 4855
+| price=From 5,600 грн
+| lastedit=2023-09-11
+| content=
+}}
+* {{sleep
+| name=Citadel Inn | alt= | url=https://citadel-inn.com.ua/en/ | email=info@citadel-inn.com.ua
+| address=11 Hrabovskoho Street
+| phone=+380 50 732 0202, +380 50 431 1054
+| hours= | price=From 5,500 грн
+| checkin=14:00 | checkout=12:00
+| lastedit=2023-09-11
+| content=The hotel is in an ancient building of an old citadel. In the very building where the guests sleep, Germans murdered tens of thousands of Soviet prisoners of war and others during World War II.
+}}
+* {{Sleep
+|name=Best Western Plus Market Square Lviv |url=https://www.bestwestern.com/en_US/book/hotels-in-lviv/best-western-plus-market-square-lviv/propertyCode.91351.html
+|address=4 Shevska Street
+|phone=+380 32 2 46-23-44
+|checkin=14:00 |checkout=12:00 |price=From 2,087 грн
+|lastedit=2023-09-11
+|content=
+}}
+* {{Sleep
+|name=Gruner Lviv Boutique Hotel
+|url=https://all.accor.com/hotel/B732/index.en.shtml
+|email=info@grunerhotel.com
+|address=5 Hryhorenka Square
+|phone=+380 50 144 6060
+|lastedit=2023-09-11
+|content=Might be unavailable
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{Sleep
+|name=Ramada by Wyndham Lviv |url=https://www.wyndhamhotels.com/en-uk/ramada/lviv-ukraine/ramada-lviv/overview
+|address=2A Yavorivska Street
+|phone=+380 32 2 43-00-10
+|checkin=14:00 |checkout=12:00 |price=From 2,400 грн
+|lastedit=2023-09-11
+|content=
+}}
+* {{sleep
+| name=Lion's Castle Hotel | alt=Готель Замок Лева | url=https://lioncastlehotel.com/en/ | email=reception@lioncastlehotel.com
+| address=7-9 Hlinky Street | lat= | long= | directions=
+| phone=+380 67 386 1220 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=From 3,100 грн
+| lastedit=2023-09-13
+| content=
+}}
+* {{sleep
+| name=Lubich Concept Hotel | alt=Готель Любіч | url=https://lubichhotel.com/ | email=info@lubichhotel.com
+| address=Ulasa Samchuk Street 6 | lat=49.826562 | long=24.032268 | directions=
+| phone=+380 77 707 2200 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=From 3,000 грн
+| lastedit=2026-04-01
+| content=
+}}
+
+==Connect==
+The dialing code for Lviv is +380 32(2). The telephone system has been modified; thus, to dial 6-digit numbers, use the city prefix 322, but for 7-digit numbers, use only 32.
+
+All calls to and from cell phones are treated as long distance calls. The telephone system was modified one more time, thus, you must not dial an 8 followed by the city/mobile prefix, followed by the phone number. Some frequent mobile prefixes are 050, 066, 067, 071, 073, 095, 096, 097 and 099. The main mobile operators are Kyivstar, Vodafone, and Lifecell. You can buy a SIM card or a balance replenishment card at many stores throughout Lviv.
+
+Mobile internet on Ukrainian SIMs is very cheap by European standards. A monthly plan with all the data you need (20+ GB) costs €5-6 (as of 2025).
+
+Almost all restaurants and cafes provide free Wi-Fi, staff will typically provide a password on request.
+
+* {{listing
+| name=UKRPoshta (Main Post Office) | alt=УКРпошта (Поштамт,Головна пошта) | url=https://ukrposhta.ua/en/ | email=
+| address=Str. Slovats'koho YU.(Вулиця Словацького), 1 | lat=49.83755 | long=24.02379 | directions=
+| phone=+380 32 2 61-53-21 | fax=
+| hours=
+| content=
+}}
+** {{listing
+| name=No.20 post-office | alt=20 поштове відділення | url= | email=
+| address=Varshavska str., 54. | lat= | long= | directions=NW
+| phone=+380 32 2 52-34-41 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{listing
+| name=No.19 post-office | alt=19 поштове відділення | url= | email=
+| address=Zamarstynivska Str., 30 | lat= | long= | directions=NW
+| phone=+380 32 2 72-49-18 | fax=
+| hours= | price=
+| content=
+}}
+** {{listing
+| name=No.7 post-office | alt=7 поштове відділення | url= | email=
+| address=Hrebinky Y.E. Str., 6 | lat= | long= | directions=NW
+| phone= | fax=
+| hours= | price=
+| content=
+}}
+
+==Consulates==
+;Consulates-General:
+*{{flag|Czech Republic}} {{Listing |type=consulate
+|name=Consulate-General of Czech Republic |alt=Генеральне консульство Чехії |email=lvov@embassy.mzv.cz
+|address=Antonovycha V. str., 130 |lat=49.8268493 |long=23.9922175
+|phone=+380 32 2 97-68-93 |fax=+380 32 2 97-68-96
+|hours=
+}}
+*{{flag|Poland}} {{Listing |type=consulate
+|name=Consulate-General of Poland |alt=Генеральне консульство Польщі |url=http://www.lwow.msz.gov.pl |email=lwow.kg.sekretariat@msz.gov.pl
+|address=Franka I. str., 108 |lat=49.8269009 |long=24.0333226
+|phone=+380 32 2 95-79-90 |fax=+380 32 2 95-79-80
+|hours=Mon-Fri 08:30-16:30
+}}
+
+;Honorary consulates:
+*{{flag|Austria}} {{Listing |type=consulate
+|name=Honorary consulate of Austria |alt=Почесне консульство Австрії |url=http://austria.lviv.ua |email=info@austria.lviv.ua
+|address=Henerala Chuprynky str., 6, office 1 |lat=49.8341817 |long=24.0154991
+|phone=+380 32 2 42-96-96 |fax=+380 32 2 42-96-95
+|hours=Mon-Fri 09:00-18:00
+}}
+*{{flag|Belarus}} {{Listing |type=consulate
+|name=Honorary consulate of Belarus |alt=Почесне консульство Білорусі |email=belconslviv@ukr.net
+|address=Heroiv UPA str., 78 |lat=49.8298626 |long=23.99349
+|phone=+380 32 2 90-15-27 |fax=+380 32 2 27-42-07
+|hours=
+}}
+*{{flag|Belgium}} {{Listing |type=consulate
+|name=Honorary consulate of Belgium |alt=Почесне консульство Бельгії |email=consulbelg@gmail.com
+|address=Franka I. str., 14 |lat=49.83569904 |long=24.03474154
+|phone=+380 32 2 60-20-69
+|hours=Mon-Fri 10:00-18:00
+}}
+*{{flag|Brazil}} {{listing |type=consulate
+|name=Honorary consulate of Brazil |alt=Почесне консульство Бразилії |email=pmalekh@gmail.com
+|address=Kniagyni Olhy str., 116 |lat=49.8059403 |long=23.9976543
+|phone=+380 32 2 24-43-83
+|hours=Mon-Thu 10:00-13:00 and 15:00-16:00
+}}
+*{{flag|Bulgaria}} {{Listing |type=consulate
+|name=Honorary consulate of Bulgaria |alt=Почесне консульство Болгарії |email=victor@notevskyi.com
+|address=Krushelnytskoi S. str., 2 |lat=49.8379415 |long=24.0195376
+|phone=+380 32 2 61-36-13 |fax=+380 32 2 61-36-10
+|hours=Mon-Fri 09:00-18:00
+}}
+*{{flag|Canada}} {{Listing |type=consulate
+|name=Honorary consulate of Canada |alt=Почесне консульство Канади |email=oksmyr@mail.lviv.ua
+|address=Akademika Bohomoltsia str., 2, office 4 |lat=49.83747378 |long=24.03521205
+|phone=+380 32 2 60-15-72 |fax=+380 32 2 60-11-54
+|hours=Mon Wed-Fri 14:00-18:00, Tue 09:00-13:00
+}}
+*{{flag|France}} {{Listing |type=consulate
+|name=Honorary consulate of France |alt=Почесне консульство Франції |email=consulhfr.lviv@gmail.com
+|address=Chaikovskoho P. str., 20 |lat=49.8367901 |long=24.0280591
+|phone=+380 32 2 61-55-99 |fax=+380 32 2 61-55-99
+|hours=Mon-Fri 10:00-18:00
+}}
+*{{flag|Germany}} {{Listing |type=consulate
+|name=Honorary consulate of Germany |alt=Почесне консульство Німеччини |email=lemberg@hk-diplo.de
+|address=Vynnychenka V. str., 6 |lat=49.8392778 |long=24.0359337
+|phone=+380 32 2 75-71-02 |fax=+380 32 2 75-71-02
+|hours=
+}}
+*{{flag|Hungary}} {{Listing |type=consulate
+|name=Honorary consulate of Hungary |alt=Почесне консульство Угорщини |email=hotel@suputnyk.com.ua
+|address=Kniagyni Olhy str., 116 |lat=49.8059403 |long=23.9976543
+|phone=+380 32 2 30-40-67 |fax=+380 32 2 24-44-21
+|hours=
+}}
+*{{flag|Israel}} {{Listing |type=consulate |name=Honorary consulate of Israel |alt=Почесне консульство Ізраїлю |url=http://il-consul.com/ |email=enquiries@il-consul.com |address=Hazova str., 36/3 |lat=49.8483115 |long=24.0209668 |phone=+380 32 2 53-09-43 |fax=+380 32 2 36-72-38 |hours=Mon-Fri 09:00-13:00 and 14:00-18:00
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{flag|Kazakhstan}} {{Listing
+|type=consulate
+|name=Honorary consulate of Kazakhstan
+|alt=Почесне консульство Казахстану
+|url=https://www.kazconsul.com.ua
+|email=consul@kazconsul.com.ua
+|address=Zamknena str., 3/1
+|lat=49.8408115
+|long=24.015735
+|phone=+380 32 2 40-36-70
+|hours=Mon-Fri 09:00-13:00 and 14:00-17:00
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{flag|Latvia}} {{listing |type=consulate
+|name=Honorary consulate of Latvia |alt=Почесне консульство Латвії |email=consul.lviv@gmail.com
+|address=Chornovola V. ave., 57 |lat=49.8560791 |long=24.0212206
+|phone=+380 32 430-23-37 |fax=+380 32 2 94-82-23
+|hours=Mon-Fri 09:00-17:00
+}}
+*{{flag|Lithuania}} {{Listing |type=consulate
+|name=Honorary consulate of Lithuania |alt=Почесне консульство Литви |email=consul.lt@gng.com.ua
+|address=Heroiv UPA str., 72 |lat=49.8313072 |long=23.9970512
+|phone=+380 32 2 98-89-35
+|hours=
+}}
+*{{flag|Moldova}} {{Listing |type=consulate
+|name=Honorary consulate of Moldova |alt=Почесне консульство Молдови |email=consulmd.lviv@gmail.com
+|address=Konovaltsia Ye. str., 54 |lat=49.8305026 |long=24.0025479
+|phone=+380 32 2 95-34-19
+|hours=Mon-Fri 10:00-17:00
+}}
+*{{flag|Netherlands}} {{Listing |type=consulate
+|name=Honorary consulate of the Netherlands |alt=Почесне консульство Нідерландів |email=nlconsulate.lviv@gmail.com
+|address=Vynnychenka V. str., 12 |lat=49.8403025 |long=24.0369619
+|phone=+380 32 2 97-19-06
+|hours=Mon-Fri 10:00-18:00
+}}
+*{{flag|South Korea}} {{Listing |type=consulate
+|name=Honorary consulate of South Korea |alt=Почесне консульство Південної Кореї
+|url=https://www.facebook.com/lviv.korea.consulate |email=honorconsul@gmail.com
+|address=Lypynskoho str., 36 |lat=49.8623415 |long=24.0311304
+|phone=+380 32 2 42-44-33 |fax=+380 32 2 94-89-94
+|hours=Mon-Fri 10:00-18:00
+}}
+
+==Stay safe==
+Wartime dangers in Lviv are low. It is quite rare that drones or missiles actually attack the city (2-3 times per year, compared to nearly nightly raids against Kyiv), but it has happened before, tragically killing innocent people. 
+
+To be notified of air raids and the type of possible incoming threat, download the Повитряна Тривога (Air Raid Alert) app ([https://play.google.com/store/apps/details?id=com.ukrainealarm&hl=en Google Play], [https://apps.apple.com/us/app/%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D0%B0-%D1%82%D1%80%D0%B8%D0%B2%D0%BE%D0%B3%D0%B0/id1611955391 Apple]) and set the location to wherever you are in the country. It has full English functionality and is voiced by Mark Hammill (who will sternly remind you to take shelter when an air raid is announced and assure you when the all-clear is given). The app also announces when drones or missiles are flying in your general area.
+
+If there is an air raid siren during the day in Lviv, it will almost certainly pass uneventfully (they are ordered across the country every time a certain type of Russian warplane starts flying). If a siren sounds during the night, a cautious person may wish to relocate to their hotel's basement or to remain in an area between two solid walls like a corridor or bathroom. If you decide to travel to Kyiv and cities further east, the air raid dangers increase significantly, and your safety protocols should be more strict.
+
+Petty crime is low in comparison to much of the rest of Europe, and it is generally easy to stay safe by exercising common sense, not getting too drunk, and being a civil and polite person. That said, be mindful of pretty women at bars who seem a bit too friendly and watch your pockets in heavily-trafficked areas.
+
+It is wise for men in particular to keep their passports or other proof that they are foreigners with them at all times during the war. Conscription officers (known locally as ТЦК/TeTseKa) sometimes patrol the cities (particularly the train station) and stop men to inspect their draft cards and even take them to the military. You will not be conscripted as a foreigner, but being able to prove that you are not Ukrainian will ensure that your interaction with these officers ends quickly. 
+
+===Curfew===
+To maintain wartime security, there is a curfew every day from 00:00 until 05:00. It is not very strictly enforced in Lviv, but you can expect the streets to be basically empty during those times. If you find yourself on the street during curfew, it is best to make your way home. If you are stopped by police or other security forces, show them your documents, tell them you are on your way home, and then go home.
+
+Uber does not operate during curfew, but apps like Uklon and Taxi838 do. 
+
+==Cope==
+It can be very helpful to learn some [[Ukrainian]] before visiting, or at least the Cyrillic alphabet. Foreigners will be forgiven for speaking Russian (many internally displaced people from the eastern regions living in the city still do), but Leopolitans take language quite seriously. Many shops and restaurants will have signs on their doors specifically indicating that they will not speak Russian. The war has intensified feelings of loyalty to the Ukrainian language, and many people feel strongly about it.
+
+That said, tourist-facing businesses will most often have English-speaking staff, and tours are available in many languages. Guests who speak Polish will find Lviv relatively easy to navigate, as the Lviv dialect of Ukrainian is especially close to Polish. 
+
+In comparison to other cities in Ukraine, Lviv is lightly touched by the ongoing war. That said, the war touches everything and everyone. The city is home to a large number of internally displaced people, and many people have friends or family who either live under Russian occupation or have been injured or killed by Russian aggression. Every morning at 09:00, the country observes a minute of silence in which traffic stops and people pause to honor the fallen. On most mornings as of 2025, there is a funeral procession which travels down Prospekt Svobody (the main drag in the center) carrying a fallen soldier to their final resting place. Do not gawk or patronize. Be respectful of what Ukraine and its people are enduring in order to keep their country.
+
+==Go next==
+* [[Kyiv]]
+* [[Odesa]]
+* [[Bukovel]]. Millions visit Bukovel in the Carpathian Mountains every year. You may take a train to Bukovel, it's a great town to explore the Ukrainian nature and do some hiking / skiing depending on a season.
+* [[Lutsk]]
+* [[Rivne]]
+* [[Transylvania]], [[Romania]]: To go south, take a bus to [[Chernivtsi]] (a bumpy 6½- hour ride, or you can take one of overnight trains). Near Chernivtsi, you can visit the lovely [[Kamianets-Podilskyi]] with its ancient castle. The bus to [[Suceava]] takes around 4 hours with border formalities. The buses from Suceava to [[Bacau]] and finally to [[Braşov]] take about 4 hours apiece on very bumpy roads.
+
+{{usablecity}}
+{{geo|49.8500|24.0167}}
+{{IsPartOf|Western Ukraine}}
+
+{{Mapmask |49.9211,23.9835 |49.9207,23.9813 |49.9184,23.9825 |49.9170,23.9806 |49.9162,23.9783 |49.9162,23.9758 |49.9180,23.9771 |49.9187,23.9751 |49.9180,23.9704 |49.9148,23.9670 |49.9140,23.9670 |49.9140,23.9694 |49.9130,23.9701 |49.9126,23.9686 |49.9113,23.9692 |49.9107,23.9726 |49.9092,23.9746 |49.9055,23.9714 |49.9048,23.9685 |49.9045,23.9665 |49.9012,23.9687 |49.9007,23.9711 |49.9039,23.9860 |49.9031,23.9907 |49.9018,23.9940 |49.9026,23.9941 |49.9028,24.0019 |49.9022,24.0071 |49.8981,24.0048 |49.8954,24.0014 |49.8956,24.0063 |49.8957,24.0090 |49.8946,24.0134 |49.8960,24.0205 |49.8965,24.0240 |49.8965,24.0286 |49.8959,24.0300 |49.8926,24.0355 |49.8929,24.0373 |49.8922,24.0395 |49.8923,24.0408 |49.8903,24.0475 |49.8893,24.0516 |49.8888,24.0531 |49.8875,24.0564 |49.8861,24.0593 |49.8841,24.0594 |49.8805,24.0616 |49.8799,24.0629 |49.8808,24.0637 |49.8803,24.0650 |49.8792,24.0643 |49.8792,24.0656 |49.8784,24.0659 |49.8769,24.0640 |49.8742,24.0656 |49.8735,24.0654 |49.8725,24.0678 |49.8748,24.0704 |49.8740,24.0770 |49.8736,24.0778 |49.8711,24.0760 |49.8702,24.0770 |49.8686,24.0771 |49.8688,24.0795 |49.8693,24.0802 |49.8694,24.0823 |49.8695,24.0879 |49.8635,24.0893 |49.8624,24.0840 |49.8594,24.0828 |49.8570,24.0872 |49.8545,24.0862 |49.8531,24.0933 |49.8524,24.0936 |49.8516,24.0988 |49.8483,24.0988 |49.8480,24.0970 |49.8457,24.0967 |49.8442,24.0985 |49.8451,24.1006 |49.8451,24.1039 |49.8424,24.1047 |49.8442,24.1125 |49.8431,24.1179 |49.8413,24.1186 |49.8398,24.1121 |49.8332,24.1128 |49.8313,24.1179 |49.8313,24.1209 |49.8327,24.1221 |49.8313,24.1267 |49.8275,24.1284 |49.8254,24.1284 |49.8249,24.1262 |49.8228,24.1269 |49.8229,24.1286 |49.8214,24.1289 |49.8197,24.1282 |49.8173,24.1306 |49.8161,24.1287 |49.8150,24.1288 |49.8147,24.1263 |49.8137,24.1267 |49.8133,24.1313 |49.8117,24.1334 |49.8109,24.1269 |49.8101,24.1270 |49.8096,24.1306 |49.8088,24.1306 |49.8081,24.1277 |49.8085,24.1236 |49.8097,24.1209 |49.8119,24.1198 |49.8152,24.1161 |49.8142,24.1102 |49.8106,24.1151 |49.8092,24.1138 |49.8038,24.1230 |49.8025,24.1278 |49.8008,24.1285 |49.7993,24.1249 |49.7976,24.1249 |49.7978,24.1218 |49.7951,24.1212 |49.7945,24.1257 |49.7916,24.1288 |49.7891,24.1272 |49.7902,24.1150 |49.7917,24.1152 |49.7932,24.1107 |49.7929,24.1070 |49.7935,24.1034 |49.7908,24.1011 |49.7918,24.0941 |49.7987,24.0869 |49.7964,24.0829 |49.7880,24.0829 |49.7870,24.0791 |49.7834,24.0795 |49.7804,24.0700 |49.7801,24.0615 |49.7807,24.0511 |49.7834,24.0519 |49.7860,24.0517 |49.7858,24.0493 |49.7873,24.0491 |49.7874,24.0481 |49.7882,24.0481 |49.7878,24.0454 |49.7857,24.0415 |49.7875,24.0349 |49.7800,24.0317 |49.7678,24.0313 |49.7688,24.0139 |49.7815,24.0138 |49.7839,24.0140 |49.7838,24.0119 |49.7867,24.0126 |49.7914,24.0113 |49.7924,24.0118 |49.7927,24.0089 |49.7920,24.0087 |49.7942,23.9937 |49.7950,23.9937 |49.7965,23.9796 |49.8012,23.9803 |49.8026,23.9658 |49.8047,23.9640 |49.8050,23.9626 |49.8078,23.9595 |49.8099,23.9557 |49.8107,23.9494 |49.8093,23.9491 |49.8093,23.9477 |49.8084,23.9477 |49.8088,23.9399 |49.8096,23.9393 |49.8101,23.9329 |49.8094,23.9323 |49.8102,23.9305 |49.8096,23.9295 |49.8101,23.9278 |49.8101,23.9259 |49.8116,23.9240 |49.8127,23.9229 |49.8126,23.9219 |49.8142,23.9210 |49.8140,23.9204 |49.8148,23.9198 |49.8156,23.9184 |49.8206,23.9159 |49.8231,23.9147 |49.8331,23.9071 |49.8364,23.9156 |49.8408,23.9119 |49.8432,23.9070 |49.8479,23.9068 |49.8519,23.9106 |49.8536,23.9093 |49.8540,23.9114 |49.8556,23.9137 |49.8583,23.9149 |49.8590,23.9088 |49.8630,23.9091 |49.8629,23.9113 |49.8647,23.9116 |49.8646,23.9132 |49.8669,23.9136 |49.8669,23.9155 |49.8731,23.9168 |49.8745,23.9154 |49.8795,23.9167 |49.8812,23.9083 |49.8827,23.9083 |49.8835,23.9052 |49.8871,23.9104 |49.8883,23.9141 |49.8918,23.9190 |49.9004,23.9238 |49.9019,23.9219 |49.9049,23.9251 |49.9046,23.9265 |49.9068,23.9262 |49.9104,23.9209 |49.9131,23.9258 |49.9148,23.9236 |49.9157,23.9272 |49.9156,23.9285 |49.9183,23.9326 |49.9162,23.9374 |49.9169,23.9449 |49.9182,23.9450 |49.9179,23.9489 |49.9173,23.9493 |49.9173,23.9514 |49.9184,23.9515 |49.9187,23.9549 |49.9177,23.9549 |49.9168,23.9602 |49.9190,23.9617 |49.9215,23.9623 |49.9227,23.9645 |49.9240,23.9671 |49.9258,23.9682 |49.9253,23.9712 |49.9260,23.9735 |49.9278,23.9728 |49.9281,23.9743 |49.9263,23.9766 |49.9260,23.9784 |49.9238,23.9810 |49.9226,23.9822}}

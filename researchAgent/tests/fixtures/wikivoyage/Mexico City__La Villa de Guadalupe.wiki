@@ -1,0 +1,132 @@
+{{pagebanner|La Villa de Guadalupe WV banner.jpg|pgname=La Villa de Guadalupe}}
+'''La Villa de Guadalupe''' is in the northern part of [[Mexico City]], part of the ''delegación'' (borough) of Gustavo A. Madero. It is home to the Basílica de Guadalupe complex (known often simply as "La Villa") at the base of Tepeyac Hill, perhaps Roman Catholicism's holiest site in Latin America.
+
+==Understand==
+[[File:Basilica de Guadalupe, tambien llamada La Villa.jpg|thumbnail]]
+The area houses the shrine of Our Lady of Guadalupe at the foot of Tepeyac Hill. This is where many believe that the Virgin Mary appeared to St. Juan Diego in 1531, leading to a series of miracles. (He was canonized by John Paul II in 2002, making him the world's first indigenous American saint.)
+
+Construction began on the Old Basilica soon after (but not completed until 1709), and the town was founded around the basilica in 1563. In the 20th century, the Old Basilica began sinking due to weakening foundations and unstable ground; it was replaced by the New Basilica in 1976. The Old Basilica has since been restored and has now re-opened; both places celebrate Mass, often concurrently.
+
+Pilgrims from around the world flock to this space to pay homage to Our Lady of Guadalupe; framed above the altar of the New Basilica hangs the tilma (apron) of Juan Diego, upon which the Virgin's image was imprinted.
+
+==Get in==
+{{Mapframe|19.48476|-99.11788|zoom=15}}
+{{mapshapes|Q735042}}
+* {{marker|type=go|name=La Villa-Basilica|lat=19.48193|long=-99.11842}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|6}}
+The La Villa-Basílica Metro station is about 2 or 3 blocks from the basilica complex.
+
+Line 6 (red), a fairly isolated line which runs east-west to the north of the city, has several connections ''("correspondencias")''  to lines that service the rest of the city: Line 7 (orange) at El Rosario, Line 5 (yellow) at Instituto del Petróleo, Line 3 (green) at Deportivo 18 de Marzo, and Line 4 (teal/aqua) at Martín Carrera. From any of these stations, hop on Line 6 to La Villa-Basílica.
+
+Exit the station, follow the crowd through the narrow market-like sidewalk full of food stalls, and onto the Calzada de Guadalupe (the main thoroughfare). From here, the Old Basilica should be visible; simply follow the crowd the couple blocks to the gates of the basilica complex. The New Basilica will be on your left, and straight ahead, the Old Basilica and the Capilla de las Capuchinas.
+
+You can also take a taxi from anywhere in the city if you'd rather deal with Mexico City's eternal traffic than the Metro.
+
+==See==
+[[File:1531 Nuestra Señora de Guadalupe anagoria.jpg|thumb|Juan Diego's cloak with image of Virgin]]
+* {{see
+| name=Basilica of Our Lady of Guadalupe | alt=Basilica of St. Mary of Guadalupe 
+| url=https://virgendeguadalupe.org.mx/en/ | email=
+| address=Fray Juan de Zumárraga 2, Col. Gustavo A. Madero | lat=19.48476 | long=-99.11788 
+| directions=Metro line 6 to Villa/La Basilica
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q305419
+| content=The Basilica of Our Lady of Guadalupe honors Mexico's most popular saint and is the destination for religious pilgrimages by faithful from every corner of Mexico and beyond. The Basilica area includes several chapels that are worth visiting in their own right. These include Capilla el Pocito, Parroquia de Capuchinas, Capilla del Cerrito and Capilla de Indio. Be sure to check out all of the chapels, as they are each beautiful in a different way, some with spectacular frescoes and sculptures. Mass at the New Basilica is celebrated hourly from 06:00 to 20:00 every day, and is generally packed (the building seats 10,000 and the atrium fits 40,000 for special events), especially on Sundays. December 12 is the annual saint's day celebration for the Virgen of Guadalupe and elaborate festivities lead up to the feast day. It's a spectacle to see if you don't mind enormous crowds.
+}}
+* {{see
+| name=El Tepeyac National Park | alt=Parque Nacional El Tepeyac | url= | email=
+| address=Amp. Gabriel Hernández, Col. Gustavo A. Madero | lat=19.5047 | long=-99.10766 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=The park preserves Tepeyac Hill, the site where the Virgin Mary appeared to a humble indigenous man named Juan Diego in 1531, requesting a church be built on the site. Religious faithful come to the neighborhood to worship at the Basilica of Our Lady of Guadalupe and to see the miraculous cloak. Many hike to the top of Tepeyac Hill to tread in the path of St. Juan Diego, who today, is known as the patron saint of indigenous people. Sadly, the park is poorly maintained by the government and abused by local communities. The park is not patrolled and poor security makes it a questionable place for tourists to visit. The park entrance is about 4km from the Basilica. The park was declared a [[Mexico national parks|national park]] in 1937 with an area of 1,500 hectares, though today, much of that land has been lost to squatters and other illegal misappropriations. The park was completely deforested prior to its inclusion in the national parks system. No native flora or fauna are in the park, though urban wildlife such as squirrels, rats, and other rodents can be found there, along with more than 100 species of birds. Reforestation efforts involved planting eucalyptus, which is the dominant type of vegetation in the park. Visitor facilities include paths with benches, picnic tables, rest rooms, and a children's playground at one end of the park. Camping in the park is allowed: inquire at the park office.
+}}
+* {{see
+| name=Museo de la Basilica de Guadalupe | alt=Museum of the Basilica of Guadalupe 
+| url=https://virgendeguadalupe.org.mx/en/museo-de-la-basilica-de-guadalupe/ | email=
+| address=Fray Juan de Zumárraga, Col. Gustavo A. Madero | lat= | long=
+| phone= +52 (55) 5118 0500 | tollfree= | fax=
+| hours= | price=
+| content=Opened in 1941, the museum houses more than 4,000 objects including the largest collection of items related to the Virgen of Guadalupe, an extensive art collection, and exhibits of liturgical items used from the early 16th century to modern times. The museum is in a separate building from the Old Basilica, though it was once part of the Basilica until an earthquake caused a wall to collapse. The museum structure was a former monastery housing Capuchin nuns in the 18th century. 
+}}
+* {{see | name=Museo de los Ferrocarrileros | alt=Railway Worker's Museum | url=https://cultura.cdmx.gob.mx/recintos/mf | email= | address=Entrada por Cuauhtémoc, Alberto Herrera s/n, Aragón La Villa | lat=19.482012 | long=-99.117459 | directions=Metro line 6 to Villa/Basilica | phone=+52 55 5118 6407 | tollfree= | hours=10:00 - 17:00 (closed Mon) | price=Free | lastedit=2023-04-11 | content=Small train museum inside the old Villa railway station. Interesting collection of rolling stock, locomotives, and model trains with a short tour about the history of railroads in Mexico. Location is right outside the Villa/Basilica Metro station.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Do==
+[[File:Danzandole a la virgen.jpg|thumb|Matachines dance for the Virgen de Guadalupe]]
+*Attend a Mass in the Basilica and experience Hispanic religious fervor.
+* {{do
+| name=Feast Day of the Virgen of Guadalupe | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=December 12 | price=
+| wikidata=
+| lastedit=
+| content=The biggest celebration of this national holiday takes place at the plaza in front of the Basilica. For 2 weeks prior to the feast day, indigenous dancers, called ''matachines'', dress in elaborate costumes and dance their way through the streets leading to the Basilica. Crowds line the parade route and food stands fill the plazas.
+}}
+
+==Buy==
+*An infinite number of commemorative items, sold both in the Basilica store (adjacent to the Old Basilica) and by vendors all over the square and lining the Calzada de Guadalupe leading up to the complex.
+
+==Eat==
+Street food. Plenty of it to be had, especially in the corridor that leads from the Metro stop to the Calzada de Guadalupe.
+
+*{{eat
+| name=El Rey de la Biria | url= | email=
+| address= | lat= | long= | directions=As you exit the plaza with the basilica, on the first junction on the right corner (after the street stalls
+| phone= | tollfree= | fax=
+| hours= | price=M$12 for a goat taco (awesome)
+| content=All other items are priced lower. Included in the price is a delicious soup (consomme).
+}}
+* {{eat
+| name=Toks | alt= | url= | email=
+| address=Calz de Guadalupe 679, Aragón, La Villa | lat=19.481016 | long=-99.118489 | directions=1 block south of La Villa/Basilica Metro station
+| phone=+52 55 5748 0815 | tollfree=
+| hours=07:00 - 20:00 | price=M$250
+| lastedit=2023-04-11
+| content=Casual chain of family oriented sit-down restaurants with traditional Mexican menu: tortas, enchiladas, tacos, etc. Clean and affordable.
+}}
+* {{eat
+| name=El Fogón Montañes | alt= | url= | email=
+| address=07000, Calz de Guadalupe 727, Aragón La Villa (Aragón) | lat=19.482756 | long=-99.117824 | directions=halfway between Villa/Basilica Metro and the Basilica complex
+| phone=+52 55 5781 3133 | tollfree=
+| hours=09:00 - 21:00 | price=
+| lastedit=2023-04-11
+| content=Casual street restaurant. Known for their large tortas (sandwiches).
+}}
+
+==Drink==
+
+==Sleep==
+La Villa de Guadalupe has few hotels, and those it has cater more to local trade than to the tourist trade. Most travelers will find it better to stay in other districts such as [[Mexico City/Polanco|Polanco]], [[Mexico City/Centro|Centro Historico]] or the [[Mexico City/Zona_Rosa|Zona Rosa]], all of which have excellent access to the Metro system.
+* {{sleep
+| name=Hotel Santiago | alt= | url= | email=
+| address=Av. Montevideo 74, Gustavo A. Madero | lat=19.486486 | long=-99.121431 | directions=
+| phone=+52 55 55771515 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=
+| lastedit=2023-04-11
+| content=Modern economy hotel about 5 blocks from Basilica of Guadalupe.
+}}
+* {{sleep
+| name=Hotel Villa Quijotes | alt= | url=http://www.hotelvillaquijotes.com/ | email=
+| address=Moctezuma 20, Aragón La Villa (Aragón) | lat=19.480798 | long=-99.116622 | directions=
+| phone=+52 55 5577 1088 | tollfree=
+| checkin=12:00 | checkout=12:00 | price=M$1500
+| lastedit=2023-04-11
+| content=Comfortable, modern mid-range hotel. On-site restaurant, on-site parking. Within 5-minute walk of Basilica or the Villa/Basilica Metro station.
+}}
+* {{sleep
+| name=Hotel Madero | alt= | url= | email=
+| address=Fray Juan de Zumárraga 127, Villa Gustavo A. Madero | lat=19.482659 | long=-99.114626 | directions=across the street from the Basilica complex
+| phone=+52 55 5577 4522 | tollfree=
+| checkin=20:00 | checkout=10:00 | price=
+| lastedit=2023-04-11
+| content=Modern hotel with sparsely furnished rooms and limited service.  Caters to local short-term stays moreso than overnight travelers.
+}}
+
+==Connect==
+Cell phone services throughout Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas.
+
+
+{{usabledistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.4864|-99.1158}}

@@ -1,0 +1,624 @@
+{{pagebanner|Museo_Soumaya_Plaza-banner2.jpg|pgname=Polanco}}
+'''Polanco''' refers to an area of [[Mexico City]] north of [[Mexico City/Chapultepec|Chapultepec]] Park. It is one of the wealthiest neighborhoods of Mexico City and commands some of the highest real estate prices, and offers a wide range of upscale boutiques, restaurants and numerous art galleries.
+
+==Understand==
+[[File:Museo Soumaya Plaza.jpg|thumb|Museo Soumaya]]
+This district is delimited by Paseo de la Reforma and [[Mexico City/Chapultepec|Chapultepec Park]] to the south, Boulevard Manuel Avila Camacho (aka Periférico) to the west, Avenida Ejercito Nacional to the north and Avenida Mariano Escobedo to the east.  Many streets in the area are named after famous writers, philosophers or scientists; its most notable street, Avenida Presidente Masaryk, is named after a Czech president.
+
+Polanco is known for its cultural diversity. The Jewish community began settling in Polanco in the late 19th century with Russian immigrants establishing an Ashkenazi community and Syrian, Lebanese and other Middle Eastern immigrants establishing a Sephardic community. When Jewish immigrants from various European countries came in the mid-20th century, they were also drawn to Polanco. There are an estimated 50,000 Jews living in Polanco. They have two large synagogues, and the neighborhood supports many Jewish bakeries and kosher restaurants and groceries.
+
+==Get in==
+{{Mapframe|19.4355|-99.1953|zoom=14}}
+{{mapshapes|Q735042}}
+
+===By metro===
+* {{marker|type=go|name={{station|Polanco Station}}|lat=19.4335|long=-99.1909}} (Line {{rint|mexicocity|7}}, the orange line) is located conveniently in the middle of the area at the corner of Av. Horacio and Calle Arquimedes, one block away from Avenida Presidente Masaryk.
+* {{marker|type=go|name={{station|Auditorio Station}}|lat=19.42574|long=-99.19191}} (Line {{rint|mexicocity|7}}) is on the south side of Polanco and will be more convenient for some Polanco addresses, particularly places near Parque Lincoln.
+
+===By bus===
+Metrobus line 7 runs along Paseo de la Reforma towards Campo Marte. From the stops at Ghandi or Auditorio, it is a short walk into Polanco.
+
+==Get around==
+Walking is the easiest way to get around in most of Polanco, particularly during the evening rush hour (''hora pica'') when traffic on major roads is gridlocked. At these times, walking is often faster than traveling by car. At other times of the day, Uber and other ride-hailing apps are convenient (and ridiculously affordable).
+
+===By bike===
+Cycling is a good way to get around in Polanco, which has more than a dozen Ecobici loaner bike stations, including 5 along Av. Presidente Masaryk and 4 along Campo Eliseo. There are 2 Ecobici stations on the edge of Parque Lincoln. The nearest Ecobici to the Museo Soumaya and Acuario Inbursa is on Ejercito Nacional at Socrates. ''See also [[Cycling in Mexico City]].''
+ 
+==See==
+[[File:Museo Júmex front.jpg|thumb|Museo Júmex]]
+Polanco is an urban business hub that is best explored on foot. Eclectic and Nationalist styles flourish in Polanco.
+
+*{{see
+| name=Plaza Uruguay | url= | email=
+| address= | lat=19.43278 | long=-99.18768 | directions=on Av Horacio, between Hegel and Lope de Vega
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A small, nicely wooded park with a fascinating concrete sculpture in the middle; good place to stop and rest if you are tired of shopping.
+}}
+* {{see
+| name=Museo Soumaya | alt= | url=https://www.museosoumaya.org/ | email=visitasyactividades@soumaya.org.mx
+| address=Blvd Miguel de Cervantes Saavedra 303 | lat=19.44070 | long=-99.20462 | directions=
+| phone=+52 55 1103 9805 | tollfree= | image=Museo Soumaya Plaza.jpg
+| hours=Daily 10:30-18:30 | price=Free
+| wikidata=Q2097646
+| lastedit=2025-08-25
+| content=A private museum and collection owned by Carlos Slim, one of the wealthiest man in the world, according to ''Forbes'' magazine. The collection includes art from many well-known European artists, including an extensive selection of works by Auguste Rodin, and the building was designed by Slim's son-in-law, architect Fernando Romero.
+}}
+* {{see
+| name=Museo Júmex | alt= | url=https://www.fundacionjumex.org/es | email=info@museojumex.org
+| address=Miguel de Cervantes Saavedra 303 | lat=19.44041 | long=-99.20369 | directions=
+| phone=+52 55 5395 2618 
+| hours=Tue-f 10:00-17:00, Sat 10:00-19:00, Sun 10:00-17:00 | price=Free
+| image=Museo Júmex front.jpg
+| wikidata=Q5142722
+| lastedit=2025-08-25
+| content=This privately-owned modern art museum houses an extensive collection of work by Mexican and international artists, including Orozco and Amorales, and hosts special exhibits. Cafe and restaurant. The museum has ramps and elevators for access for people with limited mobility, and have wheelchairs available for loan free at reception.
+}}
+* {{see
+| name=Acuario Inbursa | alt= | url=https://www.acuarioinbursa.com.mx/ | email=contacto@acuarioinbursa.com.mx
+| address=Blvd. Miguel de Cervantes Saavedra 386, Amp Granada, Miguel Hidalgo | lat=19.440144 | long=-99.204749 | directions=
+| phone=+52 55 5395 4586 | tollfree=
+| hours=10:00 - 18:00 | price=M$260
+| lastedit=2022-12-21
+| content=Large, very modern aquarium extending 5 floors below street level. 45 exhibition areas, including coral reefs, an Antarctic habitat for our tuxedo clad penguin friends, an enormous shark tank and many more.
+}}
+* {{see
+| name=Centro de Arquitectura y Diseño | alt=Architecture and Design Center | url= | email=
+| address=Av Juan Vázquez de Mella number 481 | lat=19.43347 | long=-99.20902 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=
+}}
+
+===Religious buildings===
+[[File:Zarnecki SanAgustinPolanco.jpg|thumb|upright=0.8|Anna Zarnecki painting in Parroquia San Agustin]]
+* {{see
+| name=Parroquia San Agustin | alt= | url=https://www.sanaguspolanco.org/ | email=
+| address=Av. Horacio 921, Polanco III Secc | lat=19.435542 | long=-99.196548 | directions=Av. Horacio to Parque America, the church is on the north side of the park
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-12-01
+| content=Grand modern and neo-classical church built of granite in the 1940s. The church was built by the Augustinians and features many architectural adornments. Spectacular shell-shaped entryway, vaulted nave, and a bright interior lit by many stained glass windows. The church has some excellent modern religious art including mosaics and a series of more than 20 paintings by contemporary Polish-Mexican artist, Anna Zarnecki, that exemplify her unique style of using the triangle as a fundamental building block for her images.
+}}
+* {{see
+| name=Bet El | alt= | url=https://betel.org.mx/ | email=
+| address=Av. Horacio 1722 | lat=19.43523 | long=-99.20913 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=
+}}
+* {{see
+| name=Sinagoga Maguen David | alt= | url=https://maguendavid.com/ | email=
+| address=Calle Socrates 321 | lat=19.43205 | long=-99.20399 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=
+}}
+
+==Do==
+*See a film in one of the cineplexes in the neighborhood, including the arthouse theater Cinemex Casa de Arte.
+* {{do
+| name=Teatro Angela Peralta | alt= | url=https://carteleradeteatro.mx/teatro/poniente/teatro-angela-peralta/ | email=
+| address= | lat=19.42915 | long=-99.19437 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=An amphitheatre on the east side of Parque Lincoln. Varied schedule includes concerts, plays, dance and other performing arts.
+}}
+* {{do
+| name=Hipodromo de las Americas | alt= | url=http://www.hipodromo.com.mx | email=
+| address=Av. Industria Militar, Colonia Lomas de Sotelo | lat=19.439575 | long=-99.220952 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Mexico City's home for [[Horse racing|horse racing]], both thoroughbreds and quarter-horses. There are races nearly every day, the complex has different zones for different budgets including the original club-house and grandstand, with several restaurants and seating for 20,000 race fans.
+}}
+
+==Buy==
+[[File:Masaryk15pm1.jpg|thumb|Upscale boutiques fill Av. Presidente Masaryk]]
+
+'''Avenida Presidente Masaryk''' (''alternatively, though incorrectly, spelled Mazaryk, or Masarik'') is one of the trendiest and most expensive shopping areas in Mexico City, where the local jet-set supply themselves. Many designer boutiques-- from Armani to Zara-- and luxury brands including Louis Vuitton, Tane, Rolex, Cartier, Gucci, Bulgari, Corneliani and Tiffany's, can be found on Masaryk. There are also classy car showrooms for luxury car brands including Mercedes Benz, Land Rover, and Lexus.
+* {{buy
+| name=Onora | alt= | url=http://onoracasa.com/ | email=
+| address=Lope de Vega 330 | lat=19.43236 | long=-99.18716
+| phone=+52 55 5203 0938
+| hours=Daily 11:00 - 19:00 | price=
+| lastedit=2025-11-27 
+| content=High-end home design shop selling artesanal Mexican decor, ceramics, and tapestries. The shop has its own design service that can help you select harmonious pieces to create a theme for your living spaces.
+}}
+* {{buy
+| name=TANE |alt=| url=https://mx.tane.com/ | email=info@tane.mx
+| address=Av Presidente Masaryk 430 | lat=19.43180 | long=-99.20018 | directions=
+| phone= +52 55 5282 6200 | tollfree= | fax=
+| hours=Mon-Fri 11:00-20:00, Sat 11:00-19:00, Sun 11:00-18:00 | price=
+|lastedit=2019-08-08| content=High-quality silver, silver tableware, hollowware and other objets d'art, all handcrafted in Mexico.
+}}
+
+'''Parque Lincoln''' is another place for high-end shopping:
+* {{buy
+| name=Tienda MAP | alt=Museum store | url=https://tiendamap.com.mx/ | email=
+| address=Aristoteles 8 | lat=19.429094 | long=-99.193634 | directions=adjacent to Parque Lincoln
+| phone=+52 55 5281 5595 | tollfree=
+| hours=Daily 10ː00 - 18ː00 | price=
+| lastedit=2025-11-27
+| content=Sells authentic [[Mexican folk art]] including eclectic trinkets that are not only visually appealing but an authentic piece of culture, often showing a humorous perspective on poverty, death, or other misfortune. The shop in Polanco is an extension of the official museum shop of the Museo de Arte Popular (MAP).
+}}
+* {{buy
+| name=Piel Canela | alt= | url= | email=
+| address=Oscar Wilde 20 (near the Lincoln Park) | lat= | long= | directions=
+| phone=+52 55 5280 8464 | tollfree=
+| hours= | price=
+| lastedit=2019-08-08
+| content=Sells butter-soft leather handbags and accessories.
+}}
+
+===Malls===
+[[File:Antara Polanco, interior-2.jpg|thumb|upright=0.7|Shopping in Antara Polanco]]
+* {{buy
+| name=Antara Polanco | alt= | url=https://www.antara.com.mx/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4770975
+| lastedit=
+| content=Mid to high-end shopping mall with food court and cinemas. Shops include Zara, Mango, Carolina Herrera and Hugo Boss.
+}}
+
+* {{buy
+| name=Plaza Carso | alt= | url= | email=
+| address= | lat= | long= | directions=next to the Museo Soumaya
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q17085667
+| lastedit=
+| content=Glitzy, modern mall with several restaurants A Ferrari dealership is here.
+}}
+
+* {{buy
+| name=Plaza Polanco | alt= | url= | email=
+| address=Av Ejercito Nacional | lat=19.43827 | long=-99.21042 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Modest, dated mall 
+}}
+
+* {{buy
+| name=Pabellón Polanco | alt= | url= | email=
+| address=Av. Ejercito Nacional | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Middle class mall with modest stores such as Sears, has a food court, and cinemas. As of 2025, the mall is temporarily closed for renovations (more like a complete rebuild).
+}}
+
+===Department stores===
+* {{buy
+| name=Liverpool Polanco | alt= | url=https://liverpool.com.mx/ | email=
+| address=Calz. Mariano Escobedo | lat=19.434045 | long=-99.182695 | directions=
+| phone= | tollfree=
+| hours=Daily 11:00 - 21:00 | price=
+| image=Liverpool Polanco SE store exterior looking NW from Mariano Escobedo at Horacio.jpg
+| lastedit=2025-10-31
+| content=Huge classic department store where you can buy clothing, household items and an array of gourmet food and drinks.
+}}
+* {{buy
+| name=El Palacio de Hierro–Polanco | alt= | url=https://elpalaciodehierro.com | email=
+| address= Avenida Moliere 222 | lat=19.43561 | long=-99.20244 | directions=
+| phone= | tollfree= | fax=
+| hours= | price= | wikidata= |image=Palacio de Hierro Mexico.jpg
+| content=Palacio de Hierro's Centro store is the historic flagship, but the Polanco store is very much the current flagship of the most upmarket Mexican department store chain. At 55,200 m² (594,168 sq ft), it is about half the size of Harrods or Macy's Herald Square, and as such, the largest department store in Latin America — perhaps the most luxurious as well. The chain promotes this branch as the ''El Palacio de los Palacios'' meaning "The Palace of (all) Palaces". The ground floor houses boutiques for global luxury brands, and on its other floors carries apparel both luxury and upper-mid-range brands; shoes, accessories, electronics, and home goods. Several full-service restaurants, a covered open-air food hall with branches of some of the city's popular trendy fast-casual eateries. Gourmet foods, wines and liquors for sale.
+}}
+
+===Street market===
+[[File:PolancoTianguis.jpg|thumb|upright=0.7|A pop-up street market (called "tianguis") in Polanco's Parque Lincoln]]
+* {{buy
+| name=Tianguis Sabado
+| address=Lincoln Park | lat=19.429671220812985 | long=-99.19734000472747
+| phone= | tollfree= | fax=
+| hours=Sat 08:00 - 16:00 | price=
+| lastedit=2025-10-31
+| content=Every Saturday, a pop-up flea market and art fair takes place in Lincoln Park. 
+}}
+
+=== Bookstores ===
+* {{buy
+| name=El Pendulo | url=http://pendulo.com/
+| address=Alejandro Dumas 81, Polanco IV Secc. | lat=19.430869089059208 | long=-99.19577121772576 | directions=near Parque Lincoln
+| phone=+52 55 5280 4111 | tollfree= | fax=
+| hours=Daily 08:00 - 23:00 | price=
+| lastedit=2025-11-06
+| content=Eclectic bookstore with a widr-ranging selection of (mostly Spanish language) books with an integrated coffee shop serving hot and cold coffee beverages along with light food. 
+}}
+* {{buy
+| name=Libreria Gandhi | url=https://www.gandhi.com.mx/
+| address=Av. Pdte. Masaryk 353, Polanco III Secc. | lat=19.43240698123637 | long=-99.19645786320596 | directions=near Parque Lincoln
+| phone=+52 55 2789 3230 | tollfree= | fax=
+| hours=Daily 09:00 - 21:00 | price=
+| lastedit=2025-11-06
+| content=Mainstream bookstore with a good selection of Spanish language books, an excellent selection for kids, and a small section of English language books. 
+}}
+* {{buy
+| name=Un Lugar de La Mancha | url=http://unlugardelamancha.mx/
+| address=Esopo 11, Polanco II Secc. | lat=19.433387127005194 | long=-99.2062465850326 | directions=near Chapultepec
+| phone=+52 55 5280 4826 | tollfree= | fax=
+| hours=Daily 08:00 - 21:30 | price=
+| lastedit=2025-11-06
+| content=Eclectic independent bookstore in a restored mansion with an outdoor garden and terrace where you can sit and have coffee with light breakfast and lunch food. Classy background music and friendly staff make it a hidden gem for CDMX book lovers.
+}}
+
+==Eat==
+Restaurants in Polanco tend towards the high end with several critically acclaimed hotspots (including 2-star Michelin rated Pujol and Quintonil). Reservations are required at many of these restaurants, where dress codes may also be enforced. Although most restaurants are very high end, there are affordable options along Avenida Homero, Avenida Ejercito Nacional and on some of the side streets. High-end restaurants cluster on the northern edge of Parque Lincoln and along Avenida Presidente Masaryk.
+
+[[File:Octopus at Pujol Restaurant (40596161711).jpg|thumb|Octopus at Pujol]]
+* {{eat
+| name=Fisher's | url=http://www.fishers.com.mx/ | email=
+| address=Horacio 232 | lat=19.43292 | long=-99.18508 | directions=
+| phone=+52 55 5531 0567 | tollfree= | fax=
+| hours=Daily 09:30-23:00 | price=
+| content=Serves fish and shellfish in a casual and relaxed atmosphere. It is worth paying the slightly high prices due to the ample variety of shellfish that is found here and is not available at other places.
+}}
+* {{eat
+| name=Rincón Argentino | alt= | url=https://www.rinconargentino.mx/ | email=info@rinconargentino.mx
+| address=Presidente Mazaryk 177 | lat=19.43172 | long=-99.18893 | directions=
+| phone=+52 55 5254 8744 | tollfree=
+| hours=Daily 12:30-00:30 | price=
+| content=Although somewhat commercial (the restaurant is outfitted like an Argentinian ranch), this restaurant is well known for its exquisite cuts of beef. It's a meat lovers paradise, although vegetarians are catered for with delicious salads.
+}}
+* {{eat | name=Pujol | alt= | url=https://pujol.com.mx/eng/ | email= | address=Tennyson 133 | lat=19.432508 | long=-99.194577 | directions= | phone=+52 55 55454111 | tollfree= | hours=13:30 - 21:30 | price=M$3000 | lastedit=2023-03-19 | content=Contemporary Mexican cuisine in one of Mexico City's top restaurants, operated by celebrity chef Enrique Olvera. Reservations are a must and are usually made months in advance. Two stars in the ''Guide Michelin''.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Suntory | url= | email=
+| address=Montes Urales 535, Colonia Lomas de Chapultepec | lat=19.428603959779508 | long=-99.20699894554735 | directions=
+| phone=+52 55 5536-9232 | tollfree= | fax=
+| hours= | price=
+| lastedit=2023-03-19
+| content=One of the oldest (and more traditional) Japanese restaurants in the city. The sushi is excellent as is the tepenyaki. There is another branch at Torres Adalid 14, Colonia del Valle.
+}}
+*{{eat
+| name=Centro Asturiano | url=https://www.centroasturianodemexico.com/ | email=
+| address=C. Arquimedes 4 | lat=19.427505358943083 | long=-99.19172367056957 | directions=close to Chapultepec
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Centro Asturiano is where some of the Mexican-Spaniards gather. It has an excellent restaurant offering delicious Iberian treats. A second location is in Coyoacan.
+}}
+*{{eat
+| name=El Pendulo | alt= | url=http://pendulo.com/ | email=
+| address=Alejandro Dumas 81 | lat=19.430485 | long=-99.195341 | directions=
+| phone= | tollfree=
+| hours=+52 55 5280 4111 | price=
+| lastedit=2023-04-06
+| content=Hip, bright, clean coffeehouse/bookstore with a wide selection of drinks, desserts, and light foods, plus shelves and shelves of (mostly Spanish-language) books and DVDs to peruse.
+}}
+*{{eat
+| name=El Bajío | url=http://carnitaselbajio.com.mx/ | email=
+| address=Alejandro Dumas 7 | lat=19.427626738419104 | long=-99.19628951904446 | directions=near the Hard Rock
+| phone= +52-81-82-45 | tollfree= | fax=
+| hours=Daily 08:00-23:00 | price=M$10-20
+| content=Some people call this the best place in the entire ciudad for traditional Mexican food. All of the tacos have a great flavor, and don't miss their mole sauce (even if on arroz). Bebidas buenoes - the horchata margarita and the cafe de olla are must haves. The restaurant is out of the way of the main Polanco area, but don't be fooled, it's usually busy so expect a wait.
+}}
+* {{eat
+| name=Hacienda de los Morales | alt= | url=https://www.haciendadelosmorales.com/ | email=
+| address=Vázquez de Mella 525 | lat=19.434497 | long=-99.20844 | directions=
+| phone=+52 5552833055 | tollfree=
+| hours=08:00 - 12:00 (breakfast), 13:00 - 00:00 (dinner) | price=M$300-400
+| lastedit=2025-11-26
+| content=Historic and cultural space that operates as a traditional Mexican restaurant specializing in brunch, but with a spectacular dinner menu as well. Set in a large historic [[Haciendas|hacienda]] dating from the mid 16th century, the opulent estate features several spacious dining rooms, along with event halls and an outdoor garden. The hacienda originally operated as an agricultural estate growing olives and mulberries. As the city grew, lands were sold and developed to become Polanco, though the great house remained as a residence of the Morales family until the 1960s when it was restored to its current form as a luxury restaurant and event space. The restaurant is particularly popular for Sunday brunch, accompanied by live Mexican music. It also hosts special events such as a traditional Christmas dinner and a New Years Eve dinner with dancing and a live orchestra. It is an opulent slice of genuine history and an experience: like having dinner with one of the old Spanish dons.
+}}
+* {{eat | name=Animal | alt= | url=https://costeno.com/animal/ | email= | address=C. Calderón de la Barca 108, Polanco III Secc | lat=19.432311 | long=-99.198945 | directions= | phone=+52 55 7691 3120 | tollfree= | hours=13:00 - 01:00 | price=M$1000 | lastedit=2025-11-26 | content=Contemporary restaurant with jungle motif. Innovative dishes and large, well-made cocktails. Start off with a selection of sushi or sashimi but save room because the steaks are huge. Big desserts are perfect for sharing.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Rosa Negra | alt= | url=https://rosanegra.com.mx/ | email=
+| address=Presidente Masaryk 298 | lat=19.431456 | long=-99.193271 | directions=
+| phone=+52 55 5282 2603 | tollfree=
+| hours=12:00 - 02:00 | price=M$1000+
+| lastedit=2023-03-19
+| content=Elegant restaurant with sophisticated menu featuring steaks and seafood. The colossal octopus and the wagyu beef steaks are favorites. The Taboo bar is a popular nightspot with DJs playing mostly electronic music, live musicians, and lively bartenders pouring creative drinks. Valet parking available.
+}}
+* {{eat
+| name=La Cabrera | alt= | url= | email=
+| address=Av. Ejército Nacional Mexicano 843, Granada | lat=19.439865 | long=-99.204738 | directions=
+| phone=+52 55 5282 3838 | tollfree=
+| hours=12:00 - 01:00 | price=
+| lastedit=2023-04-06
+| content=Argentinian beef restaurant that also serves pasta and other dishes. Casual but expensive.
+}}
+* {{eat
+| name=Sylvestre | alt= | url=http://www.sylvestre.mx/index/ | email=
+| address=Anatole France 74 | lat=19.431308 | long=-99.197912 | directions=
+| phone=+52 55 5281 2147 | tollfree=
+| hours=13:30 - 01:00 (til 19:00 Sun) | price=M$1000+
+| lastedit=2023-04-06
+| content=Elegant restaurant with valet parking, International menu.
+}}
+* {{eat
+| name=Dawat | alt= | url=http://www.resdawat.com/ | email=
+| address=Av. Ejército Nacional Mexicano 676, Polanco III Secc | lat=19.438593 | long=-99.195766 | directions=
+| phone=+52 55 5281 8020 | tollfree=
+| hours=13:00 - 20:00 | price=
+| lastedit=2023-04-06
+| content=Modern casual restaurant serving Indian cuisine.
+}}
+* {{eat
+| name=Quintonil | alt= | url=https://www.quintonil.com/ | email=
+| address=Newton 55 | lat=19.431094 | long=-99.191744 | directions=
+| phone=+52 55 5280 2680 | tollfree=
+| hours=Mon-Sat 13:00 - 24:00, closed Sun | price=
+| lastedit=2024-01-28
+| content=Elegant dining in one of the city's top restaurants. Locally sourced ingredients are used to stylishly present nouveau Mexican cuisine. Dishes include a chilayote in mole sauce and seasonal offerings. Reservations are a must. Two stars in the ''Guide Michelin''.
+}}
+* {{eat
+| name=Guzina Oaxaca | alt= | url=https://guzinaoaxaca.com/ | email=
+| address=Presidente Masaryk 513 | lat=19.432708 | long=-99.203259 | directions=
+| phone=+52 55 5282 1820 | tollfree=
+| hours=Mon-Sat 09:00 - 23:00, Sun 09:00 - 18:00 | price=M$1000
+| lastedit=2025-11-26
+| content=Celebrity chef Alejandro Ruiz grew up in Oaxaca and he celebrates his city's famed cuisine in this elegant traditional restaurant. Quesadillas stuffed with ''flor de calebaza'' are a great entrée, and the ''mole oaxaqueno'' is not to be missed. It is a deep black and redolent with chocolate and chile and its served over turkey (the traditional way rather than the modernized practice of using chicken). A Bib Gourmand selection in the ''Guide Michelin''.
+}}
+* {{eat | name=Au Pied de Cochon | alt= | url=http://www.aupieddecochon.rest/ | email= | address=Campos Eliseos 218 | lat=19.427422 | long=-99.193678 | directions= | phone=+52 55 5327 7756 | tollfree= | hours=24 hours | price=M$1000 | lastedit=2024-01-28 | content=If you're an uber-billionaire landing your jet at Mexico City International at 3 in the morning, you are ''not'' going to one of the city's myriad late night taco shops no matter how bad the munchies hit you. Instead, you make a beeline to Au Pied de Cochon, a 5-star French restaurant in the heart of the city's ritziest neighborhood, where of course 5-star restaurants open all night, just like Denny's (if Denny's served escargot). Elegant dining, an extensive wine list, and all the classic French dishes at appropriately 5-star prices.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Bandido Cafe | alt= | url=https://bandido.com.mx/ | email=
+| address=Emilio Castelar 208 | lat=19.431333 | long=-99.201122 | directions=
+| phone=+52 56 5347 6018 | tollfree=
+| hours=Wed-Sat 08:00 - 22:00, Sun-Tue 08:00 - 18:00 | price=
+| lastedit=2024-08-28
+| content=Upscale nouveau Mexican cuisine served in a space where the quality of the music and sound system is as important as the aesthetics of the dining room and the presentation of the food. Specializes in grilled meats cooked over wood coals.
+}}
+* {{eat | name=Ryoshi | alt= | url=https://www.ryoshi.mx/ | email= | address=Av. Pdte. Masaryk 111, Polanco Secc V | lat=19.431914 | long=-99.186291 | directions=block and a half from Plaza Uruguay | phone=+52 55 8848 0754 | tollfree= | hours=Sun-Tue 13:00 - 01:00, Wed-Sat 13:00 - 02:00 | price=M$1000 | lastedit=2024-09-10 | content=Elegant Japanese restaurant specializing in fresh seafood. Try the totoaba, tuna and hamachi. Sake samplers available.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Malix | alt= | url=http://malixresto.com/ | email=
+| address=Av. Isaac Newton 104 | lat=19.432743 | long=-99.190176 | directions=Metro to Polanco station (2 blocks from Malix)
+| phone=+52 55 2875 1825 | tollfree=
+| hours=Mon-Sat 13:30 - 23:30, closed Sun | price=M$800+
+| lastedit=2024-10-23
+| content=Innovative regional Mexican cuisine featuring locally sourced heirloom foods that Mexico City foodies find in certain mercados and tianguis that were revealed to a wider world through the writings of the late British food journalist, Diana Kennedy. Celebrity chef Alonso Madrigal uses the distinctive flavors of indigenous ingredients to meld with traditional Mexican cuisine to create a unique dining experience.
+}}
+* {{eat
+| name=Casa Portuguesa | alt= | url=http://www.casaportuguesa.com.mx/ | email=
+| address=Av. Emilio Castelar 111, Polanco III Secc | lat=19.430357 | long=-99.197411 | directions=across the street from Parque Lincoln
+| phone=+52 555 281 0075 | tollfree=
+| hours=Mon-Fri 07:30 - 22:00, Sat 09:00-00:00, Sun 09:00 - 19:00 | price=
+| lastedit=2025-04-01
+| content=Trendy upscale restaurant serving Portuguese cuisine, like bolinho de bacalhau. Food is well cooked and portions are ample.
+}}
+* {{eat
+| name=Cuerno Masaryk | alt= | url=http://cuerno.mx/ | email=
+| address=Aristoteles 124 | lat=19.432089 | long=-99.193770 | directions=
+| phone=+52 55 5929 9171 | tollfree=
+| hours=Daily 13:00 - 02:00 | price=M$500
+| lastedit=2025-11-04
+| content=Popular bistro restaurant serving contemporary Mexican and international cuisine. The bone marrow tacos are recommended as is the sashimi. Occasional live music.
+}}
+* {{eat
+| name=Ivoire | alt= | url=http://ivoirepolanco.com/ | email=
+| address=Av. Emilio Castelar 95, Polanco IV Secc | lat=19.430179 | long=-99.196352 | directions=north side of Parque Lincoln
+| phone=+52 55 5280 0477 | tollfree=
+| hours=Daily 08ː30 - 01ː00 | price=M$1000
+| lastedit=2025-11-27
+| content=Elegant French restaurant with casual outdoor sidewalk dining available. Excellent choice for a romantic dinner or for a memorable breakfast. In-house bakery.
+}}
+* {{eat
+| name=Casa d'Amico | alt= | url= | email=
+| address=Av. Homero 433, Polanco V Secc | lat=19.435879 | long=-99.188637 | directions=
+| phone=+52 55 5025 2787 | tollfree=
+| hours=Mon-Sat 13ː00 - 23ː00, Sun 13ː00 - 19ː00 | price=M̩300
+| lastedit=2025-11-27
+| content=Comfortably elegant dining room where the kitchen serves authentic Italian pastas, pizza, steaks, risotto, desserts and more.
+}}
+
+=== Kosher ===
+
+* {{eat
+| name=Auguri Kosher Trattoria | alt= | url= | email=
+| address=Av Cordillera de Los Andes 375 | lat=19.42909032150095 | long=-99.21108343419797 | directions=
+| phone=+52 55 5540 0500 | tollfree=
+| hours=Sun-Thu 14ː00 - 22ː30, closed Fri-Sat | price=
+| wikidata=
+| lastedit=2026-01-03
+| content=First class restaurant with elegant dining room serving kosher Mexican and Italian cuisine. Food is flavorful and service is friendly and efficient. Try the salmon carpaccio.
+}}
+
+* {{eat
+| name=Vico's Grill Kosher | alt= | url=https://www.vicosgrillkosher.com/ | email=
+| address=Av. Jaime Balmes 8, Polanco I Secc. | lat=19.43803687625483 | long=-99.20985956303318 | directions=
+| phone=+52 729 844 0272 | tollfree=
+| hours=Sat 22ː30 - 00ː30, Sun-Thu 13ː30 - 23ː00, closed Fri | price=
+| wikidata=
+| lastedit=2026-01-03
+| content=Classy restaurant serving seafood dishes, grilled beef, and Mediterranean cuisine. 
+}}
+
+* {{eat
+| name=Klein's | alt= | url=https://www.kleins.mx/ | email=
+| address=Av. Pdte. Masaryk 360B, Polanco III Secc | lat=19.431795118297497 | long=-99.19697996303336 | directions=
+| phone=+52 55 5280 2704 | tollfree=
+| hours=Daily 07ː00 - 23ː00 | price=
+| lastedit=2026-01-03
+| content=Hearty breakfast fare that includes fresh juices, classic Mexican dishes like chilaquiles alongside bagels and traditional Jewish dishes. Anything on the menu can be made kosher by request (extra charge may apply).
+}}
+
+==Drink==
+
+* {{drink
+| name=Blue bar | alt= | url=https://www.caminoreal.com/en/caminoreal/camino-real-polanco-mexico | email=
+| address=within Camino Real Hotel, Mariano Escobedo 700, Col. Anzures | lat=19.428339 | long=-99.178122 | directions=
+| phone=+52 5 263-8888 | tollfree=
+| hours= | price=
+| content=A cool, relaxed place to have a drink and a nice chat. Average prices and good service.
+}}
+*{{drink
+| name=Jaso Restaurant | alt= | url=http://www.jaso.com.mx | email=
+| address=Newton 88 | lat=19.432215 | long=-99.190613 | directions=
+| phone=+52 55457476 | tollfree=
+| hours=14:00-02:00 | price=M$400-600 per person
+| content=Jaso is an ideal place for enjoying the finest Signature Cocktails in Mexico City surrounded by a cool ambiance.
+}}
+* {{drink | name=Pinche Bar | alt= | url=https://www.pgbbq.mx/bar | email= | address=Lago Iseo 296, Anáhuac I Secc, Miguel Hidalgo | lat=19.441799 | long=-99.181599 | directions= | phone=+52 556 389 1129 | tollfree= | hours= | price= | lastedit=2024-12-22 | content=Large warehouse bar attached to a Texas style barbecue restaurant. The bar has live music, comedians, drag queen shows and various other events.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Limantour Polanco | alt= | url=http://www.limantour.tv/ | email=
+| address=Oscar Wilde 9 | lat=19.430501 | long=-99.196996 | directions=50 meters north of Parque Lincoln
+| phone=+52 55 5280 1299 | tollfree=
+| hours=15:00 - 01:00 | price=
+| lastedit=2025-11-01
+| content=The Roma location established a reputation as one of the world's best bars (named to "50 best" list), so the newer Polanco location has a high standard to live up to. Fortunately, it's far easier to reserve a table at this location than the one in Roma. Creative mixed drinks with an emphasis on tequila and mezcal. Requires at least a nominal food purchase to order drinks.
+}}
+
+* {{drink
+| name=La Santa | alt= | url=http://lasantamasaryk.com/ | email=
+| address=Av. Pdte. Masaryk 336, Polanco IV Secc | lat=19.431787 | long=-99.195314 | directions=
+| phone= | tollfree=
+| hours=Open 24 hours Mon-Wed, closed Thu-Sun | price=
+| lastedit=2025-11-06
+| content=Exclusive upscale nightclub with pounding electronic music and multiple dance floors. Known for being hard to get into, especially if you don't look like you can afford to waste your money.
+}}
+===Coffee===
+* {{drink
+| name=Cafe Toscano | alt= | url=
+| address=Temístocles 26 | lat=19.42930686370965 | long=-99.19246890711435 | directions=
+| phone=+52 55 6732 5374 | tollfree=
+| hours=Daily 08:00 - 23:00 | price=M$200
+| lastedit=2025-11-01
+| content=Popular coffee shop with hot and cold coffee drinks as well as light food, including breakfast favorites like avocado toast and chilaquiles, a brunch menu (often accompanied by live music), as well as pizza and sandwiches. 
+}}
+* {{drink
+| name=Biscottino | alt= | url=
+| address=Luis G. Urbina 4 | lat=19.42877329373562 | long=-99.19401455777755 | directions=
+| phone=+52 55 5280 2155 | tollfree=
+| hours=Sun-Fri 08:00 - 20:00, closed Sat | price=M$200
+| lastedit=2025-11-01
+| content=Small coffee shop on one corner of Parque Lincoln with both indoor and outdoor seating. A variety of hot and cold coffee beverages are available as well as light breakfast and lunch plates. Locals love the fresh-baked cookies and vegetarians will appreciate the vegan muffins. 
+}}
+* {{drink
+| name=Cafe Joselo | alt= | url=
+| address=Av. Emilio Castelar 107 | lat=19.43013920319189 | long=-99.19669676676858 | directions=north side of Parque Linccoln
+| phone= | tollfree=
+| hours=Daily 07:00 - 21:00 | price=M$100
+| lastedit=2025-11-01
+| content=Small coffee shop on the north side of Parque Lincoln with seating on 2 floors. A variety of hot and cold coffee beverages, but the Chai Latte is particularly recommended. A variety of baked goods are available and whole-bean or ground coffee is sold so you can brew the coffee at home.
+}}
+* {{drink
+| name=Conejo Blanco | alt= | url=
+| address=Av. Emilio Castelar 212 | lat=19.431388888141733 | long=-99.20123219499665 | directions=
+| phone=+52 55 2272 1904 | tollfree=
+| hours=Daily 08:00 - 21:00 | price=M$150
+| lastedit=2025-11-01
+| content=Casual coffee shop with outdoor tables on the sidewalk which are dog-friendly. In addition to the outstanding hot and cold coffee drinks they have their own French bakery with a variety of rolls, muffins, and savory breads. They serve a highly acclaimed French toast at breakfast.
+}}
+* {{drink
+| name=Cafe Jekemir | alt= | url=http://cafejekemir.com/sucursales.html | email=
+| address=Av. Horacio 304 | lat=19.433248 | long=-99.185844 | directions=200 meters east of Plaza Uruguay
+| phone=+52 55 5250 6242 | tollfree=
+| hours=Mon-Fri 08:00 - 21:00, Sat 09:00 - 17:00, closed Sun | price=M$150
+| lastedit=2025-11-01
+| content=Casual coffee shop with an emphasis on espresso. Serves good breakfast and lunch plates. More laid back than most Polanco places (with fewer fresas).
+}}
+
+==Sleep==
+[[File:Camino Real de Polanco (Mexico City).jpg|thumb|Camino Real Polanco]]
+* {{sleep
+| name=Hotel Camino Real Polanco | url=https://www.caminoreal.com/caminoreal/camino-real-polanco-mexico
+| address=Calz. Gral. Mariano Escobedo 700, Anzures | lat=19.42817 | long=-99.17909
+| phone=+52 555 263 8888 
+| checkin=15:00 | checkout=13:00
+| lastedit=2024-03-03
+| content=This 5-star hotel combines modern architectural profiles with obvious pre-Hispanic pyramid reminiscences. Architecture students visit the hotel to study the cutting edge work of architect Ricardo Legorretta, but everyone else visits because it's one of the city's top hotels with first-class service, posh restaurants and bars, and luxuriously appointed guest rooms. It has been the headquarters for two soccer World Cups and for the Olympic Games.
+}}
+* {{sleep
+| name=Habita Hotel | url= | email=
+| address=Av. Presidente Masaryk 201 | lat=19.431813899104203 | long=-99.18986273944853 | directions=
+| phone= +52 55-5282-3100 | tollfree= | fax=
+| hours= | price=From M$6400
+| checkin=15:00 | checkout=12:00
+| lastedit=2023-03-19
+| content=Boutique hotel with a minimalist interior, the Habita Hotel has changed the style of the Mexican hotel industry. White and grey/steel is a common colour theme, elegant gray Mexican marble lining the bathrooms from floor to ceiling. Located on the rooftop terrace, the hotel's AREA bar remains among the city's most popular nightspots.
+}}
+* {{sleep
+| name=Hotel Polanco | url=http://www.hotelpolanco.com/ | email=
+| address=Edgar Allan Poe 8 | lat=19.42892 | long=-99.20045 | directions=
+| phone=+52 55 528 08082 | tollfree= | fax=
+| hours= | price=M$1800 (Mar 2023)
+| checkin=15:00 | checkout=13:00
+| content=A local favorite that often gets overlooked amidst the grand hotels in Polanco, but still offers many of the amenities of larger hotels, but at a much better price. Pleasant furninshing and attentive staff round out a good deal. Across the street from República del Líbano garden (some rooms have garden views). Italian restaurant on premises.
+}}
+* {{sleep
+| name=Grand Polanco Residencial | alt= | url=http://www.grandpolanco.com/ | email=
+| address=Av. Isaac Newton 119 | lat=19.432846 | long=-99.189219 | directions=2 blocks from Metro and 1 block to Masaryk shopping district
+| phone=+52 55 5004 3434 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=
+| lastedit=2025-12-22
+| content=Comfortable apartment hotel with large rooms in an older building. Off-street garage parking is available.
+}}
+* {{sleep
+| name=Dominion Polanco | alt= | url=https://www.dominionpolanco.com/ | email=
+| address=Aristoteles 21 | lat=19.428944 | long=-99.193824 | directions=across the street from Lincoln Park
+| phone=+52 55 5281 0155 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=M$6000
+| lastedit=2023-03-19
+| content=Large, modern apartments with full kitchen. Busy neighborhood near bars, restaurants, shopping. Family friendly, pet friendly.
+}}
+* {{sleep
+| name=ÖMORA | alt= | url=https://omorastays.com/ | email=contact@omorastays.com
+| address=Edgar Allan Poe 227, Polanco III Secc | lat=19.43514 | long=-99.19958 | directions=350 m from Av. Presidente Masaryk
+| phone=+52 56 6280 4665 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=
+| lastedit=2026-11-04
+| content=Seven furnished one- to three-bedroom apartments (69–256 m²) in a single building, each with a full kitchen and washing machine. On-site parking and self check-in with a door code. Stays from one night to several months.
+}}
+* {{sleep
+| name=Alest Hotel | alt= | url=https://thealest.com/ | email=hello@thealest.com
+| address=Eugenio Sue #45 | lat=19.429798 | long=-99.194397 | directions=on Plaza Lincoln
+| phone=+52 55 90277 343 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$6000
+| lastedit=2023-04-06
+| content=Tastefully elegant traditional boutique hotel with a large urban park directly across the street. Excellent on-site restaurant.
+}}
+* {{sleep
+| name=Las Alcobas | alt= | url=https://www.lasalcobas.com/ | email=
+| address=Av. Masaryk 390 | lat=19.431776 | long=-99.197864 | directions=in Presidente Masaryk shopping district
+| phone=+52 553 300 3900 | tollfree=
+| checkin=15:00 | checkout=13:00 | price=M$9000
+| lastedit=2023-10-08
+| content=Posh luxury hotel. 37 rooms and suites with upscale furnishings. On-site 5-star restaurant and on-site spa.
+}}
+* {{sleep
+| name=Hotel Pug Seal | alt= | url=http://www.pugseal.com/ | email=
+| address=Edgar Allan Poe 90 | lat=19.432837 | long=-99.199939 | directions=
+| phone=+52 55 7572 1142 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$6000
+| lastedit=2025-10-23
+| content=According to the editors of the Michelin Guide, the Pug Seal is Mexico City's top luxury hotel (it is the only hotel in the city with a Michelin Key designation). Housed in a 1940s era mansion in a residential area, the hotel features 20 rooms, each with unique features and furnishings. A full Mexican breakfast is served in the garden or on the terrace. Though expensive by Mexico City standards, the rates are a bargain compared to those of top luxury hotels in other countries.
+}}
+* {{sleep
+| name=Kimpton Virgilio | alt=Virgilio Hotel | url=https://www.kimptonvirgilio.com/ | email=
+| address=Anatole France 79, Polanco III Secc | lat=19.431083 | long=-99.197724 | directions=50 meter walk to Parque Lincoln
+| phone=+52 55 9156 0500 | tollfree=
+| checkin=16ː00 | checkout=12ː00 | price=M5000
+| lastedit=2025-12-01
+| content=Elegant hotel with restored art deco architecture and traditional upscale furnishings. Rooms are small but comfortably furnished with boutique toiletries. Dozens of sidewalk cafes and 5-star gourmet restaurants within 100 meters. English-speaking staff.
+}}
+* {{sleep
+| name=Intercontinental Presidente | alt= | url= | email=
+| address=Campos Elíseos 218 | lat=19.428122 | long=-99.192844 | directions=across the street from Auditorio Metro station 
+| phone=+52 55 5327 7700 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$3000
+| lastedit=2025-07-15
+| content=Large corporate hotel with spacious rooms, several restaurants and bars on site. Good breakfast including fresh fruit and sweet breads.
+}}
+
+==Connect==
+Several cell carriers provide service in Mexico City. The largest is Telcel. Districts in the center of the city, such as Polanco, have 100% 5G coverage.
+
+WiFi service is provided at virtually all hotels and restaurants in the area and is also provided by the CDMX city government as a free service in public parks.
+
+{{guidedistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.4333333|-99.2}}

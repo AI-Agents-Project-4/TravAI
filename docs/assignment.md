@@ -2,7 +2,7 @@
 
 TravAI is the group project (P4) for *Coding with AI Agents* (CSCI 498E/598E, Colorado School of Mines, Fall 2026). It's 30% of the final grade. Team: Fernando, Jake, Kyle.
 
-> **This is a summary, not the source.** Synced **2026-11-09**. When sources disagree, this order wins:
+> **This is a summary, not the source.** Synced **2026-11-21**. When sources disagree, this order wins:
 > 1. **Canvas** (system of record for deadlines, grades and assignment pages)
 > 2. **Student repo** (private, enrolled students only): `Mines-Coding-with-AI-Agents/student`, especially `projects/p4-full-stack-agent/`, `SCHEDULE.md` and `ANNOUNCEMENTS.md`
 > 3. **Course site** (public): <https://github.com/Mines-Coding-with-AI-Agents/course>
@@ -39,10 +39,11 @@ The rubric for the presentation and the repo **hasn't been released yet**. When 
 | Date | What |
 |------|------|
 | Fri Nov 6 | Proposal due ✅ |
-| Tue Nov 24 (lecture 25) | **Optional dry run** of the presentation |
+| Tue Nov 24 (lecture 25) | **Optional dry run** of the presentation (P4 README; the schedule lists the lecture as "Open SOTA Discussion") |
 | Thu Nov 26 | Thanksgiving, no class |
 | Tue Dec 1 (lecture 26) | Security & Guardrails, input for the threat model |
 | **Thu Dec 3 / Tue Dec 8** | **Presentations, live. P4 due Dec 8** |
+| Wed Dec 9 | P3 (individual) due, moved from Nov 24. Firm, no late days. It uses the same Claude plan as our P4 work, and the instructor suggests finishing P3's long runs by about Dec 1. Plan P4 usage around it |
 
 ## Lectures that feed into the project
 
@@ -52,7 +53,7 @@ The rubric for the presentation and the repo **hasn't been released yet**. When 
 | 19 Multi-Agent Systems | Nov 3 | One agent vs. a lead + worker, measured. Our "why two agents" eval |
 | 20–21 Build From Scratch, Agent SDK | Nov 5, Nov 10 | Building the research and planner agents, bounding their spend |
 | 22 Reading Benchmarks Critically | Nov 12 | Choosing a claim that measures what we think it does |
-| 23 Evals Are Experiments | Nov 17 | Eval harness, pass@k, error bars, variance |
+| 23 Evals Are Experiments | Nov 17 | Eval harness: several trials per case, pass@1 / pass@k / pass^k, intervals that resample whole cases, and reading the failed trials before trusting the number |
 | 24 LLM as Judge | Nov 19 | Grading plans automatically, and checking the grader |
 | 26 Security and Guardrails | Dec 1 | Threat model: lethal trifecta, indirect prompt injection |
 

@@ -1,0 +1,394 @@
+{{pagebanner|Paris 2e Wikivoyage Banner.png|pgname=2nd arrondissement}}
+
+The '''2nd arrondissement''' of Paris is one of the financial centres of Europe, being home to the ''Bourse'' (stock exchange) and thus the CAC 40 index you hear about in world financial news. Other major activities in the neighbourhood are journalism and fashion.
+
+==Understand==
+[[Image:Gallerie st denis.jpg|thumb|250px|Passage du Grand-Cerf]]
+The 2nd is home to the galleries—covered passages lined with shops—which are quite possibly the prototypes of today's shopping malls. One finds shops, cafés and hotels inside.
+
+While the aforementioned are all daylight activities, the east end of the arrondissement has an entirely different reputation, having been home to Paris's red-light district since sometime in the early renaissance.
+==Get in==
+
+===By Métro===
+Being right in the middle of the city, the 2nd arrondissement is well served by the ''Métro'' system. 5 lines provide direct access to the district via 10 different stations.
+
+*{{rint|paris|8}} and {{rint|paris|9}} both run east-west right across the northern edge of the arrondissement with 4 stations, distanced every 200 to 400 meters. Take your pick, all of the stations are small, and unless you're making a connection just as good as another.
+*{{rint|paris|3}} runs east-west right through the centre of the arrondissement, with 5 stations down ''rue du Quatre Septembre'' and ''rue Réaumur''.
+*{{rint|paris|4}} runs north-south along the eastern edge.
+*{{rint|paris|7}} running north-south, has one stop ({{station|Opéra|3|7|8}}) near the west edge of the arrondissement.
+
+==Get around==
+{{Mapframe|48.8678|2.3413|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+As the 2nd is the smallest arrondissement, it is easy to travel many places within it on foot. It's possible to comfortably walk the entire perimeter of the district in around an hour.  Much of the SE corner is closed to traffic.
+
+==See==
+=== Museums ===
+* {{see
+| name=la Bibliothèque Nationale de France | alt= | url=http://bibliotheque.inha.fr/ | email=
+| address=58 rue Richelieu | lat=48.8666 | long=2.3382 | directions=Métro: Bourse or Palais-Royal
+| phone=+33 1 53 79 59 59 | tollfree= | fax=
+| hours=Reading rooms, Mon-Fri, 09:00-18:00; Sat, 09:00-17:00; exhibitions, Tue-Sat, 10:00-19:00 | price=Library, free; exhibitions, €5-10
+| wikipedia=fr:Bibliothèque de l'Institut national d'histoire de l'art | image=France, Paris, Bibliothèque nationale de France, site Richelieu, salle ovale.jpg | wikidata=Q16532548
+| content=Try to visit the cabinet des Médailles.
+}}
+
+=== Architecture ===
+The 2nd ''arrondissement'' covers some of the nicest old parts of Paris.
+
+* {{see
+| name=Notre Dame des Victoires | alt= | url=http://www.notredamedesvictoires.com/ | email=
+| address= | lat=48.866667 | long=2.340833 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Basilica of Notre-Dame-des-Victoires, Paris | image=Paris - Basilique Notre-Dame des Victoires (façade).JPG | wikidata=Q782969
+| content=17th century church.
+}}
+* {{see
+| name=Place des Victoires | alt= | url= | email=
+| address= | lat=48.865833 | long=2.341111 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Place des Victoires | image=Place des Victoires, Paris 20 August 2015.jpg | wikidata=Q1362670
+| content=Beautiful round "square" with an equestrian statue of King Louis XIV and matching 17th century buildings.
+}}
+
+=== History ===
+There have been dozens of attempts by various regimes at all levels including the city, the state, and the church to chase the working girls away from the east end of the 2nd arrondissement, but for some reason they always come back. Interestingly, the word "bordello" originates here, from the boards that the women used to subdivide the rooms they rented in houses along the '''rue Saint Denis''' and others.
+
+The press has had nearly as long a run in the neighbourhood just to the west, and several of France's major newspapers still maintain offices here.
+
+* {{see
+| name=La Tour Jean-sans-Peur | alt= | url= | email=
+| address=20, rue Étienne-Marcel | lat=48.8643 | long=2.34806 | directions=Métro: Étienne-Marcel
+| phone= | tollfree= | fax=
+| hours=Apr-Oct, Wed-Sun, 13:30-18:00 | price=€5; students €3; guided tour, €8
+| wikipedia=Tour Jean-sans-Peur | image=Paris - Tour Jean-Sans-Peur.JPG | wikidata=Q3533101
+| content=One of the last remnants of medieval Paris outside of the 4th, this tower was once part of a castle called l'hôtel de Bourgogne.
+}}
+
+==Do==
+*{{do
+| name=Théâtre national de l'Opéra-Comique | alt=National Opéra Comic Theatre | url=http://www.opera-comique.com | email=
+| address=5, rue Favart | lat=48.870861 | long=2.337511 | directions=
+| phone=+33 1 42 44 45 40 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Opéra-Comique | image=SalleFavart 1840.jpg | wikidata=Q872222
+| content=The théâtre national de l'Opéra-Comique (National Opéra Comic Theatre) is an opera company and opera house.
+}}
+
+==Buy==
+* {{buy
+| name=Rue Montorgueil pedestrian area | alt= | url= | email=
+| address= | lat=48.864944 | long=2.346861 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Rue Montorgueil | image=Paris - Rue Montorgueil.JPG | wikidata=Q3449239
+| content=Rue Montorgueil is like a scene from a movie. Closed to traffic, the street is a food-lovers delight, with cafes, bars, and all types of fresh produce for sale in the open air.
+}}
+* {{buy
+| name=Terroirs d'Avenir | alt= | url= | email=
+| address=6-7-8, rue du Nil | lat=48.867686 | long=2.347807 | directions=
+| phone=+33 1 45 08 48 80 | tollfree= | fax=
+| hours= | price=
+| content=Slow food distribution on three different stores: a grocer, a fish monger and a butcher. They all source fresh, quality, mostly organic produce.
+}}
+* {{buy
+| name=La librairie gourmande | alt= | url=http://www.librairiegourmande.fr/ | email=contact@librairiegourmande.fr
+| address=92-96 rue Montmartre | lat=48.866987 | long=2.344213 | directions=
+| phone=+33 1 43 54 37 27 | tollfree= | fax=
+| hours=L-Sat 11:00-19:00 | price=
+| content=The book shop is specialized on books for chefs, interested cooks or foodies.
+}}
+=== The galleries ===
+Prototypical indoor shopping malls, the galleries got their start in 1786 when the Duke of Orleans realized that there was money to be made by renting out his cloistered garden to small shops. With their glass roofs and tiled floors they were a welcome respite to the newly emerging middle-class shopper of the early 19th century, in the days before electric light and sidewalks.
+
+A walking tour of the galleries can easily be accomplished in an hour or so, and is worthwhile even though they are long past their glory days.
+* {{buy
+| name=La Gallerie Vivienne | alt= | url= | email=
+| address= | lat=48.866667 | long=2.339722 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Galerie Vivienne | image=P1040471 Paris II galerie Vivienne rwk.JPG | wikidata=Q1314020
+| lastedit=2017-06-24
+| content=Start with the best preserved of the galleries and whose décor has been maintained in authentic colours from the era. It's really the mosaic floor which is the star of the show. The shops are distinctly upscale, and all about conspicuous consumption: a wine seller, a tea shop, and a dealer in antique books are among the highlights.
+}}
+* {{buy
+| name=Passage Choiseul | alt= | url= | email=
+| address= | lat=48.869020 | long=2.335753 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Passage Choiseul | image=Passage Choiseul.JPG | wikidata=Q2055787
+| lastedit=2017-06-24
+| content=A considerably more down-to-earth gallery, the passage mainly serves traders on their way to the bourse, with the same class of shops that one might find in a pedestrian tunnel in New York or Chicago: a shoeshine stand, a newsstand, and little almost-but-not-quite fast-food restaurants.
+}}
+
+You can find more galleries throughout the arrondissement, namely
+
+* {{buy
+| name=Passage des Panoramas | alt= | url= | email=
+| address= | lat=48.871111 | long=2.341667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Passage des Panoramas | image=Passage des Panoramas, 16 March 2013.jpg | wikidata=Q3141829
+| lastedit=2017-06-24
+| content=
+}}
+* {{buy
+| name=Passages des Princes | alt= | url= | email=
+| address= | lat=48.8715 | long=2.33938 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=fr:Passage des Princes | image=Paris - Passage des Princes 01.jpg | wikidata=Q3368127
+| lastedit=2017-06-24
+| content=
+}}
+* {{buy
+| name=Passage du Grand-Cerf | alt= | url= | email=
+| address= | lat=48.864814 | long=2.34925 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=fr:Passage du Grand-Cerf | image=Paris passage du grand cerf.jpg | wikidata=Q1696160
+| lastedit=2017-06-24
+| content=
+}}
+
+==Eat==
+[[Image:Paris 2nd arrondissement map with listings 2.png|thumb|350px|Map of the 2nd Arrondissement]]
+=== Budget ===
+* {{eat
+| name=Blend Hamburger | alt= | url=http://blendhamburger.com/ | email=
+| address=44, rue d'Argout | lat=48.865881 | long=2.343623 | directions=Métro Sentier
+| phone= | tollfree= | fax=
+| hours= | price=€15 lunch menu, €10 burger
+| content=French meat with home made ketchup.
+}}
+* {{eat
+| name=Filakia, Petit Café d'Athènes | alt= | url= | email=
+| address=9 Rue Mandar | lat=48.8656971 | long= 2.3455187 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=
+}}
+* {{eat
+| name=Grillé | alt= | url= | email=
+| address=15, rue Saint-Augustin | lat=48.868854 | long=2.336547 | directions=Métro Quatre-Septembre
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 09:00-19:00 | price=€8 kebab, €10 formule
+| content=A fast food restaurant that makes a "healthy" version of kebab (good herbs, better salad). Three cooks, Marie Carcassonne, Hugo Desnoyer, and Frédéric Peneau worked on this creation.
+}}
+* {{eat
+| name=Hokkaido | alt= | url= | email=
+| address=14 Rue Chabanais | lat= 48.8676953| long= 2.3370972 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=Japanese cuisine
+}}
+* {{eat
+| name=Le Bougainville | alt= | url= | email=
+| address=5, rue de la Banque | lat=48.866432 | long=2.339999 | directions=Métro Bourse
+| phone=+33 1 42 60 05 19 | tollfree= | fax=
+| hours=Mon-Sat 19:00-21:00, but food is only served at lunch from 11:30 to 15:30 | price=Sandwiches, €3; plates €12-15
+| content=This comfy little bar offers home cooking from the [[Auvergne]] region, and after-work drinks for the financial set.
+}}
+* {{eat
+| name=Little Seoul Restaurant | alt= | url= | email=
+| address=19 Pass. Choiseul | lat=48.8675738 | long= 2.3352210 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=
+}}
+* {{eat
+| name=Lou pasta | alt= | url= | email=
+| address= 49 Pass. Choiseul| lat=48.8680530 | long=2.3354571 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=Italian cuisine
+}}
+* {{eat
+| name=Rani Mahal | alt= | url= | email=
+| address=9, rue Saint-Augustin | lat=48.86884 | long=2.337311 | directions=
+| phone=+33 1 42 97 53 24 | tollfree= | fax=
+| hours= | price=
+| content=This Indian restaurant is raved about by vegetarians. It serves meat as well.
+}}
+* {{eat
+| name=Yi Ping | alt= | url= | email=
+| address=42 Rue Sainte-Anne | lat=48.8672394 | long=2.3360341 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=
+}}
+
+=== Mid-range ===
+* {{eat
+| name=Café Etienne Marcel | alt= | url= | email=
+| address=34, rue Etienne Marcel | lat=48.864849 | long=2.345446 | directions=Métro Etienne Marcel
+| phone=+33 1 45 08 01 03 | tollfree= | fax=
+| hours= | price=€15-20
+| content=A Costes brothers creation but with lower prices than many of their other restaurants. The Etienne Marcel combines a creative menu with hip interior design and hip musical ambiance. '''Vegetarians:''' The crispy risotto balls (''risotto croustillant'') are amazing, and pretty much impossible to make at home.}}
+* {{eat
+| name=Le Tambour | alt= | url= | email=
+| address=41, rue Montmartre | lat= | long= | directions=
+| phone=+33 1 42 33 06 90 | tollfree= | fax=
+| hours=Dinner until 03:30 ! | price=
+| content=The really distinguishing feature of the Tambour is its very late hours.}}
+
+=== Splurge ===
+* {{eat
+| name=Drouant | alt= | url=http://www.drouant.com/ | email=
+| address=16-18, place Gaillon | lat=48.868706 | long=2.334348 | directions=
+| phone=+33 1 42 65 15 16 | tollfree=
+| hours= | price=
+| content=Anthony Clémot runs this French kitchen.
+}}
+
+==Drink==
+* {{drink
+| name=Café Noir | alt= | url= | email=
+| address=65, rue Montmartre | lat=48.866347 | long=2.344344 | directions=Métro Sentier or Bourse
+| phone=+33 1 45 08 42 35 | tollfree= | fax=
+| hours= | price=
+| content=A particularly fine example of a Paris café.
+}}
+*{{drink
+| name=La Cantine | url=http://lacantine.org/ | email=
+| address=151, rue Montmartre | lat= | long= | directions=Passage des Panoramas, Métro Grandes Boulevards
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 09:00-18:00 | price=
+| content=A technology-focused café and co-working space.
+}}
+* {{drink
+| name=The Frog & Rosbif | alt= | url=http://www.frogpubs.com/ | email=
+| address=116, rue St Denis | lat=48.86439 | long=2.350256 | directions=Métro Etienne Marcel
+| phone=+33 1 42 36 34 73 | tollfree= | fax=
+| hours= | price=
+| content=The English use the word "frog" as an ethnic slur for the French. You may not know that the word "rosbif" is a French ethnic slur for the English. Well, it seems that there are mostly no hard feelings over a pint, or so the presence of this chain of 6 English pubs in the French capital would tend to suggest.
+}}
+* {{drink
+| name=Harry's New York Bar | alt= | url=http://harrysbar.fr/en/ {{dead link|December 2020}} | email=
+| address=5, rue Daunou | lat=48.869219 | long=2.332218 | directions=Metro Opéra
+| phone=+33 1 42 61 71 14 | tollfree= | fax=
+| hours=Daily 10:30-04:00 | price=
+| content=Legend has it that Harry's New York Bar was the birthplace of the Bloody Mary invented by Fernand "Pete" Petiot, an American bartender, and was another Hemingway hangout.
+}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Hôtel des Boulevards | url=http://www.hoteldesboulevards.com | email=
+| address=10, rue de la Ville-Neuve | lat= | long= | directions=
+| phone=+33 1 42 36 02 29 | tollfree= | fax=
+| hours= | price=Doubles with sink, €40; with a shower, €55
+| checkin= | checkout=
+| content= }}
+* {{sleep | name=Hôtel Sainte-Marie | url=http://hotelsaintemarie.com | email= | address=6, rue de la Ville-Neuve | lat= | long= | directions=Métro Bonne-Nouvelle | phone=+33 1 42 33 21 61 | tollfree= | fax= | hours= | price=Doubles with a sink, €40-54; with a shower and toilet, €60-70 | checkin= | checkout= | content=}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Mid-range===
+* {{sleep
+| name=Hôtel Ascot Opéra | alt= | url=http://www.ascotparishotel.com/ | email=
+| address=2, rue Monsigny | lat= | long= | directions=
+| phone=+33 1 42 96 87 66 | tollfree=
+| checkin= | checkout= | price=
+| content=Short walk from the department stores Printemps and Galeries Lafayette, Opéra, Place de la Madeleine, and the Louvre.
+}}
+* {{sleep
+| name=Hôtel Bonne Nouvelle | url=http://hotel-bonne-nouvelle.com | email=
+| address=17, rue Beauregard | lat= | long= | directions=Métro Bonne-Nouvelle
+| phone=+33 1 45 08 42 42 | tollfree= | fax=
+| hours= | price=Doubles, €60-70
+| checkin= | checkout=
+| content=Old world charm.}}
+* {{sleep
+| name=Hôtel Lautrec Opéra | url=http://paris-hotel-lautrec.com/ | email=
+| address=8-10 rue d'Amboise| lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=€95+
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Hôtel Paris France | url=http://www.hotelparisfrance.info | email=
+| address=21, rue du louvre | lat= | long= | directions=Métro Bourse
+| phone=+33 9 77 21 75 04 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Hôtel Vivienne | url= | email=
+| address=40, rue Vivienne | lat= | long= | directions=Métro Bourse
+| phone=+33 1 42 33 13 26 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Tiquetonne Hôtel | url= | email=
+| address=6, rue Tiquetonne | lat= | long= | directions=Métro Etinne-Marcel or Réaumur-Sébastopol
+| phone=+33 1 42 36 94 58 | tollfree= | fax=+33 1 42 36 02 94
+| hours= | price=Doubles with a sink, €40
+| checkin= | checkout=
+| content=Closed during August, and between Christmas and New Year's.}}
+* {{sleep
+| name=Tryp Hôtel Paris François | url= | email=
+| address=3, boul Montmartre | lat= | long= | directions=Métro Grandes-Boulevards
+| phone=+33 1 42 33 51 53 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+
+===Splurge===
+* {{sleep | name=Hôtel Etats-Unis Opéra | url=http://www.hoteletatsunisopera.com | email= | address=16, rue d'Antin | lat= | long= | directions= | phone=+33 1 80 02 30 04 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hôtel Victoires Opera | url=http://www.hotelvictoiresopera.com | email=
+| address=56, rue de Montorgueil | lat= | long= | directions=Métro Sentier
+| phone=+33 1 42 36 41 08 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Park Hyatt Paris - Vendome | url=http://paris.vendome.hyatt.com | email=vendome@hyattintl.com
+| address=5, rue de la Paix | lat= | long= | directions=Métro Opéra
+| phone=+33 1 58 71 12 34 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Palatial hotel with a residential feel and personalised service. Within walking distance of Place Vendôme.}}
+* {{sleep
+| name=Hotel Stendhal Place Vendôme Paris - MGallery Collection | alt= | url= | email=
+| address=22 Rue Danielle Casanova | lat=48.86810 | long=2.33130 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 3 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Levallois-Perret]]
+| minorl1=[[Paris/9th arrondissement|9th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/20th arrondissement|20th arrondissement]]
+| minorr1=[[Paris/3rd arrondissement|3rd arrondissement]]
+
+| image2=Paris Metro 4.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl2=[[Paris/10th arrondissement|10th arrondissement]]
+| directionr2=S
+| majorr2=[[Paris/14th arrondissement|14th arrondissement]]
+| minorr2='''[[Paris/1st arrondissement|1st arrondissement]]'''
+}}
+
+{{guidedistrict}}
+{{geo|48.8678|2.3413|zoom=16}}
+{{IsPartOf|Paris}}
+
+
+
+
+{{Mapmask |48.8699,2.3280 |48.8720,2.3400 |48.8706,2.3482 |48.8693,2.3542 |48.8634,2.3509 |48.8657,2.3412 |48.8682,2.3307 |48.8685,2.3299 |48.8698,2.3281}}

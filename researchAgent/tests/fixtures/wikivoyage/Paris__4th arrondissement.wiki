@@ -1,0 +1,529 @@
+{{pagebanner |Paris banner Panorama with Notre-Dame.jpg|pgname=4th arrondissement of Paris}}
+
+The 4th is a good chunk of what used to be medieval Paris, and you'll find a lot left from that time on both islands and in the narrow streets of the lower Marais.  Meanwhile there's lots that's contemporary to look at especially at the '''Centre Georges Pompidou''' where you'll find a lot of the very best contemporary art.
+
+At night the 4th has several of the most active bar scenes most travellers will have ever seen, including the lower ''Marais'' district which is sometimes known as ''gay Paris'' although there are no shortage of bars catering to straight singles or a mixed crowd, or, in the early evening, families.
+
+The 4th has the eastern end of the [[Axe historique]], which extends westwards to [[La Défense]].
+
+[[Image:Paris_4th_notre_dame_facade.jpg|thumb|Notre Dame Cathedral before the 15 April 2019 fire]]
+
+==Get in==
+The 4th is a central arrondissement, right between the Châtelet and Bastille areas, two of Paris' main transportation (metro, RER and bus) hubs.
+
+===By car===
+Being such a touristy district, it is ''very'' hard to find parking spaces. It's much easier to use the Metro.
+
+===By metro===
+{{station|Hôtel de Ville|1|11}} (''La Défense/Château de Vincennes'', and ''Châtelet/Mairie des Lilas'' respectively) - Access from near the junction of Rue de Renard and Rue de Rivoli.
+
+{{station|Cité|4}} (''Porte d'Orléans (Général Leclerc)/Porte de Clignancourt'') - Access off the Boulevard du Palais (infront of Palais de Justice on the Ile de Cité).
+
+{{station|St. Paul|1 }} (''La Défense/Château de Vincennes'') - Access off the Rue de Rivoli.
+
+{{station|Rambuteau|11}} (''Châtelet/Mairie des Lilas'') - Access from near the junction of Rue de Renard and Rue Rambuteau.
+
+{{station|Pt. Marie|7}} (''Villejuif - Louis Aragon / Mairie d'Ivry/La Courneuve - 8 mai 1945'') - Access from Quai de l'Hôtel de Ville
+
+{{station|Sully Morland|7}} (''Villejuif - Louis Aragon / Mairie d'Ivry/La Courneuve - 8 mai 1945'') - Access near the junction of Boulevard de Henri IV and Quai des Celestins.
+
+===By bus===
+Unlike the metro, buses can be a great way of moving around ''and'' seeing the city's landscape, although you risk being caught in traffic. The most useful lines are 70, 72 and 74, which stop at the Hôtel de Ville, and lines 75 and 76, which run through Rue de Rivoli.
+
+The neighbouring Châtelet and Bastille stations are also served by the ''Noctilian'' (night bus), running from 00:30 to 05:30. Lines 33, 34 and 132 run between these two stations with no intermediate stops, but there are many others arriving and leaving from both to several destinations around town.
+
+==Get around==
+{{Mapframe|48.85365|2.35678|width=600|height=600|zoom=15}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+Walk, walk and walk! This arrondissement is compact enough to be explored on foot and that's probably just what you'll want to do anyway. Otherwise, the metro may be not be too useful for covering short distances, but you may still want to use the bus line 76 for the Châtelet-Bastille itinerary or line 67 for Châtelet - Île St. Louis, especially if you have a card for multiple trips or a Carte Orange.
+
+The RATP network has '''bicycles''' (''vélos'') for rent next to the Bastille station:
+
+* {{listing | name=Maison Roue Libre | url=http://www.rouelibre.fr/ | email= | address=37, bd Bourdon | lat= | long= | directions= | phone=+33 1 54 54 97 10 | tollfree= | fax= | hours=09:00-19:00 | price=€10-15 per day | content=}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==See==
+
+===Places and Areas===
+
+[[File:7,_9,_11_Place_des_Vosges.jpg|thumb|Place des Vosges]]
+* {{see
+| name=Le Marais | alt= | url= | email=
+| address= | lat=48.8576 | long=2.361453 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Le Marais | image=MuseePicassoParis.jpg | wikidata=Q749573
+| content=
+}}
+*{{see
+| name=Place des Vosges| alt= | url= | email=
+| address= | lat=48.855556 | long=2.365556 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Place des Vosges | image=P1140404 Paris III-IV square Louis XIII place des Vosges rwk.JPG | wikidata=Q898629
+| content=The oldest planned square in Paris, and what many tourists as well as locals consider the heart of the Marais area.
+}}
+*{{see
+| name=Rue des Rosiers | alt= | url= | email=
+| address= | lat=48.857092 | long=2.359582 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Rue des Rosiers | image=Rue des Rosiers, Paris, France 01.jpg | wikidata=Q3176233
+| content=The Jewish quarter, with many small delis and shops. Lively on most days except for Saturdays.
+}}
+*{{see
+| name=Île Saint-Louis | alt= | url= | email=
+| address= | lat=48.851667 | long=2.356389 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Île Saint-Louis | image=Île Saint-Louis - Quai d'Orléans (Paris).jpg | wikidata=Q211034
+| content=
+}}
+
+===Landmarks===
+*{{see
+| name=Notre-Dame de Paris | alt=Notre Dame Cathedral | url=https://www.notredamedeparis.fr/en/ | email=info@cathedraleDeParis.com
+| address=Ile de la Cité 6, Place du Parvis Notre Dame | lat=48.853 | long=2.3498 | directions={{station|Cité|4}} or {{station|Saint-Michel-Notre Dame|rerB|rerC}}
+| phone=+33 1 42 34 56 10 | tollfree= | fax=+33 1 40 51 70 98
+| hours=7:45 — 18:45 | price=free but booking is recommended as queues can be long.
+| wikipedia=Notre Dame de Paris | image=Notre Dame de Paris 2013-07-24.jpg | wikidata=Q2981
+| lastedit=2026-08-30
+| content=The early [[Gothic architecture|Gothic]] ''Cathédrale de Notre Dame'' (Our Lady) has a 12th century design but wasn't completed until the 14th. Still it is a good example of the development of the style, though the west or main portal is a bit unusual in its rigidity. An April 2019 fire caused severe damage, but after extensive renovation the cathedral was reopened to the public in December 2024. See item below for separate process to visit towers.
+}}
+*{{See|name=Towers of Notre-Dame|url=https://www.tours-notre-dame-de-paris.fr/en|price=Adult  €16, U18 free. more details on website.|lastedit=2026-08-30|content=It is possible to visit the towers but you should be aware there are 424 steps, narrow spaces and unlike the cathedral, there is a charge. Tickets for the towers tour do not give access to the cathedral. Booking is required. See above for visiting the cathedral. (separate website)}}[[Image:Paris_4th_hotel_de_ville.jpg|thumb|l'Hôtel de Ville]]
+* {{see
+| name=Hôtel de Ville | alt=Town Hall | url=http://www.paris.fr | email=
+| address=Place de la Hôtel de Ville | lat=48.856389 | long=2.352222 | directions=Metro: Hôtel de Ville
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hôtel de Ville, Paris | image=Hotel de Ville Paris.jpg | wikidata=Q640968
+| content=Many feel that this, Paris' town hall, is one of the loveliest buildings in the city. You might not get that from the front view, but try watching the light change on its roofs and towers during sunset from one of the cafés on the Ile de St. Louis, the '''Lutece''' for instance. Alternatively, go to the top floor of the Bazar de l'Hôtel de Ville (BHV) department store opposite, on rue de Rivoli and walk up a flight of stairs to the roof terrace (terrasse), from which there is a dramatic view of both the roof of the Hôtel de Ville and the immediate surroundings and river. The present Hôtel de Ville replaced the 16th century original which was burned down during the Commune in 1871. A pastiche of its predecessor, but on a far larger scale, it was designed by the architects Ballu and Deperthes, chosen after a competition, and was mostly completed by 1882. The building is lavishly, and some would say heavy-handedly, decorated both inside and out, and finished in an arrestingly white stone, similar to that used for the even more eye-catching Sacre-Coeur basilica. The statue on the garden wall on the south side is of Etienne Marcel, the most famous holder of the post of "prevôt des marchands" (provost of merchants) which pre-dated the office of mayor. Marcel came to a sticky end, lynched in 1358 by an angry mob after trying to assert the city's powers a little too energetically. The Hôtel de Ville was for many years the private fiefdom of Jacques Chirac, France's president before Sarkozy, and was the site of a scandal centring on both illegal jobs given to Chirac's party members and an immense entertainment budget. General de Gaulle greeted the crowds from a front window in 1944 when Paris was liberated from the Germans and Robespierre was shot in the jaw and arrested in the original building in 1794. Admirers of Hôtel de Ville's architecture will want to know that Ballu also built the Church of La Trinité in the 9th arrondissement and the belfry of the town hall of the 1st arrondissement, opposite the Louvre's east façade. Ballu also restored the Tour St Jacques (see below), which was uncovered after restoration work lasting over a decade.
+}}
+*{{see
+| name=Tour St Jacques | alt= | url= | email=
+| address=Rue de Rivoli | lat=48.857764 | long=2.348778 | directions=Métro: Châtelet
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Saint-Jacques Tower | image=P1000625 Paris IV Tour Saint-Jacques resultwk.JPG | wikidata=Q1431547
+|lastedit=2025-11-14| content=A [[Gothic architecture|Gothic]] church tower in a square 150m to the west of the Hôtel de Ville was restored by Ballu, is all that remains of Église Saint-Jacques-de-la-Boucherie, which was the meeting place in Paris for pilgrims heading to Santiago de Compostela. As such it is included on the [[UNESCO World Heritage List]] as part of the [[Routes of Santiago de Compostela in France]].
+}}
+
+[[Image:Paris_4th_ile_st_louis.jpg|thumb|The Lutece on the Ile de St. Louis]]
+
+*{{see
+| name=La Bastille | alt= | url= | email=
+| address= | lat=48.853333 | long=2.369167 | directions=Metro: {{station|Bastille|1|5|8}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bastille | image=Bastille, 1790 retouched.jpg | wikidata=Q1865480
+| content=Enter Bastille station through any entrance or on any train and then make your way to the ''Bobigny/Pablo Picasso''-bound platform. All that's left of the fortress whose front steps used to lead up from ''place de la Bastille'' are some foundation stones which you can see while waiting for a north bound train on this ''metro'' platform. There are maps and explanations showing where the fortress used to be relative the ''place'' and surroundings (basically the location of the old front steps are now occupied by '''Café des Phares''').
+}}
+*{{see
+| name=Mémorial de la Shoah | alt=The Holocaust Memorial | url=http://www.memorialdelashoah.org/ | email=
+| address=17, rue Geoffroy l’Asnier | lat=48.854846 | long=2.356196 | directions={{station|Pont Marie|7}}{{station|Saint-Paul|1}}{{station|Hôtel de Ville|11}}
+| phone=+33 1 42 77 44 72 | tollfree=
+| hours=Sun-Wed,Fri 10:00-18:00; Thu 10:00-22:00 | price=Admission free
+| wikipedia=Mémorial de la Shoah | image=Murdesnoms.JPG | wikidata=Q479218
+| lastedit=2025-03-25
+| content=Opened in January 2005, the Holocaust Memorial comprises a major documentation centre and a wall bearing 76,000 names of Jews deported from France to the Nazi camps between 1942-1944. Includes an archive of a million artefacts, including 55,000 photographs. Excursions are run from the memorial to French internment camp sites such as Drancy.
+}}
+
+===Museums and galleries===
+[[Image:Pompidou exterior.JPG|thumb|Pompidou]]
+
+*{{see
+| name=Centre Georges Pompidou | alt= | url=https://www.centrepompidou.fr/en/the-centre-pompidou-is-transforming-itself | email=
+| address=Place George Pompidou | lat=48.860653 | long=2.352411 | directions=Metro: {{station|Rambuteau|11}}
+| phone= | tollfree=
+| hours= closed – check website for reopening (expected 2030) | price=
+| wikipedia=Centre Georges Pompidou | wikidata=Q178065
+| lastedit=2026-08-30
+| content=Centre Georges Pompidou closed its doors in 2025, for a major renovation project, which is expected to be completed in 2030. The vast collection of the museum will be exhibited in various venues across France, as part of the Constellation Program. Please see the website for more information. Another site, Centre Pompidou Francilien – fabrique de l’art in Massy, is expected to open in 2027.<br /><br />Those who are unfamiliar with conceptual art sometimes don't know quite what to expect, or how to approach it. They should rest assured that the curators at the Pompidou Centre have assembled a marvellous introduction consisting of mostly approachable works which delight, amuse, and entertain. The art is far from the only reason for a visit, as the building also contains a vast public library and a fine restaurant (run by the Costes brothers) on the roof. In fact the place is ''literally'' surrounded by some of the nicest pavement cafés in the city, in its superb location between the car-free above ground part of Forum Les Halles and the Marais art district.
+}}
+*{{see | name=Maison de Victor Hugo | alt= | url=http://www.maisonsvictorhugo.paris.fr | email= | address=6, Place des Vosges | lat=48.854722 | long=2.366111 | directions=Metro: Saint-Paul, Chemin Vert, or Bastille, Bus 20, 29, 65, 69, 96 | phone=+33 1 42 72 10 16 | tollfree= | fax=+33 1 41 72 06 64 | hours=Tue–Sun 10:00-18:00 | price=Free | wikipedia=Maison de Victor Hugo | image=PARIS Place des Vosges, Maison de Victor Hugo.jpg | wikidata=Q2599177 | lastedit=2026-08-12 | content=The house in which the famous French novelist Victor Hugo once lived.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Hôtel de Sully | alt= | url=https://www.hotel-de-sully.fr/en | email=
+| address=62 rue Saint-Antoine | lat=48.854583 | long=2.363778 | directions=Metro: Saint-Paul or Bastille, Bus 69, 76, 96
+| phone= | tollfree=
+| hours=Daily 09:00-19:00 | price=
+| wikipedia=Hôtel de Sully | image=Hôtel de Sully 07-2.jpg | wikidata=Q1643144
+| lastedit=2026-08-12
+| content=Built in 1625, the Hotel de Sully is an interesting house with some sculptures in a beautiful courtyard. The house features special exhibitions, so check listings when in Paris.
+}}
+* {{see
+| name=MEP – Maison Européenne de la Photographie | alt= | url=https://www.mep-fr.org/en/homepage/ | email=
+| address=5/7 rue de Fourcy | lat=48.855274 | long=2.359293 | directions={{station|Saint-Paul|1}},{{station|Pont Marie|7}}
+| phone=+33 1 44 78 75 00 | tollfree=
+| hours=Wed Fri 11:00-20:00, Thu 11:00-22:00, Sat Sun 10:00-20:00 | price=Full €13, Reduced €9 (+ €1 online)
+| wikidata=Q3100297
+| lastedit=2026-08-28
+| content=Gallery of photography. The MEP collection spans the history of international photography from the 1950s to the present.
+}}
+
+==Do==
+Most of the things to do in the 4th are covered in other sections of this guide, with the main thing to do being to '''explore'''.  Of particular interest is the '''Île Saint Louis''' (complete with having an ice cream or sorbet from Berthillon), the '''Hôtels Particuliars''', and the '''Pletzle''' particularly rue des Rosiers and the area around Place du Marché Sainte-Catherine.
+
+==Buy==
+[[Image:Paris 4th arrondissement map with listings 2.png|thumb|350px|Map of the 4th Arrondissement]]
+Over the last decade, the rue des Francs-Bourgeois has become a shopping destination for clothes and accessories. Go during the July or January ''soldes'' (sales) and pick up some Anne-Fontaine outfits, Camper shoes, or trendy men's clothing at Melchoir at bargain basement prices.
+
+*{{buy
+| name=Marché aux fleurs Reine-Elizabeth-II | alt=Flower Market and Bird Market | url= | email=
+| address=Place Louis Lepine | lat=48.855556 | long=2.347778 | directions=Metro: Cité, Saint Michel or Châtelet
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Marché aux fleurs et aux oiseaux de Paris 2010-07-29 n1.jpg | wikidata=Q3289836
+|lastedit=2025-11-14| content=On the north side of the ''Ile de la Cité'', the main island at the centre of Paris you'll find a burgeoning daily flower market, where you can buy just about any type of flower, and oddly enough, a range of exotic tropical birds.
+}}
+*{{buy
+| name=Opéra BD | alt= | url=http://www.operabd.com | email=
+| address=2 rue des Tournelles | lat=48.85400 | long=2.36742 | directions=Metro: Bastille
+| phone=+33 1 44 54 95 12 | tollfree= | fax=
+| hours=Daily 11:00-23:59 | price=
+| content=Comics (''Bandes Dessinées'') are a serious art form in France and even regular corporate bookstores have a good selection, but it's much better to look for them where they are really appreciated, in one of Paris's many private BD dealers. This one is friendly, well stocked, and keeps late hours so pay them a visit if you would like to pick up a copy of one of the many volumes of ''Lone Wolf and Cub'' in French.
+}}
+*{{buy
+| name=Mariage Frères | alt= | url= | email=
+| address=30 & 35 rue de Bourg-Tibourg | lat=48.85773 | long=2.35658 | directions=Métro: Hotel de Ville
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=If you love tea, you'll love this old salon de the in the Marais.
+}}
+*{{buy
+| name=BHV | alt=Bazar de l'Hôtel de Ville | url=http://www.bhv.fr | email=
+| address=52 rue de Rivoli | lat=48.85745 | long=2.353344 | directions=Metro Hôtel de Ville
+| phone=+33 1 42 74 90 00 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bazar de l'Hôtel de Ville | wikidata=Q2892394
+| content=Is a general store with most of everything: clothes, perfumes, furniture, you name it—it's especially famous for its basement section, dedicated to handiwork & DIY --think of it as a small ''Home Depot'' in a basement, though with French hardware and house and garden accessories that look distinctive in other settings.
+}}
+
+==Eat==
+[[File:Tribunal de Commerce, Paris 140320 2.jpg|thumb|Tribunal de Commerce]]
+For dinner or a sit-down lunch there are over a thousand restaurants in the 4th catering to all tastes - many more deserve to be listed than this or any other guide has space for. There are nice places, trendy or traditional throughout the district, but most of the really fancy bistros are clustered around the NW corner of Place de Bastille. You'll really enjoy walking around and checking out the menus, especially during the week when only the most exclusive places require a reservation. That said, here are some ideas:
+
+===Budget===
+If you are looking for a snack or a quick lunch you could do a lot worse than any one of the kosher falafel stands along the rue des Rosiers near Place des Vosges. If you are on the île de la Cité though, a closer choice is just to hop across the little pedestrian bridge to the ''île Saint-Louis'' for lunch at any one of the many charming cafés.
+
+*{{eat
+| name=Chez Marianne | alt= | url= | email=
+| address=2, Rue des Hospitalières-Saint Gervais | lat=48.857762 | long=2.358579 | directions=Metro: Saint-Paul
+| phone=+33 1 88 64 15 22 | tollfree= | fax=
+| hours= | price=Falafel out of the window is €4; in the dining room you'll pay around €15 for a vegetarian menu, or up to €22 for the most expensive dishes à la carte.
+| content=At the corner of rue des Hospitalières-Saint Gervais, and the rue Rosiers, Chez Marianne—like the many falafel stands in the ''Pletzle''—serves excellent sandwiches out of a walk up window, but unlike some of the others also has an attractive dining room and a truly lovely terrace where you can enjoy a full range of Jewish/middle-eastern dishes.}}
+*{{eat
+| name=La Perla | alt= | url=http://www.cafepacifico-laperla.com/ | email=
+| address=26 rue François Miron | lat=48.855795 | long=2.356132 | directions=Metro: Hôtel de Ville
+| phone=+33 1 42 77 59 40 | tollfree= | fax=
+| hours=Daily 11:00-14:00 | price=You'll pay about €10 for a plate ordered à la carte
+| content=Good Mexican food to be had within a stone's throw of the Ile de St. Louis. They mix a decent margarita too!}}
+* {{eat
+| name=Flunch | alt= | url=http://restaurant.flunch.fr/paris/flunch-paris-beaubourg/#_=_ | email=1172d@flunch.fr
+| address=21 Rue de Beaubourg | lat= | long= | directions=Metro Rambuteau
+| phone=+33 1 40290978 | tollfree= | fax=
+| hours=08:00-22:00 | price=Around €8 per person
+| lastedit=2016-07-05
+| content=Self-service restaurant, right next to the Pompidou centre. Steaks etc. are cooked fresh when ordered, other food is pre-cooked and there is a microwave in the table area should you need to heat anything up. A chance to try authentic French food at cheap prices. Just one minus - there is a free water and ice dispender next to the microwave, in the table area, AFTER you've paid and probably bought another drink! Price - e.g. one couscous, one steak with mixed vegetables, two pieces of bread, €16.50.
+}}
+
+===Mid-range===
+*{{eat
+| name=O Corcovado Marais | alt= | url=http://www.ocorcovado.com/ | email=info@ocorcovado.com
+| address=7, rue Simon-Lefranc | lat=48.860026 | long=2.353783 | directions=Metro: Rambuteau
+| phone=+33 6 60 40 08 58 | tollfree= | fax=
+| hours=Tue-Sun 19:00- | price=
+| content=This Brazilian restaurant serves authentic food.}}
+*{{eat
+| name=Creperie Beaubourg | alt= | url=http://creperiebeaubourg.com/ | email=
+| address=2 Rue Brisemiche | lat=48.859125 | long=2.351513 | directions=Métro: Hotel de Ville
+| phone=+33 1 42 77 63 62 | tollfree= | fax=
+| hours=11:30-23:00 | price=€10
+| content=The restaurant serves salty "galette" and sweet "crepes" with cider for a reasonable price. In summertime one can sit nicely outdoor.}}
+*{{eat
+| name=Le Loir dans la Théière | alt= | url= | email=
+| address=3, rue des Rosiers | lat=48.856236 | long=2.361044 | directions=Metro: Saint Paul
+| phone=+33 1 42 72 90 61 | tollfree= | fax=
+| hours=09:00-19:30 | price=
+| content=A highly recommended and quaint little tea shop, well worth a visit especially for brunch, which at €15.50 is a great value for the quantity, quality, and ambience. The cakes are huge, but if one is too late they might already be gone.}}
+*{{eat
+| name=Pain Vin Fromages | alt= | url=http://www.painvinfromage.com/ | email=
+| address=3, rue Geoffrey l'Angevin | lat=48.860529 | long=2.354475 | directions=Métro Rambuteau
+| phone=+33 1 42 74 07 52 | tollfree= | fax=
+| hours= | price=
+| content=It's all about cheese, with a selection of Swiss dishes, and others.}}
+* {{eat | name=Le Colimaçon | alt= | url=https://www.le-colimacon.fr/en/ | email= | address=44 Rue Vieille du Temple | lat=48.85808008778574 | long=2.3580667026053796 | directions=Métro Hôtel de Ville | phone=+33 1 48 87 12 01 | tollfree= | hours=6:30PM - 10:45PM; Sun Brunch from 12:30PM - 2:30PM | price=€62 | lastedit=2020-11-24 | content=Cozy, charming space. Attentive service. French cuisine with daily specials.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Splurge===
+* {{eat
+| name=L'Ambroisie | alt= | url=http://www.ambroisie-paris.com/ | email=
+| address=9, place des Vosges | lat=48.855396 | long=2.364372 | directions=Métro: Sain Paul
+| phone=+33 1 42 78 51 45 | tollfree=
+| hours=Tue-Sat 12:00-13:15, 20:00-22:00 | price=€500
+| wikipedia=L'Ambroisie | wikidata=Q6455533
+| lastedit=2020-03-01
+| content=In the aristocratic décors of the 18th century the chef Bernard Pacaud and his son prepare modern and refined food. The "tarte au chocolat" is surreal.
+}}
+*{{eat
+| name=Brasserie Bofinger | alt= | url=http://www.bofingerparis.com/ | email=
+| address=3, rue de la Bastille | lat=48.853894 | long=2.36806 | directions=Metro: Bastille
+| phone=+33 1 42 72 87 82 | tollfree= | fax=
+| hours= | price=
+| content=A beautiful, historical ''décor'' in the ''Art Nouveau'' style (see the ceiling upstairs); good Alsatian cuisine : ''choucroute'', kuglopf, etc, plus good classic ''cuisine de brasserie''.
+}}
+*{{eat | name=Le Georges | alt= | url=http://restaurantgeorgesparis.com/en/ | email= | address=19 rue Beaubourg | lat=48.860949 | long=2.352817 | directions= | phone=+33 1 44 78 47 99 | tollfree= | fax= | hours= | price=M 11:00-24:00, W-Su 11:00-02:00 | content=On the top floor of the Centre Georges Pompidou, the restaurant Georges offers a panoramic view of Paris. Serves modern French food with classic desserts like "blancs en neige".
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Ice cream===
+French ice cream is famous for its sorbet and there are excellent ice cream parlours to choose from:
+*{{eat
+| name=Amorino | alt= | url=http://amorino.fr | email=marais@amorino.fr
+| address=47, rue Saint Louis en l’Ile | lat=48.852048 | long=2.355752 | directions=
+| phone=+33 1 42 78 07 75 | tollfree= | fax=
+| hours= | price=
+| content=The oldest of the many boutiques operated by this ''gelato'' (Italian ice cream) maker.}}
+*{{eat | name=Glacier Berthillon | alt= | url=http://www.berthillon.fr/ | email= | address=31 Rue Saint-Louis en l'Île | lat=48.851693 | long=2.356747 | directions=Métro: Pont Marie | phone=+33 1 43 54 31 61 | tollfree= | fax= | hours=Wed-Sun 10:00-20:00 | price= | content=The most renowned French sorbet has his little tea shop since 1954. The wait in the queue is definitely worth it, also with some luck the queue isn't that big. On the corner, the queue for takeaway is usually bigger but, of course, faster. Taking the ice to the Seine is, of course. a possible option.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Pozetto | alt= | url=http://www.pozzetto.biz/ | email=
+| address=39 Rue du Roi de Sicile | lat=48.856714 | long=2.356282 | directions=Métro: Hotel de Ville
+| phone=+33 1 42 77 08 64 | tollfree= | fax=
+| hours=Mon-Thu 12:15–23:45, Fri Sat 12:15-00:45, Sun 12:15–23:45 | price=
+| content=Little shop that's both a café and sells Italian ice cream. The ice cream flavours vary according to the season.
+}}
+
+==Drink==
+In the 4th it's really hard to say whether a given place is somewhere to '''Eat''' or somewhere to '''Drink'''. Most of the places on this list serve dinner, and some serve lunch as well.
+
+*{{drink
+| name=The Auld Alliance Scottish Pub | alt= | url=http://www.theauldalliance.com/ | email=
+| address=80, rue Francois Miron | lat= | long= | directions=Metro St Paul
+| phone=+33 1 48 04 30 40 | tollfree= | fax=
+| hours=Daily, last orders 01:30 | price=
+| content=Friendly staff and customers help create a welcoming atmosphere at the original Scottish pub in Paris. Excellent food is served every day including a hearty brunch. The pub is selling quality British crisps, even smokey bacon flavour. A wide selection of whisky is on offer. Sporting events are shown on eight large television screens. Regular darts and pool competitions take place and Monday night is quiz night.
+}}
+*{{drink
+| name=Café des Phares | url= | email=
+| address=7, place de la Bastille | lat= | long= | directions=Métro: Bastille
+| phone=+33 1 4272 0470 | tollfree= | fax=
+| hours=Daily 07:00-03:00 | price=
+| content=Since 1992 this otherwise very attractive but fairly standard Parisian café has been host to a lively discussion of contemporary philosophy and attendant issues every Sunday night. There's a political discussion too, on the first Thursday of each month.}}
+*{{drink
+| name=Café Lutèce | url= | email=
+| address=33, quai de Bourbon | lat= | long= | directions=Metro: Pont-Marie
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This little bistro would be totally unremarkable if it weren't for the location, on the north bank of '''Ile Saint-Louis''', where you can watch the colours of the sunset light play over the towers of the '''Hôtel de Ville''' as you enjoy a glass or three of beer or house wine, or maybe a cognac.}}
+*{{drink
+| name=Le Lizard Lounge | url= | email=
+| address=18, rue du Bourg-Tibourg | lat= | long= | directions=Metro: Hôtel-de-Ville
+| phone=+33 1 42 72 48 34 | tollfree= | fax=
+| hours= | price=
+| content=}}
+*{{drink
+| name=Le Petit Fer A Cheval | url= | email=
+| address=30, rue Vieille-du Temple | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 42 72 47 47 | tollfree= | fax=
+| hours= | price=
+| content=}}
+*{{drink
+| name=La Chaise au Plafond | url= | email=
+| address=10, rue du Trésor | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 42 76 03 22 | tollfree= | fax=
+| hours= | price=
+| content=The Chaise is one of those truly warm and welcoming cafés. The proprietor usually makes an effort to spend at least a couple of minutes at each table, and somehow manages to remember visitors even years later.}}
+*{{drink
+| name=Les Etages | url= | email=
+| address=35, rue Vieille du Temple | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 42 78 72 00 | tollfree= | fax=
+| hours= | price=
+| content=}}
+*{{drink
+| name=Stolly's | url= | email=
+| address=7, rue Cloche-Perce | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 42 76 06 76 | tollfree= | fax=
+| hours= | price=
+| content=}}
+*{{drink
+| name=Caféothèque de Paris | alt= | url=http://www.lacafeotheque.com/ | email=
+| address=52, rue de l’Hôtel de Ville | lat=48.854448 | long=2.355762 | directions=Metro: Pont Marie
+| phone=+33 1 52 01 83 84 | tollfree= | fax=
+| hours=Daily 09:30-19:30 | price=
+| content=Coffee in Paris is usually found to be lacking, but not in this mini temple to coffee. A gem tucked into a backstreet by the river in le Marais roasts their own beans from around the world and has a small laid-back café area with armchairs. Staff are passionate about great coffee, not just a scaldingly hot coffee! They have some cakes and wine, and speak Spanish and English.}}
+*{{drink
+| name=Dome Du Marais | url=http://www.ledomedumarais.fr | email=
+| address=53 bis, rue De Francs Bourgeois | lat= | long= | directions=
+| phone = +33 1 42 74 54 17 | tollfree= | fax=
+| hours= | price=
+| content=}}
+*{{drink
+| name=Wake Up Paris | url= | email=
+| address=31, boul Henri IV | lat= | long= | directions=Metro: Bastille
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A wonderful little bar with a Brazilian tilt that serves excellent caipirinhas. The staff is friendly and eager to strike up a conversation, especially about cachaça, the Brazilian liqueur that forms the base of their signature drink. It's a wonderful spot for catching a football match as well.}}
+* {{drink
+| name=Queen Ann | alt= | url= | email=
+| address=5 rue Simon le Franc | lat=48.860023 | long=2.353834 | directions=Métro: Rambuteau
+| phone=+33 1 42 78 00 07 | tollfree= | fax=
+| hours=Tue-Sun 12:00-19:00 | price=€22-25 for a brunch
+| content=The "salon de thé" serves soufflés and cakes. The small place has 12 tables. The hot chocolate makes the place highly addictable.
+}}
+
+==Sleep==
+There are tons of hotels, hostels, furnished apartments and guest houses in the 4th. Even still you should book ahead if possible as there is also tons of demand.
+
+===Budget===
+* {{sleep
+| name=MIJE | url=http://www.mije.com | email=
+| address=6, rue de Fourcy, 12 rue des Barres, and 11 rue du Fauconnier | lat= | long= | directions=Metro: St. Paul
+| phone=+33 1 42 74 23 45 | tollfree= | fax=
+| hours= | price=Dorm-room beds start at €32 at all three places. Single rooms are €52
+| checkin= | checkout=
+| content=Consistently given the highest possible ratings this organization actually runs three hostels in the Marais. The only possible drawback is that they have an afternoon lockout for cleaning. The MIJE Maubuisson on rue des Barres gets the nod of the three for being in an historic Tudor-style building. }}
+*{{sleep
+| name=Hôtel Rivoli | url= | email=
+| address=44, rue Rivoli | lat= | long= | directions=Metro: Hotel de Ville
+| phone=+33 1 42 72 08 41 | tollfree= | fax=
+| hours= | price=€30+
+| checkin= | checkout=
+| content=In the heart of the city with cheap doubles. Terrific view from 5th floor single room.}}
+*{{sleep
+| name=Grand Hôtel du Loiret | url= | email=
+| address=8, rue des Mauvais Garçons | lat= | long= | directions=Metro: Hôtel-de-Ville
+| phone=+33 1 48 87 77 00 | tollfree= | fax=
+| hours= | price=€45, or €60 with a shower
+| checkin= | checkout=
+| content=A good value for the price and location.}}
+*{{sleep
+| name=Grand Hôtel Jeanne-d'Arc | url=http://www.hoteljeannedarc.com | email=
+| address=3, rue de Jarente | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 48 87 62 11 | tollfree= | fax=
+| hours= | price=€57 for a basic room
+| checkin= | checkout=
+| content=In the calmer part of the Marais, not far from Place de Bastille and Place des Vosges, this little hotel fills up well in advance, so you'll need to book ahead.}}
+
+===Mid-range===
+*{{sleep
+| name=Hôtel du Septième Art | alt= | url= | email=
+| address=20 rue Saint-Paul | lat= | long= | directions=Metro: Saint-Paul
+| phone=+33 1 44 54 85 00 | tollfree= | fax=+33 1 42 77 69 10
+| checkin= | checkout= | price=€75+
+| content=A little place done up in all black and white in homage to the cinema, the 7th Art offers a good value on comfortable rooms, and polite, quality service. Single rooms include air conditioning, WC, and shower. A 5-min promenade to the Rue de Rivoli.}}
+*{{sleep
+| name=Hôtel Hospitel | url= | email=
+| address=1, Place du Parvis Notre Dame-Galerie B2, 6F | lat= | long= | directions=Metro: Cité
+| phone=+33 1 44 32 01 00 | tollfree= | fax=
+| hours= | price=Single €88.50, double €99.50
+| checkin= | checkout=
+|lastedit=2026-08-25| content=You can't beat the location of this no-star but mid-range offering on the ''Ile de la Cité'' located on the 6th floor of the ''Hospital Hôtel-Dieu'' a functioning hospital which is also classified as an official historical monument. '''Hôspitel''' offers quite a bit of service and comfort.}}
+*{{sleep
+| name=Hôtel Bastille Speria | url=http://www.hotel-bastille-speria.com | email=
+| address=1, rue de la Bastille | lat= | long= | directions=Metro: Bastille
+| phone=+33 1 42 72 04 01 | tollfree= | fax=+33 1 42 72 56 38
+| hours= | price=€95 for a single
+| checkin= | checkout=
+| content=This lovely little three-star is at the far end of the 4th bumped right up against Place de Bastille. The place is inviting and the rooms are quite comfy and air conditioned. The location is good especially if you are interested in fine dining, as the place is surrounded by some of the better bistros on the right bank.}}
+*{{sleep
+| name=Hotel Caron de Beaumarchais | url=http://www.carondebeaumarchais.com/ | email=
+| address=12, rue Vieille-du-Temple | lat= | long= | directions=Metro: Saint-Paul or Hôtel-de-Ville
+| phone=+33 1 42 72 34 12 | tollfree= | fax=
+| hours= | price=Single for €137
+| checkin= | checkout=
+| content=These are of the expected (small) size for Paris though elegantly appointed in 18th-century style. Equipment includes air conditioning. Tea and coffee at the reception. The courtyard is a two-by-two metre light shaft, so rooms facing it have no view, and are quite dark on the ground and first floors. A simple request to avoid them on booking will suffice. The staff speak English well.}}
+*{{sleep
+| name=Hôtel de Lutece | url=http://www.paris-hotel-lutece.com | email=
+| address=65, rue Saint-Louis-en-l'Ile | lat= | long= | directions=Metro: Pont-Marie
+| phone=+33 1 43 26 23 52 | tollfree= | fax=
+| hours= | price=€158
+| checkin= | checkout=
+| content=}}
+*{{sleep | name=Hotel Notre Dame | url=http://hotel-paris-notredame.com | email= | address=19, rue Maître Alberte | lat= | long= | directions= | phone=+33 9 77 19 84 17 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=On a typical and quiet little street, looking out on the Seine and facing Notre Dame Cathedral. Every room is uniquely styled and decorated and equipped with a complete, marble bathroom.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Jardins de Paris Marais-Bastille | url=http://www.hotelsjardinsdeparis.com | email=
+| address=14, rue Neuve-Saint-Pierre | lat= | long= | directions=Metro: Bastille
+| phone=+33 1 44 59 28 50 | tollfree= | fax=
+| hours= | price=Singles for €120, doubles for €135
+| checkin= | checkout=
+| content=}}
+*{{sleep
+| name=Hôtel Central | url= | email=
+| address=5, rue saint Paul | lat= | long= | directions=Metro: Hôtel de Ville
+| phone=+33 6 71 24 76 98 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Hôtel de la Place des Vosges | url=http://hotelplacedesvosges.com/ | email=
+| address=12 rue de Birague | lat= | long= | directions=Metro: Bastille or Saint-Paul
+| phone=+33 9 77 21 78 62 | tollfree= | fax=+33 1 42 72 02 64
+| hours= | price=€101-140
+| checkin= | checkout=
+| content=The rooms are tiny, as is the staircase, but they are also pristine, some of the rooms have shiny marble bathrooms. The staff also gets high marks for professionalism and for general helpfulness.}}
+*{{sleep
+| name=Hôtel de Nice | alt= | url=http://www.hoteldenice.com/ | email=contact@hoteldenice.com
+| address=42 bis, rue de Rivoli | lat= | long= | directions=Metro: Hôtel de Ville
+| phone=+33 1 42 78 55 29 | tollfree=
+| checkin= | checkout= | price=€60+
+| lastedit=2026-08-11
+| content=Just two blocks from the Ile de St. Louis, the Hôtel de Nice offers tiny but lovely rooms. Ask for one with a balcony, some of which have a view of Notre Dame. The furniture is hand-painted with a floral theme which continues throughout the room. The area can be a little loud though, so if you want peace and quiet look elsewhere.
+}}
+*{{sleep
+| name=Hôtel Rivoli | alt= | url=https://www.hotelrivoli.fr/ | email=contact@hotelrivoli.fr
+| address=44 rue de Rivoli | lat= | long= | directions=Metro: Hôtel de Ville
+| phone=+33 1 42 72 08 41 | tollfree=
+| checkin= | checkout= | price=Double for €48
+| lastedit=2026-08-11
+| content=Great location. Can be noisy if you have a room which faces the street.
+}}
+* {{sleep
+| name=Hôtel Duo | alt= | url=https://duo-paris.com | email=contact@duoparis.com
+| address=11 Rue du Temple | lat=48.858211 | long=2.352906 | directions=in the Marais
+| phone=+33 1 42 72 72 22 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-08-11
+| content=Stylish, modern and very clean boutique hotel.
+}}
+
+==Connect==
+*{{listing
+| name=Bibliothèque Publique d'Information | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This library in Centre Pompidou offers free Internet for 40 min. It's very popular so expect a queue for getting in and at least one hour waiting time to use the computers. The entrance to the museum isn't the same as the one to the rest of Centre Pompidou, but is around the back of the building.}}
+
+==Go next==
+{{routebox
+| image1=Paris m 1 jms.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/La Défense|La Défense]]
+| minorl1='''[[Paris/1st arrondissement|1st arrondissement]]'''
+| directionr1=E
+| majorr1=[[Paris/12th arrondissement|12th arrondissement]]
+| minorr1=
+
+| image2=Paris m 4 jms.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl2='''[[Paris/1st arrondissement|1st arrondissement]]'''
+| directionr2=S
+| majorr2=[[Paris/14th arrondissement|14th arrondissement]]
+| minorr2=[[Paris/5th arrondissement|5th arrondissement]]
+
+| image3=Paris m 5 jms.svg
+| imagesize3=22
+| directionl3=N
+| majorl3=[[Paris/3rd arrondissement|3rd arrondissement]]
+| minorl3=[[Paris/11th arrondissement|11th arrondissement]]
+| directionr3=S
+| majorr3=[[Paris/13th arrondissement|13th arrondissement]]
+| minorr3=
+}}
+
+{{guidedistrict}}
+{{geo|48.8537|2.3580|zoom=15}}
+{{IsPartOf|Paris}}

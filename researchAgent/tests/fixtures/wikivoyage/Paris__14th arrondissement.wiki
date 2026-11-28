@@ -1,0 +1,283 @@
+{{pagebanner|Paris 14e Wikivoyage Banner.png|capion=View from the Tour Montparnasse over the quarter|pgname=14th arrondissement}}
+Although largely residential, the '''14th arrondissement''' is best known for its northeastern ''quartier Montparnasse'', for the Paris Catacombs and the Parc Montsouris. The Cité Universitaire is also found in this district traditionally known for lively cafés and restaurants around the Boulevard du Montparnasse and the rue Daguerre.
+
+The ''Tour Montparnasse'' and ''Gare Montparnasse'' are in the [[Paris/15th arrondissement|15th arrondissement]], but they are described here for consistency.
+
+[[File:Paris 14e arrondissement - Quartiers.svg|250px|thumbnail|right|''Quartiers'' of the 14th arrondissement]]
+
+==Get in==
+The station {{marker|type=go|name={{station|Denfert-Rochereau|4|6|rerB}}|lat=48.8344|long=2.3325|wikidata=Q800660}} makes for a good entry point. Adjacent to the RER railway station there is a namesake metro station.
+
+{{marker|type=go|name=Gare Montparnasse|lat=48.8402|long=2.3191|image=Gare-Montparnasse CRW 1569.jpg|wikidata=Q631114}}, is in the north-east corner of the [[Paris/15th arrondissement|15th arrondissement]], just north of the 14th, and is a terminus for TGV and regular trains from the west and south-west of France: [[Tours]], [[Brest (France)|Brest]], [[Rennes]], [[Nantes]], [[Bordeaux]], [[Toulouse]],  [[Hendaye]]. Métro: ''Montparnasse-Bienvenüe''. ''Gare Vaugirard'' is an extension of Gare Montparnasse.
+
+==See==
+{{Mapframe|48.8292|2.3278|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+[[File:Paris Catacombes 005.JPG|250px|thumb|Paris Catacombes]]
+* {{see
+| name=Les Catacombes de Paris | alt=Catacombs of Paris | url=https://www.catacombes.paris.fr | email=
+| address=1 place Denfert-Rochereau | lat=48.83397 | long=2.33245 | directions={{station|Denfert-Rochereau|4|6|rerB}}
+| phone= | tollfree=
+| hours=Tue-Sun 09:45-20:30; last admission 19:30; closed Mon and public holidays | price=Adults (audioguide incl.): {{EUR|31}}, Reduced rate (audioguide incl.): {{EUR|25}}, Children (8 to 17 yo): {{EUR|15}}; Adults (same day “last minute”): {{EUR|15}}, Reduced rate (same day “last minute”): {{EUR|13}}, Children (under 18): free; Audioguide: {{EUR|5}}
+| image=Catacombes de Paris.JPG | wikidata=Q28924
+| lastedit=2026-08-28
+| content=One of the most eye-popping sights of Paris, the catacombs represent a network of labyrinthine tunnels, first excavated in the Roman period, that now house the remains of over 6 million burials removed here from the various overcrowded cemeteries and charnel houses all over Paris in the late 18th and early 19th centuries. Well worth a visit: the atmosphere is suitably morbid and gloomy (without being too scary), the dark tunnels containing neatly stacked piles of skulls and long bones. There is a limit to the number of visitors allowed within the Catacombs at one time (200 persons). So, if you arrive just after opening, you must wait until someone exits, approximately 45–60 minutes, before anyone is admitted. Steep stairwell on the exit of the catacombs. Can be challenging for the elderly or the unfit. Tickets can be purchased online which allows you pick a date & time and to skip the long line.
+}}
+* {{see
+| name=Cimetière de Montparnasse | alt=Montparnasse Cemetery | url= | email=
+| address=3, boul Edgar-Quinet | lat=48.838056 | long=2.326944 | directions=Métro: Edgar-Quinet, Raspail
+| phone=+33 1 44 10 86 50 | tollfree= | fax=
+| hours=16 Mar-5 Nov: Mon-Fri 08:00-18:00, Sat 08:30-18:00, Sun 09:00-18:00; 6 Nov-15 Mar: Mon-Fri 08:00-17:30, Sat 08:30-17:30, Sun 09:30-17:30 | price=
+| wikipedia=Montparnasse Cemetery | image=The Montparnasse cemetery.jpg | wikidata=Q272208
+| content=The burial place of existentialist philosopher Jean-Paul Sartre, feminist Simone de Beauvoir (both of whom lived nearby); musician Serge Gainsbourg; artist Man Ray; the poets Charles Baudelaire, Guy de Maupassant, Charles Sainte-Beuve, and Marguerite Duras; the founders of the Theatre of the Absurd Samuel Becket and Eugene Ionesco; the sculptors Constantin Brancusi and Ossip Zadkine; the composers Camille de Saint-Saens and César Franck; the actors Maria Montez and Jean Seberg; the French officer Alfred Dreyfus; the founder of the Larousse encyclopedia, Pierre Larousse; the industrialist André Citroen, and many others.
+}}
+*{{see
+| name=Cité Internationale Universitaire de Paris | alt=C.I.U.P. | url=http://www.ciup.fr/ | email=
+| address= | lat=48.821111 | long=2.338056 | directions=RER B Cité Universitaire,
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Cité Internationale Universitaire de Paris | image=Cité internationale universitaire de Paris 2.jpg | wikidata=Q1094300
+| content=The C.I.U.P. is a student quarter established in 1925, providing homes for about 10,000 students, scientists, and artists from 120 countries. It has 40 houses attributed to individual nations. The individual houses organise top quality cultural and political events. Among the most remarkable buildings are the ''Fondation Deutsch de la Meurthe'', the ''Heinrich Heine House (Maison Heinrich Heine - Fondation de l'Allemagne)'', the ''Swedish Student House (Maison des Etudiants Suédois)'', and the ''Swiss Pavilion (Pavillon Suisse)'' which was built in 1933 on plans of Le Corbusier.
+}}
+*{{see
+| name=Fondation Henri-Cartier-Bresson | alt= | url=http://henricartierbresson.org/ | email=
+| address=2, Impasse Lebouis | lat=48.836700 | long=2.321600 | directions=Métro 13 Gaitè, 6 Edgar Guinet, Bus 28, 58 or 88
+| phone=+33 1 56 80 27 00 | tollfree= | fax=
+| hours=Tue-Sun 13:00-18:30, Wed till 20:30 | price=€6
+| image=Henri Cartier-Bresson Foundation, Paris January 2011 01.jpg | wikidata=Q2349008
+| content=The foundation opened its doors in May 2003. It preserves Henri Cartier-Bresson and Martine Franck’s archives. Exhibition of photographs, paintings, sculptings, and illustrations.
+}}
+*{{see
+| name=Lion of Belfort | alt= | url= | email=
+| address=Place Denfert-Rochereau | lat=48.8344 | long=2.33245 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Lion of Belfort | image=P1150549 Paris XIV lion place Denfert-Rochereau rwk.jpg | wikidata=Q3241785
+| content=This is a bronze replica in smaller scale of a monument created by Bartholdi, the sculptor of the Statue of Liberty, in order to commemorate Denfert-Rochereau, who defended the city of Belfort in the Franco-Prussian war of 1870.
+}}
+*{{see | name=Observatoire | alt= | url=http://www.obspm.fr/obsparis.en.shtml | email= | address=61, av de l'Observatoire, entrance: 77, av Denfert-Rochereau | lat=48.836439 | long=2.336506 | directions=RER B: Denfert Rochereau, Métro: Royal Port(Bearing) or Denfert-Rochereau. | phone=+33 1 40 51 22 21 | tollfree= | fax= | hours= | price= | wikipedia=Paris Observatory | image=Observatoire Paris 20030404.jpg | wikidata=Q13104410 | content=The observatory was erected by Claude Perrault from 1667 to 1672 by order of Colbert. The building is oriented to the four cardinal directions. It is crossed in the centre by the Paris meridian (2° 20′ 14″ east of Greenwich). The observatory is not open to the public.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Parc Montsouris | alt= | url= | email=
+| address=boul Jourdan | lat=48.822222 | long=2.338333 | directions=RER B Cité-Universitaire
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Parc Montsouris | image=Parc Montsouris - Paris.JPG | wikidata=Q1538929
+|lastedit=2025-04-20| content=Considered one of the most colourful Parisian parks, a local favourite, the Parc Montsouris was opened in 1878, having been designed by Alphand for Baron Haussmann. A large man-made lake and waterfalls are surrounded by long stretches of gently sloping lawns. Bronze statues are to be found studding the grounds, amongst the 1,400 trees, including such exotic varieties as the giant sequoia and the ginkgo. The park is featured in the film ''Cléo de 5 à 7''. It is popular among families (there are two playground areas for children) and students.
+}}
+*{{see
+| name=Port-Royal Abbey | alt= | url= | email=
+| address=123, boul de Port-Royal | lat=48.838611 | long=2.338333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Port-Royal Abbey, Paris | image=Cloitre de Port-Royal Paris, Cochin.JPG | wikidata=Q2820659
+| content=Famous people who stayed here include Marie de Rohan, intriguer during the Fronde; Jeanne Baptiste d'Albert de Luynes, future mistress of a duke of Savoy; Marie Angélique de Fontanges, mistress of Louis XIV, died here giving birth to his child who also died. Today its main cloister (illustration) forms part of the modern Hôpital Cochin.
+}}
+*{{see
+| name=Barrière d’Enfer | alt=Gate of Hell | url= | email=
+| address=Place Denfert-Rochereau | lat=48.8339 | long=2.33194 | directions=Métro Denfert-Rochereau
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Barrière d’Enfer | image=Barrière d'Enfer, place Denfert-Rochereau, Paris 03.jpg | wikidata=Q2885653
+| content=The two pavilions were built in 1784 to 1787 by the French architect Claude-Nicolas Ledoux, who erected many similar toll houses at the entrances to the city.
+}}
+* {{see | name=The Liberation of Paris, General Leclerc Museum, Jean Moulin Museum | alt=Le Musée de la Liberation de Paris - Musée du Général Leclerc - Musée Jean Moulin | url=https://www.museeliberation-leclerc-moulin.paris.fr/en | email= | address=4 Avenue du Colonel Henri Rol-Tanguy | lat=48.834167 | long=2.331621 | directions={{station|Denfert-Rochereau|4|6|RERB}} | phone=+33 1 71 28 34 70 | tollfree= | hours=Tue-Sun 10:00-18:00 (last entrance 17:30) | price=Free | lastedit=2026-08-28 | content=Museum documenting Paris at war.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Do==
+
+==Buy==
+
+==Eat==
+There are a number of cheap eateries around Montparnasse, especially Breton crêperies. The district is also known for its traditional bistros.
+
+*{{eat
+| name=L'Amuse Bouche | url= | email=
+| address=186, rue du Château | lat= | long= | directions=Métro Mouton Duvernet
+| phone = +33 143353161 | tollfree= | fax=
+| hours=Closed Sun Mon and 1-20 Aug | price=€35+
+| content=The cheese soufflés (soufflé au fromage) and Soufflé au Grand Marnier are highly recommended.}}
+*{{eat
+| name=L'Assiette | url=http://www.restaurant-lassiette.com | email=
+| address=181, rue du Château | lat= | long= | directions=Métro Mouton Duvernet
+| phone = +33 1 43226486 | tollfree= | fax=
+| hours=Closed Mon Tue, 3 weeks in Aug| price=€35-55
+| content=Reservation recommended.}}
+
+[[Image:Paris 14th arrondissement map with listings 2.png|thumb|350px|Map of the 14th Arrondissement]]
+
+* {{eat
+| name=Le Bis du Severo | url= | email=
+| address=16, rue des Plantes | lat= | long= | directions=Métro Mouton Duvernet
+| phone = +33 1 40447309 | tollfree= | fax=
+| hours=Closed Sat evening, Sun and Mon lunch, 2 weeks in Apr, Aug and 24 Dec-3 Jan | price=€25 (lunch at weekdays), €30-60 (dinner a la carte)
+| content=}}
+*{{eat
+| name=Bistot du Dôme | url= | email=
+| address=1, rue Delambre | lat= | long= | directions=Métro Vavin
+| phone = +33 1 43353200 | tollfree= | fax=
+| hours=Closed Sun Mon in Aug | price=€50
+| content=Seafood.}}
+*{{eat
+| name=La Cagouille | alt= | url=http://www.la-cagouille.com/en/ | email=
+| address=10, place Constantin-Brancusi | lat= | long= | directions=Métro Gaité
+| phone=+33 1 53220901 | tollfree= | fax=
+| hours= | price=Menu €38 including drinks, a la carte from €35-60
+| content=
+}}
+*{{eat
+| name=La Cantine du Troquet | alt= | url=https://www.lacantinedutroquet.com/ | email=
+| address=101, rue de l'Ouest | lat= | long= | directions=Métro Pernety
+| phone=+33 1 45400498 | tollfree=
+| hours=Closed Sat, Sun | price=€30
+| content=
+}}
+*{{eat
+| name=La Cerisaie | url= | email=
+| address=60, boul E. Quniet | lat= | long= | directions=Métro Edgar Quinet
+| phone = +33 1 43209898 | tollfree= | fax=
+| hours=Closed Sat Sun, mid-Jul-mid-Aug, 20 Dec-4 Jan | price=€32-40
+| content=Reservation recommended.}}
+* {{eat
+| name=La Coupole | url= | email=
+| address=102, boul du Montparnasse | lat= | long= | directions=Métro Vavin
+| phone=+33 1 43 20 14 20 | tollfree= | fax=
+| hours=08:30-01:00, closed Sun | price=Average plate €35-40, all cards accepted
+| content=The famous Art Deco brasserie, convenient for a quick meal before or after a train journey to or from Montparnasse station.}}
+*{{eat
+| name=Le Dôme | url= | email=
+| address=108, boul Montparnasse | lat= | long= | directions=Métro Vavin
+| phone = +33 1 43 35 25 81 | tollfree= | fax=
+| hours=Closed Sun Mon in Jul and Aug | price=€75-140
+| content=}}
+*{{eat
+| name=Le Duc | url= | email=
+| address=243, boul Raspail | lat= | long= | directions=Metro Raspail
+| phone = +33 1 43 22 59 59 | tollfree= | fax=
+| hours=Closed Sun Mon, 3 weeks in Aug, 24 Dec-3 Jan | price=Set lunch €49, dinner a la carte €60-150
+| content=}}
+*{{eat
+| name=Les Grillades de Buenos Aires | url= | email=
+| address=54, rue de Montparnasse | lat= | long= | directions=
+| phone = +33 143215674 | tollfree= | fax=
+| hours=Lunch 12:00-14:00, dinner 19:45-23:00, closed Sun | price=€28 per main
+| content=Small and intimate Argentinian restaurant. Amazing steaks. Everything about the food is wonderful.}}
+* {{eat
+| name=Le Moulin Vert | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+* {{eat
+| name=Le Zeyer | url= | email=
+| address=Place d'Alesia | lat= | long= | directions=Métro Alesia
+| phone= | tollfree= | fax=
+| hours=08:30-01:00 | price=Average plate €20-40, all cards accepted
+| content=Famous Art Deco-style brasserie.}}
+
+==Drink==
+
+==Sleep==
+===Budget===
+*{{sleep
+| name=Hotel Formula 1 | alt= | url= | email=
+| address=23, av de la Porte de Chatillon | lat= | long= | directions=go to Porte d'Orleans metro, then 3 blocks west and one block south
+| phone= | tollfree=
+| checkin=12:00 | checkout=12:00 | price=€48
+| content=Very cheap private rooms, close enough to the metro to make it worth it. Rooms are very clean, and have TV, free Wi-Fi, and washbasin only. Shared showers and toilets. The showers are fine, but, there are no toilet-seats and no urinals (thus, the shared toilets get very nasty, very fast and people have to go back to their rooms to wash their hands in their washbasin), so the quality of the bathrooms may keep this hotel chain out of reach for serious germ-a-phobes. It is, nevertheless, cheaper for two people to stay here than just about any youth hostel in Paris. Nice and safe neighbourhood, too, with several supermarkets and kebab vendors for eats.
+}}
+
+===Mid-range===
+*{{sleep
+| name=Voco Paris Montparnasse | alt=IHG Hotels | url=https://www.ihg.com/voco/hotels/us/en/paris/pargm/hoteldetail | email=
+| address=79-81, av du Maine | lat= | long= | directions=
+| phone=+33 1 43 20 13 93 | tollfree= | fax=
+| hours= | price=€156-218
+| checkin=15:00 | checkout=12:00
+| lastedit=2023-01-22
+| content=Contemporary style, central location, eco-friendly design, secure indoor parking. Wheelchair accessible rooms. }}
+*{{sleep
+| name=Hotel Aiglon | alt= | url=http://www.paris-hotel-aiglon.com/ | email=
+| address=232, boul Raspail | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=20th-century filmmaker Luis Buñuel and sculptor Alberto Giacometti stayed in this hotel, which has good views, just next to the metro.
+}}
+* {{sleep
+| name=L'hôtel du Lion | alt= | url=http://www.hotel-lion.com/ | email=contact@hotel-lion.com
+| address=1 avenue du Général-Leclerc | lat=48.8334 | long=2.3319 | directions=
+| phone=+33 1 40 47 04 00 | tollfree=
+| checkin= | checkout= | price=From €70
+| content=An independent hotel on Place Denfert-Rochereau, near Montparnasse.
+}}
+*{{sleep
+| name=Hotel Le M | alt= | url=http://www.hotelmparis.com/ | email=reception@hotelmparis.com
+| address=20 bis, rue de la Gaîté | lat=48.839792 | long=2.323609 | directions=100 m from Gare Montparnasse and Tour Montparnasse, very close to Saint-Germain-des-Prés and the Luxembourg Gardens
+| phone=+33 1 40 47 48 49 | tollfree= | fax=
+| checkin= | checkout= | price=€125-250
+| content=The hotel offers 59 fully renovated, comfortable and soundproofed rooms, in an elegant designer setting.}}
+* {{sleep
+| name=Hotel Sophie Germain | url=http://www.hotelsophiegermain.com/ | email=hotel@hotelsophiegermain.com
+| address=12, rue Sophie Germain | lat= | long= | directions=near Place Denfert-Rochereau, a few minutes away from Montparnasse train station and the Latin Quarter
+| phone=+33 1 43 21 43 75 | tollfree= | fax=
+| hours= | price=From €90
+| checkin= | checkout=
+| content=}}
+* {{sleep
+| name=Helzear Montparnasse | alt=Suites & Hôtel Helzear Montparnasse | url=https://www.helzear.com/hotel/montparnasse/ | email=montparnasse@helzear.com
+| address=40 Rue Liancourt | lat=48.834599 | long=2.32528 | directions=Metro (13) - Station Gaîté or Metro (4&6) & RER B - Station Denfert-Rochereau
+| phone=+33 1 45 26 11 06 | tollfree=
+| checkin= | checkout= | price=From €120
+| wikidata=Q111411952
+| lastedit=2026-06-07
+| content=Property with 14 suites and apartments. Each accommodation has a kitchenette and overlooks a quiet, paved interior courtyard. Configurations range from the duplex room (2 guests) to the 2-bedroom apartment and the deluxe suite sleeping up to 6, the latter featuring a private jacuzzi and sauna. 24-hour concierge, room service, luggage storage. No private parking, pets not allowed. Gaîté metro station (line 13) is a 7-minute walk away, Gare Montparnasse 10 minutes. Close to th
+}}
+* {{sleep
+| name=Foyer Le Pont | alt= | url= | email=info@foyerlepont.fr
+| address=86 Rue de Gergovie | lat= | long= | directions=line 4 to alesia or line 13 to Penerty (which is closer)
+| phone=+33 1 45 42 51 21 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-09-12
+| content=This is a budget-friendly place run by the German evangelical church in the Rhineland, it has a common room and fridge and you are allowed to bring you own drinks and food in, this is a quiet, simple place, in a good neighbourhood with a few restaurants, bakeries and supermarkets nearby.
+}}
+
+=== Splurge ===
+* {{sleep
+| name=Marriott Rive Gauche | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=€270
+| checkin= | checkout=
+| content=A nice hotel and within two blocks of the St Jacques and Glaciere metro stations. Very friendly staff.}}
+* {{sleep
+| name=Pullman Paris Montparnasse | alt=formerly Le Meridien Montparnasse, and built as Sheraton Paris | url=https://all.accor.com/hotel/8189/index.en.shtml | email=h8189@accor.com
+| address=19, rue du Commandant Mouchotte | lat= | long= | directions=Metro Gaite
+| phone= | tollfree=
+| checkin= | checkout= | price=€165+
+| content=The gargantuan former Le Meridien was taken over by Accor's upscale brand Pullman and saw a complete renovation of its massive building housing 953 hotel rooms (the largest room count in Paris) on 26 floors. It has all the pros and cons of a huge business hotel, plus the added value of sweeping vistas from its rooms, due to its unusual height (116 metres) versus the Paris average.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 4.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorl1=[[Paris/6th arrondissement|6th arrondissement]]
+| directionr1=S
+| majorr1=END
+| minorr1=
+}}
+
+
+
+
+{{usabledistrict}}
+{{geo|48.8292|2.3278|zoom=14}}
+{{IsPartOf|Paris}}
+
+{{Mapmask |48.8195,2.3446 |48.8204,2.3439 |48.8212,2.3427 |48.8227,2.3417 |48.8237,2.3414 |48.8275,2.3416 |48.8278,2.3416 |48.8318,2.3411 |48.8325,2.3411 |48.8383,2.3421 |48.8384,2.3421 |48.8394,2.3376 |48.8397,2.3367 |48.8436,2.3248 |48.8436,2.3247 |48.8419,2.3225 |48.8410,2.3215 |48.8402,2.3218 |48.8398,2.3214 |48.8405,2.3199 |48.8252,2.3013 |48.8251,2.3013 |48.8186,2.3308 |48.8182,2.3324 |48.8177,2.3321 |48.8170,2.3317 |48.8164,2.3403 |48.8163,2.3417 |48.8158,2.3437 |48.8158,2.3440 |48.8174,2.3441 |48.8176,2.3441 |48.8195,2.3446}}

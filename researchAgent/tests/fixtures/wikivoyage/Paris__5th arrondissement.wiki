@@ -1,0 +1,392 @@
+{{pagebanner|Paris 5e Wikivoyage Banner.png|pgname=5th arrondissement}}
+The '''5th Arrondissement''' of Paris is one of the best known of the city's central districts, located on the Left Bank (''Rive Gauche'') of the river Seine. Also commonly known as the "Latin Quarter" (''le Quartier latin'') because the first great Parisian university, the Sorbonne, was founded (and can be still be found) here and Latin was the language the medieval period students used once to speak. The 5th was also the core of ancient Gallo-Roman Paris, as revealed in a number of otherwise rare archaeological remains that can be seen within the district.
+
+The area still has a significant student presence, with several universities and schools of higher education being located in the area. However, due to gentrification, most student and faculty have been forced to more affordable areas such as the [[Paris/13th arrondissement|13th]].
+
+==Understand==
+===Visitor information===
+* [http://www.paris5eme.com/indexag.htm Website] {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Get in==
+[[Image:Paris 5th pantheon.jpg|thumb|250px|The Panthéon crowns the hill at the center of Paris' 5th arrondissement]]
+===''By Métro''===
+
+{{rint|paris|7}} connects the 5th with the 1st, 4th, and 13th, stopping at '''Jussieu''', '''Monge''' and '''Censier/Daubenton'''.
+
+{{rint|paris|10}} cuts east-west across the northern and most touristed part of the arrondissement stopping at '''Cluny/la Sorbonne''', '''Maubert/Mutualité''', '''Cardinal Lemoine''', and '''Jussieu''' with terminus just east of the 5th's border with the 13th at '''Gare d'Austerlitz'''.
+
+{{rint|paris|rerB}} coming all the way from '''[[Charles de Gaulle Airport]]'''  stops at '''St. Michel''' and '''Luxembourg'''.
+
+===''By bus''===
+27, 87, 86, 24, 21, 47, 89, 84
+
+Many tourists rely on  the subway system to get around.  However, while you are there to visit, why not see the city from the bus?  Unlike other big cities, the buses in Paris are a first class ride for the same price.  They are very clean and usually arrive every 7-10 minutes. The system is very easy to understand (there are big maps and the lines are color coded) and you can ask anyone on the bus to tell you where you should stop.  Buses typically go faster than other cars too because they benefit from special '''bus lanes''' on all main avenues and boulevards throughout the city.
+
+==See==
+{{Mapframe|48.84513|2.35017|zoom=14|staticmap=Paris 5th arrondissement map with listings 2.png}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+===Landmarks===
+* {{see | name=Panthéon | alt= | url=http://pantheon.monuments-nationaux.fr/fr/ | email= | address=Place du Panthéon | lat=48.846111 | long=2.345833 | directions={{station|Cardinal Lemoine|10}} or {{station|Luxembourg|rerB}} | phone=+33 1 43 54 34 51 | tollfree= | hours=Daily, April-September 10:00-18:30, October-March: 10:00-18:00, Last admission 45 mins before closing | price=€7.50 (''€4.50 reduced rate, museum card accepted, free for EU-people under 26 years, incl Panorama Tower, but needs to be explicitly asked for'') | wikipedia=Panthéon | image=Panthéon Paris 2.jpg | wikidata=Q188856 | content=It was conceived by Louis XV as a grand neo-classical church honouring St. Geneviève, the patron saint of Paris. After the Revolution, the building was converted into a mausoleum for the great philosophers, military, artists, scientists, and heroes of the French Republic. Occupants of the crypt include Voltaire, Rousseau, Victor Hugo, Zola, the Curies, and Alexandre Dumas (reinterred here in 2002). The view from the dome (206 steps) is marvellous. Check tour departure times at the information desk. A fascinating reconstruction of Foucault's pendulum also hangs within the Panthéon.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Jardin des Plantes | alt= | url=http://www.mnhn.fr/museum/foffice/tous/tous/GuideDecouverte/lieuxVisiter/LieuxAVisiter/FLieuAVisiter.xsp?AE_ID214&INFO_ID21&LIEU_ID158&MAN_ID273&SITE_ID10&idx1&navliste | email=
+| address= | lat=48.843889 | long=2.359722 | directions=
+| phone= | tollfree= | fax=
+| hours=daily summer 07:30 - 20:00, winter 8:00 - 17:30 | price=free
+| wikipedia=Jardin des Plantes | image=Jardin Plantes.jpg | wikidata=Q730948
+| content=The Paris Botanical Garden, founded as the royal medicinal garden in 1626 by King Louis XIII's doctor, contains over 10,000 species. The grounds also include a small zoo known as ''La Ménagerie'', and the '''Muséum National d'Histoire Naturelle''', which includes the ''Grande Galerie de l'Evolution'' (where you can see thousands of naturalized animals from all over the world) and the ''''Galerie de paléontologie et d'anatomie comparée'''' (same thing, but with skeletons).
+}}
+* {{see
+| name=Arènes de Lutèce | alt= | url= | email=
+| address=47, rue Monge et rue de Navarre | lat=48.845 | long=2.35306 | directions={{station|Place Monge}}, {{station|Jussieu}}, {{station|Cardinal Lemoine}}
+| phone= | tollfree= | fax=
+| hours=08ː00-17ː30 (winter), 08ː00-22ː00 (summer) | price=Free
+| wikipedia=Arènes de Lutèce | image=Roman arena in Paris.jpg | wikidata=Q641548
+| content=An ancient Roman theater, the only surviving above-ground ruins of the Gallo-Roman era in Paris (ancient Lutetia, French ''Lutèce'') apart from the nearby ''Thermes de Cluny''. The theatre could hold approximately 15,000 spectators and measures some 132 m x 100 m. Built sometime in the 2nd century CE, the location of the actor's dressing room, the platform of the stage, and lapidary remains can still be seen. The remains were rediscovered in 1869, when new streets were being built. An excavation was subsequently ordered in 1883. The theatre has been preserved as a quiet archaeological park removed from the bustle of Parisian streets.
+}}
+
+[[File:Façade de la chapelle Sainte-Ursule, Sorbonne, Paris.jpg|thumb|Façade of the Chapel Sainte-Ursule of the Sorbonne]]
+* {{see
+| name=Val-de-Grâce | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-04-29
+| content=The Val-de-Grâce is a magnificent 17th-century Baroque church built by Queen Anne of Austria in thanks for the birth of Louis XIV. Its grand dome dominates the skyline, while the interior features one of France’s most impressive Baroque frescoes by Pierre Mignard.
+|wikidata=Q2601262}}
+
+===Museums and Galleries===
+* {{see
+| name=Musée Curie | alt= | url=http://musee.curie.fr/ | email=
+| address=11, rue Pierre et Marie Curie | lat=48.844167 | long=2.343611 | directions={{station|Cardinal Lemoine|10}}, {{station|Place Monge|7}}, {{station|Luxembourg|rerB}}
+| phone=+33 1 42 34 67 49 | tollfree= | fax=
+| hours=Mon-Fri 13ː30-17ː00 except bank holidays and during Aug | price=free
+| wikipedia=Musée Curie | image=Entrance to Musee Curie, Paris.jpg | wikidata=Q589336
+| content=This charming scientific museum preserves the offices and laboratories of Pierre and Marie Curie, pioneers in the discovery of radioactivity. Their instruments, equipment, and furniture is arranged as it was during their critically important research. Guided tours in English available.
+}}
+* {{see
+| name=Musée de l'Institut du Monde Arabe | alt=Arab World Institute | url=http://www.imarabe.org/ | email=
+| address=1, rue des Fossés-St Bernard | lat=48.84889 | long=2.35639 | directions=
+| phone=+33 1 40 51 38 38 | tollfree= | fax=
+| hours=Tue-Sun 10ː00-18ː00, closed Mon and 1 May | price=
+| wikipedia=Arab World Institute | image=Osiris, mystères engloutis d'Égypte, Institut du Monde Arabe, Paris 24 January 2016.jpg | wikidata=Q860166
+| content=The building has a freely accessible rooftop which allows for a beautiful bird's-eye view of the northern half of Paris.
+}}
+* {{see
+| name=Musée National Du Moyen Âge | alt=Musée de Cluny | url=http://www.musee-moyenage.fr/ | email=
+| address=6, place Paul Painlevé | lat=48.850556 | long=2.343333 | directions={{station|Cluny-La Sorbonne|10}}
+| phone=+33 1 53 73 78 16 | tollfree= | fax=
+| hours=Daily 09:15-17:15 | price=€7.50 (€5.50 reduced rate, free under 18, museum card accepted)
+| wikipedia=Musée national du Moyen Âge | image=Hotel de cluny entrance.jpg | wikidata=Q1124095
+| lastedit=2017-02-06
+| content=Housed in a 15th-century abbey, alongside 1st century Gallo-Roman baths, the museum has an extensive collection of medieval art and artifacts. Highlights include the medieval "Lady and the Unicorn" tapestries, a papal golden rose, and the original heads from the facade of Notre Dame.
+}}
+
+===Religious buildings===
+* {{see
+| name=Eglise Saint-Étienne-du-Mont | alt= | url=http://www.saintetiennedumont.fr/ | email=
+| address=pl Ste Geneviève | lat=48.846389 | long=2.347778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Saint-Étienne-du-Mont | image=Saint-Étienne-du-Mont3.JPG | wikidata=Q583251
+| content=St. Geneviève was responsible for saving Paris from the Huns in 451 and her shrine in the church has been a popular place of pilgrimage ever since. The church as it stands dates from between 1492 and 1626 and is a mix of Gothic and Renaissance architectural styles. A unique feature is the Renaissance rood screen, the sole survivor in the city.
+}}
+* {{see
+| name=Eglise Saint-Julien-le-Pauvre | alt= | url= | email=
+| address=rue Saint-Julien-le-Pauvre | lat=48.851944 | long=2.346944 | directions={{station|Cluny-Sorbonne}} / {{station|Saint-Michel}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Saint-Julien-le-Pauvre | image=Saint Julien le Pauvre 02.jpg | wikidata=Q1243760
+| content=
+}}
+*{{see
+| name=Eglise Saint-Médard | alt= | url=http://saintmedard.org | email=
+| address=rue Mouffetard | lat=48.83992 | long=2.350484 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=fr:Église Saint-Médard de Paris | image=Paris 5e - église Saint-Médard - ext 1.JPG | wikidata=Q574970
+| content=
+}}
+* {{see | name=Eglise Saint Nicolas du Chardonnet | alt= | url=http://www.saintnicolasduchardonnet.fr/ | email= | address=23, rue des Bernardins | lat=48.849167 | long=2.350278 | directions= | phone= | tollfree= | fax= | hours= | price= | wikipedia=Saint-Nicolas-du-Chardonnet | image=3-4view Saint-Nicolas-du-Chardonnet Paris.jpg | wikidata=Q1577630 | content=A controversial church serving as de facto headquarters of the arch-traditionalist Society of Saint Pius X, who occupied the church in 1977 and have ignored subsequent eviction orders.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see | name=Grande Mosquée de Paris | alt=Grand Mosque of Paris | url=http://www.mosqueedeparis.net | email= | address=2 bis, place du puits de l'Ermite | lat=48.841944 | long=2.355 | directions= | phone=+33 1 45 35 97 33 | tollfree= | fax= | hours= | price= | wikipedia=Grand Mosque of Paris | image=GD-FR-Paris-Mosquée012.JPG | wikidata=Q392564 | content=Established in 1926, it was meant to show appreciation for Muslim help in fighting the Germans. The café serves excellent mint tea and North African food.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Église Saint-Jacques-du-Haut-Pas | alt= | url=http://www.saintjacquesduhautpas.com/ | email=
+| address= | lat=48.843611 | long=2.341389 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Église Saint-Jacques-du-Haut-Pas | image=P1010463 Paris V Saint-Jacques-du-Haut-Pas reductwk.JPG | wikidata=Q65326
+| lastedit=2017-06-24
+| content=
+}}
+
+==Do==
+The 5th arrondissement is the perfect place to wander and people watch. If you are brave and have any French skills, engage a student in conversation. Many, if addressed in French, will be more than happy to talk about politics and social issues in English.
+
+==Buy==
+[[File:Rue Mouffetard.JPG|thumb|250px|The rue Mouffetard hosts an ongoing open air market]]
+
+The lower end of rue Mouffetard as it runs away from the ''Panthéon'' hosts an ongoing fruit and vegetable market, and is lined with food and wine shops of all kinds.
+
+* {{buy
+| name=l'Epée de Bois | url= | email=
+| address=12, rue de l'Epée de Bois | lat=48.84160 | long=2.35023 | directions=Métro: Pl. Monge
+| phone=+33 1 43 31 50 18 | tollfree= | fax=
+| hours=Mon 13:30-19:30; Tue-Sat 10:30-19:30; Sun 11:00-13:30 | price=
+| content=The name of the store and the street it's on both translate to the "wooden sword", and you find those here along with any number of wooden toys for children ages 1 to 10. They also have books and games.}}
+* {{buy
+| name=La Fontaine aux Vins | url= | email=
+| address=107 rue Mouffetard | lat=48.84075 | long=2.34980 | directions=Métro: Censier Daubenton
+| phone=+33 1 43 31 41 03 | tollfree= | fax=+33 1 45 34 51 47
+| hours= | price=
+| content=One of several wine shops along the lower part of the street. The wines are of high quality, but barely more pricey than the ones you'll find in the grocery store. They offer tastings outside on the street, and delivery if you buy a case. Prices start at around €4 per bottle which is around what you'll pay for a glass in a bar.}}
+* {{buy
+| name=Gepetto & Vélos | url= | email=
+| address=46, rue Daubenton | lat=48.84021 | long=2.35023 | directions=Métro: Censier Daubenton
+| phone=+33 1 43 37 16 17 | tollfree= | fax=
+| hours= | price=
+| content=OK, so if you are just staying for a day or two it makes no sense whatever to buy a bike, but if you are going to be around for a while having your own might just feel better than renting one from the RATP. If so, you could do a lot worse than Gepetto, where you'll find a range of real bikes rather than the usual cheap MTB you'd see at a sporting goods store. Prices start at around €100 for a sturdy used, 3-speed city bike.}}
+* {{buy
+| name=Shakespeare and Co. | url=http://www.shakespeareandcompany.com/ | email=
+| address=37, rue de la Bûcherie | lat=48.85255 | long=2.34709 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 12ː00-24ː00 | price=Cash only
+| content=Probably one of the most eccentric bookstores you will ever visit, this must-see was established in 1951 by George Whitman. Three rambling floors literally crammed with books, both new and (mainly) second-hand. The bedding shoved amid the shelves is for the (largely American) expats (called tumbleweeds) who doss down here at night. It is the sister store to City Lights in San Francisco.}}
+
+==Eat==
+{{eatpricerange|below €15|€15-25|over €25|dinner typical set menu (starter+main+dessert whenever available)}}
+
+A lot of travellers arriving in the 5th from across the river are lured into the restaurants and fast-food outlets between rue St Jacques and boulevard St Michel (in Rue de la Huchette, rue Saint-Séverin). This area may be handy for a quick snack (say, a "Greek sandwich" in a pita), but the quality of restaurants there is not so good - beware especially of restaurants advertising typical French specialties. A similar phenomenon occurs around rue Mouffetard, where many students from the Jussieu Campus and the École normale supérieure have snacks; most of the "French" restaurants are overpriced tourist traps.
+
+===Budget===
+* {{eat
+| name=Le Grenier de Notre Dame | url= | email=
+| address=18, rue de la Bûcherie | lat= | long= | directions=Métro: St. Michel
+| phone=+33 1 43 29 98 29 | tollfree= | fax=
+| hours= | price=Dinners start at €12
+| content=A vegetarian restaurant with a great selection including a number of vegan items, the Grenier is, as the name suggests, just around the corner from the cathedral. The English-speaking staff is super friendly.}}
+* {{eat
+| name=Jardin des Pâtes | url= | email=
+| address=4, rue Lacépède | lat= | long= | directions=Métro: Monge
+| phone=+33 1 43 31 50 71 | tollfree= | fax=
+| hours=Daily 12ː00-14:30 and 19ː00-23ː00 | price=Menus around €12
+| content=The range of pasta dishes is just fantastic at this cute little restaurant tucked away near the ''Jardin des Plantes''. Although some meat dishes are served there is a huge range of choice for vegetarians as well.}}
+
+===Mid-range===
+* {{eat
+| name=Ambiance De L'Inde | url= | email=battish@gmail.com
+| address=12, rue Thouin | lat= | long= | directions=
+| phone=+33 1 40 46 03 76 | tollfree= | fax=
+| hours=Daily | price=
+|lastedit=2026-08-25| content=Indian/Pakistani with many vegan dishes.}}
+* {{eat
+| name=Chez Ernest | url= | email=
+| address=31, rue de la Parcheminerie | lat= | long= | directions=Métro Cluny-Sorbonne
+| phone= | tollfree= | fax=
+| hours= | price=Complete dinner, including beverages, for €25
+| content=Very nice little restaurant in a small side-street. Typical and less typical French food.}}
+*{{eat
+| name=Kootchi | url= | email=
+| address=40, rue du Cardinal Lemoine | lat= | long= | directions=Métro Cardinal Lemoine
+| phone = +33 1 44 07 20 56 | tollfree= | fax=
+| hours=Mon-Sat 12ː00-14:30, 19ː00-22:30 | price=Lunch menu: €9.20 or €12.20, dinner menu €15.50
+| content=Afghan cuisine, small and cosy, food is not too spicy, good value for money.}}
+* {{eat
+| name=Le Petit Prince de Paris | alt= | url=http://lepetitprincedeparis.fr/ | email=
+| address=12, rue de Lanneau | lat=48.848421 | long=2.34653 | directions=Métro 10 Maubert-Mutualité, close to Pantheon
+| phone=+33 1 43 54 77 26 | tollfree= | fax=
+| hours=Evenings 19:30-24ː00 (to 00:30 Fri-Sat) | price=Set menu (starter+main) €16-23; extra €6 for dessert
+| content=A notably Parisian restaurant experience, but with friendly and warm service. Traditional French food (try the duck with feathers) and deliciously complicated sauces. Relaxed and uncrowded, but reserve in the morning for a weekend night. Reasonable wine selection.}}
+*{{eat
+| name=Le Volcan | url=https://restaurant-levolcan.fr/ | email=
+| address=10, rue Thouin | lat= | long= | directions=Near rue Descartes
+| phone=+33 1 46 33 38 33 | tollfree= | fax=
+| hours=Tue-Sun 12ː00-23ː00 | price=€25 per person without wine
+|lastedit=2026-08-25| content=Serves delicious traditional French dishes in a welcoming environment. Excellent service. The set meals are very varied and represent superb value.}}
+
+===Splurge===
+*{{eat
+| name=Bibimpap | url=http://www.bibimbap.fr | email=
+| address=32, boul de l'Hôpital | lat= | long= | directions=Métro Gare d'Austerlitz
+| phone = +33 1 43312742 | tollfree= | fax=
+| hours= | price=Set menu €25-40
+| content=Korean restaurant.}}
+*{{eat
+| name=Coco de Mer | url=http://www.cocodemer.fr | email=
+| address=34, boul St Marcel | lat= | long= | directions=Métro St Marcel
+| phone = +33 1 47070664 | tollfree= | fax=
+| hours=Closed Mon lunch, Sun, 2 weeks in Aug | price=Set menu €30, à la carte from €28-36
+| content=Specialities from the Seychelles.}}
+* {{eat
+| name=Dans les Landes | alt= | url= | email=dansleslandes@hotmail.fr
+| address=119 bis, rue Monge | lat=48.839069 | long=2.351036 | directions=Censier-Daubenton
+| phone=+33 1 45 87 06 00 | tollfree= | fax=
+| hours= | price=
+|lastedit=2026-08-25| content=A tapas bar with food from southeast France is the new place of the rugby champion and chef Julien Duboué.}}
+* {{eat
+| name=Le Petit Pontoise | url= | email=
+| address=9, rue de Pontoise| lat= | long= | directions=Parallel with the separation of lle de la Cite and lle de la Saint-Louis
+| phone = +33 1 43 29 25 20 | tollfree= | fax=
+| hours=Open lunch and dinner | price=Main courses for €18-28, starters and desserts €7-11, wine €20+
+| content=Nice restaurant with a homey feel, on a quiet street. Popular enough to have an "also" section next door. Expatriate Americans mingle with native Parisians and a few tourists. The food is of the local French standard (i.e., high), but does include vegetables, which many other non-tourist restaurants do not. The balance and spicing of the sauces is the main draw. The pig's cheeks stew is notably delicious, and one of the cheaper items to boot!}}
+* {{eat
+| name=La Tour d'Argent | alt= | url=http://www.tourdargent.com/ | email=
+| address=15-17, quai de la Tournelle | lat= | long= | directions=Métro Cardinal Lemoine or St Paul
+| phone=+33 1 43 54 23 31 | tollfree= | fax=
+| hours= | price=
+| content=For those with fat wallets la Tour d'Argent is a must-do. One of the oldest restaurants in Paris, on the Seine, it is famous for its duck recipes.}}
+
+==Drink==
+[[File:Jardin Plantes.jpg|thumb|The Museum of Natural History in the Jardin des Plantes]]
+* {{drink
+| name=The Bombardier | url= | email=
+| address=place du Panthéon | lat= | long= | directions=Métro: Maubert/Mutualité
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Great pub in a prime location right in front of beautiful St-Etienne-du-Mont church and the Panthéon. One of the few pubs in Paris where you can get cask ales, and they also make cocktails. Food served at lunchtime (good pub food, e.g., bangers & mash, English breakfasts, fish & chips, etc.). Also a great place to watch sporting events like Premier League matches and the Six-Nations tournament as the pub draws a mixed crowd of French and English regulars with expats and tourists thrown into the mix.}}
+* {{drink
+| name=The Fifth Bar | url= | email=
+| address=62, rue Mouffetard | lat= | long= | directions=Métro: Place Monge
+| phone= | tollfree= | fax=
+| hours= | price=Lager pints are €3.50 at happy hour, €5 after 20ː00 (except for student nights)
+| content=Named for the arrondissement, or maybe a measure of whiskey, this little hole-in-the-wall caters to a mixed anglophone expatriate crowd, with a mix of local students and (in tourist season) backpackers. Tuesdays and Thursdays are student nights with happy-hour prices all night with a student ID. Depending on season, American sports often play on the television, as do English Premier league and Spanish Primera matches.}}
+* {{drink
+| name=Le Piano Vache | alt= | url=https://lepianovache.com/en/ | email=contact@lepianovache.com
+| address=8, Rue Laplace | lat=48.847304 | long=2.347706 | directions=Métro: Maubert/Mutualité
+| phone=+33 1 46 33 75 03 | tollfree=
+| hours=Daily 17:00-02:00 | price=Draught beer €6-8.50 (50 cl), cocktails €8.50-12
+| lastedit=2026-10-14
+| content=Latin Quarter bar since 1969, at the foot of the Panthéon, the set of the film Le Péril jeune. Walls covered in posters and all kinds of objects. A mix of locals, students, travellers and their dogs. Live music: gypsy jazz on Mondays from 21:00, blues on Tuesdays from 19:30. Rock music the rest of the time. Cocktails, beers, wines and sharing plates. Tables can be booked on the website, by Instagram message or by phone.
+}}
+* {{drink
+| name=Polly Magoo | url= | email=
+| address=3, rue du Petit Pont | lat= | long= | directions=Métro: Saint Michel
+| phone= | tollfree= | fax=
+| hours=Sun-Thu 12ː00-05ː00; Fri Sat 12ː00-08ː00 | price=''Formule'': (1 tapa, 1 beer) is €8
+| content=This bar bears no relation, beyond the name, to the legendary, sleazy, and legendarily sleazy bar which was further south up the street at 11, rue Saint Jacques and was replaced by a boutique hotel in 2002. Jim Morrison was a regular at the original bar, but the owners of the new version would be unlikely to let anyone that shabby come in. The Gaudi-esque bar and blue mosaic storefront make this bar a must see as well as a must sit for those who like their bars to come with a theme.}}
+* {{drink
+| name=Le Vieux Chêne | url= | email=
+| address=69, rue Mouffetard | lat= | long= | directions=Métro: Place Monge
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Just down the way from the fifth on the left is another hole-in-the-wall, this one dating from the 18th century. It was named after its sign, a bas relief of an old oak tree (vieux chene), which was around 250 years when it was chiselled off early in 2005 by workmen restoring the facade of the building. The selection of beers, etc., is good and the crowd is mostly students. Expect to pay around €4 for a pint. There is a minuscule dance floor in the atmospheric and sweaty cellar below. On Tuesday nights, there is live music and the musicians take requests from the crowd, playing classic French and American songs.}}
+
+==Sleep==
+[[File:St-Etienne-du-Mont Exterior, Paris, France - Diliff.jpg|thumb|St. Etienne du Mont in its Renaissance glory, just behind the Panthéon]]
+===Budget===
+* {{sleep
+| name=Hôtel du Commerce | url=http://www.commerce-paris-hotel.com | email=
+| address=14, rue de la Montagne-Sainte-Geneviève | lat= | long= | directions=Métro: Maubert-Mutualité
+| phone=+33 1 43 54 89 69 | tollfree= | fax=+33 1 43 54 76 09
+| hours= | price=Singles without start at €26. Showers cost €2
+| checkin= | checkout=
+| content=The rooms are tiny, but cheap, especially for the location, just a stone's throw from Notre Dame. The hotel provides a shared kitchen area if you would like to save even more money by cooking some of the time, there are markets both nearby and over the hill on rue Mouffetard, so this is a good idea for budget travellers. Although they do have exactly one (pricier) room equipped with a shower, the rest of the rooms share a brand-new shower near the reception.}}
+* {{sleep
+| name=Hôtel Esmerelda | url= | email=
+| address=4, rue Saint-Julien-le-Pauvre | lat= | long= | directions=Métro: Saint-Michel
+| phone=+33 1 43 54 19 20 | tollfree= | fax=
+| hours= | price=A basic room is €65, doubles are €80-95
+| checkin= | checkout=
+| content=An excellent example of what happens when a "find" hotel is discovered by the travel guides, the Esmerelda has lost none of its charm, but the prices have crept up into nearly the two-star range, and you'll have to book ahead by at least a couple of months in the high season or around the winter holidays. On the plus side the place really does deserve the attention (and solid bookings), as it really is super charming, the welcome couldn't possibly be better and it's still on the cheap side. Try not to trip over the ample knick-knacks in your room, which will likely be named after a French singing star.}}
+* {{sleep
+| name=Port-Royal-Hôtel | url=http://www.hotelportroyal.fr | email=
+| address=8, boul de Port-Royal | lat= | long= | directions=Métro: Les Gobelins
+| phone=+33 1 43 31 70 06 | tollfree= | fax=
+| hours= | price=€39-87. Average room rate is around €55. Ask for a room with a bidet.
+| checkin= | checkout=
+| content=Great hotel next to the rue Mouffetard and its market. Whimsical rooms decorated in rich floral patterns.}}
+* {{sleep
+| name=Young and Happy Hostel | url=http://www.youngandhappy.fr | email=
+| address=80, rue Mouffetard | lat= | long= | directions=Métro: Place Monge
+| phone=+33 1 47 07 47 07 | tollfree= | fax=+33 1 47 07 22 24
+| hours= | price=A dorm-room bed costs €28, while a double goes for €80
+| checkin= | checkout=
+| content=A hit with young travellers, the young and happy exists to save you money. The rooms are just as basic as can be, but clean unlike the average one-star, though they (in theory) turf you out at 11ː00 every morning to get them this clean. The location is hard to beat if you are looking for a nice evening out. The risk though is that if you party too much you won't see much else of [[Paris]]. Oh, English is the lingua-franca here.}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Cujas Pantheon | url=http://www.cujas-pantheon-paris-hotel.com/ | email=hotel-cujas-pantheon@wanadoo.fr
+| address=18, rue Cujas | lat= | long= | directions=
+| phone = +33 1 43 54 58 10 | tollfree= | fax=+33 1 43 25 88 02
+| hours= | price=Single €74, double €97
+| checkin= | checkout=
+| content=A small and tidy hotel situated on a quiet side street right beside the Sorbonne University and 5 min walking distance from the nearest métro station (Cluny-La Sorbonne) and the Panthéon.}}
+* {{sleep
+| name=Hôtel de l'Esperance | url=http://www.hoteldelesperance.fr | email=
+| address=15, rue Pascal | lat= | long= | directions=Métro: Place Monge or Censier-Daubenton
+| phone=+33 1 47 07 10 99 | tollfree= | fax=
+| hours= | price=€80-120
+| checkin= | checkout=
+| content=This quirky little little family-run hotel just off of place Contrescarp and the rue Mouffetard has some really good value rooms, especially up on the top floor. The young staff gets high ratings, as does the proprietress (even with her very limited English), though it's sometimes best to avoid the proprietor depending on mood.}}
+* {{sleep
+| name=Hôtel Familia | url=http://www.hotel-paris-familia.com | email=
+| address=11, rue des Ecoles | lat= | long= | directions=Métro: Maubert-Mutualité or Cardinal-Lemoine
+| phone=+33 1 43 54 55 27 | tollfree= | fax=+33 1 43 29 61 77
+| hours= | price=€73.50-90
+| checkin= | checkout=
+| content=As with the Minerve (below), each of the rooms in this family run two-star is decorated with a unique medievalist mural by the artist Gérald Pritchard. This, combined with the antique furniture, gives the place some real character. If you are lucky enough to get a room with a balcony (ask!) you can enjoy your breakfast overlooking the courtyard (or the street).}}
+* {{sleep
+| name=Hôtel du Levant | url=http://www.hoteldulevant.com/ | email=info@hoteldulevant.com
+| address=18, rue de la Harpe | lat= | long= | directions=Métro/ RER B Saint-Michel
+| phone=+33 1 46 34 11 00 | tollfree= | fax=+33 1 46 34 25 87
+| hours= | price=€115-150 including breakfast and tax
+| checkin= | checkout=
+| content=Scoring consistently high marks for quality and spaciousness the ''du Levant'' is close to ''Place St. Michel''. Apparently the rooms are mostly of a standard Paris size (small) but there are a couple of larger ones as well, so it's better to ask.}}
+* {{sleep
+| name=Hôtel Minerve | url=http://www.hotel-paris-minerve.com | email=
+| address=13, rue des Ecoles | lat= | long= | directions=Métro: Maubert-Mutualité or Cardinal-Lemoine
+| phone=+33 1 43 26 26 04 | tollfree= | fax=+33 1 44 07 01 96
+| hours= | price=€82-128
+| checkin= | checkout=
+| content=While not quite the bargain it was a couple of years ago when it was (erroneously) classified as a two-star, the properly three-star Minerve is a family-run operation (the same family as the '''Familia''' next door. It's worth staying here just to enjoy the antique-stuffed lobby and the individual murals which adorn each of the rooms. The rooms are all air conditioned, and the bathtubs (if your room has one) are ''huge''. Watch your elbows in the tiny elevator though!}}
+* {{sleep
+| name=Hotel Parc Saint Severin | alt= | url=http://www.paris-hotel-parcsaintseverin.com/en/home/ | email=
+| address=22, rue de la Parcheminerie | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=On a pedestrian street away from the noise and only one minute from the heart of the quartier Latin and lively restaurants.
+}}
+* {{sleep
+| name=Maitre Albert B&B | alt= | url= | email=contact@private-homes.com
+| address=rue Maitre Albert | lat= | long= | directions=Métro: Maubert Mutualité or RER St Michel
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price= €95 per night for two people including breakfast
+|lastedit=2026-08-25| content=This lovely bed & breakfast, facing a floral courtyard, is at the second floor of a grand old building in the historical part of Paris. At the end of Maître Albert's street are the river, the island and Notre Dame.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Mercure Paris La Sorbonne | alt= | url=https://all.accor.com/hotel/2897/index.en.shtml | email=
+| address=14, rue de la Sorbonne | lat= | long= | directions=
+| phone=+33 1 56 24 34 34 | tollfree=
+| checkin= | checkout= | price=€134+
+| content=In the centre of Paris between the 5th and the 6th, in front of the Sorbonne, and one block from the Latin quarter and Saint Germain des Prés. Notre Dame is five minutes walking distance from the hotel. Fully renovated in a contemporary style, this hotel is very quiet and charming.
+}}
+* {{sleep
+| name=Hotel Notre Dame | alt= | url=http://www.hotelnotredameparis.com/index.html | email=info@hotelnotredameparis.com
+| address=1, quai Saint Michel | lat= | long= | directions=
+| phone=+33 1 43 54 20 43 | tollfree= | fax=
+| checkin= | checkout= | price=€140
+| content=A modern hotel next to Notre Dame. Some rooms offer a view on the cathedral. Accommodations for 1 or 2, this hotel makes for a wonderful romantic getaway.}}
+* {{sleep | name=Hotel Les Rives De Notre Dame | url=http://paris-hotel-rivesnotredame.com/ | email=hotel@rivesdenotredame.com | address=15, quai Saint Michel | lat= | long= | directions= | phone=+33 1 43 54 81 16 | tollfree= | fax=+33 1 43262709 | hours= | price= | checkin= | checkout= | content=}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris m 4 jms.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorl1=[[Paris/4th arrondissement|4th arrondissement]]
+| directionr1=S
+| majorr1=[[Paris/14th arrondissement|14th arrondissement]]
+| minorr1=[[Paris/6th arrondissement|6th arrondissement]]
+}}
+
+{{guidedistrict}}
+{{geo|48.84513|2.35017|zoom=15}}
+{{IsPartOf|Paris}}

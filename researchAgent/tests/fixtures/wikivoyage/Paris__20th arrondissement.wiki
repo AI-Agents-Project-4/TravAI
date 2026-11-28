@@ -1,0 +1,153 @@
+{{pagebanner|Paris 20e Wikivoyage Banner.png|pgname=20th arrondissement}}
+[[File:Pere Lachaise avenue ciculaire.jpg|thumb|Pere Lachaise avenue ciculaire]]
+The '''20th arrondissement''' of [[Paris]] lies to the east of the centre and represents an old working-class area now in rapid transformation. The main drawing card here ''for tourists'' is the Père-Lachaise Cemetery, though, for ''travellers'' who are interested in music and culture, this relatively gritty area is probably going to be one of your main night-crawling areas.
+
+There are nightclubs and cafés specializing in everything from punk-rock to world music both in the Bagnolet neighbourhood south of the cemetery and in the Ménilmontant neighbourhood north of the cemetery. Hopping from one show to the other, you'll find lots of little cafés to have a beer priced at less than nightclub rates, or a pick-me-up coffee.
+
+==Get in==
+{{Mapframe|48.86223|2.39772|zoom=14|width=500|height=600|staticmap=Paris 20th arrondissement map with listings 2.png}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+===By Métro===
+Two main Metro stations on line 3: {{station|Gambetta|3}} and {{station|Père Lachaise|3}}.
+A more lively entrance, though far from the famous Pere Lachaise Cemetery is through the {{station|Alexandre Dumas|2}}.
+
+===By bus===
+Bus 76 connects Rue de Bagnolet to the heart of Paris including Bastille and the Louvre.
+
+==See==
+* {{see
+| name=Cimetière du Père Lachaise | alt=Père-Lachaise Cemetery | url=https://www.paris.fr/equipements/cimetiere-du-pere-lachaise-4080 | email=cimetiere.perelachaise@paris.fr
+| address=main entrance: boul de Ménilmontant | lat=48.861944 | long=2.394167 | directions={{station|Père Lachaise|2|3}}
+| phone= | tollfree=
+| hours=Open 16 Mar-5 Nov: Mon-Fri, 08:00-18:00, Sat 08:30-18:00, Sun & holidays, 09:00-18:00; 5 Nov-15 Mar: Mon-Fri, 08:00-17:30, Sat 08:30-17:30, Sun & holidays 09:00-17:30 | price=Free
+| wikidata=Q311
+| content=Probably the most visited graveyard in any Western city, the vast Père-Lachaise features literally thousands of often elaborately decorated graves separated by narrow lanes and avenues. The roll call of famous burials includes: Chopin, Champollion, Sarah Bernhardt, Edith Piaf, Oscar Wilde, Delacroix, Bizet, Proust, Balzac, Colette, Molière, and Jim Morrison of ''The Doors''.
+}}
+
+==Do==
+
+==Buy==
+
+==Eat==
+*{{eat | name=Le Lion Indomptable | url=http://www.aulionindomptable.com/ | email= | address=86, rue Réunion | lat= | long= | directions= | phone= | tollfree= | fax= | hours= | price=About €15 for dinner | content=A small place that serves excellent Cameroonian and Senegalese food. The chef/waiter is a character and will keep you entertained.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Lou Pascalou | alt= | url= | email=
+| address=14, rue des Panoyaux | lat=48.866300 | long=2.385650 | directions=
+| phone=+33 1 4636 7810 | tollfree=
+| hours= | price=
+| content=Well hidden but worth seeking out, this unassuming restaurant serves happily inexpensive good food.
+}}
+
+==Drink==
+*{{drink
+| name=La Belle Villoise | alt= | url=http://www.labellevilloise.com | email=
+| address=19-21, rue Boyer | lat=48.868360 | long=2.392216 | directions=
+| phone=+33 146360707 | tollfree=
+| hours= | price=
+| content=An underground, and thus hipper, alternative to La Maroquinerie next door.
+}}
+* {{drink
+| name=Flèche d'Or | alt= | url=http://www.flechedor.com/ | email=
+| address=102 bis, rue de Bagnolet | lat=48.859458 | long=2.402950 | directions=Métro Porte de Bangnolet
+| phone= | tollfree=
+| hours= | price=
+| content=An old train station which has been transformed into a hip, popular night club.
+}}
+*{{drink
+| name=Gambetta | url= | email=
+| address=104, rue de Bagnolet | lat= | long= | directions=Métro Alexandre-Dumas or Gambetta
+| phone=+33 1 43 70 52 01 | tollfree= | fax=
+| hours= | price=
+| content=All things Jamaican: reggae, dub, jazz, etc.}}
+*{{drink
+| name=Goguette | url=http://lagoguette.free.fr/ | email=
+| address=73, rue du Bagnolet | lat= | long= | directions=Métro Alexandre-Dumas
+| phone=+33 1 46 59 00 96 | tollfree= | fax=
+| hours= | price=
+| content=A mainly Latino-American club.}}
+*{{drink
+| name=La Maroquinerie | url=http://www.lamaroquinerie.fr | email=
+| address=23, rue Boyer | lat= | long= | directions=
+| phone=+33 1 40 33 35 05 | tollfree= | fax=
+| hours= | price=
+| content=It's a bar/café/restaurant upstairs and a music club (mostly indi rock) downstairs. As of this writing the Maroquinerie is one of the most happening indie venues in Paris (along with the Fleche d'Or).}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Hôtel Bridget | alt= | url=https://www.hotelbridget.com/ | email=contact@hotelbridget.com
+| address=258 Rue des Pyrénées | lat=48.869018 | long=2.395427 | directions=
+| phone=+33 1 77 38 82 82 | tollfree=
+| checkin= | checkout= | price={{EUR|65}}
+| lastedit=2020-11-01
+| content=3-star hotel, which opened in 2020. Very good online ratings.
+}}
+* {{sleep
+| name=Hôtel Scarlett | alt= | url=http://www.hotelscarlett.com/ | email=
+| address=1 Rue Jouye-Rouve | lat=48.873213 | long=2.382765 | directions=
+| phone=+33 177388181 | tollfree=
+| checkin= | checkout= | price={{EUR|70}}
+| lastedit=2020-11-01
+| content=Another 3-star hotel with happy guests according to their online ratings.
+}}
+* {{sleep
+| name=Auberge de Jeunesse Paris Le d'Artagnan | alt= | url=https://www.hifrance.org/auberges-de-jeunesse/paris-le-dartagnan/ | email=paris.le-dartagnan@hifrance.org
+| address=80 Rue Vitruve | lat=48.859683 | long=2.407942 | directions=Tram {{station|Marie de Maribel|t3b}}; Metro {{station|Porte de Bagnolet|3}}
+| phone=+33 140323456 | tollfree=
+| checkin=3pm | checkout=11am | price=€30-€38 (shared rooms)
+| lastedit=2022-10-06
+| content=Popular Youth Hostel (IYHA), 135 rooms with 1-9 beds. Breakfast Included in price. A good basic budget option if you like this sort of thing. Private rooms are also available.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hôtel Ermitage | alt= | url= | email=
+| address=42 bis, rue de l'Ermitage | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=A small but intimate hotel that showcases some great views from its rooms.
+}}
+
+===Splurge===
+* {{sleep
+| name=Mama Shelter | alt= | url=http://www.mamashelter.com/ | email=
+| address=109, rue de Bagnolet | lat= | long= | directions=
+| phone= | fax=
+| hours= |checkin= | checkout= | price=
+| content=A designer hotel with very comfortable rooms and Wi-Fi in all rooms.}}
+
+==Stay safe==
+The 20th arrondissement has changed a lot since the early 2000s. While some areas remain underprivileged and not always very welcoming, most parts of the 20th are quiet, socially mixed neighbourhoods with many families.<!-- It's no risky to go to the flea market, the most likely is getting contributing to lung disease however. -->
+
+General large city appropriate safety precautions are advised, especially if visiting late in the night.
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 2.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/18th arrondissement|18th arrondissement]]
+| minorl1=[[Paris/19th arrondissement|19th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/11th arrondissement|11th arrondissement]]
+| minorr1=
+
+| image2=Paris m 3 jms.svg
+| imagesize2=22
+| directionl2=W
+| majorl2=[[Paris/2nd arrondissement|2nd arrondissement]]
+| minorl2=[[Paris/11th arrondissement|11th arrondissement]]
+| directionr2=E
+| majorr2=END
+| minorr2=
+}}
+
+{{usabledistrict}}
+{{geo|48.8615|2.4035|zoom=14}}
+{{IsPartOf|Paris}}
+
+{{Mapmask |48.8671,2.3831 |48.8705,2.3788 |48.8711,2.3780 |48.8721,2.3771 |48.8721,2.3772 |48.8737,2.3848 |48.8738,2.3849 |48.8744,2.3863 |48.8746,2.3868 |48.8747,2.3877 |48.8747,2.3883 |48.8753,2.3896 |48.8754,2.3900 |48.8752,2.3951 |48.8752,2.3952 |48.8755,2.3988 |48.8755,2.3989 |48.8759,2.4018 |48.8760,2.4026 |48.8782,2.4101 |48.8784,2.4108 |48.8772,2.4119 |48.8764,2.4125 |48.8727,2.4136 |48.8725,2.4136 |48.8706,2.4138 |48.8693,2.4140 |48.8652,2.4139 |48.8641,2.4139 |48.8492,2.4164 |48.8488,2.4164 |48.8470,2.4161 |48.8466,2.4160 |48.8481,2.3992 |48.8481,2.3991 |48.8489,2.3993 |48.8498,2.3990 |48.8513,2.3984 |48.8556,2.3951 |48.8566,2.3944 |48.8577,2.3923 |48.8585,2.3896 |48.8585,2.3896 |48.8628,2.3875 |48.8629,2.3874 |48.8662,2.3837 |48.8664,2.3835 |48.8671,2.3831}}

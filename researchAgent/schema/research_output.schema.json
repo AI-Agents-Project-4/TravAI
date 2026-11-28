@@ -1,0 +1,757 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://travai.example/research_output.schema.json",
+  "title": "TravAI research agent output",
+  "description": "What the research agent saves for the planner. Every priced item carries a price record with a source link and retrieval time. Never invent a price: use price_type 'estimate' and say how it was derived, or omit the item.",
+  "type": "object",
+  "required": [
+    "request_id",
+    "status",
+    "generated_at",
+    "currency",
+    "advisories",
+    "flights",
+    "lodging",
+    "activities",
+    "ground_transport",
+    "feasibility",
+    "gaps"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "request_id": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "ok",
+        "partial",
+        "infeasible",
+        "error"
+      ],
+      "description": "ok: enough options for the planner. partial: some categories missing (see gaps). infeasible: budget floor exceeds budget. error: nothing usable."
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$",
+      "description": "Currency all normalized amounts use; matches the request."
+    },
+    "advisories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "level",
+          "summary",
+          "source_url",
+          "retrieved_at"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "level": {
+            "enum": [
+              "normal",
+              "caution",
+              "reconsider",
+              "do_not_travel"
+            ]
+          },
+          "region": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "map_data_reliability": {
+            "enum": [
+              "good",
+              "uncertain",
+              "poor"
+            ],
+            "description": "Set to uncertain/poor where conflict or damage may make map data stale."
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "retrieved_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    },
+    "flights": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/flight"
+      }
+    },
+    "lodging": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/lodging"
+      }
+    },
+    "activities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/activity"
+      }
+    },
+    "ground_transport": {
+      "type": "array",
+      "description": "Legs between places: drive, train, bus, ferry, local transit estimates.",
+      "items": {
+        "$ref": "#/$defs/transport_leg"
+      }
+    },
+    "feasibility": {
+      "type": "object",
+      "required": [
+        "budget",
+        "estimated_minimum_total",
+        "verdict",
+        "reasoning"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "budget": {
+          "type": "number"
+        },
+        "estimated_minimum_total": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Cheapest realistic transport + lodging + food + local transport for the request. Err high, never low."
+        },
+        "verdict": {
+          "enum": [
+            "comfortable",
+            "tight",
+            "very_tight",
+            "likely_impossible",
+            "unknown"
+          ]
+        },
+        "reasoning": {
+          "type": "string"
+        },
+        "breakdown": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number"
+          },
+          "description": "Category to amount, e.g. flights, lodging, food, local_transport."
+        }
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "description": "Things the agent tried and could not find, or sources that failed. Planner must not assume these exist.",
+      "items": {
+        "type": "object",
+        "required": [
+          "category",
+          "reason"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "category": {
+            "enum": [
+              "flights",
+              "lodging",
+              "activities",
+              "ground_transport",
+              "advisories",
+              "currency",
+              "other"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          },
+          "source_attempted": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "$defs": {
+    "price": {
+      "type": "object",
+      "required": [
+        "amount",
+        "currency",
+        "basis",
+        "price_type",
+        "retrieved_at"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "amount": {
+          "type": "number",
+          "minimum": 0
+        },
+        "currency": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$",
+          "description": "Currency the source quoted."
+        },
+        "amount_normalized": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Amount in the top-level currency. Required when currency differs."
+        },
+        "fx_rate": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "basis": {
+          "enum": [
+            "total_all_travelers",
+            "per_person",
+            "per_night",
+            "per_day",
+            "per_group"
+          ]
+        },
+        "price_type": {
+          "enum": [
+            "live_quote",
+            "published_rate",
+            "estimate"
+          ]
+        },
+        "includes_taxes_fees": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "estimate_method": {
+          "type": "string",
+          "description": "Required when price_type is 'estimate'."
+        },
+        "retrieved_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "valid_until": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "price_layer": {
+          "enum": [
+            "osm_fee",
+            "wikivoyage",
+            "web_search",
+            "category_estimate",
+            "api"
+          ],
+          "description": "Which lookup layer produced this price."
+        }
+      },
+      "if": {
+        "properties": {
+          "price_type": {
+            "const": "estimate"
+          }
+        },
+        "required": [
+          "price_type"
+        ]
+      },
+      "then": {
+        "required": [
+          "estimate_method"
+        ]
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "provider"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Booking or reference link the user can open."
+        },
+        "provider": {
+          "type": "string",
+          "description": "e.g. ignav, serpapi_google_flights, viator, osm"
+        }
+      }
+    },
+    "geo": {
+      "type": "object",
+      "required": [
+        "lat",
+        "lng"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lng": {
+          "type": "number"
+        }
+      }
+    },
+    "hours": {
+      "type": "object",
+      "description": "Opening hours per weekday; omit a day if closed. Times are local 24h HH:MM.",
+      "properties": {
+        "mon": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "tue": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "wed": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "thu": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "fri": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "sat": {
+          "$ref": "#/$defs/hours_range"
+        },
+        "sun": {
+          "$ref": "#/$defs/hours_range"
+        }
+      },
+      "additionalProperties": false
+    },
+    "hours_range": {
+      "type": "object",
+      "required": [
+        "open",
+        "close"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "open": {
+          "type": "string",
+          "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$"
+        },
+        "close": {
+          "type": "string",
+          "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$"
+        }
+      }
+    },
+    "flight_segment": {
+      "type": "object",
+      "required": [
+        "from",
+        "to",
+        "depart_at",
+        "arrive_at",
+        "carrier",
+        "flight_number"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "from": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$"
+        },
+        "to": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$"
+        },
+        "depart_at": {
+          "type": "string",
+          "description": "Local time, ISO 8601 without offset or with it."
+        },
+        "arrive_at": {
+          "type": "string"
+        },
+        "carrier": {
+          "type": "string"
+        },
+        "flight_number": {
+          "type": "string"
+        }
+      }
+    },
+    "flight": {
+      "type": "object",
+      "required": [
+        "id",
+        "direction",
+        "segments",
+        "duration_minutes",
+        "stops",
+        "price",
+        "source",
+        "confidence"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "direction": {
+          "enum": [
+            "outbound",
+            "return",
+            "round_trip",
+            "intercity"
+          ]
+        },
+        "segments": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/flight_segment"
+          }
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "stops": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "cabin": {
+          "enum": [
+            "economy",
+            "premium_economy",
+            "business",
+            "first"
+          ],
+          "default": "economy"
+        },
+        "bags_included": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "price": {
+          "$ref": "#/$defs/price"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        },
+        "return_segment_start_index": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "For round_trip: index in segments where the return journey starts."
+        }
+      }
+    },
+    "lodging": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "type",
+        "location",
+        "price",
+        "source",
+        "confidence"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_local": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Original-language name when it differs from 'name' (e.g. 浅草寺). 'name' is always English."
+        },
+        "name_source": {
+          "enum": [
+            "source_english",
+            "osm_name_en",
+            "llm_translation",
+            "original"
+          ],
+          "description": "How 'name' was produced. 'llm_translation' should pair with confidence.level of medium or low."
+        },
+        "type": {
+          "enum": [
+            "hotel",
+            "hostel",
+            "apartment",
+            "guesthouse",
+            "campground",
+            "other"
+          ]
+        },
+        "location": {
+          "$ref": "#/$defs/geo"
+        },
+        "area": {
+          "type": "string",
+          "description": "Neighborhood or district."
+        },
+        "check_in": {
+          "type": "string",
+          "format": "date"
+        },
+        "check_out": {
+          "type": "string",
+          "format": "date"
+        },
+        "rating": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 5
+        },
+        "review_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "price": {
+          "$ref": "#/$defs/price"
+        },
+        "total_stay_price": {
+          "$ref": "#/$defs/price"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        }
+      }
+    },
+    "activity": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "category",
+        "location",
+        "price",
+        "duration_minutes",
+        "source",
+        "confidence"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_local": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Original-language name when it differs from 'name' (e.g. 浅草寺). 'name' is always English."
+        },
+        "name_source": {
+          "enum": [
+            "source_english",
+            "osm_name_en",
+            "llm_translation",
+            "original"
+          ],
+          "description": "How 'name' was produced. 'llm_translation' should pair with confidence.level of medium or low."
+        },
+        "category": {
+          "enum": [
+            "culture",
+            "history",
+            "food",
+            "nightlife",
+            "nature",
+            "outdoors",
+            "shopping",
+            "museum",
+            "tour",
+            "day_trip",
+            "entertainment",
+            "other"
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "location": {
+          "$ref": "#/$defs/geo"
+        },
+        "area": {
+          "type": "string"
+        },
+        "price": {
+          "$ref": "#/$defs/price",
+          "description": "Use amount 0 and price_type 'published_rate' for free attractions."
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "hours": {
+          "$ref": "#/$defs/hours"
+        },
+        "closed_dates": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "requires_booking": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "round_trip_from_base_minutes": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "For day trips: travel time from the main lodging area."
+        },
+        "rating": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 5
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        },
+        "price_source": {
+          "$ref": "#/$defs/source",
+          "description": "Where the price came from (Wikivoyage page, official site, OSM). Omit for category estimates."
+        }
+      }
+    },
+    "transport_leg": {
+      "type": "object",
+      "required": [
+        "id",
+        "mode",
+        "from",
+        "to",
+        "duration_minutes",
+        "source",
+        "confidence"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "mode": {
+          "enum": [
+            "drive",
+            "train",
+            "bus",
+            "ferry",
+            "metro",
+            "walk",
+            "taxi",
+            "flight"
+          ]
+        },
+        "from": {
+          "type": "string"
+        },
+        "to": {
+          "type": "string"
+        },
+        "from_geo": {
+          "$ref": "#/$defs/geo"
+        },
+        "to_geo": {
+          "$ref": "#/$defs/geo"
+        },
+        "distance_km": {
+          "type": "number",
+          "minimum": 0
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "price": {
+          "$ref": "#/$defs/price",
+          "description": "Omit for walking, or for driving where only a fuel/parking estimate applies (then price_type 'estimate')."
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        }
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "required": [
+        "level",
+        "verified"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "level": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "verified": {
+          "type": "boolean",
+          "description": "True if confirmed by a second source or by opening the source link."
+        },
+        "notes": {
+          "type": "string",
+          "description": "Why not high: conflicting sources, scraped data, stale listing, etc."
+        }
+      }
+    }
+  }
+}

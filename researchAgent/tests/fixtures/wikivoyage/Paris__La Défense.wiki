@@ -1,0 +1,300 @@
+{{pagebanner|La-Défense banner Skyline.jpg|pgname=La Défense}}
+'''La Défense''' is a collection of modern high-rise office and residential buildings built according to an evolving central plan on the western outskirts of [[Paris]], beyond the last Parisian loop of the river Seine. La Défense is the site of the Grande Arche, one of Paris' most modern and imposing landmarks, situated at the western end of the grand axis formed by the ''Champs-Elysées'', the ''Place de la Concorde'' and the ''Arc de Triomphe''.
+
+La Défense makes up the western end of the [[Axe historique]], a route of monumental buildings extending to the Louvre and the Bastille.
+
+== Understand ==
+[[File:La Défense Juin 2025.jpg|thumb|La Défense seen from Arc de Triomphe]]
+La Défense is a purpose-built business district; in the 1960s, Charles de Gaulle led an effort to level the area and concentrate skyscrapers in a single business district, rather than altering the character of Paris with large commercial buildings. Despite being officially and popularly recognised, and invariably associated with Paris, La Défense is neither an official administrative unit nor is it within Paris' city limits. The area of La Défense is actually on the borders of three communes of the [[Hauts-de-Seine]] department beyond the borders of Paris proper – '''Nanterre''', '''Courbevoie''' and '''Puteaux'''.
+
+==Get in==
+La Défense is the most important office region in Paris region. This means it is well connected to the rest of the Paris region.
+
+===By métro===
+*''La Défense'' (ligne 1, RER lines A and E)
+*''Esplanade de la Défense'' (ligne 1)
+
+===By train and tram===
+La Défense can be reached on RER A and E, Transilien L, Transilien U, Tramway T2, which all stop at the eponymous La Défense station. The RER A, E and Transilien stations are in zone 3 and therefore cannot be accessed with a T+ ticket.
+
+The station layout can be very confusing but ''Les Quatres Temps'' shopping centre is colour-coded.
+
+==See==
+{{Mapframe|48.89226|2.24018|zoom=14}}
+{{mapshape|wikidata=Q189715,Q170507,Q234743}}
+{{mapshapes|Q1142114|stroke-width=2}} <!-- Tram -->
+{{Mapshapes|Q50716}}
+{{mapshapes|Q389554}} <!-- Transilien -->
+{{mapshapes|Q216125}} <!-- RER (put here so that it is drawn over Transilien) -->
+
+Each of the buildings of La Défense tells a story of architectural trends that were ''en vogue'' at the times of its construction and design. A tour of La Défense can be a quick overview through the most recent period in the history of architecture.
+
+* {{see
+| name=Grande Arche de la Defense | alt= | url=https://www.grandearche.com/grande-arche-monument-majeur-de-defense-de-paris/ | email=
+| address=1 Le Parvis de La Défense | lat=48.892778 | long=2.235833 | directions={{station|La Défense|1|rerA}}
+| phone=+33 1 49 07 27 27 | tollfree=
+| hours=10:00-19:00 | price=
+| wikipedia=Grande Arche | image=Paris - Blick vom großen Triumphbogen.jpg | wikidata=Q216357
+| content=A high-rise building that looks more like a hollow cube than an actual arch. The viewing platform on its top closed due to a 2010 elevator incident, reopened in May 2017, and is open as of October 2025 after another closure..
+}}
+* {{see
+| name=Centre des nouvelles industries et technologies | alt=CNIT | url= | email=
+| address= | lat=48.892778 | long=2.239472 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Center of New Industries and Technologies | wikidata=Q431326
+| lastedit=2025-10-22
+| content=The largest unsupported concrete span enclosed space in the world. Houses shops and offices, ESSEC Business School campus and a Hilton hotel.
+}}
+* {{see
+| name=Musée de La Défense| alt= | url= | email=communication@defacto.fr
+| address=15, place de La Défense | lat=48.89077 | long=2.24230 | directions=
+| phone=+33 1 47 74 84 24 | tollfree= | fax= 
+| hours=Sun-Fri 09:00-17:00, Sat 10:00-18:00 | price=
+| content=The museum presents the history of the development of La Défense, with many plans and scale models.
+}}
+* {{see
+| name=Notre-Dame de Pentecôte | alt= | url=https://ndp92.fr/ | email=
+| address= | lat=48.8919 | long=2.24097 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Notre Dame de Pentecote.jpg | wikidata=Q3344684
+| lastedit=2025-10-22
+| content=This unusual church building was erected in 2001 and designed by Franck Hammoutène.
+}}
+* {{see
+| name=Paris La Défense Arena | alt= | url=https://www.parisladefense-arena.com | email=
+| address=99 Jardin de l'Arche | lat=48.895844 | long=2.230203 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Paris La Défense Arena | wikidata=Q2860806
+| lastedit=2025-10-22
+| content=A domed stadium near the Grande Arche. It opened in October 2017, and its main tenant is the rugby union club Racing 92. The facility can host everything from court sports to concerts, with configurations ranging from 10,000 for court sports, 32,000 for rugby, and 40,000 for concerts. It hosted gymnastics events during the 2024 Summer Olympics
+}}
+
+=== Nanterre ===
+* {{see
+| name=Tours Aillaud | alt= | url= | email=
+| address= | lat=48.889489 | long=2.227392 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tours Aillaud | image=Tours Aillaud, de la prefecture des Hauts de Seine.JPG | wikidata=Q1476044
+| content=South-west from the Grande Arche you can find these tall cylindrical concrete residential towers, painted in various colours. Representing a 1970s urbanistic experiment, the 18 towers remain controversial and unique, and continue to house thousands of inhabitants in over 1600 apartments.
+}}
+* {{see
+| name=Parc André Malraux | alt= | url= | email=
+| address= | lat=48.892412 | long=2.219726 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q61082449
+| lastedit=2025-10-22
+| content=The expansive, calm park around a lake extends westwards behind the Tours Aillaud, and is to La Défense what Central Park is to Downtown Manhattan. You can take spectacular pictures of the skyline juxtaposed against the park's greenery from there.
+}}
+* {{see
+| name=Nanterre Cathedral | alt=Église Notre Dame de Pitié | url= | email=
+| address=28 Rue de l'Église | lat=48.890833 | long=2.196111 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nanterre Cathedral | image=Cathédrale de Nanterre01.jpg | wikidata=Q2942477
+| content=Built in the 1920s, it is no match for the Notre Dame de Paris in either historical importance or architectural detailing, but it can be an interesting destination for those interested in sacral architecture.
+}}
+
+=== Courbevoie ===
+* {{see
+| name=Pavillon des Indes | alt= | url= | email=
+| address= | lat=48.8996 | long=2.26811 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Pavillon des indes coté sud.JPG | wikidata=Q13518147
+| content=The wooden Indian pavilion was moved from Paris to Courbevoie following the Universal Exhibition of 1878, and remains a curiosity amidst the much more modern architecture of the commune.
+}}
+
+=== Puteaux ===
+* {{see | name=Théâtre de Puteaux | alt= | url=http://www.culture.puteaux.fr/ | email= | address= | lat=48.880470 | long=2.240710 | directions= | phone= | tollfree= | hours= | price= | image=Puteaux -Théâtre 001.JPG | wikidata=Q46699226 | lastedit=2026-07-21 | content=A 19th-century theatre building.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+=== Art ===
+There are over 60 works of art displayed in the open air throughout La Défense, interspersed within public spaces and freely accessible, and authored by some of the biggest names in modern art. 
+* ''Le pouce'', a giant statue of a thumb by César Baldaccini, stands between the CNIT and the Grande Arche
+* The abstract ''Spider'' by Alexander Calder simply cannot be missed on the Esplanade
+* The ''Bright Trees'' by Vassilakis Takis visually enclose the Esplanade
+
+==Do==
+* '''Rugby Union:''' [https://www.racing92.fr/ Racing 92] play the 15-a-side game in Top 14, the French top tier. They play at Plenitude Arena (above), capacity 30,700. 
+* {{do
+| name=Public swimming pool and ice rink | alt= | url= | email=
+| address= | lat=48.89491 | long=2.2537 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q31063020
+| lastedit=2025-10-22
+| content=
+}}
+* {{do
+| name=Centre Sportif de l'Ile de Puteaux | alt= | url= | email=
+| address= | lat=48.874304 | long=2.240835 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-10-22
+| content=
+}}
+* {{do
+| name=Jardins de l'Eau Retrouvée | alt= | url= | email=
+| address= | lat=48.903893 | long=2.195267 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-10-22
+| content=Park with fountains and large children's playground.
+}}
+
+==Buy==
+*{{buy | name=Les 4 Temps | alt= | url=http://www.les4temps.com/W/do/centre/accueil | email= | address=15 Le Parvis de La Défense | lat=48.89093 | long=2.23834 | directions= | phone=+33 1 47 73 54 44 | tollfree= | hours= | price= | lastedit=2025-10-22 | content=The Quatre Temps shopping mall, which when constructed was the largest shopping centre in Europe, has numerous big name and small stores, several cinemas (showing French and subtitled foreign movies) as well as a large supermarket and grocery store. It is accessible from an entrance to the left of the "Grande Arche" or via the metro station. 230 stores (Auchan, C&A, Darty, Virgin, Zara, Go Sport, H&M, Uniqlo, Toys’R’Us), 16 movie theater screens, 40 restaurants.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Eat==
+Besides the more than 40 food and snack places at the 4 Temps, '''rue de Bezons''' has a few budget eateries, including a good bakery, a couple of Turkish joints and a McDonald's that normally stays open until midnight. 
+
+The La Coupole underground gallery, accessible through exit G of the metro station, is somewhat depressing but convenient for its restaurants and express cafés.
+
+More fancy (and expensive) restaurants are located inside the hotels of La Défense:
+*{{eat | name=Côté Parvis | alt=Hôtel Hilton | url=http://www.lafourchette.com/2_restaurant/restaurant_La_Defense/restaurant_Cote_Parvis/1127/ | email= | address=2, pl de la Défense | lat= | long= | directions= | phone=+33 1 46 92 10 10 | tollfree= | fax= | hours= | price= | content=}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Quinte & Sens | alt=Pullman La Défense | url=http://www.restaurant-quinteetsens.com/ | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | hours= | price= | content=Under the direction of chef Jean-Paul Corbillet, the Quinte & Sens offers modern cuisine, including two-course "power lunches" for €29.}}
+
+==Drink==
+*{{drink
+| name=Apogé | url=http://www.apoge.fr | email=
+| address=21 esplanade du Général de Gaulle | lat= | long= | directions=metro line 1, esplanade de la Défense, beneath the Allianz tower
+| phone = +33 1 49 03 03 03 | tollfree= | fax=
+| hours=Mon-Sat 12:00-20:00  | price=
+| content=Apogé is a dynamic, all-in-one stop for French wine. Part bar, part merchant, part oenology school, its passionate, friendly founders are happy to share their expert advice.  Not only are over 100 wines available by the glass, but every bottle for sale can be tasted before purchase. A beautiful terrace and frequent tastings with producers.
+}}
+
+==Sleep==
+Staying in the La Défense area may be a good option for exploring Paris - the Line 1 of the Metro gives you a direct connection from Grande Arche to central Paris in 15 minutes. La Défense is also located favorably for visiting [[Versailles]]. As an added benefit, you will get the unique sights from Esplanade de la Défense towards Paris when entering and disembarking the metro, but on balance you will be staying in a jungle of steel and concrete with next to no nightlife. 
+
+As this is a business district, most hotels are business-oriented, so do not expect any kind of Parisian flair, but perhaps a swifter service - and larger hotel rooms - than in central Paris. Unless you choose to locate yourself farther from La Défense proper, do not expect bargains, but you will probably get a higher standard for the same price as a much smaller and less comfortable hotel in downtown Paris.
+
+You can also choose to stay farther from La Défense proper, within one of the three municipalities which share the La Défense area. This may significantly add to your transit times and complicate your transit, but then you may get really good rates there.
+
+Unexpectedly for a business district, La Défense is neither close nor well connected to either of the airports serving Paris. Bear this in mind planning your travel.
+
+=== Central La Défense ===
+Unless you are very familiar with La Défense's system of underground motorways and parkings, driving to hotels there is not recommended. Take the metro, RER or tram and walk the distance over the Esplanade enjoying the unique retrofuturistic atmosphere.
+
+Distances between your hotel and the entrance to the metro station can be significant, even when you are staying in a very central location, and the only way for you to get to the hotel is to walk through the uncovered Esplanade and walkways.
+
+==== Budget ====
+* {{sleep
+| name=Ibis Paris La Défense Centre | alt= | url=https://all.accor.com/booking/fr/ibis/hotels/la-defense-france | email=
+| address= | lat=48.88805 | long=2.25252 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2025-10-22
+| content=
+}}
+
+==== Mid-range ====
+* {{sleep
+| name=Adagio La Défense Esplanade | alt= | url= | email=
+| address= | lat=48.88847 | long=2.24776 | directions=
+| phone= | tollfree= | fax= 
+| checkin= | checkout= | price=
+| content=Accor's mid-range aparthotel is right off the Esplanade, next door to Sofitel .
+}}
+* {{sleep | name=Citadines La Défense | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=Aparthotel within walking distance of Esplanade de la Défense metro station}}
+*{{sleep
+| name=Hotel Novotel Paris La Défense | alt= | url=https://all.accor.com/hotel/0747/index.en.shtml | email=
+| address=2 Boulevard de Neuilly | lat=48.88796 | long=2.25285 | directions=Right next to the Seine, at the intersection of ''D7'' and ''A14'', where ''N13'' enter La Défense over the bridge. On foot, exit from ''Esplanade de la Défense'' and head northeast over the walkways - you will need to take the stairs to street level, as the entrance to the Novotel is below the Esplanade.
+| phone=+33 1 41 45 23 23 | tollfree=
+| checkin= | checkout= | price=
+| content=A rather generic, modern Novotel, with "executive rooms" providing global standards, and the regular rooms the standard French Novotel fare with toothpaste-inspired bathroom fit-outs. Some rooms (available at a small extra) provide views over the river Seine.
+}}
+==== Splurge ====
+* {{sleep | name=Fraser Suites Harmonie Paris La Défense | alt= | url=http://paris.frasershospitality.com/ | email= | address= | lat=48.88819 | long=2.25211 | directions= | phone= | tollfree= | fax= | checkin= | checkout= | price= | content=A higher-end apart-hotel close to the Esplanade de la Défense metro station
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hilton | alt= | url=https://www.hilton.com/fr/hotels/parldhi-hilton-paris-la-defense | email=
+| address= | lat=48.89286 | long=2.23845 | directions=The hotel is within the CNIT arch. Access can be difficult after closing hours of the center. Plan accordingly
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2025-10-22
+| content=The Hilton is part of the CNIT convention centre.
+}}
+*{{sleep
+| name=Hotel Pullman Paris La Défense | alt= | url= | email=
+| address=11, av de l'Arche | lat=48.89499 | long=2.23898 | directions=North of CNIT and Grande Arche, accessible via a system of concrete walkways
+| phone=+33 1 47 17 50 00 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2025-10-22
+| content=Renovated in 2013 as a part of Accor's initiative to refurbish all five Pullmans in Paris. Less expensive rooms retain much of the 1990s-style furniture, while the more expensive ones conform better to the current Pullman corporate standards.
+}}
+*{{sleep
+| name=Renaissance Paris Hotel La Défense | alt= | url=https://www.marriott.com/hotels/travel/parld-renaissance-paris-la-defense-hotel/ | email=
+| address=60 Jardin de Valmy | lat=48.89265 | long=2.23287 | directions=Behind (west of) the Grande Arche
+| phone=+33 1 41 97 50 50 | tollfree= | fax= 
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Sofitel La Défense | alt= | url=https://all.accor.com/hotel/0912/index.en.shtml | email=H0912@sofitel.com
+| address=33,voie des Sculpteurs, 92800 Puteaux | lat=48.888133 | long=2.247219 | directions=The Sofitel is slightly hidden in a relatively low-rise mixed use building on the Esplanade. The only approach for motor vehicles is via the underground car park. It is best reached on foot from ''Esplanade de la Défense'' metro station.
+| phone=+33 1-47764443 | tollfree= | fax=+33 1-47767210
+| checkin= | checkout= | price=€210
+| content=There is nothing truly exceptional about the Sofitel La Défense, and the views out of the windows are downright unspectacular compared to other La Défense hotels, but this hotel garners good reviews by providing solid standards and reliable service for a fraction of the prices of downtown Sofitels. The hotel was renovated after 2010, with all but the cheapest ''Classic'' rooms getting new furnishings and bathrooms (with showers rather than bathtubs, a Paris rarity).
+}}
+
+=== Courbevoie ===
+The area around '''Place Charras''', in Courbevoie is a short bus ride or a 15-minute walk away from the metro.
+==== Budget ====
+* {{sleep | name=Adagio Access La Défense - Leonard da Vinci | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=Accor's no frills aparthotel.}}
+* {{sleep | name=Adagio Access La Défense Place Charras | alt=Citéa La Défense Place Charras | url=http://www.citea.com/apparthotels/paris-la-defense/citea-la-defense-place-charras- | email= | address=1, rue de Bitche | lat= | long= | directions= | phone=+33 1 56 37 72 00 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=It hosts foreign students from the Alliance Française in Paris.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep | name=ibis La Défense Courbevoie | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+==== Mid-range ==== 
+* {{sleep | name=Adagio La Défense Parc| alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=Close to Adagio Access Leonard Da Vinci, an aparthotel of higher standard.}}
+* {{sleep | name=Adagio La Défense Kleber| alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=A more upmarket neighbour of Adagio Access Place Charras}}
+* {{sleep | name=Kyriad Paris Ouest - La Défense Courbevoie | alt= | url= | email= | address= | lat= | long= | directions='''Northwards''' from Esplanade, close to the river. Not to be confused with the other Kyriad in Puteaux, which is also close to the river and a similar distance away from Esplanade, but in the opposite direction. | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+*{{sleep
+| name=Hotel Mercure Paris La Défense 5 | alt= | url=https://all.accor.com/hotel/1546/index.en.shtml | email=
+| address=18-30 rue Baudin, Place Charras | lat= | long= | directions=
+| phone=+33 1 49 04 75 00 | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+
+=== Puteaux ===
+* {{sleep | name=Hotel Dauphin by Elegancia | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Hotel Douglas | alt= | url= | email= | address= | lat= | long= | directions=very close to the ''Puteaux'' station of ''transliens'' and tram T2 | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Hotel-Loft | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Hotel Vivaldi | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Kyriad Paris Ouest - Puteaux La Défense | alt= | url= | email= | address= | lat= | long= | directions='''Southwards''' from Esplanade, close to the river. Not to be confused with the other Kyriad in Courbevoie, which is also close to the river and a similar distance away from Esplanade, but in the opposite direction. | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+
+=== Nanterre ===
+* {{sleep | name=Campanile Paris Nanterre | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=ibis Paris Nanterre | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Mercure Paris La Défense Parc | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Quality Inn Nanterre | alt= | url= | email= | address= | lat= | long= | directions=Close to Nanterre-Ville RER station, some 5 kilometres from La Défense | phone= | tollfree= | fax= | price= | checkin= | checkout=| content=}}
+* {{sleep | name=Premiere Classe Paris Ouest - Nanterre - La Défense | alt= | url= | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | price= | checkin= | checkout= | content=Despite the name, this cheap hotel is actually very far away northeast from La Défense (and Paris as well), although still within the administrative boundaries of Nanterre}}
+
+==Connect==
+
+==Go next==
+* [[Versailles]] can be conveniently reached by a ''Transilien'' line L from the La Défense station, the ride to Versailles - Rive Droite takes about 25 minutes. Line U also goes straight from La Défense to Versailles - Chantiers station
+* The easiest route to the Château de Malmaison at [[Rueil-Malmaison]] from central Paris is to take bus 258 from La Défense.
+* [[Saint-Cloud (France)|Saint-Cloud]]
+* [[Maisons-Laffitte]] 
+* [[Saint-Germain-en-Laye]]
+
+{{routebox
+| image1=Paris Metro 1.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=END
+| minorl1=
+| directionr1=E
+| majorr1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorr1=[[Paris/16th arrondissement|16th arrondissement]]
+}}
+
+{{usabledistrict}}
+{{geo|48.891742|2.240833}}
+{{IsPartOf|Paris}}
