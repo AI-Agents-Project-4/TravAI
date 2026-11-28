@@ -33,5 +33,38 @@ jobs:
       - run: pnpm test
       - run: pnpm build
 
-  # backend: Jake adds a job here once backend/pyproject.toml exists
-  # (astral-sh/setup-uv, `uv sync`, `uv run pytest`). Then add it as a required check.
+  # No path filters, same reason as above. Never calls paid or live APIs.
+  backend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: travai
+          POSTGRES_PASSWORD: travai
+          POSTGRES_DB: travai
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U travai -d travai"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql://travai:travai@localhost:5432/travai
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+          cache-dependency-glob: backend/uv.lock
+      - run: uv sync --locked
+      - run: uv run ruff check .
+      - run: uv run ruff format --check .
+      - run: uv run mypy .
+      # Migrations apply cleanly to an empty database (tests also check they match the models).
+      - run: uv run alembic upgrade head
+      - run: uv run pytest

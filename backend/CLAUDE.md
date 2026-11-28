@@ -2,13 +2,16 @@
 
 Project-wide rules and the product rules are in [../CLAUDE.md](../CLAUDE.md). The endpoints this service must serve are in [../docs/api-contract.md](../docs/api-contract.md).
 
-> **Status:** placeholder written by Fernando during repo setup. **Jake: rewrite this in your own words** (the course uses commit history to see who owned what) with the real commands, layout and DB/migration tooling, and add a `backend` job to `.github/workflows/ci.yml`. Everything below is a suggestion, not a decision.
+Setup, commands, layout and tables are in [README.md](README.md).
 
-## Intended conventions
+## Conventions
 
-- **uv** manages Python and dependencies (`pyproject.toml` + `uv.lock` are committed). Run everything through `uv run …`.
-- **pytest** for tests, in `backend/tests/`.
-- Settings come from environment variables (root `.env`, e.g. `DATABASE_URL`). Never hard-code secrets.
+- **uv** manages Python 3.13 and dependencies (`pyproject.toml` + `uv.lock` are committed). Run everything through `uv run …`.
+- Before saying a backend task is done, run what CI runs, from `backend/`: `uv run ruff check . && uv run ruff format --check . && uv run mypy . && uv run pytest`. Tests need Postgres (`docker compose up -d db` from the repo root).
+- **pytest** for tests, in `backend/tests/`. They run against a real Postgres (`travai_test`), each test in a rolled-back transaction. Use the `client` and `db_session` fixtures from `tests/conftest.py`.
+- **Schema changes go through Alembic.** Edit `app/models.py`, then `uv run alembic revision --autogenerate -m "..."` and review the file. Never edit an applied migration; add a new one.
+- Money is `Decimal` in Python and `NUMERIC(12, 2)` + a 3-letter currency in the DB, never a float. The API sends it as a JSON number (`schemas.Amount`).
+- Settings come from environment variables (root `.env`, e.g. `DATABASE_URL`) via `app/config.py`. Never hard-code secrets.
 - All LLM, search and travel API keys live here, never in the frontend.
 - Unit tests and the PR CI check must **not** call paid or live APIs (LLM, flights, search). Use recorded fixtures or fakes, so the planner can be tested with dummy research data. The eval workflow is the exception: it runs the real agents on purpose (see `evals/README.md`).
 
