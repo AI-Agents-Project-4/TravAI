@@ -1,0 +1,1069 @@
+{
+ "about": "Aggregate statistics fitted from recorded flight and hotel searches. Contains no individual fares, hotel names, ids or links.",
+ "flights": {
+  "fit": {
+   "intercept": 0.432,
+   "slope": 0.752,
+   "resid_sigma": 0.39,
+   "fare_sigma": 0.198,
+   "n_routes": 38
+  },
+  "routes": {
+   "DEN-ADQ": {
+    "mu": 7.251,
+    "sigma": 0.061,
+    "dist_km": 3915
+   },
+   "DEN-ANC": {
+    "mu": 6.271,
+    "sigma": 0.201,
+    "dist_km": 3863
+   },
+   "DEN-ATH": {
+    "mu": 7.337,
+    "sigma": 0.125,
+    "dist_km": 9904
+   },
+   "DEN-BKK": {
+    "mu": 8.065,
+    "sigma": 0.176,
+    "dist_km": 13506
+   },
+   "DEN-BOG": {
+    "mu": 6.37,
+    "sigma": 0.144,
+    "dist_km": 4964
+   },
+   "DEN-CDG": {
+    "mu": 7.183,
+    "sigma": 0.216,
+    "dist_km": 7833
+   },
+   "DEN-CPT": {
+    "mu": 7.559,
+    "sigma": 0.141,
+    "dist_km": 15013
+   },
+   "DEN-CUN": {
+    "mu": 6.589,
+    "sigma": 0.242,
+    "dist_km": 2689
+   },
+   "DEN-DXB": {
+    "mu": 7.478,
+    "sigma": 0.457,
+    "dist_km": 12485
+   },
+   "DEN-EWR": {
+    "mu": 6.332,
+    "sigma": 0.143,
+    "dist_km": 2576
+   },
+   "DEN-GRU": {
+    "mu": 7.075,
+    "sigma": 0.257,
+    "dist_km": 9265
+   },
+   "DEN-HND": {
+    "mu": 7.746,
+    "sigma": 0.335,
+    "dist_km": 9348
+   },
+   "DEN-HNL": {
+    "mu": 6.51,
+    "sigma": 0.244,
+    "dist_km": 5408
+   },
+   "DEN-ICN": {
+    "mu": 7.767,
+    "sigma": 0.261,
+    "dist_km": 9961
+   },
+   "DEN-JFK": {
+    "mu": 6.04,
+    "sigma": 0.128,
+    "dist_km": 2609
+   },
+   "DEN-KRK": {
+    "mu": 6.687,
+    "sigma": 0.08,
+    "dist_km": 8641
+   },
+   "DEN-LAX": {
+    "mu": 5.553,
+    "sigma": 0.1,
+    "dist_km": 1386
+   },
+   "DEN-LHR": {
+    "mu": 7.078,
+    "sigma": 0.252,
+    "dist_km": 7497
+   },
+   "DEN-LIS": {
+    "mu": 6.838,
+    "sigma": 0.182,
+    "dist_km": 7772
+   },
+   "DEN-MEX": {
+    "mu": 6.316,
+    "sigma": 0.225,
+    "dist_km": 2333
+   },
+   "DEN-NRT": {
+    "mu": 7.628,
+    "sigma": 0.285,
+    "dist_km": 9292
+   },
+   "DEN-ORY": {
+    "mu": 7.461,
+    "sigma": 0.141,
+    "dist_km": 7844
+   },
+   "DEN-PHX": {
+    "mu": 5.801,
+    "sigma": 0.099,
+    "dist_km": 969
+   },
+   "DEN-RZE": {
+    "mu": 7.768,
+    "sigma": 0.74,
+    "dist_km": 8740
+   },
+   "DEN-SYD": {
+    "mu": 7.346,
+    "sigma": 0.267,
+    "dist_km": 13443
+   },
+   "DEN-YVR": {
+    "mu": 6.787,
+    "sigma": 0.223,
+    "dist_km": 1789
+   },
+   "GRU-LIS": {
+    "mu": 7.261,
+    "sigma": 0.111,
+    "dist_km": 7934
+   },
+   "LAX-BKK": {
+    "mu": 6.889,
+    "sigma": 0.198,
+    "dist_km": 13291
+   },
+   "LHR-BKK": {
+    "mu": 7.175,
+    "sigma": 0.278,
+    "dist_km": 9577
+   },
+   "LHR-EWR": {
+    "mu": 6.669,
+    "sigma": 0.068,
+    "dist_km": 5563
+   },
+   "LHR-JFK": {
+    "mu": 6.605,
+    "sigma": 0.015,
+    "dist_km": 5541
+   },
+   "ORD-MEX": {
+    "mu": 6.324,
+    "sigma": 0.249,
+    "dist_km": 2719
+   },
+   "ORD-MIA": {
+    "mu": 6.148,
+    "sigma": 0.164,
+    "dist_km": 1930
+   },
+   "ORD-NLU": {
+    "mu": 5.802,
+    "sigma": 0.0,
+    "dist_km": 2684
+   },
+   "SEA-HND": {
+    "mu": 7.432,
+    "sigma": 0.14,
+    "dist_km": 7712
+   },
+   "SEA-KEF": {
+    "mu": 6.816,
+    "sigma": 0.137,
+    "dist_km": 5810
+   },
+   "SEA-NRT": {
+    "mu": 8.336,
+    "sigma": 0.57,
+    "dist_km": 7655
+   },
+   "SYD-NRT": {
+    "mu": 6.941,
+    "sigma": 0.24,
+    "dist_km": 7832
+   }
+  }
+ },
+ "hotels": {
+  "cities": {
+   "anchorage": {
+    "display": "Anchorage",
+    "lat": 61.2,
+    "lon": -149.87,
+    "night_mu": 5.607,
+    "night_sigma": 0.433,
+    "rating_mean": 4.29,
+    "reviews_median": 280,
+    "types": {
+     "hotel": 0.674,
+     "vacation rental": 0.326
+    }
+   },
+   "athens": {
+    "display": "Athens",
+    "lat": 37.98,
+    "lon": 23.73,
+    "night_mu": 4.644,
+    "night_sigma": 0.507,
+    "rating_mean": 4.45,
+    "reviews_median": 206,
+    "types": {
+     "hotel": 0.828,
+     "vacation rental": 0.172
+    }
+   },
+   "bali": {
+    "display": "Bali",
+    "lat": -8.66,
+    "lon": 115.22,
+    "night_mu": 4.44,
+    "night_sigma": 0.683,
+    "rating_mean": 4.62,
+    "reviews_median": 1528,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "bangkok": {
+    "display": "Bangkok",
+    "lat": 13.75,
+    "lon": 100.52,
+    "night_mu": 3.602,
+    "night_sigma": 0.906,
+    "rating_mean": 4.41,
+    "reviews_median": 1096,
+    "types": {
+     "hotel": 0.894,
+     "vacation rental": 0.106
+    }
+   },
+   "barcelona": {
+    "display": "Barcelona",
+    "lat": 41.39,
+    "lon": 2.17,
+    "night_mu": 5.399,
+    "night_sigma": 0.499,
+    "rating_mean": 4.41,
+    "reviews_median": 2080,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "bogota": {
+    "display": "Bogota",
+    "lat": 4.67,
+    "lon": -74.05,
+    "night_mu": 3.949,
+    "night_sigma": 0.889,
+    "rating_mean": 4.53,
+    "reviews_median": 1538,
+    "types": {
+     "hotel": 1.0
+    }
+   },
+   "budapest": {
+    "display": "Budapest",
+    "lat": 47.5,
+    "lon": 19.06,
+    "night_mu": 4.839,
+    "night_sigma": 0.405,
+    "rating_mean": 4.52,
+    "reviews_median": 1126,
+    "types": {
+     "hotel": 0.75,
+     "vacation rental": 0.25
+    }
+   },
+   "buenos aires": {
+    "display": "Buenos Aires",
+    "lat": -34.6,
+    "lon": -58.38,
+    "night_mu": 4.762,
+    "night_sigma": 0.92,
+    "rating_mean": 4.43,
+    "reviews_median": 3199,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "cancun": {
+    "display": "Cancun",
+    "lat": 21.11,
+    "lon": -86.77,
+    "night_mu": 5.12,
+    "night_sigma": 0.674,
+    "rating_mean": 4.36,
+    "reviews_median": 5997,
+    "types": {
+     "hotel": 0.947,
+     "vacation rental": 0.053
+    }
+   },
+   "cape town": {
+    "display": "Cape Town",
+    "lat": -33.92,
+    "lon": 18.42,
+    "night_mu": 4.915,
+    "night_sigma": 1.234,
+    "rating_mean": 4.49,
+    "reviews_median": 763,
+    "types": {
+     "hotel": 0.789,
+     "vacation rental": 0.211
+    }
+   },
+   "chiang mai": {
+    "display": "Chiang Mai",
+    "lat": 18.79,
+    "lon": 98.99,
+    "night_mu": 3.328,
+    "night_sigma": 0.671,
+    "rating_mean": 4.48,
+    "reviews_median": 301,
+    "types": {
+     "hotel": 0.875,
+     "vacation rental": 0.125
+    }
+   },
+   "chicago": {
+    "display": "Chicago",
+    "lat": 41.89,
+    "lon": -87.63,
+    "night_mu": 5.228,
+    "night_sigma": 0.51,
+    "rating_mean": 4.06,
+    "reviews_median": 1244,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "cusco": {
+    "display": "Cusco",
+    "lat": -13.52,
+    "lon": -71.98,
+    "night_mu": 4.458,
+    "night_sigma": 0.57,
+    "rating_mean": 4.58,
+    "reviews_median": 348,
+    "types": {
+     "hotel": 0.75,
+     "vacation rental": 0.25
+    }
+   },
+   "dubai": {
+    "display": "Dubai",
+    "lat": 25.16,
+    "lon": 55.24,
+    "night_mu": 4.937,
+    "night_sigma": 0.755,
+    "rating_mean": 4.63,
+    "reviews_median": 11428,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "hanoi": {
+    "display": "Hanoi",
+    "lat": 21.03,
+    "lon": 105.85,
+    "night_mu": 4.233,
+    "night_sigma": 0.698,
+    "rating_mean": 4.66,
+    "reviews_median": 1167,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "ho chi minh city": {
+    "display": "Ho Chi Minh City",
+    "lat": 10.78,
+    "lon": 106.7,
+    "night_mu": 4.446,
+    "night_sigma": 0.507,
+    "rating_mean": 4.55,
+    "reviews_median": 1046,
+    "types": {
+     "hotel": 0.75,
+     "vacation rental": 0.25
+    }
+   },
+   "honolulu": {
+    "display": "Honolulu",
+    "lat": 21.28,
+    "lon": -157.83,
+    "night_mu": 5.293,
+    "night_sigma": 0.397,
+    "rating_mean": 4.19,
+    "reviews_median": 1966,
+    "types": {
+     "hotel": 0.808,
+     "vacation rental": 0.192
+    }
+   },
+   "istanbul": {
+    "display": "Istanbul",
+    "lat": 41.01,
+    "lon": 28.97,
+    "night_mu": 4.13,
+    "night_sigma": 0.546,
+    "rating_mean": 4.24,
+    "reviews_median": 714,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "lisbon": {
+    "display": "Lisbon",
+    "lat": 38.72,
+    "lon": -9.14,
+    "night_mu": 4.595,
+    "night_sigma": 0.636,
+    "rating_mean": 4.32,
+    "reviews_median": 566,
+    "types": {
+     "hotel": 0.752,
+     "vacation rental": 0.248
+    }
+   },
+   "london": {
+    "display": "London",
+    "lat": 51.51,
+    "lon": -0.14,
+    "night_mu": 4.954,
+    "night_sigma": 0.656,
+    "rating_mean": 4.1,
+    "reviews_median": 1252,
+    "types": {
+     "hotel": 0.932,
+     "vacation rental": 0.068
+    }
+   },
+   "longyearbyen": {
+    "display": "Longyearbyen",
+    "lat": 78.22,
+    "lon": 15.63,
+    "night_mu": 5.9,
+    "night_sigma": 0.51,
+    "rating_mean": 4.54,
+    "reviews_median": 315,
+    "types": {
+     "hotel": 0.909,
+     "vacation rental": 0.091
+    }
+   },
+   "los angeles": {
+    "display": "Los Angeles",
+    "lat": 34.04,
+    "lon": -118.29,
+    "night_mu": 4.928,
+    "night_sigma": 0.436,
+    "rating_mean": 4.03,
+    "reviews_median": 1516,
+    "types": {
+     "hotel": 0.883,
+     "vacation rental": 0.117
+    }
+   },
+   "lviv": {
+    "display": "Lviv",
+    "lat": 49.84,
+    "lon": 24.03,
+    "night_mu": 4.125,
+    "night_sigma": 0.731,
+    "rating_mean": 4.58,
+    "reviews_median": 450,
+    "types": {
+     "hotel": 0.895,
+     "vacation rental": 0.105
+    }
+   },
+   "marrakech": {
+    "display": "Marrakech",
+    "lat": 31.63,
+    "lon": -7.99,
+    "night_mu": 5.188,
+    "night_sigma": 0.934,
+    "rating_mean": 4.61,
+    "reviews_median": 641,
+    "types": {
+     "hotel": 0.75,
+     "vacation rental": 0.25
+    }
+   },
+   "medellin": {
+    "display": "Medellin",
+    "lat": 6.21,
+    "lon": -75.57,
+    "night_mu": 4.601,
+    "night_sigma": 0.639,
+    "rating_mean": 4.54,
+    "reviews_median": 668,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "mexico city": {
+    "display": "Mexico City",
+    "lat": 19.43,
+    "lon": -99.16,
+    "night_mu": 4.609,
+    "night_sigma": 0.775,
+    "rating_mean": 4.46,
+    "reviews_median": 2433,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "miami": {
+    "display": "Miami",
+    "lat": 25.78,
+    "lon": -80.2,
+    "night_mu": 5.73,
+    "night_sigma": 0.656,
+    "rating_mean": 4.22,
+    "reviews_median": 1735,
+    "types": {
+     "hotel": 1.0
+    }
+   },
+   "nairobi": {
+    "display": "Nairobi",
+    "lat": -1.28,
+    "lon": 36.81,
+    "night_mu": 4.752,
+    "night_sigma": 0.662,
+    "rating_mean": 4.64,
+    "reviews_median": 4442,
+    "types": {
+     "hotel": 0.85,
+     "vacation rental": 0.15
+    }
+   },
+   "new york city": {
+    "display": "New York City",
+    "lat": 40.75,
+    "lon": -73.99,
+    "night_mu": 5.409,
+    "night_sigma": 0.44,
+    "rating_mean": 4.04,
+    "reviews_median": 1065,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "oaxaca": {
+    "display": "Oaxaca",
+    "lat": 17.06,
+    "lon": -96.72,
+    "night_mu": 4.766,
+    "night_sigma": 0.371,
+    "rating_mean": 4.45,
+    "reviews_median": 222,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "paris": {
+    "display": "Paris",
+    "lat": 48.86,
+    "lon": 2.34,
+    "night_mu": 5.237,
+    "night_sigma": 0.543,
+    "rating_mean": 4.38,
+    "reviews_median": 576,
+    "types": {
+     "hotel": 0.883,
+     "vacation rental": 0.117
+    }
+   },
+   "phoenix": {
+    "display": "Phoenix",
+    "lat": 33.51,
+    "lon": -111.98,
+    "night_mu": 4.926,
+    "night_sigma": 0.475,
+    "rating_mean": 4.1,
+    "reviews_median": 1774,
+    "types": {
+     "hotel": 1.0
+    }
+   },
+   "prague": {
+    "display": "Prague",
+    "lat": 50.08,
+    "lon": 14.43,
+    "night_mu": 4.937,
+    "night_sigma": 0.423,
+    "rating_mean": 4.69,
+    "reviews_median": 1020,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "reykjavik": {
+    "display": "Reykjavik",
+    "lat": 64.14,
+    "lon": -21.92,
+    "night_mu": 5.339,
+    "night_sigma": 0.376,
+    "rating_mean": 4.41,
+    "reviews_median": 812,
+    "types": {
+     "hotel": 0.817,
+     "vacation rental": 0.183
+    }
+   },
+   "rome": {
+    "display": "Rome",
+    "lat": 41.9,
+    "lon": 12.48,
+    "night_mu": 5.327,
+    "night_sigma": 0.482,
+    "rating_mean": 4.51,
+    "reviews_median": 510,
+    "types": {
+     "hotel": 0.8,
+     "vacation rental": 0.2
+    }
+   },
+   "san francisco": {
+    "display": "San Francisco",
+    "lat": 37.79,
+    "lon": -122.41,
+    "night_mu": 5.221,
+    "night_sigma": 0.478,
+    "rating_mean": 4.17,
+    "reviews_median": 1362,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "seoul": {
+    "display": "Seoul",
+    "lat": 37.56,
+    "lon": 126.99,
+    "night_mu": 4.456,
+    "night_sigma": 0.899,
+    "rating_mean": 4.13,
+    "reviews_median": 339,
+    "types": {
+     "hotel": 0.947,
+     "vacation rental": 0.053
+    }
+   },
+   "sofia": {
+    "display": "Sofia",
+    "lat": 42.7,
+    "lon": 23.32,
+    "night_mu": 4.579,
+    "night_sigma": 0.427,
+    "rating_mean": 4.47,
+    "reviews_median": 786,
+    "types": {
+     "hotel": 0.895,
+     "vacation rental": 0.105
+    }
+   },
+   "sydney": {
+    "display": "Sydney",
+    "lat": -33.87,
+    "lon": 151.21,
+    "night_mu": 4.719,
+    "night_sigma": 0.856,
+    "rating_mean": 4.28,
+    "reviews_median": 827,
+    "types": {
+     "hotel": 0.923,
+     "vacation rental": 0.077
+    }
+   },
+   "tbilisi": {
+    "display": "Tbilisi",
+    "lat": 41.7,
+    "lon": 44.8,
+    "night_mu": 4.598,
+    "night_sigma": 0.542,
+    "rating_mean": 4.58,
+    "reviews_median": 494,
+    "types": {
+     "hotel": 0.9,
+     "vacation rental": 0.1
+    }
+   },
+   "tokyo": {
+    "display": "Tokyo",
+    "lat": 35.7,
+    "lon": 139.77,
+    "night_mu": 4.6,
+    "night_sigma": 0.817,
+    "rating_mean": 4.31,
+    "reviews_median": 985,
+    "types": {
+     "hotel": 0.899,
+     "vacation rental": 0.101
+    }
+   },
+   "vancouver": {
+    "display": "Vancouver",
+    "lat": 49.28,
+    "lon": -123.11,
+    "night_mu": 5.237,
+    "night_sigma": 0.512,
+    "rating_mean": 4.21,
+    "reviews_median": 889,
+    "types": {
+     "hotel": 0.75,
+     "vacation rental": 0.25
+    }
+   }
+  },
+  "global": {
+   "night_mu": 4.811,
+   "night_sigma": 0.558
+  }
+ },
+ "airports": {
+  "ADQ": [
+   57.75,
+   -152.49
+  ],
+  "AKL": [
+   -37.01,
+   174.79
+  ],
+  "AMS": [
+   52.31,
+   4.76
+  ],
+  "ANC": [
+   61.17,
+   -150.0
+  ],
+  "ATH": [
+   37.94,
+   23.94
+  ],
+  "ATL": [
+   33.64,
+   -84.43
+  ],
+  "BCN": [
+   41.3,
+   2.08
+  ],
+  "BKK": [
+   13.69,
+   100.75
+  ],
+  "BOG": [
+   4.7,
+   -74.14
+  ],
+  "BOS": [
+   42.37,
+   -71.01
+  ],
+  "BUD": [
+   47.44,
+   19.26
+  ],
+  "CDG": [
+   49.01,
+   2.55
+  ],
+  "CIA": [
+   41.8,
+   12.59
+  ],
+  "CMN": [
+   33.37,
+   -7.59
+  ],
+  "CNX": [
+   18.77,
+   98.96
+  ],
+  "CPT": [
+   -33.97,
+   18.6
+  ],
+  "CUN": [
+   21.04,
+   -86.87
+  ],
+  "CUZ": [
+   -13.54,
+   -71.94
+  ],
+  "DEL": [
+   28.56,
+   77.1
+  ],
+  "DEN": [
+   39.86,
+   -104.67
+  ],
+  "DFW": [
+   32.9,
+   -97.04
+  ],
+  "DMK": [
+   13.91,
+   100.61
+  ],
+  "DOH": [
+   25.27,
+   51.61
+  ],
+  "DPS": [
+   -8.75,
+   115.17
+  ],
+  "DUB": [
+   53.42,
+   -6.27
+  ],
+  "DXB": [
+   25.25,
+   55.36
+  ],
+  "EWR": [
+   40.69,
+   -74.17
+  ],
+  "FCO": [
+   41.8,
+   12.25
+  ],
+  "FRA": [
+   50.03,
+   8.57
+  ],
+  "GAN": [
+   -0.69,
+   73.16
+  ],
+  "GRU": [
+   -23.43,
+   -46.47
+  ],
+  "HAN": [
+   21.22,
+   105.81
+  ],
+  "HKG": [
+   22.31,
+   113.92
+  ],
+  "HND": [
+   35.55,
+   139.78
+  ],
+  "HNL": [
+   21.32,
+   -157.92
+  ],
+  "ICN": [
+   37.46,
+   126.44
+  ],
+  "IST": [
+   41.26,
+   28.74
+  ],
+  "JFK": [
+   40.64,
+   -73.78
+  ],
+  "KEF": [
+   63.99,
+   -22.62
+  ],
+  "KIX": [
+   34.43,
+   135.24
+  ],
+  "KRK": [
+   50.08,
+   19.78
+  ],
+  "LAS": [
+   36.08,
+   -115.15
+  ],
+  "LAX": [
+   33.94,
+   -118.41
+  ],
+  "LGW": [
+   51.15,
+   -0.19
+  ],
+  "LHR": [
+   51.47,
+   -0.45
+  ],
+  "LIM": [
+   -12.02,
+   -77.11
+  ],
+  "LIS": [
+   38.78,
+   -9.14
+  ],
+  "LWO": [
+   49.81,
+   23.96
+  ],
+  "MAD": [
+   40.47,
+   -3.56
+  ],
+  "MCO": [
+   28.43,
+   -81.31
+  ],
+  "MDE": [
+   6.16,
+   -75.42
+  ],
+  "MEL": [
+   -37.67,
+   144.84
+  ],
+  "MEX": [
+   19.44,
+   -99.07
+  ],
+  "MIA": [
+   25.79,
+   -80.29
+  ],
+  "MNL": [
+   14.51,
+   121.02
+  ],
+  "MUC": [
+   48.35,
+   11.79
+  ],
+  "NBO": [
+   -1.32,
+   36.93
+  ],
+  "NLU": [
+   19.75,
+   -99.02
+  ],
+  "NRT": [
+   35.77,
+   140.39
+  ],
+  "OAX": [
+   16.99,
+   -96.73
+  ],
+  "ORD": [
+   41.98,
+   -87.9
+  ],
+  "ORY": [
+   48.72,
+   2.38
+  ],
+  "PEK": [
+   40.08,
+   116.59
+  ],
+  "PHX": [
+   33.43,
+   -112.01
+  ],
+  "PRG": [
+   50.1,
+   14.26
+  ],
+  "RKV": [
+   64.13,
+   -21.94
+  ],
+  "RZE": [
+   50.11,
+   22.02
+  ],
+  "SCL": [
+   -33.39,
+   -70.79
+  ],
+  "SEA": [
+   47.45,
+   -122.31
+  ],
+  "SFO": [
+   37.62,
+   -122.38
+  ],
+  "SGN": [
+   10.82,
+   106.65
+  ],
+  "SIN": [
+   1.36,
+   103.99
+  ],
+  "SOF": [
+   42.7,
+   23.41
+  ],
+  "SYD": [
+   -33.94,
+   151.18
+  ],
+  "TBS": [
+   41.67,
+   44.95
+  ],
+  "YVR": [
+   49.19,
+   -123.18
+  ],
+  "YYZ": [
+   43.68,
+   -79.63
+  ],
+  "ZRH": [
+   47.46,
+   8.55
+  ]
+ }
+}

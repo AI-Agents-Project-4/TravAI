@@ -1,12 +1,16 @@
 """Run test cases through the agent and check the output.
 
-Usage: python3 tests/run_cases.py [case-id ...] [--offline]    (no ids = all cases)
-Live runs spend API quota the first time; every call is cached, so reruns and --offline replays are free.
+Usage: python3 tests/run_cases.py [case-id ...] [--gather]    (no ids = all cases)
+Default is sandbox: replay from the cache, no network. --gather allows live lookups (spends API quota the first time;
+every call is cached, so reruns are free).
 Automated checks cover schema, status, counts, verdicts, sources and per-case rules. `must_hold` lines that need
 a human (e.g. 'within 30% of a manual Google Flights check') are listed as MANUAL, not silently passed."""
 import json, os, sys, time, traceback
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
+# Sandbox by default: only --gather lets the agent reach the network (to collect new data into the cache).
+if "--gather" in sys.argv:
+    os.environ["TRAVAI_ALLOW_NETWORK"] = "1"
 from research.agent import run
 
 OUT = os.path.join(ROOT, "tests", "outputs")

@@ -19,8 +19,11 @@ from jsonschema import Draft202012Validator
 
 from . import sources
 from .activities import TIER_MULT, build_activities
-from .core import ROOT, ApiError, CacheMiss, claude_json, set_cache_ttl
+from . import sandbox
+from .core import ROOT, ApiError, CacheMiss, claude_json, data_mode, set_cache_ttl, set_data_mode
+from .security.network_policy import network_allowed
 from .pricing import make_price, now_iso
+from .security.budget import BudgetExceeded, Limits, TripBudget, map_in_context, submit_in_context, use as use_budget
 
 SCHEMA = json.load(open(os.path.join(ROOT, "schema", "research_output.schema.json"), encoding="utf-8"))
 VALIDATOR = Draft202012Validator(SCHEMA)
@@ -154,19 +157,26 @@ def _google_flights_link(o: str, d: str, dep: str, ret: Optional[str]) -> str:
 
 def build_flight(ctx: Ctx, it: dict, direction: str, observed_at: str, o: str, d: str, dep: str, ret: Optional[str]) -> dict:
     link, verified, note = None, False, None
-    try:
-        b = sources.ignav_booking(it["ignav_id"], ctx.offline)
-        opts = [(l, l.get("price", {}) and l["price"].get("amount")) for bo in b["booking_options"] for l in bo["links"]]
-        air = [l for l, p in opts if l.get("provider_type") == "airline" and p and abs(p - it["price"]["amount"]) <= 0.02 * it["price"]["amount"]]
-        pick = air[0] if air else (min(opts, key=lambda x: x[1] or 1e12)[0] if opts else None)
-        if pick:
-            link = {"url": pick["url"], "provider": f"ignav:{pick['provider_name']}"}
-            p = pick.get("price", {}).get("amount")
-            verified = bool(p and abs(p - it["price"]["amount"]) <= 0.02 * it["price"]["amount"])
-    except CacheMiss:
-        raise
-    except ApiError as e:
-        note = f"booking-links failed ({e.status}); search link only"
+    sb = it.get("_sandbox")
+    if sb and sb["price_type"] == "estimate":
+        # The recorded booking link is for the recorded date, so do not offer it for different dates.
+        note = "Link is a Google Flights search for your dates."
+    else:
+        try:
+            b = sources.ignav_booking(it["ignav_id"], ctx.offline)
+            opts = [(l, l.get("price", {}) and l["price"].get("amount")) for bo in b["booking_options"] for l in bo["links"]]
+            air = [l for l, p in opts if l.get("provider_type") == "airline" and p and abs(p - it["price"]["amount"]) <= 0.02 * it["price"]["amount"]]
+            pick = air[0] if air else (min(opts, key=lambda x: x[1] or 1e12)[0] if opts else None)
+            if pick:
+                link = {"url": pick["url"], "provider": f"ignav:{pick['provider_name']}"}
+                p = pick.get("price", {}).get("amount")
+                verified = bool(p and abs(p - it["price"]["amount"]) <= 0.02 * it["price"]["amount"])
+        except CacheMiss:
+            raise
+        except ApiError as e:
+            note = f"booking-links failed ({e.status}); search link only"
+    if sb and sb.get("synthetic"):
+        link, note = {"url": f"https://synthetic.invalid/flight/{it['ignav_id']}", "provider": "synthetic"}, "No booking link: generated test data."
     if not link:
         link = {"url": _google_flights_link(o, d, dep, ret), "provider": "google_flights_search"}
         note = note or "no direct booking link returned; Google Flights search link"
@@ -176,11 +186,15 @@ def build_flight(ctx: Ctx, it: dict, direction: str, observed_at: str, o: str, d
     f = {"id": f"fl-{it['ignav_id'][:14]}", "direction": direction, "segments": segs,
          "duration_minutes": out_leg["duration_minutes"] + (in_leg["duration_minutes"] if in_leg else 0), "stops": stops,
          "cabin": it.get("cabin_class") or "economy",
-         "price": make_price(it["price"]["amount"], it["price"]["currency"], "live_quote", observed_at, target_currency=ctx.cur,
-                             fx=ctx.fx, price_layer="api", basis="total_all_travelers"),
+         "price": make_price(it["price"]["amount"], it["price"]["currency"], sb["price_type"] if sb else "live_quote", observed_at,
+                             target_currency=ctx.cur, fx=ctx.fx, price_layer="api", basis="total_all_travelers",
+                             **({"estimate_method": sb["method"]} if sb and sb.get("method") else {})),
          "source": link, "confidence": {"level": "high" if verified else "medium", "verified": verified}}
+    if sb:
+        f["confidence"] = {"level": "low" if sb["price_type"] == "estimate" else "medium", "verified": False,
+                           "notes": sb["note"]}
     if note:
-        f["confidence"]["notes"] = note
+        f["confidence"]["notes"] = f"{f['confidence']['notes']} {note}" if sb else note
     if in_leg:
         f["return_segment_start_index"] = len(out_leg["segments"])
     return f
@@ -199,7 +213,7 @@ def _search_flights(ctx: Ctx, o: str, d: str, dep: str, ret: Optional[str], dire
         return []
     picks = pick_flights(its, n)
     with ThreadPoolExecutor(5) as ex:
-        return list(ex.map(lambda it: build_flight(ctx, it, direction, data.get("observed_at", now_iso()), o, d, dep, ret), picks))
+        return map_in_context(ex, lambda it: build_flight(ctx, it, direction, data.get("observed_at", now_iso()), o, d, dep, ret), picks)
 
 
 def flights_step(ctx: Ctx, stops: list, origin: Optional[str], start: date, end: date) -> list[dict]:
@@ -244,23 +258,29 @@ def lodging_step(ctx: Ctx, stops: list, start: date, nights: list[int]) -> list[
         props = [p for p in data.get("properties", []) if p.get("gps_coordinates") and (p.get("rate_per_night") or {}).get("extracted_lowest")]
         if not props:
             ctx.gap("lodging", f"No priced hotels returned for {stop['city']}", "serpapi_google_hotels")
+        sb = data.get("_sandbox")
         for p in props[:12]:
             link = p.get("link") or ("https://www.google.com/search?q=" + urllib.parse.quote(f"{p['name']} {stop['city']} hotel"))
             direct = bool(p.get("link"))
+            if sb and sb.get("synthetic"):
+                link, direct = f"https://synthetic.invalid/hotel/{p['property_token']}", False
             night = float(p["rate_per_night"]["extracted_lowest"])
             total = float((p.get("total_rate") or {}).get("extracted_lowest") or night * n)
             ts = now_iso()
             kw = dict(target_currency=ctx.cur, fx=ctx.fx, price_layer="api")
+            ptype = sb["price_type"] if sb else "published_rate"
+            if sb and sb.get("method"):
+                kw["estimate_method"] = sb["method"]
             lod = {"id": f"ho-{p.get('property_token', p['name'])[:14]}", "name": p["name"],
                    "type": HOTEL_TYPES.get((p.get("type") or "hotel").lower(), "other"),
                    "location": {"lat": p["gps_coordinates"]["latitude"], "lng": p["gps_coordinates"]["longitude"]},
                    "area": stop["city"], "check_in": cin.isoformat(), "check_out": cout.isoformat(),
                    "rating": p.get("overall_rating"), "review_count": p.get("reviews"),
-                   "price": {**make_price(night, ctx.cur, "published_rate", ts, **kw), "basis": "per_night", "includes_taxes_fees": True},
-                   "total_stay_price": {**make_price(total, ctx.cur, "published_rate", ts, **kw), "basis": "per_group", "includes_taxes_fees": True},
-                   "source": {"url": link, "provider": "serpapi_google_hotels"},
-                   "confidence": {"level": "medium", "verified": False,
-                                  **({} if direct else {"notes": "no direct booking link; search link"})}}
+                   "price": {**make_price(night, ctx.cur, ptype, ts if not sb else sb["saved_at"], **kw), "basis": "per_night", "includes_taxes_fees": True},
+                   "total_stay_price": {**make_price(total, ctx.cur, ptype, ts if not sb else sb["saved_at"], **kw), "basis": "per_group", "includes_taxes_fees": True},
+                   "source": {"url": link, "provider": "synthetic" if sb and sb.get("synthetic") else "serpapi_google_hotels"},
+                   "confidence": {"level": "low" if sb and sb["price_type"] == "estimate" else "medium", "verified": False,
+                                  **({"notes": sb["note"]} if sb else {} if direct else {"notes": "no direct booking link; search link"})}}
             out.append(lod)
     return out
 
@@ -464,18 +484,62 @@ def split_nights(total: int, n: int) -> list[int]:
 # ---------- main ----------
 
 def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, progress=None,
-        cache_ttl_hours: Optional[float] = None) -> dict:
+        cache_ttl_hours: Optional[float] = None, data_mode_override: Optional[str] = None,
+        limits: Optional[Limits] = None) -> dict:
     """Run the research pipeline.
 
     progress(stage, message): optional callback for UI updates (stages: resolve, search, flights, lodging, activities,
         transport, feasibility, done).
+    data_mode_override: "sandbox" answers Ignav/SerpApi searches from recorded data (see research/sandbox.py). Only has an
+        effect when data gathering is on: otherwise the data mode is always "sandbox".
     cache_ttl_hours: cached API/LLM results older than this are refetched. None keeps everything (tests, replay);
         use ~24 in production so prices do not go stale. Process-wide: concurrent runs share the setting.
+    Sandbox: unless TRAVAI_ALLOW_NETWORK=1 is set (data-gathering scripts only), flights and hotels come from the recorded
+        sandbox data, every host except Geoapify is cache-only, and `claude -p` runs only with tools off (never web search).
+        A request the cache cannot cover returns status "error" with a gap.
+    limits: per-trip caps on requests, model calls, cost and time (default: research/security/config.py). Cache hits
+        are free. When a cap is hit the run stops, status becomes "partial" with a gap, and `_usage.stopped_by` says why.
+
+    The result's `_usage` (tokens, cost, calls) and `_schema_errors` are private: strip keys starting with `_` before
+    storing or sending to the frontend.
     """
     set_cache_ttl(cache_ttl_hours)
+    if data_mode_override:
+        set_data_mode(data_mode_override)
     now = now or datetime.now(timezone.utc)
+    sandbox = not network_allowed()       # core.http / core.claude_json enforce it per host; this only labels the run
     ctx = Ctx(req, offline, now, progress)
+    if sandbox:
+        ctx.notes.append("Sandbox mode: advisories, exchange rates, curated listings and web price lookups come from data collected earlier "
+                         "(see each price's retrieved_at for its age). Only map lookups (Geoapify) and the model's own reasoning steps "
+                         "(no web access) run live.")
     rid = req.get("request_id") or uuid.uuid4().hex[:12]
+    budget = TripBudget(limits or Limits())
+    try:
+        with use_budget(budget):
+            out = _run(req, ctx, rid, now, offline)
+    except BudgetExceeded:
+        out = _empty(ctx, "error", rid)
+    except CacheMiss as e:                # nothing in the sandbox covers this request
+        ctx.gap("other", f"Not in the sandbox data, so it cannot be researched: {str(e)[:160]}")
+        out = _empty(ctx, "error", rid)
+    if budget.stopped_by:
+        out["gaps"].append({"category": "other", "reason": f"Research stopped early: the per-trip {budget.stopped_by} limit was reached"})
+        if out["status"] == "ok":
+            out["status"] = "partial"
+    out["_usage"] = {**budget.usage(), "network": "sandbox" if sandbox else "live"}
+    return _finish(out)
+
+
+def _result(f):
+    """A step's result, or an empty list if the trip budget ran out inside it."""
+    try:
+        return f.result()
+    except BudgetExceeded:
+        return []
+
+
+def _run(req: dict, ctx: Ctx, rid: str, now: datetime, offline: bool) -> dict:
     err = validate_request(req, now.date())
     if err:
         ctx.notes.append(f"Invalid request: {err}")
@@ -511,20 +575,33 @@ def run(req: dict, *, offline: bool = False, now: Optional[datetime] = None, pro
     if not re.fullmatch(r"[A-Za-z]{3}", req["origin"]):
         origin_geo = sources.geocode(req["origin"], offline)
 
+    if data_mode() == "sandbox":
+        store = sandbox.default_store()
+        rng = store.captured_range()
+        if store.synthetic:
+            ctx.notes.append("SYNTHETIC TEST DATA: flight and hotel prices are generated from aggregate statistics. They are not real "
+                             "quotes and not recordings. Do not show them as real prices.")
+        else:
+            ctx.notes.append("Sandbox data: flight and hotel prices are recorded snapshots"
+                             + (f" captured {rng[0]} to {rng[1]}" if rng else "") + ", not live quotes. "
+                             "Prices marked estimate were adapted from the closest recording; each keeps its original retrieved_at.")
     out = _empty(ctx, "ok", rid)
     ctx.say("search", f"Searching flights, hotels and things to do in {', '.join(s['city'] for s in stops)}")
     with ThreadPoolExecutor(4) as ex:
-        f_fl = ex.submit(flights_step, ctx, stops, origin, start, end)
-        f_lo = ex.submit(lodging_step, ctx, stops, start, nights)
-        f_ad = ex.submit(advisories_step, ctx, stops)
-        f_ac = [ex.submit(build_activities, s, offline, ctx.cur, ctx.fx, ctx.notes, ctx.gaps) for s in stops]
-        out["flights"], out["lodging"], out["advisories"] = f_fl.result(), f_lo.result(), f_ad.result()
-        out["activities"] = [a for f in f_ac for a in f.result()]
+        f_fl = submit_in_context(ex, flights_step, ctx, stops, origin, start, end)
+        f_lo = submit_in_context(ex, lodging_step, ctx, stops, start, nights)
+        f_ad = submit_in_context(ex, advisories_step, ctx, stops)
+        f_ac = [submit_in_context(ex, build_activities, s, offline, ctx.cur, ctx.fx, ctx.notes, ctx.gaps) for s in stops]
+        out["flights"], out["lodging"], out["advisories"] = (_result(f) for f in (f_fl, f_lo, f_ad))
+        out["activities"] = [a for f in f_ac for a in _result(f)]
     ctx.say("flights", f"Found {len(out['flights'])} flights")
     ctx.say("lodging", f"Found {len(out['lodging'])} places to stay")
     ctx.say("activities", f"Found {len(out['activities'])} activities")
     ctx.say("transport", "Checking how to get around")
-    legs, inter_flights = transport_step(ctx, stops, origin_geo, start, nights)
+    try:
+        legs, inter_flights = transport_step(ctx, stops, origin_geo, start, nights)
+    except BudgetExceeded:
+        legs, inter_flights = [], []
     out["ground_transport"], out["flights"] = legs, out["flights"] + inter_flights
     if not any(l["mode"] != "taxi" for l in legs) and len(stops) > 1:
         ctx.gap("ground_transport", "No intercity routes found between stops", "geoapify_routing")
