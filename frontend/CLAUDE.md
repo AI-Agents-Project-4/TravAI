@@ -43,6 +43,15 @@ src/
 pnpm lint && pnpm typecheck && pnpm test && pnpm build
 ```
 
+End-to-end tests (Playwright, `e2e/`) run the app in a browser against the in-browser mock backend, so they never call paid or live APIs. CI runs them in the `e2e` job:
+
+```bash
+pnpm exec playwright install chromium   # once
+pnpm e2e                                # or PW_CHANNEL=chrome pnpm e2e to use installed Chrome
+```
+
+They build into `.next-e2e/`, not `.next/`. Every test fails if the browser logs an error.
+
 `typecheck` runs `next typegen` first, because the route types (`PageProps`, `LayoutProps`) are generated.
 
 Vitest can't render `async` Server Components. Test those with E2E tests, or keep their logic in plain functions you can unit test.
