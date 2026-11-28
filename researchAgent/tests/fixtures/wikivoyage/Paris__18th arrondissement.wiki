@@ -1,0 +1,447 @@
+{{pagebanner|Paris 18e Wikivoyage Banner.png|pgname=18th arrondissement of Paris|caption=The hill of Montmartre as seen from the south}}
+
+The '''[http://www.mairie18.paris.fr/ 18th arrondissement]''' of [[Paris]] is probably best known for the hill of '''Montmartre''' which was the centre of the ''Communard'' uprising of the late-nineteenth century, but is also perhaps better known as the centre of the flourishing artist community of the period from around 1907-1914. Picasso, Dali, Duchamp, Toulouse-Lautrec, and others from the vibrant early modern period lived and worked here until driven out either by political considerations during the First World War or rising property values thereafter. The 18th arrondissement is also the home of a thriving ethnic community in the east and was a sort of a red-light district along ''Boulevard de Clichy'' near ''Place Pigalle''.
+
+==Get in==
+{{Mapframe|48.8922|2.3486|zoom=14|width=600|staticmap=Paris 18th arrondissement map with listings 2.png}}
+{{Mapshape}}
+Many of the hotels in the 18th arrondissement are within walking distance of ''Gare du Nord'', so if you are arriving from the UK, Belgium, or the Netherlands, consider walking or taking a taxi should you arrive at night, or with luggage.
+
+===''By Métro''===
+From other parts of [[Paris]], your best bet is to arrive by ''Métro''. The 18th is primarily served by the ''Métro'' 4 and 12 lines from the centre of town, or the 2 from the east and west.
+
+====Stations of note====
+*'''Abbesses''' The station is fairly high up the slope of the hill, and the line is fairly deep underground, so getting up and down is part of the fun either in a seven-storey spiral staircase decorated from top to bottom with murals by local amateur painters, or in one of two high-capacity modern lifts. If you have time and good knees the choice is clear.
+
+====Lines====
+*Line {{rint|paris|2}} stops at stations from west to east: '''Place de Clichy''', '''Blanche''', '''Pigalle''', '''Anvers''', and '''Barbès-Rochechouart'''.
+*Line {{rint|paris|4}} has stops at stations from south to north: '''Barbès-Rochechouart''' and  '''Chateau Rouge'''.
+*Line {{rint|paris|12}} has stop at stations from south to north: '''Pigalle''', '''Abbesses'''
+
+==See==
+===Landmarks===
+[[Image:Paris 18th sacre coeur.jpg|thumb|240px|Sacre Coeur]]
+* {{see
+| name=Sacré-Cœur | alt=La Basilique du Sacré Coeur de Montmartre | url=http://www.sacre-coeur-montmartre.com/ | email=
+| address= | lat=48.886694 | long=2.343 | directions={{station|Anvers|2}} or {{station|Abbesses|12}}, then climb the stairs on Rue Foyatier or take the funicular to the top of the hill
+| phone= | tollfree=
+| hours=Daily, 06:00-23:00 | price=
+| wikipedia=Sacré-Cœur, Paris | image=Sacre Coeur Parijs.JPG | wikidata=Q28785
+| content=This wedding cake-white church rises visibly above the north part of Paris. The striking building, with its towers and white onion dome (83 m high), was built between 1875-1914 on the birthplace of ''La Commune'', officially as an act of penitence for the sins committed during the civil war in which thousands of ''Communards'' were executed, as well as for the previous bloodshed of the 1870 Franco-Prussian war. A number of prominent businessmen put up the money, and a dizzying combination of architects worked to put together the mock Romano-Byzantine extravaganza. Consecration followed in 1919. The view over Paris from the dome and from the square before it (200 m above sea level) is unsurpassed, apart from that enjoyed at the Eiffel Tower (50 km on a clear day). For the athletic traveller there are stairs from several directions to the top of the hill; otherwise there is also a ''funicular'' which runs every few minutes during the daytime from ''Place St. Pierre''. Follow the signs that say "Funiculaire De Montmartre". Beware that the guards don't like it if they catch you taking pictures inside and will even yell "No photo!" and chase you down if they see you with a camera. Be warned: along the lower steps leading up to church, groups of mostly young African men gather and reach toward you with a small string, offering to loop it round your finger. In case it happens, pull back your hand, brush them off and move on. They might claim that "This is for the church." <br />In case your feel that things go sideways, raise your voice to get people's attention and ask them call the police.
+}}
+* {{see
+| name=Cimetière de Montmartre | alt=Montmartre Cemetery | url= | email=
+| address=rue de la Barrière Blanch | lat=48.887778 | long=2.330278 | directions=Métro Place de Clichy
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Montmartre Cemetery | image=Farina-Paris.jpg | wikidata=Q746647
+| content=There are a number of famous occupants, but the real reason to visit this cemetery is to see the ornate tombstones, sculptures, and other sometimes macabre, sometimes touching memorials Parisians have left here for their dead.
+}}
+* {{see
+| name=Artists' Square | alt= | url= | email=
+| address=place du Tertre | lat=48.886667 | long=2.340833 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Place du Tertre | image=Paris Montmartre Place du Tertre dsc07247.jpg | wikidata=Q526595
+| content=Numerous artists paint portraits of tourists and also sell their paintings.
+}}
+* {{see
+| name=Place Pigalle | alt= | url= | email=
+| address= | lat=48.882167 | long=2.337278 | directions=On the border with the [[Paris/9th arrondissement|9th]]
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Place Pigalle | image=Place pigalle.jpg | wikidata=Q602107
+| content=The sleaze of boulevard de Clichy between ''place Pigalle'' and ''place Blanche'' can provide a moment of distraction. Be warned if you are male it is better to do this in the company of a female fellow traveller, as the clubs often send the girls outside to attempt to physically drag passing men off of the street. These strip clubs are big ripoffs. They tempt you with a free drink for €10 entry; once in the girl who starts dancing orders a couple of drinks (Red Bull) and then before you realise you are presented with a bill ranging from €500-700. They have these big bouncers who threaten/manhandle you till you arrive at some settlement with them. The whole of Pigalle is a rip off, best avoided. The police know about these places but nothing is done.
+}}
+* {{see
+| name=Moulin de la Galette | alt=
+| url=
+| address=Rue Lepic 83 | lat=48.887544 | long=2.337035
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=Moulin de la Galette
+| lastedit=2020-06-26
+| content=Built in 1717, the windmill is now part of a restaurant of the same name, and is easily visible from the street.
+}}
+* {{see
+| name=Moulin Blute-Fin | alt=
+| url=
+| address=Rue Lepic | lat=48.887637 | long=2.336297
+| directions=opposite Rue Tholozé
+| phone=
+| hours= | price=
+| wikipedia=
+| lastedit=2020-06-26
+| content=The windmill is within fenced private property, and may be difficult to see from the street, especially if there are leaves on the nearby trees. It is near the more visible Moulin de la Galette.
+}}
+
+===Museums and galleries===
+* {{see
+| name=Espace Dali | alt= | url=http://www.daliparis.com/ | email=
+| address=11, rue Poulbot (place du Tertre) | lat=48.886528 | long=2.339722 | directions=Métro Anvers, Abbesses, Bus 54, 80, Montmartrobus, Funiculaire - depart from Métro Anvers
+| phone=+33 1 42 64 40 10 | tollfree= | fax=+33 1 42 64 93 17
+| hours=Sep-Jun: 10:00-18:00 daily; Jul-Aug: 10:00-20:00 daily. Guided tours 15:00 | price=Admission €11 adults, €7 seniors 60+, €6 children and students under 26, free for children under 8
+| wikipedia=Espace Dalí | image=Espace-dali-montmartre 1.jpg | wikidata=Q973216
+| content=A fantastic and undeservedly little-known collection of the great surrealist artist's often overlooked sculptural works. Those travellers seeking a more authentic experience should be warned that the majority of works here are reproductions, and that this "museum" is more appropriately considered as a for-profit, tourist-oriented homage to the artist rather than a carefully curated collection of original work. To find it, head up to Sacré Cœur and stand facing it and take a left. Keep your eye out for small Dali signs.
+}}
+* {{see
+| name=Musée de Montmartre | alt=
+| url=
+| address=12 Rue Cortot | lat=48.887720 | long=2.340672
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=Musée de Montmartre
+| lastedit=2020-06-26
+| content=The museum is located in a 17th century house with a garden, and features the history and culture of Montmartre. Several famous artists had lived in the house including Renoir.
+}}
+
+===Other===
+[[File:파리 사랑해벽.jpg|thumb|"I love you" wall]]
+* {{see
+| name="I love you" wall | alt=Le mur des je t'aime | url= | email=
+| address= | lat=48.884625 | long=2.338431 | directions=Near Sacré-Cœur
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Wall of Love | image=Le mur des je t'aime, Paris 26 August 2013.jpg | wikidata=Q10860702
+| lastedit=2016-11-28
+| content=Wall with the words for "I love you" written in many languages.
+}}
+
+* {{see
+| name=Abbesses métro station | alt= | url= | email=
+| address=Place des Abbesses | lat=48.884415 | long=2.338636 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Abbesses (Paris Métro)
+| lastedit=2020-06-26
+| content=The station's beautiful entrance (circa 1900) is one of only two remaining glass-covered "dragonfly" entrances designed by Hector Guimard (1867–1942). It was featured in the film ''Le Fabuleux destin d'Amélie Poulain''. While the entrance is genuine, this is not an authentic location for it, as the station was originally constructed by an independent Metro company that did not use Guimard's entrances.
+}}
+* {{see
+| name=Villa Léandre | alt=
+| url=
+| address= | lat=48.888406 | long=2.335108
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=
+| lastedit=2020-06-26
+| content=Villa Léandre is a short residential street where the houses have small front gardens giving the street an English look.
+}}
+* {{see
+| name=Vigne du Clos Montmartre | alt=
+| url=https://www.comitedesfetesdemontmartre.com/
+| address= | lat=48.888215 | long=2.339882
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=
+| lastedit=2020-06-26
+| content=Montmartre has a small vineyard which can be seen through a chain-linked fence. One of its products (''vin Clos Montmartre'') can be purchased at the nearby Musée de Montmartre.
+}}
+* {{see
+| name=Buste de Dalida | alt=
+| url=
+| address=Place Dalida | lat=48.888533 | long=2.338066
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=Dalida
+| lastedit=2020-06-26
+| content=Dalida was a chanteuse and actrice who sold 170 million albums and singles worldwide. The bust faces the attractive Rue de l'Abreuvoir. The breast area of her bronze bust has a bleached colour possibly due attention given by overly enthusiastic admirers.
+}}
+* {{see
+| name=Le Passe-Muraille | alt= | url=http://www.montmartre-guide.com/histoires_montmartre/passe-muraille/ | email=
+| address=Place Marcel Aymé | lat=48.887575 | long=2.338074 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2020-06-26
+| content=The sculpture of a man walking through a store wall like a ghost was inspired by a novel by Marcel Aymé about a civil servant who takes revenge on people who humiliated him after he discovered he could pass through walls.
+}}
+
+==Do==
+* {{do
+| name=Le Moulin Rouge | alt= | url=http://www.moulinrouge.fr | email=
+| address=place Blanche | lat=48.884167 | long=2.332222 | directions=Métro Blanche
+| phone= | tollfree= | fax=
+| hours= | price=It's not cheap: the 21:00 show costs €95 and the 23:00 show costs €89
+| wikipedia=Moulin Rouge | image=Moulin rouge.jpg | wikidata=Q151030
+| content=With two shows a night, this turn-of-the-20th century burlesque palace offers a big production choreographed dance show interspersed with comedians, jugglers, and magicians. The show is more than bilingual, actually playing up the U.S. 4th infantry's involvement in the ''libération'' for the sake of the large number of Americans in the audience. If you want to spend more you can have dinner there. Is the ''Moulin Rouge'' a tourist trap? Well... it was meant to be one in the first place, so the experience is genuine.
+}}
+*{{do
+| name=Cooking with Class | alt=13 | url=http://www.cooknwithclass.com | email=
+| address=21, rue Custine | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Hands on French cooking classes in a relaxed atmosphere with an experienced French chef. 4 hours of fun, including market visit, cheese and wine tasting, 5 minutes from the Sacre Coeur in the heart of Montmartre.}}
+*{{do
+| name=Môm'artre | alt= | url=http://www.momartre.com/ | email=
+| address=44, rue Joseph de Maistre | lat= | long= | directions=
+| phone=+33 1 42 28 82 27 | tollfree= | fax=
+| hours= | price=
+| content=An arts centre intended primarily for kids (''Môme'' means kid) the Môm'artre features workshops for kids and adults, hosted by neighborhood artists.}}
+
+==Buy==
+* {{buy
+| name=Marché aux Puces de St-Ouen | alt=Clignancourt Flea Market | url=https://www.pucesdeparissaintouen.com/ | email=
+| address=Porte de Clignancourt | lat=48.90301 | long=2.33841 | directions=Métro Porte de Clignancourt
+| phone= | tollfree=
+| hours=09:30-18:00 Sat, Sun, Mon | price=
+| content=Widely-acclaimed as the largest flea market in all of [[Europe]], in existence since 1885, this sprawling bazaar is made up of both permanent stalls and temporary stands (over 2,000 of them), arranged in winding, sometimes chaotic arcades, over 15 km of walkways, and over 10 differently-themed sub-markets. Everything from fine antiques through to collectible kitsch and bric-a-brac. Big on retro fashion also. Very popular with tourists, making it more difficult here to find a real bargain, but it is always worth looking. Convenient, competitive shipping is available at the market to send your precious finds back home all over the world. Be prepared to bargain!
+}}
+*{{buy | name=Ouistitipop | url=http://www.ouistitipop.fr/ | email= | address=19 rue Ramey | lat= | long= | directions=Métro Chateau Rouge | phone=+33 1 42 58 03 54 | tollfree= | fax= | hours=Tue-Sat 10:00-18:00 | price= | content=New and used kids' clothing, toys, strollers and furniture. They take consignments too.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Thibault van der Straete | url= | email=
+| address=30, rue Durantin | lat=48.8865646 | long=2.3357724 | directions=
+| phone = +33 1 42 54 83 32 | tollfree= | fax=
+| hours= | price=
+| content=Clothing boutique featuring designs made of the rare and luxurious alpaca wool. His soft and sumptuous men's and women's designs are a favourite of those enchanted by ethno-chic.}}
+* {{buy
+| name=Spree | url= | email=
+| address=16, rue La Vieuville, 18th | lat= 48.8846254 | long=2.3400366 | directions=
+| phone = +33 1 42 23 41 40 | tollfree= | fax=
+| hours= | price=
+| content=Hip and trendy bazaar that features designs and clothes from all around the world. Its large space also hold artist exhibitions.}}
+* {{buy
+| name=Au Marché de la Butte | alt=Maison Collignon
+| url=
+| address=56 Rue des Trois Frères | lat=48.885696 | long=2.338405
+| directions=
+| phone=
+| hours= | price=
+| wikipedia=
+| lastedit=2020-06-26
+| content=The grocery store featured in the film ''Le Fabuleux destin d'Amélie Poulain'' still functions as such but also displays memorabilia from the film in its windows, and sells some as souvenirs.
+}}
+
+==Eat==
+[[Image:Paris 18th rue utrillo.jpg|thumb|240px|Be ready for some climbing in the 18th]]
+
+===Budget===
+*{{eat | name=Nawab | alt= | url=https://www.restaurantnawab.com | email=nawab75018@outlook.fr | address=174, rue Ordener | lat= | long= | directions=Métro: Guy Môquet | phone=+33 1-46-27-85-28 | tollfree= | fax= | hours=Daily, 12ː00-14ː00 & 19ː00-23ː00 | price=€15 | content=This Indian and Pakistani restaurant is usually packed especially for lunch so be sure to call ahead and reserve a table. One of the reasons is that if you ask them to spice it up "like in Pakistan" they actually will.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Le Surcouf | url= | email=
+| address=36, Avenue de Saint Ouen | lat= | long= | directions=Metro: La Fourche
+| phone=+33 1-46-27-11-85 | tollfree= | fax=
+| hours= | price=€10
+| content=Very ordinary non-touristy cafe run by family from the Maghreb. "French" food is pricey for what you get, but the couscous dishes are huge, cheap and delicious with a home-cooked feel to them. There's a dog hanging around the bar, very friendly beast, but avoid if allergic or easily scared.}}
+* {{eat
+| name=La Travesia | alt= | url=https://www.facebook.com/la.travesia.paris | email=
+| address=19 rue muller | lat= | long= | directions=
+| phone=+33 9 81 21 73 11 | tollfree=
+| hours= | price=EUR€ 20
+| lastedit=2024-09-16
+| content=Inexpensive but excellent Lebanese food. Vegetarian friendly. Just down the steps from the Sacre Coeur.
+}}
+
+===Mid-range===
+* {{eat
+| name=Au Grain de Folie | url= | email=
+| address=24, rue de la Vieuville | lat= | long= | directions=
+| phone=+33 1 42 58 15 57 | tollfree= | fax=
+| hours= | price=
+| content=A one-woman operation with some mixed reviews, but apparently when she gets it right it's just about the best dining experience you'll ever have. Booking a day ahead is suggested.}}
+* {{eat
+| name=Le Buffet | alt= | url= | email=
+| address=18, rue des Trois Freres | lat= | long= | directions=
+| phone= | tollfree=
+| hours=unpredictable | price=
+| content=Tasty, homey French food in a family-run restaurant. Lunch menu is around €12 (can be had until 20ː00).
+}}
+* {{eat
+| name=Cafe des Deux Moulins | url= | email=
+| address=15, rue Lepic | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A popular destination for those who love the film ''Le fabuleaux destin d'Amelie Poulain'', yet some locals still come here. Interior preserves the movie set. Great for lunch.}}
+* {{eat
+| name=La Petaudiere | url= | email=
+| address=rue Poulbot | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Piano bar. Tasty food, nice ambience, and excellent good piano music (prepare some coins for the pianist).}}
+*{{drink
+| name=Le Refuge des Fondues | alt= | url= | email=
+| address=17, rue des Trois Frères | lat= | long= | directions=
+| phone=+33 1 42 55 22 65 | tollfree=
+| hours= | price=
+| content=Fondue restaurant for young people: menu for €17, including wine served in a baby bottle, appetizers, the fondue itself (cheese or meat), and dessert.
+}}
+* {{eat
+| name=La Taverne de Montmartre | alt= | url= | email=
+| address=25, rue Gabrielle | lat= | long= | directions=
+| phone=+33 1 46 06 88 48 | tollfree= | fax=
+| hours= | price=
+| content=Small restaurant with a nice rustic decoration, just below the artist's square, place du Tertre. Relaxing place, not overloaded with tourists. Excellent fondue offered for €17 per person (Oct 2008), including a salami salad for starters.
+}}
+*{{eat|name=Markotte|alt=|url=https://markotte.com/|email=|address=|lat=48.9032250|long=2.3364614|directions=At the St Ouen Flea market|phone=+33 659373746|tollfree=|fax=|hours=|price=€10|lastedit=2018-11-21|content=Organic sandwiches, salads and soups}}
+
+===Splurge===
+
+* {{eat
+| name=Le Basilic | alt= | url=http://www.lebasilic.fr | email=
+| address=33, rue Lepic | lat= | long= | directions=
+| phone=+33 1 46 06 78 43 | tollfree= | fax=+33 1 46 06 39 26
+| hours= | price=Starters €7-11, main courses €15-26
+| content=Very nice atmosphere and service. Great food, and good selection of wines.
+}}
+
+==Drink==
+* {{drink
+| name=Au Progres | alt= | url= | email=
+| address=7, rue des Trois-Frères | lat=48.883854 | long=2.341439 | directions=Metro 12 Abbesses
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Small bar in an old place.
+}}
+*{{drink
+| name=La Boule Noire | alt= | url=http://www.laboule-noire.fr/en/ | email=
+| address=120, boul Rochechouart | lat= | long= | directions=Métro: Pigaille
+| phone=+33 1 49 25 81 75 | tollfree= | fax=
+| hours= | price=
+| content=A small venue which is decorated to resemble a 1920s speakeasy, which has hosted a range of musicians from local singers to major arena acts.
+}}
+*{{drink | name=Le Divan du Monde | url=http://www.divandumonde.com | email= | address=75, rue des Martyrs | lat= | long= | directions=Métro: Pigalle | phone=+33 1 42 52 02 46 | tollfree= | fax= | hours= | price= | content=A fairly major venue for indi-rock, hip-hop, and other concerts. The prices are usually pretty good and the size of the venue and decor are great.}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{drink
+| name=Olympic Café | url=http://www.rueleon.net/ | email=
+| address=20, rue Léon | lat= | long= | directions=Métro: Chateau Rouge
+| phone=+33 1 42 52 42 63 | tollfree= | fax=
+| hours= | price=
+| content=Run as part of the ''Laboratoire Multi-culturel populaire'' the Olympic Café is one of the few places in Paris where you can reliably find avant-garde jazz, making it at least spiritually a descendant of the club where the Art Ensemble of Chicago were resident for 5 years or so in the early 1970s. In addition to jazz they book music from around the world, especially Africa and the Caribbean.}}
+* {{drink
+| name=Truc Café | url= | email=
+| address=58, rue de Poteau | lat= | long= | directions=
+| phone = +33 101 42 52 64 09 | tollfree= | fax=
+| hours= | price=
+| content= A classic French wine bistro filled with young trendy singles.}}
+
+==Sleep==
+
+
+===Budget===
+* {{sleep
+| name=Auberge de jeunesse Hi Paris Yves Robert | alt= | url=https://www.hihostels.com/hostels/auberge-de-jeunesse-hi-paris-yves-robert/ | email=paris.yves-robert@hifrance.org
+| address=20 Esplanade Nathalie Sarraute | lat=48.88865 | long=2.36291 | directions=
+| phone=+33 1 40 38 87 90 | tollfree=
+| checkin= | checkout=10AM | price=from €22 in shared room
+| lastedit=2022-11-15
+| content=IYHA youth hostel close to Gare du Nord & Gare de l’Est.
+}}
+* {{sleep
+| name=Hôtel Bonséjour | url=https://www.hotel-bonsejour.com | email=
+| address=11, rue Burq | lat= | long= | directions=Metro Abbesses or Blanche
+| phone=+33 1 42 54 22 53 | tollfree= | fax=
+| hours= | price=Singles with no shower start at €33, or €66 with a shower. The shared shower downstairs costs €2
+| checkin= | checkout=12ː00
+| content=The hands-down winner in value for price at the low-end, the Bonséjour offers 34 Spartan, but immaculately clean rooms on 5 floors. Internet terminals and Wi-Fi available.}}
+*{{sleep
+| name=Plug-Inn Hostel | url=http://www.plug-inn.fr | email=
+| address=7, rue Aristide Bruant | lat= | long= | directions=Métro Blanche
+| phone=+33 1 42 58 42 58 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=A small and inexpensive, but clean and well-located hostel. Free Wi-Fi, but the signal is weak in the rooms. Free breakfast.}}
+* {{sleep
+| name=Hotel Sofia | alt= | url=http://sofia.parishotelsfr.com | email=info@hsofia.com
+| address=21, rue de Sofia | lat= | long= | directions=Metro Barbès-Rochechouart
+| phone=+33 1 42 64 55 37 | tollfree= | fax=+33 1 46 06 33 30
+| checkin=14:00 | checkout=11:00 | price=Singles start at €50, plus €3 if you want to watch TV, but you're in Paris, so why would you do that? Breakfast is €7
+| content=The rooms are simple, but look comfortable enough, and the street seems to be a quiet one for Montmartre. As a little bonus, all of the rooms have a shower. Free Wi-Fi.}}
+
+===Mid-range===
+*{{sleep
+| name=Adagio Paris Montmartre | url=http://www.adagio-city.com/ | email=
+| address=Place du Théatre de l’Atelier | lat= | long= | directions=
+| phone=+33 1 58 21 55 84 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This "Aparthotel" opens out onto a peaceful interior garden.}}
+* {{sleep
+| name=Hotel des Arts | alt= | url= | email=
+| address=5, rue Tholozé | lat= | long= | directions=Métro: Blanche
+| phone=+33 1 46 06 30 52 | tollfree= | fax=
+| checkin= | checkout= | price=Singles start at €75
+| content=Consistently getting the highest possible reviews in its price-range, this well-located hotel was entirely renovated since 2000. The rooms upstairs are said to have fantastic views, but at least one reviewer online warns of being bumped because of over-booking.
+}}
+*{{sleep
+| name=Le Chat Noir | url= | email=
+| address=68, boul de Clichy | lat= | long= | directions=
+| phone=+15 0 43 81 00 45 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This former cabaret and now boutique hotel combines the bohemian spirit of Montmartre with a modern and cool aesthetic.}}
+* {{sleep
+| name=Hotel Damremont | alt= | url=http://damremont.parishotelsfr.com | email=
+| address=110, rue Damremont | lat= | long= | directions=
+| phone=+33 1 42 64 25 75 | tollfree= | fax=
+| checkin= | checkout= | price=From €89
+| content=Close to Butte Montmartre in a quiet residential quarter.
+}}
+* {{sleep
+| name=Hotel Eden Montmartre | alt= | url=https://www.edenhotel-montmartre.com | email=
+| address=90, rue Ordener | lat= | long= | directions=Métro: Jules Joffrin
+| phone=+33 1 42 64 61 63 | tollfree=
+| checkin= | checkout= | price=Singles start at €85
+| content=A basic, but nice two-star, the Eden is on the far side of the hill of Montmartre from the city, and that can be a good thing if you are looking for a more authentic view of Parisian life.
+}}
+* {{sleep | name=Ibis Montmartre | alt= | url=https://all.accor.com/hotel/0697/index.en.shtml | email= | address=1, rue Caulaincourt | lat= | long= | directions=Métro: Place de Clichy | phone=+33 1 55 30 18 18 | tollfree= | checkin= | checkout= | price=€72 for a single | content=The rooms are a little small, but this offering of the Ibis chain is up to the usual high standard of cleanliness and service. Of course if you need a toothbrush you can find it in the vending machine downstairs. Reception is staffed around the clock for late arrivals.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Timhotel Montmartre | url=http://ibis-paris-montmartre.parishotelsfr.com | email=
+| address=11, rue Ravignan | lat= | long= | directions=Metro: Abesses
+| phone=+33 1 42 55 74 79 | tollfree= | fax=
+| hours= | price=Singles start at €130
+| checkin= | checkout=
+| content=This cute, very well kept two-star is closer to a three-star in quality and price, it's just that the rooms are on the small side. Some of the rooms in the upper floors have fantastic views of the city.}}
+
+===Splurge===
+[[Image:Montmartre 2007.jpg|thumb|A typical backstreet: Rue de l'Abreuvoir]]
+
+* {{sleep
+| name=Kube Hotel | alt= | url=https://www.kubehotel-paris.com | email=
+| address=1-5 Passage Ruelle | lat=48.8864905440121 | long=2.3588204383850097 | directions=
+| phone=+33 1 42 05 2000 | tollfree= | fax=
+| checkin= | checkout= | price=€190-2,500
+| content=Stylish and atmospheric, the Kube Hotel exudes a high tech and luxurious decor. All the rooms come equipped with individual air conditioning, digital door opening, multi-function computer (DVD, CD, TV screen), cable TV, ADSL Internet, strongbox, mini bar, and fully equipped bathroom. As its name might suggest, the rooms feature some sort of cubism design and even the bedside tables look like ice cubes. Go out at night in your very own hotel, with a DJ spinning in the bar nightly, as well as being Paris's first-ever ice bar.
+}}
+* {{sleep
+| name=Terrass Hotel | url=https://www.terrass-hotel.com | email=TerrassILA@ila-chateau.com
+| address=12, rue Joseph-de-Maistre | lat=48.88661 | long=2.33284 | directions=Metro: Place de Clichy
+| phone =+33 1 46 06 72 85 | tollfree= | fax=+33 1 44 92 34 30
+| hours= | price=€280-410
+| checkin= | checkout=
+| content=Excellent four star hotel in Montmartre with 98 rooms, en suite baths, air conditioning, Wi-Fi, good restaurant, business facilities. The rooftop restaurant with fantastic views of Paris is open May-Sep.}}
+
+==Connect==
+
+<br clear="right">
+==Go next==
+{{routebox
+| image1=Paris Metro 2.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Paris/16th arrondissement|16th arrondissement]]
+| minorl1=[[Paris/17th arrondissement|17th arrondissement]]
+| directionr1=E
+| majorr1=[[Paris/11th arrondissement|11th arrondissement]]
+| minorr1=[[Paris/19th arrondissement|19th arrondissement]]
+
+| image2=Paris m 4 jms.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=END
+| minorl2=
+| directionr2=S
+| majorr2=[[Paris/1st arrondissement|1st arrondissement]]
+| minorr2=[[Paris/10th arrondissement|10th arrondissement]]
+}}
+
+{{guidedistrict}}
+{{IsPartOf|Paris}}
+{{geo|48.8923|2.3490|zoom=14}}
+
+{{RelatedWikipedia|Montmartre|rel=y}}
+
+{{Mapmask |48.8875,2.3256 |48.9010,2.3301 |48.9010,2.3302 |48.9019,2.3701 |48.9019,2.3703 |48.8969,2.3704 |48.8966,2.3704 |48.8954,2.3718 |48.8954,2.3718 |48.8945,2.3704 |48.8942,2.3701 |48.8867,2.3668 |48.8866,2.3667 |48.8855,2.3658 |48.8844,2.3647 |48.8844,2.3593 |48.8844,2.3591 |48.8838,2.3500 |48.8837,2.3495 |48.8824,2.3419 |48.8820,2.3398 |48.8823,2.3378 |48.8824,2.3373 |48.8839,2.3324 |48.8846,2.3294 |48.8836,2.3278 |48.8835,2.3274 |48.8875,2.3256}}

@@ -1,0 +1,437 @@
+{{pagebanner|Del Valle Mexico City Banner.jpg|caption=Exterior detail of the Polyforum Cultural Siqueiros|pgname=Del Valle and Narvarte}}
+Avenida Insurgentes runs south of the central downtown areas cutting through two large, mostly residential neighborhoods: '''Colonia del Valle''' and '''Narvarte'''. '''Del Valle''' is a wealthy and inviting neighborhood in [[Mexico City]] with upscale shopping and restaurants. '''Narvarte''' is more middle-class and has developed a number of immigrant neighborhoods where the sounds and flavors of the old country can be experienced in sidewalk cafes and restaurants. These neighborhoods are located in the south central area of the city. Another upscale neighborhood, '''Colonia Napoles''', is just west of Colonia del Valle. The development of this area started in the early 20th century, and also includes various European enclaves, mainly Spanish and German. All of the neighborhoods south of downtown but north of Coyoacan are quiet, mostly residential neighborhoods. It is a good area for nomadic ex-pats looking to rent an apartment for a few months as they work their remote gigs.
+
+==Get in==
+{{Mapframe|19.3839|-99.1705|zoom=14|height=540|width=470}}
+{{mapshapes|Q735042}}
+Neighborhoods south of downtown are extremely well connected by public transit services. Two Metro lines pass through Del Valle and Narvarte with Metrobus and Trolleybus lines along busy avenues. These neighborhoods are close enough to downtown and other popular parts of the city that Uber or taxi rates are very affordable and there are rarely times when a rideshare app fails to immediately connect you with a driver.
+
+===By metro===
+Line 3 (green) Stations: {{marker|type=go|name=Etiopia|lat=19.3950|long=-99.1561}}, {{marker|type=go|name=Eugenia|lat=19.3861|long=-99.1571}}, {{marker|type=go|name=Division del Norte|lat=19.3797|long=-99.1590}}, {{marker|type=go|name=Zapata|lat=19.3707|long=-99.1648}}, and {{marker|type=go|name=Coyoacán|lat=19.3616|long=-99.1708}}.
+
+Line 12 (gold) Stations: {{marker|type=go|name=Mixcoac|lat=19.3761|long=-99.1879}}, {{marker|type=go|name=Hospital 20 de Noviembre|lat=19.3718|long=-99.1713}}, '''Zapata''' (connect to Line 3), and {{marker|type=go|name=Parque de los Venados|lat=19.3705|long=-99.1587}}.
+
+===By bus===
+Many Metrobus stations stops in the del Valle area along Insurgentes, beginning with {{marker|type=go|name=La Piedád|lat=19.39798|long=-99.17111}}, {{marker|type=go|name=Polyforum|lat=19.3933|long=-99.1726}}, {{marker|type=go|name=Nápoles|lat=19.38971|long=-99.17379}}, {{marker|type=go|name=Colonia Del Valle|lat=19.38567|long=-99.17509}}, {{marker|type=go|name=Ciudad de los Deportes|lat=19.38240|long=-99.17613}}, {{marker|type=go|name=Parque Hundido|lat=19.38240|long=-99.17613}}, {{marker|type=go|name=Félix Cuevas|lat=19.37427|long=-99.17878}}, and {{marker|type=go|name=Río Churubusco|lat=19.36875|long=-99.18057}}.
+
+Trolleybus line 1 passes through this section of the city on Eje Lazaro Cardenas with terminal stops at two of the city's biggest bus stations, Autobuses del Norte and Autobuses del Sur (Taxquena).
+
+==See==
+[[File:PolyforumSiqueiros06.jpg|thumb|Polyforum Cultural Siqueiros]]
+[[File:San Lorenzo Xochimanca.jpg|thumb|Capilla San Lorenzo Martír]]
+[[File:Murales en el Centro SCOP - panoramio.jpg|thumb|Murals on the Centro SCOP in Narvarte]]
+* {{see
+| name=Polyforum Cultural Siqueiros | alt=Poliforo Cultural Siqueiros | url=http://www.polyforumsiqueiros.com/ | email=
+| address=Insurgentes Sur 701 | lat=19.39336 | long=-99.17342 | directions=World Trade Center Mexico City
+| phone=+52 55 5536 4520 | tollfree=
+| hours=Daily 09:00-18:00; sound and light show: Sat Sun 11:30 12:45 17:00 | price=M$15 (general admission); M$50 (sound and light show)
+| wikipedia=Polyforum Cultural Siqueiros | image=PolyforumSiqueiros06.jpg | wikidata=Q2265075
+| content=This auditorium, housed in an eye-catching 12-sided building, houses the world's largest mural, ''La Marcha de la Humanidad'' (''The March of Humanity''), painted by the Mexican muralist David Alfaro Siqueiros in the 1960s. The outside of the building is also covered with enormous murals, as is a wall partly encircling the building. During the week, the murals inside are dimly lit, but on weekends, visitors can attend a sound and light show, with a recording by Siqueiros describing his vision
+}}
+* {{see
+| name=Capilla San Lorenzo Martír | alt=San Lorenzo Xochimanca | url= | email=
+| address=Parque San Lorenzo | lat=19.37647 | long=-99.1769 | directions=one block E of Av Insurgentes Sur
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=San Lorenzo Xochimanca | image=San Lorenzo Xochimanca.jpg | wikidata=Q17279079
+| content=One of the oldest churches in Mexico City, this was built in the 16th century of brick and volcanic stone and is now a national monument.
+}}
+* {{see
+| name=Parroquia del Señor del Buen Despacho | alt= | url= | email=
+| address=Adolfo Prieto s/n, Parque Tlacoquemécatl | lat=19.37838 | long=-99.17126 | directions=Tlacoquemécatl
+| phone= | tollfree=
+| hours= | price=
+| image=Parroquia Señor del Buen Despacho, frente.jpg
+| lastedit=2024-03-08
+| content=It was built in the 17th century, and was extensively rebuilt in 1959 in a modernized colonial style using 20th century materials and techniques including concrete covered in stucco with inset blue bricks and a starkly elegant interior of plain wood.
+}}
+* {{see
+| name=Templo del Purísimo Corazón de María | alt=Inmaculado Corazon de Maria Reina de la Paz / Temple of the Immaculate Heart of Mary | url= | email=
+| address=Eje 2 Pte Gabriel Mancera 415 | lat=19.39104 | long=-99.16328 | directions=
+| phone= | tollfree= | fax=
+| hours=Sundays | price=
+| image=
+| content=The church at which parts of the Baz Luhrmann's Movie Romeo + Juliet (1996) were shot. Locals tauntingly call it the car driver's church because of its concrete exterior.
+}}
+* {{see
+| name=Ruinas en Mixcoac | alt=Mixcoac Archaeological Site | url= | email=
+| address=Calle Pirámide | lat=19.38622 | long=-99.18986 | directions=by the junction of San Antonio and Anillo Periférico
+| phone= | tollfree= | fax=
+| hours=Anytime | price=Free
+| image=Ruinas en Mixcoac.jpg | wikidata=Q6171621
+| content=These temple foundations are one of the sole surviving pre-Hispanic ruins from the Nahua settlement of Mixcoac. The site was inhabited from ca. 900 BCE until the Spanish conquest, and the temple was rebuilt by the Aztecs shortly before the Spanish arrival. The site is not generally open to the public, but can be viewed from the street, with the best vantage point from the elevated sidewalk along Anillo Periférico.
+}}
+* {{see | name=Museo del Metro | alt=Metro Museum | url=https://www.metro.cdmx.gob.mx/museo-del-metro | email= | address=851-859 Av. Revolución, Mixcoac | lat=19.376615 | long=-99.186356 | directions=Metro to Mixcoac station (Line 7 or Line 12) | phone= | tollfree= | hours=Tue-Fri 10:00 - 18:00, Sat-Sun 11:00 - 14:00, closed Mon | price=Free with your Metro ticket | content=Attractive, fun, fascinating museum about the history and technology of the city's Metro system with exhibits chronicling how the subway has molded Chilango culture and identity.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Centro SCOP | alt= | url= | email=
+| address=Eje Central Lazaro Cardenas y Xola, Narvarte | lat=19.395382 | long=-99.146749 | directions=Trolleybus Line 1 to Centro SCOP
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-09-10
+| content=A new headquarters for the Department of Communications and Transportation (SCOP) was built in the early 1950s and is famous for being covered in spectacular mosaic [[Mexican muralism|murals]] by John O'Gorman and several other well-known muralists. The murals are constructed of small pebbles that were sent in by school children throughout Mexico. The murals are similar to those O'Gorman creted at the [[Mexico City/Coyoacan#University_City|UNAM campus]] and are some of the city's largest and most visually stunning murals. During the 1985 earthquake, the building was heavily damaged but repaired. Another earthuake struck in 2017 causing severe structural damage that rendered the building unsafe. Since 2017, the government has been removing parts of the murals preparing the site for demolition, but several of the largest murals remain and can be seen from nearby streets (though the building itself is condemned).
+}}
+
+==Do==
+[[File:AbovePlazaTorosDF.JPG|thumb|Plaza de Toros]]
+* {{do
+| name=Parque Hundido | alt= | url= | email=
+| address=Av Insurgentes Sur between Porfirio Diaz and Millet | lat=19.37798 | long=-99.17821 | directions=Metrobus to Parque Hundido or Metro to Mixcoac
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Parque Hundido | image=ParqueHundidoDF01.JPG | wikidata=Q3438112
+| lastedit=2024-03-08
+| content=Large urban greenspace that is popular with families on weekends. The park features about 50 reproductions of pre-Hispanic [[Sculptures|sculptures]] including a large Olmec head.
+}}
+* {{do
+| name=Parque Mariscal Sucre | alt= | url= | email=
+| address=Av. Division del Norte | lat=19.39095 | long=-99.16465 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-08
+| content=Historic park set in a complex traffic roundabout (glorieta) that was closed to traffic. Shaded walkways under towering mature hardwood trees. The center of the park is the ''Kiosko Mariscal Sucre'', also known as the ''French Kiosk'', which isn't just a kiosk, but also a fountain with [[Sculptures|sculptures]] of lions resting on pedestals in a pool. There are nearby restaurants and pubs.
+}}
+* {{do
+| name=Plaza de Toros | alt=Plaza México | url=http://www.lamexico.com/ | email=
+| address=Calle Auguston Rodín 241 | lat=19.38303 | long=-99.1801 | directions=
+| phone= | tollfree=
+| hours= | price=M$70-M$200
+| wikipedia=Plaza de Toros México | image=EntrancePlazaTorosDF.JPG | wikidata=Q2525012
+| lastedit=2024-03-11
+| content=The largest bullring in the world is hosting [[Bullfighting|bullfights]] again as of 2024. The spring season runs from January to March. New for 2024 are events for female matadors to demonstrate their skills (and yes, some of them do have pink capes).
+}}
+* {{do | name=Estadio Ciudad de los Deportivos | alt=Estadio Azul | url=https://cfcruzazul.com/ | email= | address=Calle Indiana 255 | lat=19.38343 | long=-99.17823 | directions=Metrobus to Ciudad de los Deportivos or Metro line 7 to San Antonio | phone= | tollfree= | hours= | price= | wikipedia=Estadio Azul | image=Cruzazul-vsherediano.jpg | wikidata=Q1369097 | lastedit=2024-03-08 | content=Home of top tier (Liga MX) professional Mexican football (soccer) team, Cruz Azul. There is no parking available at the stadium.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{do
+| name=Parque de los  Venados | alt=Parque Pancho Villa | url= | email=
+| address=Av. Division del Norte | lat=19.372962 | long=-99.156033 | directions=Metro line 12 to Parque de los Venados
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-08
+| content=Large neighborhood park with playgrounds, walking paths, and a dog area. Home to a famous [[Sculptures|sculpture]] of deer (giving the park its name).
+}}
+
+==Buy==
+===Markets and Tianguis===
+In addition to the popular Sunday Tianguis, there are smaller tianguis in various neighborhoods of Del Valle and Narvarte, particularly on Tuesdays and Fridays.
+
+* {{buy
+| name=Mi Mercado 24 de Agosto
+| address=Anaxágoras, Narvarte Poniente | lat=19.390580227902486 | long=-99.15765986250277
+| hours=Daily 08:00 - 18:00
+| content=Large traditional marketplace with extensive selections of produce, meats and seafood. A huge number of fonditas cook regional dishes and some of the tastiest food in Mexico City can be found here at very low prices. A budget traveler can find a delicious lunch for as little as M$40. The market is known for having a large flower market. Another large section is devoted to non-food items and services, including hair stylists and locksmiths. On the streets adjacent to the market are similar businesses, such as bakeries and tortillerias. 
+}}
+* {{buy
+| name=Del Valle Sunday Tianguis
+| address=Casa del Obrera Mundial between Monterrey and Amores | lat=19.402333681188736 | long=-99.15999466246043
+| hours=Sun 08:00 - 14:00
+| content=Popular street market stretches for about 4 blocks along a large avenue. Flower vendors are regularly here as are various cooks preparing regional dishes such as barbacoa and quesadillas made from scratch (handmade tortillas).
+}}
+
+===Specialty shops===
+* {{buy
+| name=FONART
+| url=https://tienda.fonart.gob.mx/
+| address=Av. Patriotismo 691, Mixcoac
+| lat=19.38013954218686
+| long=-99.18491944711923
+| phone=+52 55 5093 6000
+| hours=Mon-Fri 11:00 - 19:00, Sat-Sun 11:00 - 17:00
+| content=Government-operated store that is part of the Ministry of Culture. FONART promotes traditional craftsmen creating [[Mexican artesanias]] that preserve historical and cultural traditions. Every item in the stores is certified authentic (no Chinese plastic junk here!) FONART pays craftsmen a fair, sustainable price so don't expect bargains. The store is a gallery of some of Mexico's most outstanding works of folk art.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Shopping centers===
+[[File:Torre wtc mexico.jpg|thumb|World Trade Center Mexico City]]
+* {{buy
+| name=Plaza Universidad | alt= | url= | email=
+| address=Santa Cruz Atoyac | lat=19.36700 | long=-99.16593 | directions=corner of Parroquia
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Plaza Parque Delta | alt= | url=http://www.parquedelta.com.mx/ | email=
+| address=Av Cuauhtémoc 462 | lat=19.40293 | long=-99.15431 | directions=corner of Viaducto
+| phone=+52 55 5440 2111 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Galerías Insurgentes | alt=Centro Comercial Galerías Insurgentes | url= | email=
+| address=Parroquia 194 | lat=19.37110 | long=-99.17881 | directions=
+| phone=+52 55 5545 1000 | tollfree= | fax=
+| hours= | price=
+| content=A modern shopping mall with a number of international chain stores.
+}}
+* {{buy
+| name=Pabellon del Valle | alt= | url= | email=
+| address=Av Universidad 740 | lat=19.37348 | long=-99.16221 | directions=corner of San Lorenzo
+| phone=+52 55 2282 6642 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Plaza Centro Coyoacan | alt= | url=https://centrocoyoacan.mx/ | email=
+| address=Av Universidad 2000 | lat=19.36021 | long=-99.17011 | directions=corner of Universidad and Av Coyoacan
+| phone=+52 55 5605 6846 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=World Trade Center Mexico City | alt= | url=http://www.wtcmexico.mx/ | email=
+| address=Montecito 38 | lat=19.39367 | long=-99.17461 | directions=
+| phone=+52 55 9000 6000 | tollfree= | fax=
+| hours= | price=
+| wikipedia=World Trade Center Mexico City | image=Torre wtc mexico.jpg | wikidata=Q2712478
+| content=Built in a futuristic and elegant style that marked the era of modernism. The building complex includes a shopping center and a number of restaurants.
+}}
+
+==Eat==
+There are many good restaurants in Del Valle and Narvarte including a number of ethnic restaurants including some Lebanese and Japanese restaurants. The area is ideal for budget travelers who can explore the myriad small taquerias and street food vendors selling tacos and tortas. 
+
+===Budget===
+* {{eat
+| name=Café Punta del Cielo | alt= | url= | email=
+| address=Avda Cuauhtémoc 462 | lat=19.40342 | long=-99.15487 | directions=
+| phone=+52 55 5636 1129 | tollfree= | fax=
+| hours= | price=
+| content=A branch of a Mexican chain of coffee shops.
+}}
+*{{eat
+| name=Cafe Amano | alt= | url=http://chaenmexico.wixsite.com/chaen | email=chaentejapones@gmail.com
+| address=Prolongación Eugenia 23 | lat=19.38915 | long=-99.17543 | directions=near the Nápoles station on the Metrobús
+| phone=+52 4152-1817 | tollfree= | fax=
+| hours=Mon-Fri 13:30-24:00, Sat 13:00-17:00 | price=
+|lastedit=2023-05-08| content=Inexpensive, home-style Japanese food. This is a restaurant attached to a Buddhist temple.
+}}
+* {{eat
+| name=Tacos Los Condes | alt= | url=https://www.loscondes.mx/ | email=
+| address=Pedro Romero de Terreros 14, Col. Del Valle | lat=19.396262 | long=-99.170991 | directions=Metro to Etiopia or Metrobus to La Piedad
+| phone=+52 55 8661 0506 | tollfree=
+| hours=Mon-Wed 09:00 - 12:00, Thu-Sat 09:00 - 01::00 | price=
+| lastedit=2024-03-08
+| content=Bright, cheery taqueria with various types of tacos including suadero and tripa as well as gorditas and quesadillas.
+}}
+* {{eat
+| name=Tacos Manolo | alt= | url= | email=
+| address=Luz Savinon 1305, Narvarte Poniente | lat=19.390947 | long=-99.157032 | directions=
+| phone=+52 55 7095 8071 | tollfree=
+| hours=Sun-Thu 14:00 - 00:00, Fri-Sat 14:00 - 02:30 | price=
+| lastedit=2024-03-08
+| content=Basic taqueria specializing in spit-roasted meats for tacos al pastor (flavored with achiote) and tacos arabes (flavored with herbs).
+}}
+
+===Mid-range===
+*{{eat
+| name=El Buen Bife | alt= | url=http://www.buenbife.com/ | email=
+| address=Avda Insurgentes Sur 1248 | lat=19.37519 | long=-99.17827 | directions=
+| phone=+52 5488 9810 | tollfree= | fax=
+| hours=Mon-Sat 13:00-24:00, Sun 13:00-22:00 | price=
+| content=Steak house founded in 1989.
+}}
+* {{eat | name=Cielito Querido Café | alt= | url=http://cielitoquerido.com.mx/ | email= | address=Avda Universidad 1000 | lat=19.36745 | long=-99.16595 | directions=Plaza Universidad | phone=+52 55 5604 8663 | tollfree= | fax= | hours= | price= | content=It has a Neo-Retro style atmosphere.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Fonda Margarita | alt= | url=https://fondamargarita.com.mx/ | email=
+| address=Adolfo Prieto 1354, Del Valle | lat=19.378438 | long=-99.170817 | directions=Metro to Insurgentes Sur
+| phone=+52 55 5559 6358 | tollfree=
+| hours=06:30 - 12:00 | price=
+| lastedit=2024-03-08
+| content=Classic traditional Mexican restaurant that is one of the most popular breakfast restaurants in all of Mexico City, ''Bon Apetit'' magazine calls it "...the home-style Mexican breakfast that dreams are made of." While some of us dream of winning the lottery, others dream of home-style Mexican breakfast. If you want to try one of Mexico's most celebrated and most traditional restaurants, this is a place worth making a special effort to try. Gotta do it for breakfast though...they don't serve lunch or dinner (though you ''can'' order a steak for breakfast).
+}}
+* {{eat
+| name=Fonda 99.99 | alt= | url= | email=
+| address=Hera 38, Crédito Constructor, Del Valle | lat=19.365133 | long=-99.18041 | directions=Metro to Insurgentes Sur
+| phone=+52 55 2521 8803 | tollfree=
+| hours=Tue-Sun 13:00 - 19:00, closed Mon | price=
+| lastedit=2024-03-08
+| content=Authentic Yucatan regional cuisine in a stylishly modern dining room. Cochinita pibil, sopa de lima, even cazon! It's like a deliciously tasty meal in a great [[Merida (Mexico)|Merida]] restaurant. Even the salsas are made with habanero.
+}}
+* {{eat
+| name=Las Tlayudas | alt= | url= | email=
+| address=Luz Saviñon 1211-A, Narvarte Poniente | lat=19.391040 | long=-99.158169 | directions=Metro to Etiopia
+| phone=+52 55 6379 2496 | tollfree=
+| hours=Tue-Sat 09:00 - 20:00, Sun-Mon 10:00 - 18:00 | price=M$200
+| lastedit=2024-03-08
+| content=Authentic Oaxacan regional cuisine like tlayudas (giant corn tortillas stuffed with beans, meat and cheese), salsa de queso, mole negro, and oaxacan style hot chocolate (with a touch of chile).
+}}
+*{{eat
+| name=Gino's | alt= | url=https://ginos.com.mx/ | email=ginosconcepcionbeistegui@thholding.com.mx
+| address=Patricio Sanz 634, Local D | lat=19.39064 | long=-99.17031 | directions=corner of Concepción Beistegui
+| phone= +52 55 5523 3001 | tollfree= | fax=
+| hours=Mon 07:00-22:00, Tue-Fri 07:00-24:00, Sat 08:00-24:00, Sun 08:00-22:00 | price=
+| content=Cozy Italian-style cafeteria, part of a chain.
+}}
+* {{eat
+| name=Sushi Express Miyajima | alt= | url= | email=
+| address=Obrera Mundial 264, Col. Del Valle | lat=19.401815 | long=-99.160611 | directions=a block from Insurgentes, behind the Congo dance club
+| phone= | tollfree=
+| hours=Mon-Thu 11:00-23:00, Fri-Sat 11:00-01:00 | price=$M120-300
+| lastedit=2024-03-08
+| content=Some of the best sushi in the city, relatively low priced. Try the ''luna maki'' or the ''dinamita'', a foil-wrapped and baked pile of seafood, cream, and herbs.
+}}
+
+===Splurge===
+* {{eat
+| name=Bellini | alt= | url=http://www.bellini.com.mx/ | email=gerencia@bellini.com.mx
+| address=Montecito 38, 45th Floor | lat=19.39455 | long=-99.17354 | directions=top of the tower of the World Trade Center
+| phone=+52 55 9000 8305, +52 55 9000 8325 | tollfree= | fax=
+| hours=Mon-Sat 13:00-02:00, Sun 09:00-23:00; Sun brunch 09:00-14:00 | price=
+| content=Restaurant full of luxury and good taste.
+}}
+* {{eat
+| name=Cambalache | alt= | url=http://www.cambalacherestaurantes.com/#insurgentes | email=
+| address=Avda Insurgentes Sur 1384 | lat=19.37093 | long=-99.17965 | directions=close to the corner with Felix Cuevas
+| phone=+52 55 5534 5858 | tollfree= | fax=
+| hours=Daily 13:00-01:00 | price=M$300-600
+| content=One of the city's absolutely best steaks, go here. Some variant of arrachera is bound to be good, also the salads are great. Extensive bar.
+}}
+*{{eat
+| name=Restaurante Suntory | alt= | url=http://www.suntory.com.mx/ | email=
+| address=C/ Torres Adalid 14 | lat=19.39270 | long=-99.17181 | directions=corner of Magdalena
+| phone=+52 5536 9432 | tollfree= | fax=
+| hours=Mon-Thu 13:00-23:00, Fri Sat 13:00-23:30, Sun 13:00-21:00 | price=
+| content=Mexico's best Japanese restaurant. Enjoy its gardens.
+}}
+* {{eat
+| name=La Rural Argentina | alt= | url=http://www.laruralrestaurantes.com/en/ | email=
+| address=Avda Insurgentes Sur 803 | lat=19.38981 | long=-99.17403 | directions=corner with C/ Georgia
+| phone=+52 55 5687 1145 | tollfree= | fax=
+| hours=Daily 13:00-01:00 | price=M$300-600
+| lastedit=2017-01-28
+| content=Rivaling El Cambalache both in quality and price, but with somewhat more swanky service (having three or four waiters at your table is not uncommon). Try the arrachera and the inflated potatoes.
+}}
+
+==Drink==
+
+===Bars===
+
+* {{drink
+| name=Kaito Izakaya
+| address=Enrique Pestalozzi 1238, Del Valle | lat=19.37817195607948 | long=-99.16147940471998
+| directions=Metro to Division del Norte
+| phone=+52 55 9133 1476
+| hours=Tue-Sat 12:00 - 01:30, Sun 12:00 - 22:30
+| content=Trendy cocktail bar on the second floor over the '''Deigo''' Japanese restaurant. The all-female staff whips up some surprisingly innovative cocktails and the bar features DJs and guest bartenders who are treated like rock stars. Some odd drinks are named after Japanese cartoon characters, like Pkachu and Godzilla.
+}}
+* {{drink
+| name=Cantina La Valenciana | alt= | url= | email=
+| address=Av. Universidad 48, Narvarte Ote | lat=19.396888 | long=-99.146813 | directions=
+| phone=+52 55 3330 7505 | tollfree=
+| hours=Mon-Sat 13:00-02:00, Sun 13:00-20:00 | price=
+| content=Friendly neighborhood cantina where locals and families gather to drink and eat botanas (light plates or "snacks"). Besides cold beer and micheladas, locals come for the house specialty, ''molcajetes'', which are bowls made of volcanic stone that are filled with delicious stews just begging to be eaten with pieces of fresh tortillas.
+}}
+* {{drink
+| name=Hop the Beer Experience | alt= | url=http://www.hoptbe.mx/ | email=
+| address=Av. Cuauhtémoc 870, Narvarte Poniente | lat=19.387265 | long=-99.156834 | directions=Metro to Eugenia station
+| phone=+52 55 1107 6728 | tollfree=
+| hours=opens at 14:00 on weekends or 16:00 on weekdays, closes at 20:00, 21:00, 22:00, 00:00 or 01:00 | price=
+| lastedit=2024-03-08
+| content=Trendy artisanal craft brewery with a hip vibe and a mind-boggling array of taps. Stylistically, you can find everything from a light golden ale to a huge black stout. The Chilangolandia Belgian golden ale is a nice departure from mediocre light pale beers without being overwhelming. The food trailer serves up fresh grilled burgers and good-sized pizzas.
+}}
+
+===Coffee===
+Even before the Covid pandemic, Mexico City was a popular destination for "[[Digital nomad|digital nomads]]" who can work remotely from anywhere in the world. During the pandemic, everyone became a remote worker and many have adopted the lifestyle and given up having jobs that require daily presence in an office. Mexico City has one of the world's highest concentrations of digital nomads as professionals from Europe and the United States discover the city's shockingly low cost of living coupled with its shockingly diverse cultural attractions. Wherever there are digital nomads, there are coffee shops for them to camp out in all day, soaking up the free Wi-Fi as they quaff copious cups of caffeine (or so the shop owners hope). In Narvarte, a number of coffee shops are on Diag. San Antonio near the Etiopia Metro station. 
+
+* {{drink
+| name=Brewklyn | url=http://brewklyn.mx/
+| address=Adolfo Prieto 225, Col. del Valle Nte. | lat=19.396509579964224 | long=-99.1666328471188
+| phone=+52 55 7447 7436
+| hours=Mon-Fri 08:00 - 20:00, Sat-Sun 09:00 - 17:00
+| content=Amazing coffee drinks with a wide range of baked goods for noshing on from breakfast through lunch, including croissants, bagels, and a delicious pain au chocolate. Comfortable patio area on the street with free WiFi that's okay when the place isn't too busy but that can get too slow for video calls. 
+}}
+* {{drink
+| name=Chez Vous | alt= | url=http://www.chezvoustimecafe.com/ | email=
+| address=Glorieta Mariscal Sucre, Del Valle | lat=19.391836 | long=-99.164627 | directions=
+| phone=+52 55 7911 7544 | tollfree=
+| hours=Daily 07:30 - 21:30 | price=M$45
+| lastedit=2024-03-08
+| content=Local chain of coffee shops specifically marketed toward digital nomads. They have a co-working business model based on hourly charges for sitting and using their broadband internet connections. Rates start at M$45 per hour, including coffee and a snack. For M$75 per hour you can get a private space or better snacks (like breakfast entrées). There's another location in Del Valle, plus locations in Condesa and Roma.
+}}
+* {{drink
+| name=Coffefy | alt= | url= | email=
+| address=Torres Adelid 15 | lat=19.392623 | long=-99.172048 | directions=
+| phone=+52 55 4191 7121 | tollfree=
+| hours=Mon-Fri 07:00 - 21:00, Sat-Sun 07:00 - 19:00 | price=
+| lastedit=2024-03-08
+| content=Basic coffee shop with various coffee beverages and light snacks with work tables in a common area. For M$50 per hour, you can use a small meeting room or a private call room (coffee and snacks extra).
+}}
+* {{drink
+| name=Panaderia Costra | alt= | url= | email=
+| address=Av. Universidad 482, Narvarte | lat=19.383145 | long=-99.156555 | directions=
+| phone=+52 55 7030 3893 | tollfree=
+| hours=Mon-Fri 08:00 - 21:00, Sat-Sun 09:00 - 21:00 | price=
+| lastedit=2024-03-08
+| content=Excellent pastries are the reason to prefer this out-of-the-way bakery to the more work-oriented coffee shops. The cinnamon rolls are delicious, though the constant smell of them can be distracting if you have to take a work call. Excellent selection of coffee and tea drinks. The dirty chai is outstanding!
+}}
+* {{drink
+| name=Almanegro | alt= | url=http://almanegracafe.mx/ | email=
+| address=Av. Universidad 420-A, Narvarte Poniente | lat=19.385951 | long=-99.155342 | directions=
+| phone=+52 55 4162 5899 | tollfree=
+| hours=Daily 07:30 - 21:00 | price=M$100
+| lastedit=2025-02-26
+| content=Small coffee shop serving hot and cold coffee drinks and fresh pastries.
+}}
+
+==Sleep==
+Del Valle and Narvarte are primarily residential neighborhoods with few touristic sights, few government facilities, and few large commercial enterprises. Hotels are considerably less common in this part of the city than others, but there are still some good hotels, there are a fair number of independent rooms on airbnb, and there is a large selection of rooms in nearby neighborhoods, particularly [[Mexico City/Condesa and Roma|Condesa and Roma]]. 
+
+* {{sleep
+| name=Hotel Diplomatico | alt= | url=https://www.eldiplomatico.com.mx/ | email=
+| address=Av. Insurgentes Sur 1105 | lat=19.381132 | long=-99.177287 | directions=
+| phone=+52 555 563 6066 | tollfree=
+| checkin=15:00 | checkout=13:00 | price=M$1200
+| lastedit=2023-10-06
+| content=Large, comfortable rooms at affordable prices. Room furnishings show wear and are a bit dated. In-house restaurant with traditional Mexican cuisine and friendly service. Convenient to public transit as the Metrobus BRT routes run along Insurgentes, right outside the hotel.
+}}
+
+* {{sleep
+| name=Portonovo Hotel and Suites | url=http://www.portonovo.com.mx/
+| address=Viad. Pdte. Miguel Alemán Valdés 645, Piedad Narvarte | lat=19.404258466800297 | long=-99.158735277307
+| phone=+52 5556380576 | tollfree=
+| checkin=14:00 | checkout=11:00 | price=M$800
+| lastedit=2024-03-08
+| content=Moderate hotel with spacious, comfortable rooms with cold air conditioning. WiFi strength varies depending on location of your room. On-site parking. Some rooms are jacuzzi suites.
+}}
+
+* {{sleep
+| name=Econo Express Hotel | alt= | url=http://www.econoexpresshotel.com/ | email=
+| address=Calz. de Tlalpan No. 1035, Narvarte | lat=19.382723 | long=-99.140282 | directions=
+| phone=+52 55 5672 5077 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$800
+| lastedit=2024-03-08
+| content=Moderate hotel with spacious, very clean rooms and breakfast included in the nightly room rate. Metro stop next door (Nativitas station, line 2). Abundant cheap street food within 1 block or a Buffalo Wild Wings if you simply must have American chain food.
+}}
+* {{sleep
+| name=Hotel Corona Real | alt= | url=http://hotelcoronareal.com.mx/ | email=
+| address=Av. Extremadura 192, Mixcoac | lat=19.376157 | long=-99.185941 | directions=
+| phone=+52 55 5563 4754 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$800
+| lastedit=2024-03-08
+| content=Budget hotel with comfortable, clean rooms.
+}}
+* {{sleep
+| name=Hotel Lua | alt= | url=https://hotelua.mx/ | email=
+| address=Av. Patriotismo 686, Nonoalco | lat=19.3812 | long=-99.185531 | directions=
+| phone=+52 55 5611 3521 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$1000
+| lastedit=2024-03-08
+| content=Pretentiously elegant love hotel with jacuzzi suites and rooms with poles for pole dancing. 6-hour rates available, discretely private garages available. Normally one must go to [[Ecatepec]] to find such tawdry accommodations.
+}}
+* {{sleep
+| name=Hotel Harare | alt= | url=http://www.hotelharare.mx/ | email=
+| address=Calz. de Tlalpan 877, Narvarte Ote | lat=19.388826 | long=-99.138874 | directions=
+| phone=+52 55 3225 6065 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$1000
+| lastedit=2024-03-08
+| content=Flashy hotel with contemporary furnishings and good service. Breakfast included. 100 meter walk to Metro (Villa de Cortes station).
+}}
+* {{sleep | name=The Host Business Suites | alt= | url=https://thehostsuites.com/ | email= | address=Av. Magdalena 311, Col del Valle Nte | lat=19.392602 | long=-99.172006 | directions= | phone=+52 55 9036 4650 | tollfree= | checkin=15:00 | checkout=12:00 | price=M$1400 | lastedit=2024-03-08 | content=Spacious, clean rooms with comfortable beds. Rates include light breakfast. Odd hotel in that there's no signs or markings to help find it. One block walk to World Trade Center and Metrobus stops on Av Insurgentes.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+Cell phone services throughout Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of in Del Valle, particularly with its upper middle class population and large number of businesses. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas.
+
+{{guidedistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.3892|-99.1677}}

@@ -1,0 +1,415 @@
+{{pagebanner|Pagebanner default.jpg|pgname=Chapultepec|unesco=yes}}
+[[File:June 2007 Chapultepec 3.jpg|thumb|Chapultepec]]
+'''Chapultepec''' (''Grasshopper Hill'' in Nahuatl, the language of the Aztecs) is [[Mexico City|Mexico City's]] principal park, "the green lung of the city". This hill has been important throughout the city's history as the perch of fortresses and palaces, and the manicured forest surrounding it now holds many of Mexico's greatest cultural treasures. The neighborhoods on either side are among the most affluent in the city.
+
+==Understand==
+This district centers on '''Chapultepec Park''' (''Bosque de Chapultepec''). It is Mexico City's largest park at {{hectare|866}} and includes wooded natural areas, winding pedestrian walkways and busy lakes. It also includes some of the city's top museums - the Museum of Anthropology is reason enough to visit Mexico City, and Chapultepec Castle (''Castillo de Chapultepec'') also makes its way into lots of itineraries.
+
+The park is very large, with too many attractions to experience in a single day. You may want to focus on only one of the park's four sections, or limit yourself to only a few attractions.
+
+The city publishes a [https://mexicocity.cdmx.gob.mx/locations/chapultepec-park/?lang=en Chapultepec Park Visitor Guide] which contains in-depth information on the park's features.
+
+Northwest of the park is a wealthy residential neighborhood, Lomas de Chapultepec. Further out in the surrounding hills are more wealthy copycat neighborhoods collectively known as Las Lomas.
+
+===History===
+Chapultepec has been a landmark since the pre-Columbian era, when it became a retreat for Aztec rulers. In the colonial period, Chapultepec Castle was built atop the hill. It alternated between residential and military uses (it was the site of a Mexican-American War battle in 1847) until eventually becoming the official residence of Mexico's heads of state. It would remain so until 1934, when Los Pinos, in another area of the forest, became the presidential residence.
+
+==Get in==
+{{Mapframe|19.4179|-99.1871|zoom=13}}
+{{mapshapes|Q735042}}
+
+===On foot===
+You can easily walk to Chapultepec from popular neighborhoods like [[Mexico City/Zona Rosa|Reforma]], [[Mexico City/Polanco|Polanco]], [[Mexico City/Zona Rosa|Zona Rosa]], [[Mexico City/Roma|Roma and Condesa]]. 
+
+===By metro===
+Nearby Metro (subway) stations include:
+* {{marker|type=go|name=Auditorio|lat=19.42574|long=-99.19191}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|7}} 
+* {{marker|type=go|name=Chapultepec|lat=19.42071|long=-99.17678}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|1}}
+* {{marker|type=go|name=Constituyentes|lat=19.4117|long=-99.1906}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|7}}
+* {{marker|type=go|name=Juanacatlan|lat=19.41314|long=-99.18203}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line: {{rint|mexicocity|1}}
+
+===By cable car===
+'''Los Pinos Constituyentes''' Cablebus station (line 3) from [[Mexico City/Santa Fe|Santa Fe]] is close to Section 1 of the park. It provides access to a number of popular tourist spots including Los Pinos, Parque Aztlán, the Papalote Children's Museum, and the Museum of Natural History.
+
+===By bus===
+Long-distance buses from cities and states outside the Mexico City metropolitan area arrive and depart from '''Terminal de Autobuses Poniente''' (Observatorio), which is on the south side of Chapultepec, 1 km south of Av Constituyentes on Sur 122. Use Metro line 1 to station '''Observatorio'''.
+
+* {{go
+| name=Terminal de Autobuses Poniente (Observatorio) | alt=Central Camionera Poniente | url= | email=
+| address=Calz. Minas de Arena | lat=19.399036 | long=-99.200315 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-02-03
+| content=Use the Observatorio bus station for destinations to the west of Mexico City including most bus routes serving Michoacan, Jalisco, and Queretaro. As of Feb 2024, the bus station connects to [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line {{rint|mexicocity|1}} ('''Observatorio'''). The station also serves  [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Metro|alt=Mexico City Metro]] {{rint|mexicocity}} Line {{rint|mexicocity|12}} and is the terminus of the '''El Insurgente''' intercity trains to [[Toluca]].
+}}
+
+==Get around==
+===On foot===
+It's a park so the obvious way to get around is to walk. This is the best option if you plan to just visit the biggest attractions of Section I (which is also the smallest section), or if you plan to just visit the museums of Section II (which cluster close to the park edge along Av Constituyentes).
+ 
+===By bike===
+Chapultepec is a big park... ''really'' big. If you plan to explore the northern parts of Section II or much of Section III or Section IV, your best option is to rent a bike and get around by pedal power. Most roads, walkways, and trails are paved so the ride is smooth though there are a lot of hills once you get into Section III and Section IV.
+* {{go
+| name=Casa de la Bici Bosque | alt= | url= | email=
+| address=Calz. del Rey, Chapultepec Seccion I | lat=19.41796 | long=-99.18729 | directions=in the center of Section I
+| phone=+52 55 9110 6035 | tollfree=
+| hours=Tue-Sun 09:30-19:00, closed Mon | price=M$80 for 1 hour, M$120 for 2 hours, M$270 all day
+| wikidata=
+| lastedit=
+| content=Friendly bike rental kiosk that has been a fixture of the park since 1921. Many bikes to choose from including sizes for children. Check bike condition before leaving because you don't want to break down and have to walk the bike a long way back. Drinks and snacks for sale. Restroom available for M$5.
+}}
+
+The city's '''[https://ecobici.cdmx.gob.mx/ Ecobici]''' program has several rental kiosks on the major avenues that border the park and there are kiosks in Section I and Section II that may be better options. Ecobici does not have children's bikes. (''See also [[Cycling in Mexico City]]''.)
+* There are 4 stations on the north side of Section I along Av Reforma between the ''Museum of Modern Art'' and the ''National Auditorium'':
+** {{go
+| name=Ecobici Auditorio
+| address=Av Reforma | lat=19.426172538873267 | long=-99.19079570975646
+| directions=right outside Auditorio Metro station
+}}
+* There are 3 stations along Av Constituyentes on the south side of Seccion 1.
+
+==See==
+[[File:Monolito de Tláloc, Museo Nacional de Antropología.jpg|thumb|Tlaloc, outside Museo Nacional de Antropologia]]
+Chapultepec Park is organized into four major sections, from northeast to southwest:
+
+===Section I===
+[[File:Chapultepec Castle interior.jpg|thumb|Castillo de Chapultepec (''Chapultepec Castle'')]]
+This is the most tourist-friendly section and is the best section for a first-time visitor with limited time to explore the city. It is the area closest to Paseo de la Reforma and is close to many of the city's biggest high-rise hotels.
+* {{see
+| name=Castillo de Chapultepec y Museo Nacional de Historia (MNH) | alt=Chapultepec Castle | url=https://mnh.inah.gob.mx/ | email=
+| address=Bosque de Chapultepec I | lat=19.4205 | long=-99.1819 | directions=Ticket booth on NE side of the hill. Metro: Auditorio line #7 or Chapultepec line #1
+| phone=+52 55 4040 5215 | tollfree=
+| hours=Tue-Sun 09:00-17:00 | price=Adult M$210, Mexican citizens and residents M$105 (ID required); seniors over 60, children under 13, teachers: free; free on Sundays for Mexican citizens and residents; video camera and flash photography is not permitted 
+| image=Chapultepec Castle garden.jpg‬
+| lastedit=2026-02-24
+| wikidata=Q1072510
+| content=The imposing castle on top of the hill calls to visitors. Over its history, it has been the home of the Spanish Viceroys, a military college, a scene of historic battle during the Mexican-American War, the palace of Emperor Maximilian and Empress Carlotta, the national observatory, and the presidential palace. It is now a museum. You can walk about 1 km up the winding hill road, or take the tram that departs every twenty minutes for M$13. There are two parts to the museum: the '''Alcazar''' (with the exhibits on the life of its former residents – the emperor and the presidents), and the '''Castillo''' (now the Museum of National History). Both are decorated with remarkable murals depicting the nation's and the site's history. Don't miss the Roman-style gardens and observatory on the roof of the Alcazar. The castle also boasts a fine view of Mexico City and its surroundings. While visiting the site, you can leave your bag in the locker room for a fee near the entry to the site (at the bottom of the hill). Storing your bag is mandatory if it contains any food, and you will need to empty your water bottle at the top.
+}}
+* {{see | name=Museo Nacional de Arte Moderno | alt=Museum of Modern Art | url=https://mam.inba.gob.mx/ | email= | address=Paseo de la Reforma s/n | lat=19.4229 | long=-99.1799 | directions= | phone=+52 55 8647 5530 | tollfree= | fax= | image=Museo de Arte Moderno Chapultepec.jpg | hours=Tue-Sun 10:30-17:30 | price=M$80 | lastedit=2023-05-09 | content=It showcases temporary exhibitions of Mexican and international art, and has a permanent collection of work by artists including Frida Kahlo, Diego Rivera, David Siqueiros, José Orozco, and Leonora Carrington, among others.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+[[File:Mexico - Museo de antropologia - Chaton.JPG|thumb|Museo Nacional de Antropología]]
+* {{see | name=Museo Nacional de Antropología | alt=National Anthropological Museum | url=https://www.mna.inah.gob.mx/ | email= | address=Av Paseo de la Reforma y Calzada Gandhi s/n | lat=19.4261 | long=-99.1864 | directions=Metro Auditorio station | phone=+52 55 5553 6266 | tollfree= | hours=Tue-Sun 09:00-19:00 | price=Adult M$210, Mexican citizens and residents M$105 (ID required); seniors over 60, children under 13, teachers: free; free on Sundays for Mexican citizens and residents | image=Mexico - Museo de antropologia - Chaton.JPG | wikidata=Q524249 | lastedit=2026-02-24 | content=One of the top anthropology museums in the world. This enormous complex highlights the development and cultures of [[Indigenous cultures of Mesoamerica|Mexico's many indigenous peoples]] from thousands of years ago to today, and is full to the brim with ancient artifacts and artwork. Also, the museum itself is famous for its architecture. It is possible to spend days here to see everything – allocate two hours at the very least, prioritize your specific interests, and be sure not to miss the Aztec ''sun stone'' in the big room at the end of the plaza. Interpretive signage is underwhelming and mostly in Spanish - you'll enjoy the museum more if you go just to enjoy the ancient artwork rather than to get a history lesson. Bags must be checked; personal photography is permitted (no flash or tripods). If possible it is best to avoid visiting on Sundays, when it is usually mobbed. There is a restaurant on-site.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Rufino Tamayo | alt= | url=http://www.museotamayo.org/ | email=info@museotamayo.org
+| address=Paseo de la Reforma 51 | lat=19.4258 | long=-99.1818 | directions=
+| phone=+52 55 5286 6519 | tollfree=
+| hours=Tue-Sun 10:00-18:00 | price=Adult M$95; seniors over 60, children under 13, teachers: free; free on Sundays
+| image=MUSEOTAMAYO2014.jpg
+| wikidata=Q3330551
+| lastedit=2025-11-18
+| content=The original collection of this modern art museum was donated by the late Oaxacan-Zapoteca artist Rufino Tamayo and his wife, and includes works by Picasso, Rothko, and Miró, Georgia O'Keefe and many others. The collection also includes works from pre-Hispanic civilizations and works by Tamayo himself. Tamayo was heavily influenced by pre-Hispanic cultures, as were other modern artists in Mexico during the 20th century. The museum is handicap accessible with elevators, ramps, and loaner wheelchairs available. An upscale on-site restaurant includes an outdoor garden dining area. An on-site museum store has a good variety of books, prints, and contemporary art objects.
+}}
+* {{see | name=Sala de Arte Publico Siqueiros | alt=David Alfaro Siquerios Museum | url=https://saps-latallera.org/?lang=en | email= | address=Tres Picos 29 | lat=19.42892 | long=-99.18737 | directions= | phone=+52 55 8647 5340 | tollfree= | hours=Tue-Sun 10:00-18:00 | price=M$12 adults; free for students, teachers, seniors, children under 12; free admission on Sundays | content=This museum showcases the works of famed Mexican muralist David Alfaro Siquerios.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see | name=Zoologico de Chapultepec | alt=Chapultepec Zoo | url=http://data.sedema.cdmx.gob.mx/zoo_chapultepec/ | email=atencionciudadana@sma.df.gob.mx | address=Calle Chivatito s/n | lat=19.42307 | long=-99.18924 | directions= | phone=+52 55 5345 8187 | tollfree= | fax= | hours=Tue-Sun 09:00-16:30, closed 25 Dec and 1 Jan | price=Free except for the butterfly or reptile houses | wikipedia=Chapultepec Zoo | image=Panda-chapultepec.jpg | wikidata=Q3375717 | content=Large, modern zoo in the same style as major ones in the U.S., famous for its pandas. Very crowded on weekends. Highlights for foreign visitors are the Anfibium axolotl center showcasing the unique endangered salamanders native to Mexico City, and the tropical forests section which is relatively uncrowded and has a large proportion of animals native to Mexico and Central America, like jaguars, spider monkeys, and tapirs. Backpacks are allowed inside, but not food or drinks (a bottle of water may or may not be allowed). It is customary to stop first at the vendors outside the entrance to buy a toy spider monkey ("changuito") to wear on your head during your visit.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+** {{see
+| name=ANFIBIUM: Museo del Axolote y Centro de Conservación de Anfibios | alt=Museum of the Axolotl and Amphibian Conservation Center | url=https://mexicocity.cdmx.gob.mx/venues/anfibium/ | email=
+| address= | lat=19.423528882729144 | long=-99.18922162163543 | directions=At the center of Chapultepec Zoo
+| phone= | tollfree=
+| hours=Tue-Sun 10:00-15:30, closed Mondays | price=Free
+| wikidata=Q116624256
+| lastedit=2024-02-22
+| content=Located inside the zoo, but an attraction of its own, this popular facility exhibits the axolotl, Mexico City's unusual native salamander species, which reproduces without ever reaching adulthood and can re-grow almost any part of its body, but is now almost extinct in the wild. On the first floor you can see the axolotls and several related species in naturalistic enclosures, and on the second floor you can see the tanks where they're breeding them to keep the species alive. The building has a limited capacity, and on crowded days (weekends) you'll have to line up to enter.
+}}
+* {{see
+| name=Monumento a los Niños Héroes | alt=Monument to the Heroic Cadets | url= | email=
+| address= | lat=19.42150 | long=-99.17929 | directions=
+| phone= | tollfree= | fax= | image=Monumento a los Niños Heroes (4022876027).jpg
+| hours= | price=Free
+| content=This impressive white marble monument stands at the entrance to Chapultepec Park in front of the Castillo. It honors six youths who gave their lives defending the stronghold from US troops in 1847. In the most dramatic telling of the legend, a cadet jumped to his death wrapped in the Mexican flag rather than surrendering to the American troops.
+}}
+[[File:Casa Liraldi Luis Barragán.JPG|thumb|Casa Gilardi by Luis Barragán]]
+* {{see
+| name=Casa Gilardi | alt= | url=http://casagilardi.mx/ | email=casagilardi@gmail.com
+| address=Calle Gral. Antonio León 82 | lat=19.414867 | long=-99.18628 | directions=about 100 m off Av Constituyentes; Metro line 1 to Juanacatlan
+| phone= | tollfree=
+| hours=Mon-Sat 10:00-14:00 (reservations required) | price=M$700
+| lastedit=2024-03-03
+| content=Outstanding house tour that will appeal to anyone interested in [[Architecture|modern architecture]]. The house was designed by world famous architect Luis Barragan (whose nearby home and studio is a {{unesco}}). Casa Gilardi is one of Barragan's signature projects, a private home that incorporates his concepts of human livability, integration with nature, and his bold use of brilliant colors and juxtaposed shapes. Reservations must be made in advance (can be done on the web site) and the house is open only for scheduled times. Tours are guided in small groups for an intimate, unrushed experience.
+}}
+* {{see
+| name=Baths of Moctezuma | alt= | url= | email=
+| address= | lat=19.41760 | long=-99.18141 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-02-24
+| content=A system of tanks, reservoirs, canals and waterfalls constructed by the Aztecs.
+}}
+
+===Section II===
+This is a more natural area with fewer strolling tourists, but it includes some very significant sites that will be of interest to certain kinds of tourists and some museums that are ideally suited to families traveling to [[Mexico City with children]]. Most of the museums are in the south end of the section and are most easily reached via Metro to the Constituyentes station.
+* {{see | name=Museo de Historia Natural y Cultura Ambiental | alt=Museum of Natural History | url=http://data.sedema.cdmx.gob.mx/museodehistorianatural/?view=featured | email=difusionmhn.sma@gmail.com | address=Bosque de Chapultepec II, Circuíto Correr es Salud s/n | lat=19.40999 | long=-99.20151 | directions= | phone=+52 55 5515 6304 | tollfree= | fax= | hours=Tue-Sun 10:00-17:00 | price=M$23 adults; M$11 teachers, students, children 3-12; free for seniors, disabled, children under 3; free admission on Tuesday | image=Museo de Historia Natural y Cultura Ambiental 04.jpg | wikidata=Q25399903 | content=Exhibits a history of evolution, with dinosaurs, whales, viruses, bugs, plants, human organs and more. If it's natural, it's here.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Luis Barragán House and Studio | alt=Casa Luis Barragán | url=http://www.casaluisbarragan.org/ | email=
+| address=Gral. Francisco Ramírez 12, Ampliación Daniel Garza, Miguel Hidalgo, CDMX | lat=19.4104 | long=-99.1921 | directions=
+| phone=+52 55 8104 0688 | tollfree=
+| hours=Mon-Fri 11:00 - 17:00, Sat Sun 11:00-14:00 | price=M$400 adults, M$300 Mexican citizens, M$200 students
+| lastedit=2023-04-06
+| content=The home and studio of the famed Mexican architect Luis Barragán has been turned into a museum dedicated to his life and work. The house looks plain from the outside, but inside it opens up and exemplifies Barragan's modernist design philosophy of integrating light, and nature with open, aesthetically pleasing spaces and surfaces to create a serene and functional living space for humans. It is a {{unesco}}.
+}}
+[[File:CrowdedgravesDoloresDF.JPG|thumb|Panteon Civil de Dolores]]
+* {{see
+| name=Panteon Civil de Dolores | alt= | url= | email=
+| address=Av. Constituyentes | lat=19.406962 | long=-99.204888 | directions=
+| phone= | tollfree=
+| hours=08:00-17:00 | price=
+| lastedit=2023-06-07
+| content=Largest cemetery in Mexico, site of the Rotunda of Illustrious Persons. The cemetery has over 1 million grave sites. People are just dying to get in here!
+}}
+[[File:Cárcamo de Dolores, Chapultepec IMG 5084 (33802057416).jpg|thumb|Cárcamo de Dolores]]
+* {{see
+| name=Museo del Dolores de Cárcamo | alt=Dolores Carcamo Museum | url= | email=
+| address=Av. Rodolfo Neri Vela, Bosque de Chapultepec II Secc | lat=19.412999 | long=-99.198137 | directions=
+| phone=+52 55 5174 4000 | tollfree=
+| hours=Tue-Sun 12:00-15:00, closed Mon | price=
+| lastedit=2023-11-18
+| content=Small museum housed in a historic waterworks building, it houses a famous [[Mexican muralism|mural]] by Diego Rivera that could be considered a work of [[Sculpture|sculpture]] because part of it is a 3-dimensional bust while part of it is a tile mosaic mural covered by water.
+}}
+* {{see
+| name=Los Pinos | alt= | url=https://lospinos.cultura.gob.mx/ | email=
+| address=Calz. del Rey S/N, Bosque de Chapultepec I Secc | lat=19.421751 | long=-99.191030 | directions=Metro to Constituyentes (or Cablebus Line 3)
+| phone= | tollfree=
+| hours=Tue-Sun 10ː00-17ː00, closed Mon | price=
+| lastedit=2025-12-01
+| content=Mexico's "White House", which isn't white, but is the official residence of recent presidents. Since Andres Lopez Obrador was elected president in 2018, he and his successor have chosen to live in the Capitol building (''Palacio Nacional''), believing Los Pinos to be too opulent for a Mexican public servant.  That decision leaves the official residence and grounds open for public tours and cultural events. Los Pinos is actually referred to as a "complex" because it isn't just one building, but rather several, in a quiet, natural area of Chapultepec Park. The presidential residence is the Casa Lazaro Cardenas, a grand 2-story mansion with marble floors, a sweeping grand staircase, and huge windows creating a bright, cheery atmosphere. When heads of state would come to visit, they would be invited to stay in a separate mansionː either the Casa Miguel Aleman or the Casa Adolfo Ruiz Cortines. The complex also includeds nature trails, tennis courts, and a helicopter pad. Today, the complex hosts outdoor concerts and cultural performances, workshops in cooking and regional arts, and other cultural activities.
+}}
+* {{see
+| name=Papalote Childrens Museum | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q6060078
+| lastedit=
+| content=Cutting edge hands-on childrens activities to nurture young minds
+}}
+* {{see
+| name= Museo Nacional de Energía y Tecnología  | alt=MUNET, Technology Museum | url=https://museomunet.com/ | email=
+| address=Av. de los Compositores s/n, Bosque de Chapultepec II Secc | lat=19.41350 | long=-99.19560 | directions=
+| phone= | tollfree=
+| hours=Tue-Sun 10ː00-18ː00, closed Mon | price=
+| wikidata=
+| lastedit=
+| content=Planes, trains and automobiles. Pretty much any other kind of machine too, from steam engines of the industrial age to AI and the robotics of tomorrow. Great place for teens!
+}}
+
+===Section III===
+This is a natural area that is used by active fitness fans for running, hiking and biking as well as the odd urban naturalist who needs to escape traffic and the built-up world to hug a few trees. There are no major tourist attractions in this section (which is just the way people who enjoy the outdoors like it). 
+
+===Section IV===
+The newest section of Chapultepec used to be known as ''Industrias Militares'' and was owned by Mexico's Department of Defense (SEDENA) where they operated military maintenance shops and similar facilities. It includes rugged terrain with hills, cliffs, and rough rocky backcountry.
+* {{see
+| name=Ex-Fabrica de Polvora | alt=Former Royal Gunpowder Factory | url= | email=
+| address= | lat=19.38568 | long=-99.23808 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Built by the Spanish military at the end of the [[Colonial Mexico|colonial era]]; it is now used for cultural exhibits.
+}}
+
+==Do==
+[[File:Lago de Chapultepec Torres Genelas de Polanco.jpg|thumb|Lago de Chapultepec]]
+Chapultepec Park has many natural walking paths through the trees.
+
+* {{do
+| name=Lago de Chapultepec | alt=Chapultepec Lake | url= | email=
+| address= | lat=19.42261 | long=-99.18505 | directions=
+| phone= | tollfree= | fax= | image=Lago de Chapultepec Torres Genelas de Polanco.jpg
+| hours= | price=
+| content=There are actually two lakes that are connected, a bridge spanning them at mid-point. Lounge around the shore, or rent a canoe or paddleboat to explore.
+}}
+** {{do
+| name=Lanchacinema | alt= | url=https://www.chapultepec.com.mx/ | email=
+| address=Lago de Chapultepec | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Tickets available at 18:00, show time 20:00 | price=
+| lastedit=2024-10-23
+| content=A large movie screen is set up on the shore of Lake Chapultepec and movie goers sit in paddle boats in the lake to watch the movies. The movies are shown on a sporadic schedule, so consult current park info to see if a movie night is taking place during your visit to the city.
+}}
+* {{do
+| name=Parque Aztlan | alt= | url=https://aztlanferiadechapultepec.com.mx/ | email=
+| address=Av. de los Compositores s/n, Bosque de Chapultepec II Secc | lat=19.416086 | long=-99.195908 | directions=
+| phone= | tollfree=
+| hours=Tue-Fri 12:00 - 20:00, Sat-Sun 12:00 - 22:00, closed Mon | price=Free, fees for each ride vary
+| lastedit=2025-04-01
+| content=Modern urban theme park opened in 2024. Thrill rides like roller coaster, swing, giant Ferris wheel and more. Requires a rechargeable card to pay for rides, which cost up to M$120 per ride. Restrooms cost M$5 to use (also paid via rechargeable card). Variety of concessions.
+}}
+* {{do
+| name=Jardín Botánico | alt=Botanical Garden | url=https://www.chapultepec.org.mx/actividad/jardin-botanico/ | email=
+| address=Paseo de la Reforma | lat=19.42326 | long=-99.18253 | directions=
+| phone=+52 55 5553 8114 | tollfree= | fax=
+| hours=Tue-Sun 09:00-18:00 | price=Free
+| content=5.3 hectare garden showcasing more than 300 species of native Mexican plant life. 
+}}
+* {{do
+| name=Pista el Sope | alt=el Sope | url= | email=
+| address=Parque Chapultepec, Secc. II | lat=19.416953 | long=-99.201055 | directions=
+| phone= | tollfree=
+| hours=Daily 05:00-19:30 | price=
+| lastedit=2022-11-03
+| content=Wide running tracks and trails with mixed elevations. Groomed, chipped clay surface. Warm up area. Very popular among local runners and fitness enthusiasts.
+}}
+* {{do
+| name=Auditorio Nacional | alt= | url=http://www.auditorio.com.mx/ | email=
+| address=Paseo de la Reforma 50 | lat=19.424961 | long=-99.194561 | directions=Next to the Auditorio Metro station
+| phone=+52 55 9138 1350 | tollfree=
+| hours= | price=
+| lastedit=2023-05-27
+| content=Venue for performing arts and popular entertainers. Shows include family friendly events like the Nutcracker Suite, Placido Domingo, and Disney on Ice as well as popular Latin and international performers including Chayanne and Gilberto Santa Rosa. Seats 10,000. Tickets available through TicketMaster.
+}}
+* {{do
+| name=Campo Marte | alt= | url=
+| address=Av. Paseo de la Reforma | lat=19.424747054049703 | long=-99.19731750623089
+| directions=Metro to Auditorio
+| phone=+52 557 375 8454
+| hours= | price=
+| lastedit=2023-07-07
+| content=Officially a military sports field owned by the Ministry of Defense (SEDENA), this is a well-known polo field where prestigious international matches have taken place, including the World Polo Championship in 2008 and the Prince of Wales Cup in 1993 (attended by Prince Charles, now King Charles). The regular polo season runs from November through April. Information about polo events and teams is available through the [https://fmp.org.mx/ Federacion Mexicana Polo]]. 
+}}
+
+==Buy==
+* Vendors line the paths in many areas where you can buy souvenirs, juices, tacos, ice cream, toys, and even lucha libre masks.
+* {{buy
+| name=Mercado el Chorrito | alt= | url= | email=
+| address=Gob. Melchor Muzquiz S/N | lat=19.410894 | long=-99.190434 | directions=Metro station Constituyentes, then 1 block southeast on Av. Lira
+| phone= | tollfree=
+| hours=Daily 08:00 - 18:00 | price=
+| lastedit=2022-11-03
+| content=Large public market, lots of food vendors. Local vibe, not tourist oriented.
+}}
+
+==Eat==
+There are several cafes and restaurants inside Chapultepec Park.
+* {{eat
+| name=Bistro Chapultepec | url=https://www.bistrochapultepec.com/ | alt= | email=
+| address=Lago Mayor, Secc. II, Bosque de Chapultepec | lat=19.42011 | long=-99.200111 | directions=inside Chapultepec Park, Section 2, on the lake
+| phone=+52 5273 3599 | tollfree=
+| hours=7:30-19:30 | price=
+| lastedit=2022-11-03
+| content=Elegant lakeside dining in Chapultepec park, outdoor dining area available. Menu is more American or European than Mexican, which may appeal to some travelers. Reservations accepted.
+}}
+* {{eat
+| name=Del Bosque | alt= | url=https://delbosquerestaurante.com.mx/ | email=
+| address=Lago Menor, Del Rosal s/n, Bosque De Chapultepec | lat=19.411285 | long=-99.199817 | directions=near Av. Constituyentes and Natural Science Museum
+| phone=+52 55 5516 4214 | tollfree=
+| hours=Mon-Fri 07:30 - 18:00, Sat Sun 08:00 - 18:00 | price=
+| lastedit=2023-11-18
+| content=Casual upscale dining with traditional Mexican cuisine. The restaurant is in Chapultepec Park, with a lakeside setting. The dining rooms features a glass wall with views of the lake right outside the restaurant.
+}}
+* {{eat
+| name=City Café Natural El Sope | alt= | url=http://www.citycafe.com.mx/ | email=
+| address=Av. de los Corredores S/N, Sección II, Bosque de Chapultepec | lat=19.418855 | long=-99.202350 | directions=near El Sope running track
+| phone= | tollfree=
+| hours=Tue-Fri 08:30 - 15:00, Sat Sun 08:30 - 16:30, closed Mon | price=M$200
+| lastedit=2023-11-18
+| content=Casual outdoor cafe specializing in coffee and breakfast. Popular with runners and dog walkers alike. Very pet friendly with an area set aside for customers with well-behaved, leashed dogs.
+}}
+* {{eat
+| name=Lago/Algo | alt= | url=http://lago-algo.mx/ | email=
+| address=Bosque de Chapultepec, Pista El Sope S/N, Bosque de Chapultepec II Secc | lat=19.417214 | long=-99.199784 | directions=
+| phone=+52 55 5515 9585 | tollfree=
+| hours=Daily 08:30 - 19:00 | price=M$700+
+| lastedit=2024-03-03
+| content=Sophisticated upscale dining in a landmark of modern architecture built on the edge of one of the lakes in Chapultepec Park. A cross between elegant dining and a cultural center that includes a gallery of contemporary art and spaces for cultural events. The menu is contemporary international cuisine with European favorites and seafood specialties that are less common in Mexico (like mussels). Tables can be reserved on [https://www.opentable.com.mx/r/lagoalgo-mexico-city Opentable].
+}}
+
+There are many more places to eat on nearby streets.
+* {{eat
+| name=Alfredo di Roma | alt= | url=https://alfredodiroma.com.mx/ | email=
+| address=Campos Elíseos 218 | lat=19.4273 | long=-99.19362 | directions=in the Hotel Presidente Inter-Continental
+| phone=+52 55 5327 7766 | tollfree=
+| hours=Mon-Thu 13:00-23:30, Fri Sat 13:00-24:00, Sun 13:00-19:00 | price=
+| content=This is a charming and luxurious restaurant which serves slightly expensive Italian fare that is surprisingly worth it. Be sure to try the Fettuccine Alfredo or the Torre de Pisa, which is mouth-wateringly delicious.
+}}
+
+* {{eat
+| name=Comal Oculto | alt= | url= | email=
+| address=Gral Gomez Pedraza 37 | lat=19.414183 | long=-99.183599 | directions=Metro to Constituyentes
+| phone= | tollfree=
+| hours=Mon-Fri 09:00 - 18:00, Sat 09:00 - 17:00, closed Sun | price=M$150
+| lastedit=2024-01-28
+| content=Small traditional restaurant serving antojitos and other light fare. The house specialty is roasted pork shoulder tacos.
+}}
+* {{eat
+| name=Mari Gold | alt= | url= | email=
+| address=Calle Gob.Protasio Tagle 66A, San Miguel Chapultepec II Secc | lat=19.413137 | long=-99.183617 | directions=Metro to Juanacatlan
+| phone=+52 55 3726 2228 | tollfree=
+| hours=Wed-Sun 09:00 - 17:30, closed Mon-Tue | price=M$400
+| lastedit=2024-01-28
+| content=Deliciously fascinating fusion of nouveau Mexican cuisine and Indian cuisine served in an elegantly sparse contemporary dining room. While the sabudana vada is recommended, most dishes will be unfamiliar to diners so a wise approach is to talk to the staff and trust in their recommendations.
+}}
+* {{eat
+| name=La Milla | alt= | url= | email=
+| address=Calle Gral. Fco. Molinos del Campo 19 | lat=19.412986 | long=-99.188348 | directions=
+| phone=+52 552 685 9719 | tollfree=
+| hours=Daily 07ː00 - 20ː00 | price=M$250
+| lastedit=2026-02-02
+| content=Small streetside cafe with a few tables outside on the sidewalk and more upstairs on a 2nd floor balcony. Wide range of pastries and baked goods, including several options for vegans. Excellent coffee.
+}}
+If you are on the northern side of Chapultepec (near the Museum of Anthropology or the Rufino Tamayo Museum, you may find some excellent nearby restaurants in the [[Mexico City/Polanco#Eat|Polanco neighborhood]]. If you are on the south side of the park, the restaurants of nearby [[Mexico City/Condesa and Roma#Eat|Condesa]] offer some great dining opportunities.
+
+==Drink==
+Soft drinks and bottled water are sold by sidewalk vendors throughout Section I of the park. Plan to bring your own drinks if you are visiting other, less heavily used sections of the park. Numerous restaurants in the park sell drinks (including alcoholic beverages) and nearby neighborhoods like Polanco and Condesa have numerous restaurants and convenience stores.
+
+==Sleep==
+Much of the area of this district is public park land so travelers will find many more hotels in neighboring districts that border Chapultepec. Parts of the nearby districts are within easy walking distance (no more than 2 Km) from Chapultepec Park. Look for more hotels in [[Mexico City/Polanco|Polanco]], [[Mexico City/Zona Rosa|Zona Rosa/Reforma]], and [[Mexico City/Condesa and Roma|Condesa]].
+
+* {{sleep
+| name=Fiesta Americana Grand Chapultepec | alt= | url=https://www.fiestamericanatravelty.com/en/grand-fiesta-americana/hotels/grand-fiesta-americana-chapultepec | email=
+| address=Mariano Escobedo 756 | lat=19.42517 | long=-99.17829 | directions=Colonia Anzures
+| phone=+52 55 2581 1500 | tollfree= | fax=+52 55 2581 1501
+| checkin= | checkout= | price=From M$3000
+| lastedit=2024-03-03
+| content=Rooms are clean, quiet and very comfortable.
+}}
+*{{sleep
+| name=JW Marriott Mexico City | alt= | url=https://www.marriott.com/hotels/travel/mexjw-jw-marriott-hotel-mexico-city/ | email=
+| address=Calle Andrés Bello 29 | lat=19.4272 | long=-99.1949 | directions=
+| phone=+52 55 5999 0000 | tollfree=
+| checkin= | checkout= | price=From M$4000
+| lastedit=2024-03-03
+| content=One of the premier Mexico City hotels, the JW Marriott Hotel Mexico City rises 26 stories high in the exclusive Polanco District. Located in the heart of the business and entertainment sector, this flagship Mexico City hotel is within walking distance to Auditorio Nacional, the city's financial hub, and some of Mexico's best shopping, dining and night life.
+}}
+* {{sleep
+| name=Green Park Hotel | alt= | url=https://thegreenparkhotel.com.mx/ | email=
+| address=Av Costituyentes 99, Col San Miguel Chapultepec, | lat=19.415535 | long=-99.184321 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-10-15
+| content=Comfortable upscale hotel with traditional furnishings. Located adjacent to Chapultepec Park.
+}}
+* {{sleep
+| name=Hotel Atlantico | alt= | url= | email=
+| address=Av Observatorio 218, Daniel Garza al Poniente | lat=19.403974 | long=-99.198341 | directions=
+| phone=+52 55 5516 4443 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$700
+| lastedit=2024-03-03
+| content=Older budget hotel with spacious but minimalist rooms with worn furnishings.
+}}
+* {{sleep
+| name=Hotel Park Villa | alt= | url=https://hotelparkvilla.com.mx/ | email=
+| address=Calle Gral. Gómez Pedraza 68, San Miguel Chapultepec | lat=19.415064 | long=-99.185163 | directions=
+| phone=+52 55 5515 5245 | tollfree=
+| checkin=15:00 | checkout=13:00 | price=M$1100
+| lastedit=2025-07-15
+| content=Moderate hotel with dated facilities that cry out for renovation and update. Staff are friendly and location is good, across the street from Chapultepec Park and short walk to restaurants and bars of Condesa. Complimentary bicycles.
+}}
+* {{sleep
+| name=Hotel Alexander | alt= | url=https://alexanderhotel.mx/ | email=
+| address=Bosque de Chapultepec, Lomas - Virreyes, Pedregal 24, Miguel Hidalgo | lat=19.425951 | long=-99.203531 | directions=
+| phone=+52 55 7915 8332 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$8000
+| lastedit=2025-07-15
+| content=Modern luxury hotel with spacious, comfortable rooms, well-equipped gym, good breakfast included in rate. First-class service with understated elegance.
+}}
+
+==Connect==
+All of Mexico City has excellent 5G cellular coverage with virtually no dead zones. Broadband internet is ubiquitous and almost all hotels and restaurants offer WiFi service. The city government also provides free WiFi access in public spaces such as local parks. See parent article for [[Mexico City]] for more details.
+
+{{guidedistrict}}
+{{geo|19.413056|-99.197778}}
+{{IsPartOf|Mexico City}}

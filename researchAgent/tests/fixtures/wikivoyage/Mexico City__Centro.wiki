@@ -1,0 +1,1483 @@
+{{pagebanner|Mexico Centro Banner.jpg|pgname=Centro Histórico|caption=The Zócalo as seen from the rooftop of the Holiday Inn|unesco_whs=yes|unesco_ich=yes}}
+[[File:Catedral de México.jpg|thumb|300px|The Cathedral]]
+The old city center or '''Centro Histórico''' of [[Mexico City]], centered on the Plaza de la Constitución (''El Zócalo''), has been the heart of the nation since Aztec times. Its colonial and European architecture and narrow cobblestone streets set it apart from the rest of Mexico City. It has an enormous number of stores, street vendors, and especially crowds.
+
+==Understand==
+[[File:Dancer, Mexico City (2105531959).jpg|thumb|upright=0.7|Aztec dancers at the Zócalo]]
+The original foundation of Mexico City was built on the ruins of Tenochtitlan, the Aztec empire capital established in 1325 and destroyed by the Spanish in 1521. When much of modern-day Mexico City was still covered by ''chinampa'' farms floating on Lake Texcoco, the boundaries of Centro roughly correspond to the island in the center of the lake.
+
+Due to all the places here that played starring roles in the history of Mexico, the area was designated as a {{unesco}} in 1987. The designated historic area comprises more than 9,000 buildings, almost a quarter of which are historically significant. Many buildings date back to the 16th century, when the city was the administrative capital of [[Colonial Mexico]]. Others were significant during the [[Mexican War of Independence]], the [[Post-Independence Mexico|Post-Independence era]], or even opulent art deco buildings from the time of the [[Mexican Revolution]]. 
+
+===Organ grinders===
+[[File:Organ Grinder in Centro - Mexico City - Mexico (45241335795).jpg|thumb|Organ grinder in the Centro Histórico]]
+The streets of the Centro Histórico resound with nostalgic music played by organ grinders, cranking away on historic instruments that have been handed down through generations of grinders. The tradition began in the late 1800s, when the controversial president [[Post-Independence Mexico|Porfirio Diaz]] wanted Mexico to emulate European traditions, one of which was the sound of street music in [[Berlin]]. The organ grinders adopted the khaki uniform style of Diaz's soldiers and the people of Mexico enjoyed the sounds of the small organs as they strolled downtown streets. 
+
+Organ grinders are part of the city's intangible culture. Although they can be found across Mexico, it's in the capital where most still ply their trade, particularly in Centro Histórico. However, fewer organ grinders walk the streets than they once did. Youngsters rarely want to follow in their fathers' footsteps and new organs are almost unheard of since Germany hasn't exported the organs since World War II.
+
+If you hear the quaint sound of a street organ, understand that you are hearing a tradition with more than 130 years behind it. If you appreciate it, throw a few pesos in the hat of the organ grinder. He's working for tips!
+
+==Get in==
+===By Metro===
+There are various Metro lines that connect the Centro Histórico with the rest of the city. This is usually the fastest way in or out. The stations in the area are consistently crowded, so be prepared and alert for pickpockets.
+
+* Line {{rint|mexicocity|1}}: {{marker|type=go|name={{station|Pino Suarez}}|lat=19.4259|long=-99.1330}}, {{marker|type=go|name={{station|Isabel La Católica}}|lat=19.4263|long=-99.1378}} and {{marker|type=go|name={{station|Salto del Agua}}|lat=19.4268|long=-99.1424}} stations.
+* Line {{rint|mexicocity|2}}: '''Pino Suarez''', {{marker|type=go|name={{station|Zócalo}}|lat=19.43228|long=-99.13233}} (your best choice for direct access), {{marker|type=go|name={{station|Allende}}|lat=19.4355|long=-99.1369}}, {{marker|type=go|name={{station|Bellas Artes}}|lat=19.4359|long=-99.1406}}, {{marker|type=go|name={{station|Hidalgo}}|lat=19.4372|long=-99.1468}} and {{marker|type=go|name={{station|Revolucion}}|lat=19.4390|long=-99.1539}} stations.
+* Line {{rint|mexicocity|3}}: '''Hidalgo''', {{marker|type=go|name={{station|Juárez}}|lat=19.4331|long=-99.1477}} and {{marker|type=go|name={{station|Balderas}}|lat=19.4273|long=-99.1490}} stations.
+* Line {{rint|mexicocity|8}}: {{marker|type=go|name={{station|Garibaldi}}|lat=19.4436|long=-99.1391}}, '''Bellas Artes''', {{marker|type=go|name={{station|San Juan de Letrán}}|lat=19.4313|long=-99.1413}} and '''Salto del Agua''' stations.
+
+===By Turibus===
+The hop-in hop-off double-decker bus makes a stop just north of the Zócalo, on Monte de Piedad Street on the west side of the cathedral. The one-day pass costs M$140 (M$160 for English version of the excursion – do not forget to ask for your headphone!)
+
+{{infobox|Bike Day|Every Sunday Avenida Reforma is closed to motor vehicles due to "bike" day (confined streets for bicycle use only). It is strongly advised to avoid driving that brings you close to Avenida Reforma. If you are staying at any of the hotels in this area and have a flight scheduled on Sunday, it is advised to allow enough time to get out of the area if you're using a taxi. An alternative to get in and out of the area is the Metro (Subway).}}
+===By Metrobús===
+'''Line {{rint|mexicocity|4}}''' of the Metrobús system has two branches that ride through the Centro Histórico. Both branches run from the {{marker|type=go|name=Estación Buenavista|lat=19.44623|long=-99.15179|image=Estacion Buenavista 13.JPG}} (''Buenavista train station'') to the {{marker|type=go|name=Estación San Lázaro|lat=19.43077|long=-99.11496|image=Estacion San Lazaro 02.jpg}} (''San Lazáro station'') adjacent to the East Bus Terminal (TAPO). In both branches there are a few specially-marked buses that continue beyond San Lazáro to Mexico City's airport, serving both terminals. Buses going to or coming from the airport charge M$30 instead of the regular Metrobús fare (M$6), and you must have a travel card which can be purchased in 7-Elevens and in machines if you can find them (the one at the airport are near the exits).
+
+===By train===
+Commuter trains from communities in [[Mexico State|Estado de Mexico]] provide fast transport to the heart of the city. The ''Tren Suburbano'' routes end at '''Estacion Buenavista''', which is also the terminus of Metro Line B and a major Metrobus stop with buses traveling along Av. Insurgentes.
+
+===By trolley bus===
+The Trolley Bus rides along Eje Central Avenue. Ask the driver to drop you off at Madero street.
+
+===By car===
+This is a slow and frustrating way to get around Centro Histórico since the streets are always jammed with cars, especially during weekdays. Most streets are one-way only and many are permanently closed to car traffic. If you dare to enter the area by car, you can do so from the west through Reforma and turning right at Avenida Juárez, or if you're coming from the south, you can reach the Centro Histórico through Calzada de Tlalpan which later becomes Avenida 20 de Noviembre.
+
+Many downtown streets are closed to vehicles on Sunday, when bicycling is encouraged.
+
+There are several parking lots in the area (valet service) that charge M$14 an hour. A non-valet but expensive {{marker|name=parking lot|lat=19.43474|long=-99.14196}} is available at Bellas Artes.
+
+==Get around==
+
+{{mapframe|19.433| -99.1358235|zoom=15|name=The middle of the centro}}
+{{mapshapes|Q735042}}
+
+===On foot===
+The best way to get around the Centro Histórico is definitely by foot. All tourist attractions are within walking distance. Because of traffic and the distance between metro stops, walking is generally the fastest way to explore the area.
+
+For a stroll that's lively in the afternoon and evening, walk down the pedestrianized '''Francisco I Madero''' avenue, connecting the Zócalo to the Alameda along much of Centro's most ornamental architecture.
+
+===By bike===
+Traffic can be a nightmare to navigate by car, but is easier and faster by bike. If you don't have a bike, no worries, because the city has a huge bike-share program ''Ecobici'' with dozens of bike stations, most within a block of Metro stations and major tourist sites, including the Templo Mayor, and Palacio de Bellas Artes. Dedicated bike lanes are on major thoroughfares, including Paseo de la Reforma and the Calzada de Tlalpan. The city closes certain downtown streets for bicycle use only on Sundays as well as Saturday nights. ''See [[Cycling in Mexico City]] for more info.''
+
+===By tourist trolley===
+This trolley (in Spanish Tranvia Turístico) departs from Avenida Juarez 66, between the Alameda and the Palacio de Bellas Artes. The ride lasts 45 minutes around many interesting spots in the area. Operating hours daily 10:00-17:00.
+
+===By pedicab===
+There are a few pedicabs that can carry you within the Centro Histórico.
+
+==See==
+===Zócalo and surroundings===
+[[File:Plaza de la Constitución desde el Edificio de Gobierno.jpg|thumb|Plaza de la Constitución (''Zócalo'')]]
+{{infobox|Aztec dancers|Traditional Aztec dancers, called ''concheros'', are a fixture in the Centro Histórico, especially in the Zócalo between the Catedral Metropolitano and the Templo Mayor. While their dances are not necessarily based on tradition passed down through the local indigenous community, they take their dancing seriously and learn as much as they can about instruments, music, costumes, dances, and astronomical and religious events that mattered to the Aztecs, so that what you see and hear is as close to an authentic Aztec cultural experience as most tourists are likely to experience. Watch, appreciate, and tip the performers!}}
+
+The ''Zócalo'', the main square of Mexico City, is one of the largest public squares in the world. It has been a gathering place since Aztec times, when it was the main ceremonial complex of Tenochtitlan, considered by them to be the center of the universe. It has hosted the swearing-in of viceroys, royal proclamations, military parades, Independence ceremonies, and religious events.
+* {{see
+| name=Plaza de la Constitución | alt=El Zócalo | url= | email=
+| address= | lat=19.43267 | long=-99.13317 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Plaza de la Constitución desde el Edificio de Gobierno.jpg | wikidata=Q1348507
+| lastedit=2026-02-23
+| content=This square measures 240m long on either side. A huge Mexican flag occupies the center, which is ceremoniously lowered and re-raised each day at 18:00. You may see art exhibits, concerts, demonstrations or all manner of social gatherings taking place here. On New Year's Day, practitioners of Mexico's indigenous religions gather to bless believers for the coming year; Mexican independence is celebrated in the plaza on 15 and 16 September. During December, through the miracle of modern refrigeration, the entire Zócalo is transformed into an ice skating rink.
+}}
+[[File:Recinto Templo Mayor.JPG|thumb|Templo Mayor of Tenochtitlan]]
+* {{see | name=Templo Mayor | alt= | url=https://www.templomayor.inah.gob.mx/ | email=difusion.mntm@inah.gob.mx | address=C/ Seminario 8 | lat=19.43483 | long=-99.13104 | directions=NE corner of the Zócalo | phone=+52 55 4040 5600 ext 412930 | tollfree= | fax= | hours=Tue-Sun 09:00-17:00 | price=M$59, free for children under 12 and students with valid ID | wikipedia=Templo Mayor | image=Recinto Templo Mayor.JPG | wikidata=Q774021 | lastedit=2017-01-28 | content=The site of the main Aztec temple of Tenochtitlan, it was destroyed by Spanish conquistadors in 1521, who then promptly erected the Cathedral roughly over it – but not quite. Centuries later, nearly completely forgotten, its actual location was discovered by accident in 1978 when electrical workers found a piece of a large stone disc depicting the goddess Coyolxauhqui. This set off a few furious years of archaeological digging, resulting in a rather surprising (and extremely significant) discovery that nested underneath the original Aztec temple was six distinct smaller, older temples. You can see each layer walking through the dig site.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+** {{see
+| name=Museo del Templo Mayor | alt= | url=https://lugares.inah.gob.mx/en/node/4236 | email=
+| address= | lat=19.43489 | long=-99.13029 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Coyolxauhqui 4095977415 b89d64f008-2.jpg | wikidata=Q3330387
+| lastedit=2017-01-28
+| content=This excellent four-story museum was designed by Mexican architect Pedro Ramírez Vázquez, and built in 1987 to showcase the many artifacts found on the site. Highlights include the Coyolxauhqui disc as well as the many thousands of offerings found during the still-ongoing excavation.
+}}
+[[File:Palacio Nacional Murals view.JPG|thumb|Diego Rivera murals at the Palacio Nacional]]
+The square is flanked by the Metropolitan Cathedral and ''Sagrario'' to the north, and the National Palace to the east, as well as a number of other historic buildings.
+* {{see
+| name=Palacio Nacional | alt=National Palace | url= | email=
+| address=Plaza de la Constitución s/n | lat=19.43254 | long=-99.13158 | directions=east side of the Zócalo
+| phone= | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=Free admission with photo ID (national driver's license is acceptable)
+| wikipedia=National Palace (Mexico) | image=MexCity-palacio.jpg | wikidata=Q1517884
+| lastedit=2017-01-28
+| content=The palace in its current form began construction in 1693 and served as the Palace of the Viceroy of New Spain until the Mexican War of Independence, when it became the executive seat of the President (though today it is no longer his official residence). The walls inside the palace display murals by Diego Rivera depicting the history of Mexico from the pre-Columbian age to the Mexican Revolution. You can also visit the ''Recinto Legislativo'', a replica of the first Mexican Congress, and tour the home of Benito Juárez. Tours in English are free; ask for one at the information desk across the street. It’s strongly recommended to get there early in the day, and you’ll likely be given a reserved time to return later that afternoon.
+}}
+* {{see
+| name=Plaza de la Fundación | alt=Plaza de Tenochtitlán | url= | email=
+| address= | lat=19.43124 | long=-99.13244 | directions=Pino Suarez and Venustiano Carranza
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This place is allegedly where the Aztecs found the eagle eating a snake on top of a cactus (nopal), the divine sign of the gods to settle down and establish the city of Tenochtitlán. It features a sculpture by Juan Olaguibel made in 1970.
+}}
+* {{see
+| name=Nacional Monte de Piedad | alt= | url= | email=
+| address=Monte de Piedad and Cinco de Mayo | lat=19.4344 | long=-99.1345 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 08:30-18:00, Sat 08:30-15:30 | price=
+| wikipedia=Nacional Monte de Piedad | image=RoomNMPDF1.JPG | wikidata=Q3402106
+| content=This building, which was completed in 1758, was built on the grounds of the house of Aztec emperor Moctezuma and later the residence of the Spanish conqueror Hernán Cortés. The building was acquired in 1838 by the Nacional Monte de Piedad, a pawn shop established in 1775 that still operates today.
+}}
+* {{see
+| name=Casa de la Primera Imprenta de América | alt=House of the First Print Shop in the Americas | url=https://www.facebook.com/pages/Casa-de-la-Primera-Imprenta-de-Am%C3%A9rica/144480592260073?sk=timeline&ref=page_internal | email=igcarrion@correo.uam.mx
+| address=Lic Francisco Primo de Verdad 10 | lat=19.43367 | long=-99.13079 | directions=
+| phone=+52 55 5522 1535 | tollfree= | fax=+52 55 5522 1675
+| hours=Mon-Fri 10:00-17:00, Sat 10:00-15:00 | price=Free
+| wikipedia=House of the First Print Shop in the Americas | image=PatioPrintShopDF1.JPG | wikidata=Q5915612
+| lastedit=2017-01-28
+| content=This building, which dates from 1524, housed the first printing press in the New World, which operated from 1539 until 1560. After this time the building was used for a number of purposes until it was restored by the ''Universidad Autónoma Metropolitana'' (UAM) in 1989; it now houses a museum displaying some of the first books printed in Mexico.
+}}
+* {{see
+| name=Plaza Manuel Gamio | alt= | url= | email=
+| address= | lat=19.43414 | long=-99.13204 | directions=Seminario between Moneda and Guatemala streets
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Plaza Manuel Gamio - 2.JPG | wikidata=Q21680735
+| lastedit=2017-01-28
+| content=Features an open-air diorama of the old Tenochtitlán.
+}}
+* {{see
+| name=Suprema Corte de Justicia de la Nación | alt=Supreme Court of Justice of the Nation | url= | email=
+| address= | lat=19.43112 | long=-99.13168 | directions=Pino Suarez and Corregidora
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Supreme Court of Justice of the Nation | image=Suprema Corte de Justicia de la Nación de México - frontispicio.jpg | wikidata=Q130925
+| content=This building was completed in 1945 and was designed by architect Antonio Muñoz Garcia.
+}}
+
+===Religious buildings===
+{{infobox|The Sinking City|The water table has been dropping since the drainage of Lake Texcoco began in 1607, and it's bringing the whole city down with it. Since the beginning of the 1900s, the city has sunk as much as {{m|9}} in some areas, and continues to sink up to {{convert|50|cm|in|abbr=on}} every year. This sinking is quite uneven, so you will notice that most historic buildings are now crooked, a few so badly that they produce an unsettling funhouse-mirror effect. You may see scaffolding and supports on churches and other buildings in an effort to keep these structures from toppling over.|image=Iglesia san juan de dios mexico df 1.JPG|caption=Templo de San Juan de Dios, on the Alameda Central
+}}
+*{{see
+| name=Catedral Metropolitana de México | alt=Metropolitan Cathedral | url=https://catedralmetropolitana.mx/ | email=
+| address= | lat=19.43434 | long=-99.13307 | directions=north side of the Zócalo
+| phone= | tollfree= | fax=
+| hours=Daily 07:00-19:00 | price=Free
+| image=Mexico Dic 06 045 1.jpg | wikidata=Q610961
+| lastedit=2026-02-23
+| content=The largest cathedral in the American continent. Designed by Claudio de Arcinieaga, construction started in 1537 and lasted for 250 years. Be sure to check out the side chapels where parishioners leave offerings for the various saints. For a bird's-eye view of the plaza, you can take a 40-minute tour (Spanish language only) of the upper levels and bell towers of the cathedral (M$12).
+}}
+** {{see
+| name=Sagrario Metropolitano | alt= | url=http://www.catedralmetropolitanademexico.mx/apps/publications/info/?a=56&z=13 | email=
+| address= | lat=19.43393 | long=-99.13262 | directions=
+| phone= | tollfree= | fax= | image=El Sagrario Metropolitano.JPG
+| hours=Daily 07:00-19:00 | price=
+| content=A side chapel next to the Cathedral completed in 1769. The façade is an excellent example of Mexican Churrigueresque architecture.
+}}
+* {{see
+| name=Templo de San Francisco | alt= | url= | email=
+| address=Francisco I Madero 7 | lat=19.43347 | long=-99.14005 | directions=
+| phone= | tollfree= | fax= | image=Segunda sección capilla de San Francisco 1.JPG
+| hours= | price=
+| content=This church was started in the 16th century and completed in the 19th century; it was built in the grounds of the zoo of Aztec Emperor Moctezuma.
+}}
+* {{see
+| name=Templo Expiatorio Nacional de San Felipe de Jesús | alt= | url= | email=
+| address=Francisco I Madero 9 | lat=19.43379 | long=-99.13985 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Fachada del Templo de San Felipe de JesúsD.jpg | wikidata=Q17374444
+| content=Built in 1897 on the site of the former Vasque Church of Aranzazu.
+}}
+* {{see
+| name=Santa Teresa La Antigua | alt=Iglesia de Santa Teresa | url= | email=
+| address=Licenciado Verdad 6 | lat=19.43399 | long=-99.13062 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Santa Teresa la Antigua | image=Fachada y campanario del Ex Convento de Santa Teresa.JPG | wikidata=Q7419961
+| content=Built in 1678 and refurbished in 1845.
+}}
+* {{see
+| name=Templo de la Enseñanza | alt=La Enseñanza Church | url= | email=
+| address=Donceles 104 | lat=19.43602 | long=-99.13224 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 08:00-20:00, Sun 10:00-17:00 | price=Free
+| wikipedia=La Enseñanza Church | image=ADENTRO DEL TEMPLO.JPG | wikidata=Q6462320
+| lastedit=2017-01-28
+| content=Tucked away on a side street, this very narrow gem of a church was built in the 1770s and is notable for being an outstanding example of Mexican Churrigueresque architecture. Even more remarkable than the façade, however, are the nine gilt retablos inside.
+}}
+* {{see
+| name=Templo y Convento de Regina Coeli | alt=Parroquia de la Natividad de María Santísima | url=https://www.facebook.com/ParroquiaReginaCoeliDF/ | email=
+| address=Regina 3 | lat=19.428118 | long=-99.138974 | directions=Metro to Isabel la Catolica
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-01-07
+| content=Huge historic church known for its opulent baroque interior. Part of a large Conceptionist convent founded in 1573. The statues and artwork is spectacular as is the gilded altar.
+}}
+[[File:Instalaciones y obras de la pinacoteca de la profesa 05.JPG|thumb|Early colonial artwork in the collection of Templo de San Felipe Neri]]
+* {{see
+| name=Templo de San Felipe Neri | alt=La Profesa | url=
+| address=Isabel La Católica 21 | lat=19.433839486158522 | long=-99.13638791899177 | directions=one block west of Zocalo
+| phone= | tollfree=
+| hours=public access Mon-Fri 10:30 - 14:00, Sat-Sun mass only, no public tours | price=
+| lastedit=2026-03-31
+| content=Baroque-style church established by the Jesuit order in the late 16th century and completed in 1610. The church is famous for its extensive art collection, some of which is on display for public viewing in an attached art gallery. The art was commissioned by the Jesuits during their first two centuries in Mexico. The collection remained intact when the Jesuits were expelled from all lands of the Spanish Empire during the 18th century. The building itself is admired for its early baroque architecture, which was more restrained than the effusive opulence of later churches, but that restraint did not extend to the church interior, which features many [[Sculptures|sculptures]] and period oil paintings, as well as architectural details like the extravangant Neoclassical main altar (designed by Manuel Tolsa to replace the original altar), covered in gold leaf. The art collection is one of the largest collections of early Mexican art and the gallery features four salons. Salon 1 contains the earliest works in the collection, mostly by well-known artists in Spain. Salon 2 boldly features a huge painting of Saint Philip Neri and the room is dedicated to works associated with the saint, as well as portraits of 11 popes. Salon 3 is a historical perspective of religious art from the 17th through 19th century with paintings depicting Biblical scenes and portraits of saints from those centuries. Salon 4 features works from the 18th century with two prominent paintings by Miguel Correa, one showing the torments of hell and the second showing judgment day as the good are separated from the evil. 
+}}
+
+===Plazas===
+[[File:Fuente de la Plaza de Santo Domingo.JPG|thumb|Plaza de Santo Domingo]]
+* {{see
+| name=Alameda Central | alt= | url= | email=
+| address= Av Hidalgo s/n | lat= | long= | directions={{station|Bellas Artes|city=mexicocity|2|8}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q3355305
+| lastedit=2026-03-07
+| content=Established in 1592, this green garden with fountains and statues is the oldest public park in the Americas. The name comes from ''álamo'', the Spanish word for poplar tree, that were planted here. Much of the current layout of the park, with its starburst pattern of paths around fountains and the central kiosk dates from the late 19th and early 20th centuries.
+}}
+* {{see
+| name=Plaza de Santo Domingo | alt= | url= | email=
+| address= | lat=19.43728 | long=-99.13384 | directions=Between the streets of República de Cuba, Brasil and Belisario Dominguez
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Fuente de la Plaza de Santo Domingo.JPG | wikidata=Q9060963
+| content=The second largest square in Centro Histórico after the Zócalo. It is surrounded by various important buildings such as the Palacio de la Inquisición, Santo Domingo convent and the old Customs House.
+}}
+** {{see
+| name=Museo de la Medicina Mexicana | alt=Antiguo Palacio de la Inquisición / Palace of the Inquisition | url=https://pem.facmed.unam.mx/ | email=palaciodemedicina@gmail.com
+| address=República de Brasil 33 | lat=19.43795 | long=-99.13307 | directions=
+| phone=+52 55 5623 3123 | tollfree= | fax=
+| hours=Daily 09:00-18:00 | price=Free
+| image=MedPlantsMedMuseumDF.JPG | wikidata=Q7126272
+| lastedit=2026-02-23
+| content=This museum managed by the Medicine Faculty of the National University shows the history of health care in Mexico. Features a great replica of an old pharmacy and reconstructed labs of influential medical researchers. Signage is in Spanish only. It is housed in the Inquisition Palace, built between 1732 and 1737, which was the head office of the Holy Inquisition, the religious authority famous for torturing heretic people.
+}}
+[[File:Escultura Carlos IV + Palacio de Minería.jpg|thumb|Plaza Manuel Tolsá]]
+* {{see
+| name=Plaza Manuel Tolsá | alt= | url= | email=
+| address=Tacuba 8 | lat=19.43609 | long=-99.13946 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Estatua del Caballito en la Plaza Manuel Tolsá Noche y Luna.JPG | wikidata=Q516715
+| content=In this beautiful square you can find the statue of Spanish king Charles IV also known as ''El Caballito'' (the little horse).
+}}
+** {{see
+| name=Museo Nacional de Arte | alt=MUNAL / National Art Museum | url=https://munal.mx/en/ | email=
+| address=Tacuba 8 | lat=19.43646 | long=-99.13942 | directions=
+| phone=+52 55 8647 5430 | tollfree=
+| hours=Tue-Sun 10:00-18:00, last entry 17:30 | price=Adult M$95; children under 13, people with disabilities, students with a valid ID: free; photography permit (no flash or tripod) M$5, video permit (no tripod or lighting) M$30
+| wikipedia=Museo Nacional de Arte | image=MUNAL.jpg | wikidata=Q1138147
+| lastedit=2025-08-26
+| content=Housed in the former Palace of Telecommunications, this beautiful Porfirian-style building was built in 1904 by architect Silvio Contri. The museum presents a permanent collection of paintings and sculptures from the 16th century through the early 20th century, including a large number of very early Mexican paintings. The museum is famous for its enormous and ostentatiously decorated Reception Hall and for its Patio de los Leones, which houses much of its sculpture collection. The museum is very large with over 3,000 objects on display. It often hosts temporary exhibits on special subjects. Allow at least a half day to fully explore its many galleries.
+}}
+** {{see
+| name=Palacio de Minería | alt=Palace of Mining | url=http://www.palaciomineria.unam.mx/ | email=
+| address=Tacuba 5 | lat=19.43546 | long=-99.13959 | directions=
+| phone=+52 55 5623 2929 | tollfree= | fax=
+| hours=Guided tours on Sat Sun 11:00 and13:00 | price=M$30
+| wikipedia=Palacio de Minería | image=Palacio de Mineria.jpg | wikidata=Q3431087
+| lastedit=2017-01-28
+| content=Formerly the Mining College, this building dated from 1792 features an old library and a chapel. It serves as venue for the yearly Mexico City Book Fair.
+}}
+[[File:TlatelolcoSite15.JPG|thumb|Zona Arquelógica Tlatelolco]]
+*{{see
+| name=Plaza de las Tres Culturas | alt= | url= | email=
+| address=Lázaro Cárdenas Eje | lat= | long= | directions=between cross streets Av Ricardo Flores Magón and Manuel González Eje; Metro to {{station|Garibaldi|city=mexicocity|8}} and walk north on Lázaro Cárdenas, or to {{station|Tlatelolco|city=mexicocity|3}} and walk east on Manuel González
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Plaza de las Tres Culturas | wikidata=Q1851912
+| lastedit=2017-01-28
+| content=So called because in one city square you can see three different time periods of Mexico City's development mixed together: the pre-hispanic Aztec temple grounds of '''Tlatelolco''', the 16th-century Spanish '''Church of Santiago''', and a modern 20th-century skyscraper, now home of the '''University Cultural Center Tlatelolco''' (CCUT) for UNAM.
+}}
+** {{see
+| name=Zona Arquelógica Tlatelolco | alt=Tlatelolco Archaeological Site | url= | email=
+| address= | lat=19.45141 | long=-99.13755 | directions=entrance is on Lázaro Cárdenas
+| phone= | tollfree= | fax=
+| hours=Daily English language tours at 13:00 | price=Free
+| wikipedia=Tlatelolco (archaeological site) | image=TlatelolcoSite15.JPG | wikidata=Q14623034
+| content=The temple, like Tenochtitlan's Templo Mayor, was built in several layers and is now the site of continuing archaeological exploration; it occupies the largest amount of area, on the north and west side of the plaza. If you're not around for the tour, you can guide yourself along the path (complete with English plaques) that takes you through the ruins, which deposits you in front of the Church of Santiago, on the east side of the plaza.
+}}
+** {{see
+| name=Templo de Santiago | alt=Church of Santiago | url= | email=
+| address= | lat=19.45107 | long=-99.13667 | directions=
+| phone= | tollfree= | fax= | image=Iglesia de Santiago Tlatelolco, México D.F., México, 2013-10-16, DD 38.JPG
+| hours= | price=
+| content=The colonial church, built by Spaniards immediately after destroying the temple in their conquest of Aztec lands, was constructed using stones "borrowed" from the temple itself. Despite its weathered appearance, the interior is well-maintained and should still hold regular Mass, although doors may not always be open to the public.
+}}
+** {{see
+| name=Centro Cultural Universitario Tlatelolco | alt= | url=https://tlatelolco.unam.mx/ | email=ccutlatelolco@gmail.com
+| address=Ricardo Flores Magón 1 | lat=19.45012 | long=-99.13702 | directions=
+| phone=+52 55 5117 2818 x49646 | tollfree= | fax=
+| hours= | price=
+| image=Ccut proceso134.jpg | wikidata=Q6408610
+| lastedit=2016-05-27
+| content=To the south, you'll see the modern-day tower and its adjacent buildings, which were built for the Secretary of External Relations (SRE), now headquartered across the street (though they still have offices in the church's adjoining cloister). UNAM runs the building as a conference hall and cultural center, and has a few exhibits open to the public: '''Memorial 68''' (see Museums, below) and the '''Blaisten Collection''', showcasing modern art.
+}}
+* {{see
+| name=Plaza Garibaldi | alt=Mariachi Square | url=https://www.facebook.com/plazaGaribaldiOfficial | email=
+| address=Eje Central Lázaro Cárdenas 43 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1471225
+| lastedit=
+| content=In this square, groups of musicians play folk music. Most of these groups are "mariachis" from [[Jalisco]], dressed in Charro costume and playing trumpets, violins, guitars and the guitarrón or bass guitar. The square is surrounded by cafés and restaurants that cater to mariachi band enthusiasts.
+}}
+
+===Museums===
+{{infobox|Noche de Museos|On the last Wednesday of the month, museums stay open extra late (sometimes until midnight), offer free admission, and present special events like live music, wine tastings, guest lectures, or film screenings (hopefully no Ben Stiller comedies).}}
+
+[[File:ApothecaryDisplayMayer1.jpg|thumb|Apothecary display at Museo Franz Mayer]]
+[[File:Museo de la Ciudad de México, México D.F., México, 2013-10-16, DD 130.JPG|thumb|Museo de la Ciudad de México]]
+Mexico City prides itself in having the largest number of museums in the world, and most of these museums are in Centro Histórico. Highly recommended are the Museo Nacional de Arte, Museo del Templo Mayor and Museo Franz Mayer. Remember most museums are closed on Mondays.
+
+====Art museums====
+* {{see| name= Museo de Arte Popular| alt= Museum of Folk Art| url= https://www.map.cdmx.gob.mx| email= | address= Revillagigedo 11| lat= 19.4336| long= -99.1463| directions= | phone= +52 55 5510 2201| tollfree= | hours= Tue-Sun 10:00-18:00| price= | wikidata= | lastedit= 2025-06-02| content= The Museo de Arte Popular in Mexico City is a vibrant showcase of folk art from every Mexican state, housed in a stunning 1920s art deco former fire station designed by Vicente Mendiola. Spread across three levels and five thematic halls, it displays crafts like Chiapas carnaval masks, Oaxaca alebrijes, regional costumes, and Day of the Dead artifacts. An illustrated wall map highlights Mexico’s regional traditions. Even museum skeptics and kids love its colorful exhibits, and the ground-level shop offers unique, high-quality handicrafts.
+
+
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Franz Mayer | alt=Franz Mayer Museum | url=https://franzmayer.org.mx/ | email=museo@franzmayer.org.mx
+| address=Hidalgo 45 | lat=19.43727 | long=-99.14331 | directions=
+| phone=+52 55 5518 2266 | tollfree=
+| hours=Tue-Sun 10:00-19:00 | price=M$45 (adults), M$25 (students/teachers), free (seniors/children under 12/museum members)
+| wikipedia=Franz Mayer Museum | image=ApothecaryDisplayMayer1.jpg | wikidata=Q1148324
+| lastedit=2017-01-28
+| content=Housed in an 18th-century building, houses the largest and finest collection of decorative arts in Mexico. The collection, including objects from Mexico, Europe and Asia ranging from the 16th to the 19th century was a donation of German-Mexican philanthropist Franz Mayer.
+}}
+* {{see
+| name=Museo José Luis Cuevas | alt=Museo JLC / José Luis Cuevas Museum | url=http://www.museojoseluiscuevas.com.mx/ | email=
+| address=Academía 13 | lat=19.43365 | long=-99.12914 | directions=
+| phone=+52 55 5522 0156 | tollfree=
+| hours=Mon-Fri 10:00-19:00 (closed Sat Sun) | price=M$40 (adults), M$20 (students/teachers)
+| wikipedia=José Luis Cuevas Museum | image=CourtyardJLCMuseumDF.JPG | wikidata=Q6292752
+| lastedit=2023-09-28
+| content=Housed in the former convent of Santa Ines built in 1600. The museum's collection features works by Mexican artist Jose Luis Cuevas as well as other modern artists, it also presents works (especially [[Sculpture|sculptures]]) from European artists such as Picasso and Rembrandt. The museum's courtyard features an enormous statue called, appropriately enough, ''La Gigantesca''.
+}}
+* {{see
+| name=Academía de San Carlos | alt=Museo Nacional de San Carlos / Academy of San Carlos | url=https://www.mnsancarlos.com/ | email=
+| address=Academía 22 | lat=19.43308 | long=-99.12868 | directions=
+| phone=+52 55 5522 0630 | tollfree=
+| hours= | price=
+| image=San Carlos (3186678949).jpg | wikidata=Q337267
+| lastedit=2023-04-13
+| content=Housed in a building dated 1785 that was conceived as the Royal Academy of Beaux Arts. It is administered by the National University and features permanent and temporary painting collections. This is the oldest arts academy in the Americas and has trained large number of Mexico's most famous artists. Today, the academy is part of the Universidad Nacional Autonoma de Mexico (UNAM) and only graduate courses are taught in the historic centro.
+}}
+* {{see | name=Museo Mural Diego Rivera | alt= | url=https://inba.gob.mx/recinto/46/museo-mural-diego-rivera | email=mmdr.informes@inba.gob.mx | address=Puente de Alvarado 50 | lat=19.43614 | long=-99.14680 | directions= | phone=+52 55 5512 0754 | tollfree= | fax= | hours=Tue-Sun 10:00-18:00 | price=M$35 (adults), free (students/teachers), photo permit M$5 | image=Museo Mural Diego Rivera.jpg | wikidata=Q6033558 | lastedit=2018-01-18 | content=This museum was built to house Diego Rivera's famous mural ''Sueño de una tarde dominical en la Alameda Central'' ('Dream of a Sunday Afternoon in the Alameda Central'), which the painter created for the Hotel del Prado in 1947-1948. The hotel was destroyed in the earthquake of 1985, but the mural survived and was moved to this location. The museum also hosts permanent and temporary exhibits.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see | name=Museo Nacional de la Estampa | alt=MUNAE / Museum of Graphic Arts | url=http://www.museonacionaldelaestampa.bellasartes.gob.mx/ | email= | address=Avda Hidalgo 39 | lat=19.43703 | long=-99.14272 | directions=Plaza de la Santa Veracruz | phone=+52 55 5510 4905 | tollfree= | fax= | hours=Tue-Sun 10:00-18:00 | price=M$45 (adults), free (students/teachers/INAPAM members); free admission on Sundays | wikipedia=Museo de la Estampa | image=De noche fuera del Museo Nacional de la Estampa.JPG | wikidata=Q2893965 | lastedit=2017-01-28 | content=Features a collection of old engravings and other graphic arts.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Kaluz | alt= | url=https://museokaluz.org | email=
+| address=Hidalgo 85 | lat=19.438300 | long=-99.145847 | directions=corner of Hidalgo and Reforma, at the edge of the Alameda; Metro {{station|Hidalgo|city=mexicocity|2|3}} or {{station|Bellas Artes|city=mexicocity|2|8}}
+| phone=+52 55 2345 3168 | tollfree=
+| hours=Wed-Mon 10:00 - 18:00, closed Tue | price=M$90 (foreigners), M$60 (Mexican citizens)
+| lastedit=2023-11-11
+| content=Eclectic art museum that straddles the line between traditional artistic styles and the worlds of modern and contemporary art. The museum focuses on works that reflect the history and changing cultural values of Mexico City, a unique collection in a city crowded with outstanding arts venues. The museum itself is housed in a historic building, originally the Hospedería de Santo Tomás de Villanueva, but known to generations of Mexicans as the Hotel Cortes, the building was extensively restored and updated prior to the opening of Museo Kaluz in 2021. Roof top terrace with peaceful gardens and a popular cafe.
+}}
+* {{see
+| name=Museo de la Arte de SHCP | alt=Antiguo Palacio del Arzobispado | url=https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=968 | email=
+| address=Moneda 4 | lat=19.43378189835445 | long=-99.13129303366622 | directions=20 meters off the Zócalo, near Palacio Nacional
+| phone=+52 55 3688 1248 | tollfree=
+| hours=Tue-Sun 10:00 - 17:00, closed Mon | price=Free
+| lastedit=2024-01-06
+| content=Eclectic art collection owned by the government's Finance ministry. Mexico has an innovative tax program that allows collectors and artists to pay tax debts by donating significant artworks. The collection includes works by famous artists like Diego Rivera, Frida Kahlo, and Rufino Tamayo as well as many cutting-edge contemporary works.
+}}
+[[File:Diego Rivera Murals - Secretaria de Educacion Publica (SEP).jpg|thumb|124 Diego Rivera murals line the walls of the former Secretary of Education building.]]
+* {{see
+| name=Museo Vivo del Muralismo | alt=formerly Secretaría de Educación Pública/Ministry of Public Education | url=https://museovivodelmuralismo.sep.gob.mx/ | email=
+| address=Republica de Argentina 28 | lat=19.4371 | long=-99.1322 | directions=
+| phone=+52 55 3601 1000 | tollfree=
+| hours=Wed-Mon 10:00-18:00, closed Tue | price=Free
+| image=Diego Rivera Murals - Secretaria de Educacion Publica (SEP).jpg | wikidata=Q7444217
+| lastedit=2026-02-23
+| content=This museum is housed in a former convent from 1729 that later became headquarters for the Education Secretariat. In 1923, the department commissioned the up-and-coming Diego Rivera to decorate the building with 124 mural panels, extending over two city blocks and filling three levels. There are elaborate panels of traditional Mexican life on the ground floor, state seals on the second floor, and themes of revolution and class inequality on the third level. There is also a David Alfaro Siqueiros mural in the main stairwell. In 2024, the building became a museum dedicated to Mexican murals, with additional exhibits. Photography permitted, no flash.
+}}
+
+====History museums====
+
+* {{see
+| name=Museo de la Ciudad de México | alt=Museum of the City of Mexico | url=https://www.facebook.com/museodelaciudadmx/ | email=atencionapublico.mcm@gmail.com
+| address=José María Pino Suárez 30 | lat=19.42926 | long=-99.13214 | directions=
+| phone=+52 55 5522 9936 | tollfree= | fax=
+| hours=Tue-Sat 10:00-18:00 | price=M$29 (adults), M$14.50 (students/teachers/INAPAM members); free on W
+| wikipedia=Museum of the City of Mexico | image=Museo de la Ciudad de México, México D.F., México, 2013-10-16, DD 130.JPG | wikidata=Q1402600
+| lastedit=2016-05-27
+| content=This museum presents the history of the city in an 18th-century mansion; the building is possibly more interesting than the contents. It is believed that a conquistador's house used to be on the site, as evidenced by the southwest cornerstone of an Aztec serpent head likely taken from the Templo Mayor.
+}}
+*{{see | name=Memorial del 68 | alt= | url=http://sic.gob.mx/ficha.php?table=museo&table_id=1600 | email= | address=Avda Ricardo Flores Magón 1 | lat=19.44978 | long=-99.13664 | directions=cross street Lázaro Cárdenas Eje; Metro to {{station|Garibaldi|city=mexicocity|8}} and walk north on Lázaro Cárdenas, or to {{station|Tlatelolco|city=mexicocity|3}} and walk east on Manuel González | phone= | tollfree= | fax= | hours=Tue-Sun 10:00-18:00 | price=M$30 (adults), M$15 (students), free (children under 6); free admission on Su | image=Memorial 2.JPG | wikidata=Q5406027 | lastedit=2017-01-28 | content=In UNAM's University Cultural Center Tlatelolco (CCUT) at the Plaza de las Tres Culturas (see Landmarks, above), Memorial 68 is a well-put together museum chronicling the events surrounding the police massacre of student protesters at Tlatelolco in 1968, around the time of the Summer Olympics, which were hosted in Mexico City that year. It's definitely worth a look, but all explanatory text and video interviews are in Spanish only, so brush up your vocabulary or bring a translator.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Memoria y Tolerancia | alt=Museum of Memory and Tolerance | url=http://www.myt.org.mx/ | email=info@myt.org.mx
+| address=Plaza Juárez | lat=19.43418 | long=-99.14462 | directions=
+| phone=+52 55 5130 5555 | tollfree=
+| hours=Tue-Fri 09:00-18:00, Sat Sun 10:00-19:00; last tickets sold ½ hr before closing | price=M$75 (adults), M$60 (students/teachers/seniors); temporary exhibits: M$30 (adults), M$15 (concessions)
+| image=Museo Memoria y Tolerancia 43.JPG | wikidata=Q6033509
+| lastedit=2024-02-11
+| content=Opened in 2010, this museum is dedicated to the remembrance of genocides and crimes against humanity committed around the globe, with the goal of promoting peace and tolerance. Separate sections of the museum are devoted to the Holocaust, Bosnia-Herzegovina, Rwanda, the Khmer Rouge, Darfur, Armenia, and Guatemala. Genocide is only one of the issues the museum confronts. Exhibits also explore hate crimes committed in the name of religion, racial purity, and especially sexual orientation, with a number of exhibits and lectures exploring LGBT issues (in Mexico, they tend to add a ''lot'' of extra letters so that you might see it as LGBTTTQIA).
+}}
+
+====Garment museums====
+
+* {{see
+| name=Museo de la Indumentaria Mexicana | alt= | url= | email=
+| address=Izazaga and 5 de Febrero | lat=19.42654 | long=-99.13645 | directions=In Universidad del Claustro de Sor Juana
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q5556764
+| content=Collection of traditional Mexican clothing.
+}}
+* {{see
+| name=Museo del Calzado El Borceguí | alt=El Borceguí Shoe Museum | url= | email=
+| address=C/ Bolivar 27, 1st Floor | lat=19.433111 | long=-99.138501 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 10:00-14:00 15:00-18:00, Sat 10:00-18:00 | price=Free
+| image=Borcegui 21.jpg | wikidata=Q17374405
+| lastedit=2017-01-28
+| content=Private collection of old shoes from the 18th, 19th and 20th centuries. The museum belongs to the shoe store ''El Borcegui'', established in 1865 and still selling shoes today.
+}}
+
+====Other museums====
+
+* {{see
+| name=Museo Nacional de las Culturas | alt=National Museum of Cultures | url=https://www.museodelasculturas.mx/ | email=direccion.mnc@inah.gob.mx
+| address=C/ Moneda 13 | lat=19.43305 | long=-99.13040 | directions=
+| phone=+52 55 5542 0187 | tollfree= | fax=
+| hours=Tue-Sat 10:00-17:00 | price=Free
+| wikipedia=Museo Nacional de las Culturas | image=Museo Nacional de las Culturas.JPG | wikidata=Q6940503
+| lastedit=2017-01-28
+| content=Housed in the former Mint building built in 1734. The museum is dedicated to anthropology of the world.
+}}
+* {{see | name=Museo Archivo de la Fotografia | url=https://www.cultura.cdmx.gob.mx/recintos/maf | address=Republica de Guatemala 34 | lat=19.43516784998736 | long=-99.13217331828216 | phone=+52 55 2616 7057 | hours=Tue-Sun 10:00 - 17:00, closed Mon | price= | lastedit=2024-01-28 | content=Housed in the historic 16th-century Casa de las Ajaracas, it is a rare survivor on a street that has seen other historic structures knocked down to explore the Templo Mayor site. The museum is home to a huge collection of historical photographs from the 19th, 20th and 21st centuries, documenting the constantly changing cityscape of Mexico City. 
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Centro Cultural de España en México | alt=CCEMx / Cultural Center of Spain in Mexico | url=https://ccemx.aecid.es/ | email=info@ccemx.org
+| address=República de Guatemala 18 | lat=19.43517 | long=-99.13291 | directions=
+| phone=+52 5521 1925 | tollfree= | fax=
+| hours=Tue-Fri 11:00-21:00, Sat 10:00-21:00, Sun 10:00-16:00 | price=Free
+| wikipedia=Centro Cultural de España | image=CCEMEXFacade01.JPG | wikidata=Q5062814
+| lastedit=2017-01-28
+| content=This is the official cultural center from the Spanish Embassy and features temporary exhibits.
+}}
+* {{see
+| name=Museo de San Ildefonso | alt=Antiguo Colegio de San Ildefonso / San Ildefonso College | url=http://www.sanildefonso.org.mx/ | email=servicios@sanildefonso.org.mx
+| address=Justo Sierra 16 | lat=19.43605 | long=-99.13066 | directions=
+| phone=+52 55 5702 2991 | tollfree=
+| hours=Tue 10:00-20:00, Wed-Sun 10:00-18:00 | price=M$50 (adults), M$25 (students/teachers), free (children under 12); free admission on Tu
+| wikipedia=San Ildefonso College | image=PortalColegioGrandeSIDF.JPG | wikidata=Q2297137
+| lastedit=2017-01-28
+| content=Managed by the National University, this museum features some stunning murals and hosts great permanent and temporary art exhibits.
+}}
+* {{see
+| name=Museo del Estanquillo | alt=Museum of the Little Shop | url=http://www.museodelestanquillo.com/ | email=
+| address=Isabel La Católica 26 | lat=19.43330 | long=-99.13615 | directions=
+| phone=+52 55 5521 3052 | tollfree= | fax=
+| hours=Wed-Mon 10:00-18:00 | price=
+| wikipedia=Museo del Estanquillo | image=Museo del Estanquillo de Noche.jpg | wikidata=Q6034430
+| content=One of the newest museums in the city, this contains the personal collection of paintings, photography, and books of the Mexican journalist and writer Carlos Monsivais.
+}}
+* {{see
+| name=Museo de la Caricatura | alt=Caricature Museum | url=http://museodelacaricatura.org/ | email=
+| address=C/ Donceles 99 | lat=19.43565 | long=-99.13266 | directions=
+| phone=+52 55 5702 9256 | tollfree= | fax=
+| hours=Daily 10:00-18:00 | price=M$20 (adults), M$10 (students/teachers)
+| wikipedia=Caricature Museum, Mexico City | image=EntranceCaricatureMusDF.JPG | wikidata=Q5039534
+| lastedit=2017-01-28
+| content=Depicting the history of Mexican cartoons (political and amusing cartoons).
+}}
+* {{see
+| name=Museo de la Luz | alt=Museum of Light | url=http://www.museodelaluz.unam.mx/ | email=museoluz@unam.mx
+| address=El Carmen 31 | lat=19.43656 | long=-99.12933 | directions=corner with San Ildefonso
+| phone=+52 55 5702 4129 | tollfree= | fax=
+| hours=Mon-Fri 09:00-17:00, Sat Sun and holidays 10:00-17:00 | price=M$35 (adults), M$25 (concessions), free (children under 2)
+| wikipedia=Museum of Light, Mexico City | image=FacadeMuseoLuzDF.JPG | wikidata=Q15260374
+| lastedit=2017-01-28
+| content=Managed by the National University, this museum is mostly for students on everything to do with light (photography, electricity, vision, etc).
+}}
+* {{see
+| name=Museo de la Charrería | alt=Ex Templo de Nuestra Señora de Montserrat | url= | email=
+| address=José María Izazaga 89 | lat=19.42604 | long=-99.13714 | directions=near Isabel La Católica
+| phone=+52 55 5709 4793 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Museo de Charrería | image=Templo Montserrat.jpg | wikidata=Q9047058
+| content=This museum features everything about the Mexican Cowboy, known as Charro.
+}}
+* {{see
+| name=Museo Legislativo | alt=Mexico Congress | url=http://museolegislativo.diputados.gob.mx/ | email=
+| address=Honorable Congreso de la Unión #66, Col. Delegacion | lat=19.430240 | long=-99.117393 | directions=Metro {{station|San Lazaro|city=mexicocity|1|B}} or {{station|Candelaria|city=mexicocity|1|4}}
+| phone= | tollfree=
+| hours=Mon-Fri 10:00 - 18:00, closed Sat-Sun | price=Free
+| lastedit=2024-01-09
+| content=Museum dedicated to Mexico's Congress, with exhibits about the legislative process and the two houses: the Senate and the Chamber of Deputies. The building houses the legislative chamber of the larger house (Chamber of Deputies). The Senate conducts sessions in a different building on Av. Reforma. Congressional tours are conducted through the museum and include the opportunity to enter the Chamber of Deputies. This building is equivalent to Parliament in London or the Capitol in Washington D.C.
+}}
+* {{see
+| name=Centro de la Imagen | alt= | url=https://centrodelaimagen.cultura.gob.mx/ | email=cimagen@mail.internet.com.mx
+| address=Plaza de la Ciudadela 2 | lat=19.4292 | long=-99.1488 | directions=entrance on Calle Balderas
+| phone=+52 55 4155 0850 | tollfree= | fax=
+| hours=Mon-Fri 10:00-18:00 | price=Free
+| image=Centro de la Imagen, México.jpg | wikidata=Q5762082
+| content=This is one of Mexico City's premier exhibition spaces for photography, with rotating exhibits of work by Mexican and international photographers. The center also has a small bookstore.
+}}
+
+===Historic buildings===
+[[File:Palacio de Iturbide.jpg|thumb|Palacio de Iturbide]]
+* {{see
+| name=Palacio de Iturbide | alt=Palacio de Cultura Banamex / Palace of Iturbide | url=http://fomentoculturalbanamex.org/ | email=
+| address=Francisco I Madero 17 | lat=19.43361 | long=-99.13897 | directions=
+| phone=+52 55 1226 0004 | tollfree= | fax=
+| hours=Daily 10:00-19:00 | price=Free
+| wikipedia=Palace of Iturbide | image=Palacio de Iturbide.jpg | wikidata=Q130898
+| lastedit=2017-01-28
+| content=One of the oldest buildings in town, built in the late 16th century, it was first home to the local nobility and later the residence of Mexican Emperor Agustin de Iturbide. The building is owned today by the Cultural Trust of Banco Nacional de Mexico, the Mexican branch of Citibank.
+}}
+[[File:Palacio de Bellas Artes.jpg|thumb|Palacio de Bellas Artes]]
+* {{see | name=Palacio de Bellas Artes | alt=Palace of Fine Arts | url=http://www.palacio.bellasartes.gob.mx/ | email=gpba.palaciodebellasartes@inba.gob.mx | address=Avenida Juárez and Eje Central | lat=19.43550 | long=-99.14126 | directions= | phone=+52 55 5512 2593 | tollfree= | fax= | hours=Tue-Sun 10:00-18:00; last admission ½ hr before closing | price=Free (lobby), M$60 for mezzanine with murals and galleries; $M30 photography permit; free admission on Sundays | wikipedia=Palacio de Bellas Artes | image=Palacio de Bellas Artes.jpg | wikidata=Q1139081 | lastedit=2017-01-29 | content=Designed by Italian architect Adamo Boari. Construction started in 1905, however due to the Revolution War, it was not completed until 1934. The building is so heavy that it has sunk 4½m into the former lakebed. It is considered to be one of the best examples of Mexican Art Deco architecture; architectural and interior features include its copper cupolas and a Tiffany stained-glass stage curtain designed by Mexican painter Gerardo Murillo (commonly known as Dr. Atl).}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+**The main attraction for visitors is the building's collection of large murals on the 2nd and 3rd floors, by David Siqueiros, Diego Rivera, Rufino Tamayo, and Juan O'Gorman. Of these, highlights include Siqueiros' masterpiece ''Nueva democracia'' and Rivera's ''El hombre contralor del Universo'', a reproduction of the original commissioned and destroyed by Nelson Rockefeller in New York.
+**''Ballet Folklorico de Amalia Hernandez'' is a renowned dance theatre show that performs regularly in the Palacio de Bellas Artes when the show is not touring internationally. The theatre is a stunning art deco venue with a stained glass curtain created by Dr. Atl. Show times and tickets are available on TicketMaster.
+[[File:Palacio Postal, México D.F., México, 2013-10-16, DD 52.JPG|thumb|Palacio Postal]]
+* {{see
+| name=Palacio Postal | alt=Palacio de Correos / Correos Mayor | url= | email=
+| address=Tacuba 1 | lat=19.43562 | long=-99.14028 | directions=corner of Eje Central and Tacuba.
+| phone= | tollfree= | fax=
+| hours=Mon-Fri 08:00-21:00, Sat 08:00-18:00 | price=Free
+| wikipedia=Palacio de Correos de Mexico | image=Palacio Postal, México D.F., México, 2013-10-16, DD 52.JPG | wikidata=Q978161
+| content=One of the most beautiful buildings in the country and considered a National Heritage Building. Built in 1906, this European style building houses the main post office. Most of the materials used to build it were brought from Italy.
+}}
+** {{see
+| name=Museo Postal | url= | email=
+| address=Tacuba 1 | lat=19.43577 | long=-99.14027 | directions=Palacio Postal
+| phone=+52 55 5510 2999 | tollfree= | fax= | image=ClockPalPostalDF.JPG
+| hours=Daily 10:00-18:00 | price=
+| content=Housed in the Postal Palace, features old postal stationery and mail boxes.
+}}
+* {{see
+| name=Banco de México | alt=Bank of Mexico | url= | email=
+| address=Cinco de Mayo and Avda Eje Central | lat=19.43505 | long=-99.14041 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bank of Mexico | image=Banco de México & INBA.jpg | wikidata=Q806208
+| content=Office of the Mexican Central Bank, built in 1925.
+}}
+* {{see
+| name=Casa Rivas Mercado | alt= | url=https://casarivasmercado.com/ | email=visitas@casarivasmercado.com
+| address=Calle Heroes 45, Guerrero | lat=19.441239 | long=-99.146738 | directions=From {{station|Hidalgo|city=mexicocity|2|3}}, walk 250 meters north on Calle Heroes
+| phone=+52 55 2591 6666 | tollfree=
+| hours=Sat-Sun 10:00-11:30 and 12:00-13:30, closed Mon-Fri | price=M$200
+| lastedit=2024-09-11
+| content=Architecturally unique and utterly fascinating restored neoclassical mansion from the Porfiriato era of the 19th century with period furnishings. Guided tours (in Spanish).
+}}
+
+===Other attractions===
+* {{see
+| name=Torre Latinoamericana | alt=Latinoamericana Tower | url=http://torrelatinoamericana.com.mx/ | email=
+| address=Eje Central Lázaro Cárdenas 2 | lat=19.43389 | long=-99.14061 | directions=corner of Francisco I Madero St
+| phone= | tollfree=
+| hours=Daily 09:00-22:00 | price=M$120 (observatory)
+| wikipedia=Torre Latinoamericana | image=Torre Latino.jpg | wikidata=Q947870
+| content=Construction started in 1948 and was completed in 1956. This was Mexico's first skyscraper, boasting 44 floors and 182 meters. There is an observatory in the 42nd floor.
+}}
+* {{see
+| name=Biblioteca Miguel Lerdo de Tejada | alt=Library of Miguel Lerdo de Tejada | url=http://www.hacienda.gob.mx/cultura/museo_virtual_biblioteca_lerdo/index.htm | email=
+| address=República de El Salvador 49 | lat=19.42969 | long=-99.13780 | directions=
+| phone=+52 55 3688 9837 | tollfree= | fax=
+| hours=Mon-Fri 09:00-17:30 | price=Free
+| image=Biblioteca Miguel Lerdo de Tejada.jpg | wikidata=Q16489693
+| content=This Baroque building was built as a church, but in the 1960s was repurposed to house a library. For visitors the primary interest is a series of enormous murals painted by the Russian emigré painter Vladimir Kibalchich Russakov (known in Mexico simply as Vlady). The murals in the main room are titled ''La Revolución y los Elementos'' (or 'Revolution and the Elements'). They required eight years to complete and are considered to be among the artist's most well-known works.
+}}
+* {{see
+| name=Biblioteca de México José Vasconcelos | alt= | url=https://www.facebook.com/bibliotecademexico.ciudadela | email=
+| address=Plaza de la Ciudadela No 4 | lat=19.42865 | long=-99.14967 | directions=
+| phone=+52 55 4155 0830 | tollfree= | fax=
+| hours=Daily 08:30-19:30 | price=Free
+| image=EntranceMexicoCityLibrary.JPG | wikidata=Q5727809
+| lastedit=2017-01-29
+| content=Located in a former tobacco factory, it is one of the largest libraries in the city. It contains several beautiful courtyards and smaller libraries decorated according to the character of different Mexican authors who donated their book collections to the library.
+}}
+[[File:Vasconcelos library.jpg|thumb|Inside the Biblioteca Vasconcelos]]
+* {{see | name=Biblioteca Vasconcelos | alt=Megabiblioteca | url=https://www.bibliotecavasconcelos.gob.mx/ | email=contactobvasconcelos@conaculta.gob.mx | address=Eje 1 norte Mosqueta s/n | lat=19.44741 | long=-99.15081 | directions=corner of Aldama | phone=+52 55 9157 2800 | tollfree= | hours=Daily 08:30-19:30 | price=Free | wikipedia=Biblioteca Vasconcelos | image=Biblioteca Vasconcelos, Ciudad de México, México, 2015-07-20, DD 04-06 HDR.JPG | wikidata=Q6294156 | lastedit=2023-11-11 | content=Next to Buenavista train station, it is the largest library in Mexico and functions as a central library for other libraries in the country. It is housed in an impressive modern building designed by architects Alberto Kalach and Juan Palomar. It is a must for visitors with an interest in architecture, not only for its stunning exterior design, but for its famous "floating stacks" that create the illusion of book shelves hanging from the ceiling. The library also houses a large contemporary art collection. The ground floor houses free temporary exhibits and the grounds include a botanical garden with native plants.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Adjacent neighborhoods===
+* {{see
+| name=Colonia Santa María la Ribera | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Colonia Santa María la Ribera | wikidata=Q5148257
+| lastedit=2017-01-29
+| content=A colonia in the Cuauhtémoc borough, 2 km west of the historic center. This area was designated as a "Barrio Mágico" by the city in 2011. It was created in the late 19th century and reached its height between 1910 and 1930. In the 1930s, the middle class moved in and a new era of construction began. Today, the colonia is a mix of old mansions and homes (with over 1,000 categorized has having architectural or historic value), small shops and businesses, tenements and abandoned buildings.
+}}
+** {{see
+| name=Alameda de Santa María la Ribera | alt= | url= | email=
+| address=Calle Salvador Díaz Mirón | lat=19.4503 | long=-99.1572 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q54820837
+| lastedit=2025-06-02
+| content=This historic park, established in 1861, is the heart of Santa María la Ribera. Its centerpiece is the Kiosco Morisco, an Art Nouveau pavilion built in 1884 for the New Orleans World’s Fair and relocated here in 1910. Surrounded by jacaranda trees and tiled fountains, it hosts dance classes, markets, and music on weekends.}}
+** {{see
+| name=Museo del Instituto de Geología de la UNAM | alt= | url=http://www.geologia.unam.mx/igl/museo | email=musgeologia1906@gmail.com
+| address=Jaime Torres Bodet 176 | lat=19.4502 | long=-99.1576 | directions=
+| phone=+52 55 5547 3948 | tollfree=
+| hours=Tue-Sun 10:00-17:00 | price=M$30 (general), M$25 (students, teachers, seniors)
+| wikidata=
+| lastedit=2025-06-02
+| content=Housed in a 1906 Porfirian building in Santa María la Ribera, this museum showcases Mexico’s geological heritage with a mammoth skeleton, the dinosaur Isauria, and extensive mineral and fossil collections. Interactive exhibits and José María Velasco’s paintings enhance the experience.
+}}
+** {{see
+| name=Parroquia Josefina de la Sagrada Familia | alt= | url= | email=musgeologia1906@gmail.com
+| address=Santa María la Ribera 69 | lat=19.4445 | long=-99.157773 | directions=
+| phone=+52 55 7314 4793 | tollfree=
+| hours=Daily 09:00-13:00, 16:00-19:00 | price=
+| wikidata=
+| lastedit=2025-06-02
+| content=This late 19th-century Byzantine-style church in Santa María la Ribera, designed by Carlos Herrera, is a hidden gem. Its vibrant interior features murals by Pedro Cruz depicting the life of St. Joseph, Christ’s birth, and the flight to Egypt, alongside stunning stained-glass windows and unique woodwork. A serene space for reflection, it’s a cultural treasure in one of Mexico City’s historic neighborhoods.
+}}
+** {{see
+| name=Museo Universitario del Chopo | alt= | url=http://www.chopo.unam.mx | email=contacto@chopo.unam.mx
+| address=Dr. Enrique González Martínez 10 | lat=19.4421 | long=-99.1567 | directions=
+| phone=+52 55 5546 8490 | tollfree=
+| hours=Wed-Sun 11:30-18:00 | price=M$40 (general), M$20 (students, teachers, seniors)
+| wikidata=Q1954283
+| lastedit=2025-06-02
+| content=Housed in a striking 1902 iron-and-glass building by Enrique Norten, this UNAM-managed museum in Santa María la Ribera focuses on contemporary art. It features rotating exhibits of avant-garde works, performances, and workshops. A cultural hub with a modernist vibe.
+}}
+[[File:Monumento_a_la_Revolución_1.jpg|thumb|Monument to the Revolution in Tabaclera]]
+* {{see
+| name=Colonia Tabaclera | alt= | url= | email=
+| address= | lat= | long= | directions={{station|Hidalgo|city=mexicocity|2|3}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Colonia Tabacalera | wikidata=Q5148258
+| lastedit=2025-07-15
+| content=A colonia in the Cuauhtémoc borough of Mexico City, on the western edge of the Centro Histórico and the Zona Rosa. This area was developed in the early 1900s with a mix of mansions and upscale apartment buildings, but its fortunes had declined by the end of the 20th century and the area is a bit rough at night with seedy characters engaged in prostitution, drug dealing, and petty crime, though it is generally safe during the day. The neighborhood has a bohemian character with several old cantinas. The neighborhood was once the refuge of Fidel Castro and his supporters who plotted their Cuban Revolution in local cantinas. The most famous attractions here are the '''Monument of the Revolution ''' (with a large historical museum), the '''San Carlos National Museum''', and the '''Jai-Alai Fronton Mexico'''.
+}}
+
+==Do==
+===Bicycling===
+[[File:Bicicletas Paseo de la Reforma - TurismoCDMX - 39.jpg|thumb|Free bikes on Paseo de la Reforma]]
+Bicycle your way through the city center on Sunday morning.  Paseo de la Reforma is closed to vehicle traffic and so are a lot of other downtown streets. The Mexico City government makes it easy to join in the fun. Go to Glorieta de las Palmas on Paseo Reforma and look for the big tents. There you'll find bikes you can borrow for up to 2 hours --- no charge --- just show your ID and fill out a form. Bikes are available starting at 8:00 and must be returned by 14:00.
+
+===Performing arts===
+
+[[File:Teatro de la Ciudad "Esperanza Iris" 20170323- DSC1493-Pano (32979415734).jpg|thumb|Inside Teatro de la Ciudad]]
+* {{do
+| name=Teatro de la Ciudad | alt=Esperanza Iris | url=http://www.teatros.cultura.cdmx.gob.mx/ | email=
+| address=Doncelos 36 | lat=19.4366 | long=-99.1373 | directions={{station|Allende|city=mexicocity|2}}
+| phone=+52 55 1719 3000 | tollfree=
+| hours= | price=
+| wikidata=Q7691977
+| content=Historic theatre that was built to resemble La Scala in Milan. It is a huge theatre with stacks of balcony levels looking onto the stage below. The best seats are on the 1st balcony level (better than main level seats). The theatre hosts a range of performances, many plays, but also dance, music, and other forms.
+}}
+* {{do
+| name=Balet Folklorico | alt= | url=https://balletfolkloricodemexico.com.mx/ | email=
+| address=Palacio de Bellas Artes (see below) | lat= | long= | directions={{station|Bellas Artes|city=mexicocity|2|8}}
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-10-23
+| content=Iconic performances of regional traditional dance and music from all parts of Mexico. The performance hall itself is a spectacular example of [[Art Deco architecture]] and features a stained glass curtain designed by famed muralist Dr. Atl.
+}}
+* {{do
+| name=Arena Coliseo | alt= | url= | email=
+| address=República de Perú 77 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q16251625
+| lastedit=2016-02-19
+| content=A famous venue for ''lucha libre'' (Mexican wrestling) and boxing.
+}}
+
+==Buy==
+Shopping in the Centro is a real back-in-time experience as many of the spaces where the stores are located are truly historic. Until the 1950s the Centro Histórico was the main shopping district of the city. Many of the prestigious department stores of the country such as Liverpool and El Palacio de Hierro opened their first stores here. It is still one of the busiest shopping areas of the city.
+
+===Markets===
+[[File:Hall2MercedDF.JPG|thumb|La Merced]]
+[[File:Mercado de Sonora México DF 20 04 07.jpg|thumb|Santa Muerte items for sale at Mercado de Sonora]]
+* {{buy
+| name=Mercado de la Merced | alt=La Merced Market | url= | email=
+| address=bounded by Santa Escuela, General Anaya, Rosario, and Cerrado del Rosario | lat=19.4262 | long=-99.1239 | directions={{station|Merced|city=mexicocity|1}}
+| phone= | tollfree=
+| hours=Daily 06:00-18:00 | price=
+| wikipedia=La Merced Market | image=Hall2MercedDF.JPG | wikidata=Q3377015
+| lastedit=2024-04-26
+| content=One of the largest and most famous markets in Mexico, La Merced was built in 1860 and covers several blocks with tianguis style vendors lining nearby streets. The market mainly sells food and household items; if you're looking to cook for yourself or just want to wander aisles of stalls selling cheap limes or huitlacoche, this is the place to go. Many vendors offer tastings. Foreigners will stick out a bit, but not excessively. Vendors are honest, at least for Spanish speakers, and may accommodate some bargaining although prices are fair. Local tour guides offer half-day tours of the market (yes, it's ''that'' big!). Vendors with the best food usually have the longest lines.
+}}
+* {{buy
+| name=Mercado de Sonora | alt=Witches' Market | url= | email=
+| address=Av Fray Servando Teresa de Mier | lat=19.4221 | long=-99.1249 | directions=corner of Calz de la Viga
+| phone= | tollfree= | fax=
+| hours=Daily 08:00-17:00 | price=
+| wikipedia=Mercado de Sonora | image=Mercado de Sonora México DF 20 04 07.jpg | wikidata=Q5548562
+|lastedit=2020-03-11| content=One of the more interesting markets, this specializes in traditional medicines, as well as paraphernalia for Santa Muerte and voodoo. Endangered animals are also sold here, and the market is regularly raided by the police. The area is not as safe as the higher-class neighborhoods to the west; exercise caution.
+}}
+* {{buy
+| name=Mercado de San Juan | alt= | url= | email=
+| address=C Ernesto Pugibet 21 | lat=19.42995 | long=-99.14465 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily | price=
+| image=DeliSanJuanDF.JPG | wikidata=Q28517857
+|lastedit=2026-03-07
+| content=This market specializing in gourmet foods, and is frequented by many of Mexico City's top chefs. On offer are many foods imported from Europe and elsewhere, including such specialties as European cheeses, Spanish and Italian sausage, pre-Hispanic foods and exotic meats.
+}}
+* {{buy
+| name=Mercado de Artesanías de San Juan | alt=San Juan Arts and Crafts Market | url=https://www.facebook.com/sjcdmx/ | email=
+| address=Ayuntamiento s/n | lat=19.43026 | long=-99.14305 | directions=
+| phone=+52 55 5521 7846 | tollfree= | fax= | image=Mercado artesanias san Juan.jpg
+| hours=Daily 10:00-16:00 | price=
+| content=Vendors here sell a full range of Mexican handicrafts from across the country, including pottery, textiles, carving, leatherwork, and jewelry.
+}}
+* {{buy
+| name=Mercado de la Ciudadela | alt=Ciudadela Market | url=https://www.facebook.com/MERCADODEARTESANIASLACIUDADELA | email=
+| address=C Balderas 97 | lat=19.43082 | long=-99.14917 | directions=
+| phone=+52 55 5510 1828 | tollfree= | fax=
+| hours=Mon-Sat 10:00-19:00, Sun 10:00-18:00 | price=
+| image=ArtesaniasCiudadela.JPG | wikidata=Q18347778
+|lastedit=2026-03-07
+| content=Tourist-oriented handicrafts market with over 350 vendors from all over Mexico, first established for the 1968 Olympics. Cleaner and more expensive than the other markets in the city.
+}}
+* {{buy
+| name=Mercado Lagunilla | alt=La Lagunilla | url= | email=
+| address=Prolongación Paseo de la Reforma and Francisco Bocanegra | lat=19.44311 | long=-99.13634 | directions=just past Eje 1 Norte
+| phone= | tollfree= | fax=
+| hours=Sun 10:00-16:00 | price=
+| image=Lagunilla ropa.jpg
+| lastedit=2017-01-29
+| content=This huge street market features antiques and other new goods such as clothing, crafts, food, jewelry and toys. It is considered safe to stroll in this street market, but try to remain in the streets near Francisco Bocanegra and Comonfor, because beyond that the market eventually blends into Tepito, another market which is a lot less safe.
+}}
+
+===Street markets===
+* {{buy
+| name=Tianguis Cultural del Chopo | alt=El Chopo | url= | email=
+| address=Calle Juan Aldama | lat=19.44929 | long=-99.14968 | directions=near Buenavista
+| phone= | tollfree=
+| hours=Sat | price=
+| wikidata=
+| lastedit=2025-10-31
+| content=Huge outdoor flea market. Focuses on alternative music including grunge, heavy metal, punk and ska. Bands play at one end of the park. 
+}}
+* {{buy
+| name=Pino Suarez | url= | email=
+| address= | lat= | long= | directions={{station|Pino Suarez|city=mexicocity|1|2}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=There is a lot of youth-minded fashion going on here. Most of it is a knock-off of something else but at such low prices who can complain? There is a very large indoor market near the metro stop that has a ton of clothing, shoes, and food vendors.
+}}
+
+===Specialized streets===
+The area has several streets dedicated to a particular kind of shopping, something inherited from the Spanish.
+* {{do
+| name=Avenida de República de Salvador | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-05-13
+| content=The first half of the street (from Avenida Eje Central Avenue to Avenida Isabel la Católica) specializes in all sorts of electronics. From spare parts (speakers, wiring, transistors) to complete home theater systems, audio mixers and lighting for dance clubs. The other half of the street (from Isabel la Católica) specializes in stationery and paper.
+}}
+* {{buy
+| name=Avenida Eje Central | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-01-29
+| content=This street is full of street vendors. The area is extremely crowded making it a paradise for pickpockets.
+}}
+** {{marker|type=buy|name=Plaza de la Tecnología|url=http://www.plazadelatecnologia.com/|lat=19.43147 | long=-99.14113}} and the {{marker|type=buy|name=Plaza de Computación|lat=19.43151|long=-99.14165}}, between República del Salvador and República de Uruguay. Both are enormous indoor markets of little stalls hawking computer parts and electronics.
+** {{buy
+| name=Fan Center | alt= | url=https://www.facebook.com/FanCenterMex | email=
+| address=Eje Central Lázaro Cárdenas 11 | lat=19.43326 | long=-99.14127 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-02-23
+| content=Seven floors of nerd culture stores selling video games and collectibles.
+}}
+** {{buy
+| name=Frikiplaza | alt= | url=https://frikiplaza.com/ | email=
+| address=Eje Central Lázaro Cárdenas 9 | lat=19.43348 | long=-99.14122 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-02-23
+| content=Four floors of nerd culture stores selling video games and collectibles.
+}}
+* {{do
+| name=Calle del Artículo 123 | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2017-01-29
+| content=Specializes in appliances, from spare parts to industrial vacuums and blenders.
+}}
+* {{buy
+| name=Calle Victoria | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-01-29
+| content=Specializes in lighting, from wiring and electric outlets to chandeliers and lamps.
+}}
+* {{buy
+| name=Calle de Donceles | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q5740823
+| lastedit=2017-01-29
+| content=Specializes in photography.
+}}
+* {{buy
+| name=Calle de República de Cuba | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q17623546
+| lastedit=2026-05-29
+| content=Specializes in printing (books, posters, thesis). In this street there are a few book stores selling very old books (18th and 19th centuries).
+}}
+* {{buy
+| name=Barrio Chino | alt=Chinatown | url= | email=
+| address=Calle Dolores | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q5100149
+| lastedit=2026-02-23
+| content=Two pedestrian-only blocks of this street, where much of the city's Chinese community lived in the early 1900s, are full of Chinese restaurants and stores.
+}}
+* {{buy
+| name=Calle Tacuba | alt= | url= | email=
+| address=C. Tacuba 46 | lat= | long= | directions={{station|Allende|city=mexicocity|2}}
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2023-04-06
+| content=Eyeglasses, contact lenses, and dozens of opticians.
+}}
+
+===Department stores===
+[[File:Casa de Azulejos 3.jpg|thumb|The original Sanborns store, in the historic ''Casa de los Azulejos'']]
+
+* {{buy
+| name=Liverpool | alt=originally El Puerto de Liverpool | url=https://www.liverpool.com.mx/tienda/home | email=
+| address=Venustiano Carranza 92 | lat=19.43116 | long=-99.13322 | directions=
+| phone=+52 55 5133 2800 | tollfree= | fax=
+| image=LiverpoolStoreDF.JPG
+| hours=Mon-Sat 11:00-21:00, Sun 11:00-20:30 | price=
+| content=This department store is housed in an Art-Deco building that was built in the late 1920s.
+}}
+* {{buy
+| name=El Palacio de Hierro | alt=The Iron Palace | url=http://www.elpalaciodehierro.com/ | email=
+| address=Avda 20 de Noviembre 3 | lat=19.43125 | long=-99.13408 | directions=on the corner of Venustiano Carranza
+| phone=+52 55 5229 3154 | tollfree=+52 800 9075 300 | fax=
+| hours= | price=
+| wikidata=Q5351735 |image=Palacio de Hierro Centro.jpg
+| content=This department store was established in 1891. The store was named when it was the first iron and steel building in the city.
+}}
+* {{buy
+| name=Sanborns | alt=Casa de los Azulejos | url=http://www.sanborns.com.mx/Paginas/Inicio.aspx?usgr=normal | email=
+| address=Francisco I Madero 4 | lat=19.43434 | long=-99.14014 | directions=
+| phone=+52 55 5512 1331 | tollfree= | fax=
+| hours=Daily | price=
+| image=Casa de los azulejos.jpg | wikidata=Q1267814
+| content=This department store and restaurant is housed in the former residency of the Counts of the Valley of Orizaba. Revolutionist Emiliano Zapata had breakfast here during his entrance to Mexico City in September 1916. This was the first store of the Mexican Sanborns chain, founded by the Sanborn brothers, American immigrants in Mexico City and later sold to Walgreens in 1946 and then to Grupo Carso in 1985. There are more than 100 Sanborns stores in the country today.
+}}
+* {{buy
+| name=Sanborns | alt=Casa Boker | url= | email=
+| address=Isabel la Católica 35 | lat=19.43244 | long=-99.13663 | directions=corner of 16 de Septiembre
+| phone=+52 55 5518 1038 | tollfree= | fax=
+| hours=Daily | price=
+| image=Casa boker.JPG | wikidata=Q21484077
+| content=This department store is housed in a building completed in 1900 named 'Casa Boker' after a warehouse store with that name that still occupies part of the building.
+}}
+* {{buy
+| name=El Nuevo Mundo | alt= | url=https://www.facebook.com/elnuevomundomx/ | email=
+| address=Venustiano Carranza 72 | lat=19.43131 | long=-99.13470 | directions=corner of 5 de Febrero
+| phone=+52 55 5130 0353 | tollfree= | fax=
+| hours= | price=
+| content=Still contains old fashioned practices such as old-style shopping processes. When decide to buying something, the salesman will prepare a small receipt, then you take it to the cashier to pay.
+}}
+* {{buy
+| name=C&A | alt= | url=http://www.cyamoda.com/ | email=
+| address=Venustiano Carranza 79 | lat=19.43089 | long=-99.13432 | directions=corner of 5 de Febrero
+| phone=+52 55 5130 0360 | tollfree= | fax=
+| hours=Daily 11:00-21:00 | price=
+| content=Netherlands-based department store fashion retailer.
+}}
+
+===Bakeries===
+[[File:Pasteleria Ideal Exhibit.jpg|thumb|Cakes on display at Pasteleria Ideal]]
+* {{buy
+| name=Pastelería Ideal | alt= | url=http://pasteleriaideal.com.mx/ | email=
+| address=República de Uruguay 74 | lat=19.43044 | long=-99.13532 | directions=
+| phone=+52 55 5512 2522 | tollfree= | fax= | image=Pasteleriaideal.JPG
+| hours=Daily 06:30-21:30 | price=
+| content=Established in 1927. This is a good place for traditional bread, pastries and desserts. Ask for ''Danes de Chocolate'', the place's delicacy. There is another branch at Av 16 de Septiembre 18 which makes cakes on commission.
+}}
+* {{buy
+| name=Pasteleria Madrid | alt= | url=
+| address=Calle 5 de Febrero 25  | lat=19.42994 | long=-99.13489
+| directions=one block S of the Zócalo
+| phone=+52 55 5518 2950
+| hours=Mon-Sat 07:30-21:00, Sun 08:00 - 20:00
+| content=This is a very old and typical bakery, they will usually have fresh bread twice a day, but if there are a lot of customers they will bake as many as four times a day. Also serves breakfast platters, pastries and pan dulce.
+}}
+
+===Shopping malls===
+There are a few shopping malls in and around the Centro Histórico.
+
+* {{buy
+| name=Forum Buenavista | alt= | url=https://forumbuenavista.mx/ | email=
+| address=Avda Insurgentes | lat=19.4492 | long=-99.1518 | directions=corner of Eje 1; metro Buenavista
+| phone=+52 5541 4533 | tollfree=
+| hours= | price=
+| lastedit=2024-10-23
+| content=The largest shopping mall close to the centro. Includes a large supermarket, a Sears department store, and a Cinepolis cinema complex. This mall is inside the Buenavista train station, which has frequent train service provided by Ferrocarril Suburbano as well as three Metro subway lines and numerous Metrobus connections.
+}}
+* {{buy
+| name=Patio Juárez | alt= | url= | email=
+| address=Avda Juárez | lat=19.43421 | long=-99.14330 | directions=just across from the Alameda Central Park
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-01-29
+| content=A small shopping mall.
+}}
+
+==Eat==
+[[File:Cafe de Tacuba 02.jpg|thumb|Café de Tacuba]]
+[[File:Hostería de Santo Domingo 1.jpg|thumb|Chiles en nogada, one of the signature dishes of Hostería de Santo Domingo]]
+===Street food===
+There are many places for street food in the center. Look for stands and hole-in-the-wall vendors along plazas and the edges of busy pedestrian areas such as the Alameda and Av Francisco I Madero.
+* {{eat
+| name=Street food alley | alt= | url= | email=
+| address= | lat=19.4383747 | long=-99.1536558 | directions=N of Monumento a la Revolución
+| phone= | tollfree=
+| hours=Daily 08:00-20:00 | price=
+| lastedit=2022-04-14 | content=There is a big variety of street food.
+}}
+* {{eat
+| name=Food stall market | alt= | url= | email=
+| address= | lat=19.4369346 | long=-99.1420613 | directions=N of Alameda
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-04-14 | content=At different times there are other food stalls open.}}
+* {{eat
+| name=Cocuyo's | alt= | url=
+| address=Bolivar 59 | lat=19.43054187297953 | long=-99.13881984711838
+| directions={{station|San Juan de Letran|city=mexicocity|8}}
+| phone= | tollfree=
+| hours=Daily 08:00 - 05:00 (yes, they only close for 3 hours) | price=M$100
+| lastedit=2024-01-28
+| content=One of Mexico City's ''many'' famous taco stands, Cocuyo's has been featured on international food shows including Anthony Bourdain's ''No Reservations'' and the Netflix series, ''Taco Chronicles''. The place has changed since Bourdain visited. They now have a dining room so you no longer have to stand on the street while you eat your taco, but the tacos are big and tasty as ever and they're still open in the wee hours of the night when those 3am munchies strike. Feel free to be adventurous and try something you've never heard of, but do be aware that some of those "unusual sounding" tacos contain gizzards, tongue, ears or other parts of the animal unfamiliar to foreign visitors. They might be delicious, but are you bold enough to find out?
+}}
+* {{eat
+| name=Mercado San Juan Arcos de Belen | alt= | url= | email=
+| address=Av Arcos de Belén s/n | lat=19.42753 | long=-99.14248 | directions={{station|Salto del Agua|city=mexicocity|1|8}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=It is full of food stalls offering all the Mexican favorites. Find the one opposite the small bakers by one of the rear entrances on ''Calle Delicias'', which serves the ''Torta Cubana''. The people running it are amazingly welcoming and the food, especially the Cubana, is excellent.
+}}
+
+===Budget===
+* {{eat
+| name=Don Toribio | alt= | url= | email=
+| address=Simon Bolivar 31 | lat=19.432991 | long=-99.138691 | directions={{station|Allende|city=mexicocity|2}}
+| phone=+52 55 5510 9198 | tollfree=
+| hours=Daily 08:00 - 18:00 | price=M$150+
+| lastedit=2026-01-09
+| content=Delicious traditional Mexican cuisine at some of the best prices in Centro.
+}}
+* {{eat
+| name=Roldan 37 | alt= | url=https://www.facebook.com/Roldan37/ | email=
+| address=Calle Roldan 37 | lat=19.428971 | long=-99.127119 | directions=Metro to Pino Suarez or Merced {{station|Pino Suarez|city=mexicocity|1|2}} or {{station|Merced|city=mexicocity|1}}
+| phone=+52 55 5542 1951 | tollfree=
+| hours=Daily 12:00 - 19:00 | price=M$150+
+| lastedit=2024-01-28
+| content=Cozy upstairs restaurant specializing in chiles rellenos, including the national dish of chile en nogada. Very authentic cooking with several regional dishes based on indigenous traditions, and sometimes unusual ingredients that will offend the tastes of unsuspecting foreigners who might not appreciate the chance to eat grasshoppers. Though rest assured, there are plenty of "normal" dishes to choose from.
+}}
+* {{eat
+| name=Cafe el Popular | alt= | url=https://m.facebook.com/Caf%C3%A9-El-Popular-Restaurante-133538756708877/ | email=
+| address=Av. 5 de Mayo 50 y 52 | lat=19.434502 | long=-99.135495 | directions=a block from the Zócalo
+| phone=+52 55 5518 6081 | tollfree= | image=Café El Popular.jpg
+| hours=Daily 24 hours | price=M$150+
+| lastedit=2026-01-09
+| content=Long-time fixture in the heart of downtown. Traditional homemade Mexican food including fresh baked breads, though the restaurant is historically Chinese and once served hybrid Mexicanized Chinese dishes. The place is known for its coffee and of course is a dependable source of good, hearty food when the midnight munchies strike.
+}}
+
+===Barrio Chino (Chinatown)===
+Mexico City's Barrio Chino (Chinatown) is south of the Palacio de Bellas Artes. Mexican-style Chinese food is quite good and is an affordable lunch for before or after a visit to Palacio de Bellas Artes or the Museo Nacional de Arte. Restaurants in Barrio China include:
+
+* {{eat
+| name=Chung King | alt= | url=https://www.instagram.com/chungking.restaurant/ | email=
+| address=Dolores 27 | lat=19.432619 | long=-99.142915 | directions=
+| phone=+52 55 5510 3355 | tollfree=
+| hours=Daily 11:00 - 20:00 | price=M$150+
+| lastedit=2026-01-09
+| content=Generous plates, many of which are ramen. Spicy red chili sauce is provided for people who want to take the flavor up a notch.
+}}
+* {{eat
+| name=Kang Qing
+| address=Av Independencia 19 | lat=19.43339 | long=-99.14255
+| phone= | tollfree=
+| hours=Mon-Sat 10:30 - 18:30, Sun 13:00 - 17:00 | price=M$65
+| lastedit=2024-10-21
+| content=Buffet style restaurant with to-go service at 65 pesos, making it very cheap for a lot of food.
+}}
+* {{eat
+| name=Bufet Comida China
+| address=C. López 12-14 | lat=19.43381 | long=-99.141927
+| phone= | tollfree=
+| hours=Daily 11:00 - 20:00 | price=M$100
+| lastedit=2024-10-21
+| content=Chinese buffet serving lots of food at low prices.
+}}
+
+===Mid-range===
+* {{eat
+| name=El Huequito Bolivar | url=https://es-la.facebook.com/pages/El-Huequito-MR/232928666766936 | email=tacosysalsas@elhuequito.com.mx
+| address=República de El Salvador 42 D| lat=19.43008 | long=-99.13870 | directions=
+| phone=+52 55 5510 4199 | tollfree= | fax=
+| hours=Daily 08:00-23:00 | price=
+| content=This taco joint is good if you want to try ''tacos al pastor'', as featured in Anthony Bourdain's Mexico show.
+}}
+* {{eat
+| name=Cafeteria El Cuadrilatero | alt= | url=https://es-es.facebook.com/pages/cafeteria-el-cuadrilatero/149151765160753 | email=ferraripom_619@hotmail.com
+| address=Luis Moya 73 | lat=19.4305 | long=-99.1457 | directions=
+| phone=+52 55 5510 2856 | tollfree= | fax=
+| hours=Mon-Sat 07:00-20:00 | price=M$50+
+| image=Cafeteria El Cuadrilatero.jpg
+| content=This torteria is owned by former luchador Super Astro, and serves not only tortas but also standard Mexican fare. Their enormous torta ''Super Gladiator'' is free if you can eat the whole thing in 15 minutes.
+}}
+* {{eat
+| name=La Opera Bar | url=http://laoperabar.com/ | email=
+| address=Cinco de Mayo 10 | lat=19.43454 | long=-99.13735 | directions=
+| phone=+52 55 5512 8959 | tollfree= | fax= | image=La Opera Bar.jpg
+| hours=Mon-Sat 13:00-24:00, Sun 13:00-18:00 | price=
+| content=This restaurant has been serving Mexican food since the early 1900s and retains the same furniture since then. When you get there, look up to the ceiling, as you will see the famous gun shot accidentally fired by Pancho Villa.
+}}
+* {{eat
+| name=El Ehden | alt= | url= | email=
+| address=Venustiano Carranza 148, 2nd floor | lat=19.43065 | long=-99.12922 | directions=
+| phone=+52 55 5542 2320 | tollfree= | fax=
+| hours=Daily 13:00-18:00 | price=
+| content=This restaurant is favored by the local Mexican-Lebanese community, many of whom still own the small businesses and textile shops in the immediate area. It serves a range of standard Lebanese dishes, including an excellent mezze.
+}}
+* {{eat
+| name=El Mayor | alt= | url=http://elmayor.com.mx/ | email=elmayor@porrua.com
+| address=Calle República de Argentina #15 | lat=19.43583 | long=-99.13145 | directions=entrance via a lift by the gift shop on the ground floor
+| phone=+52 55 5704 7580, +52 55 5704 7584 | tollfree= | fax=
+| hours=Mon-Sat 09:00-18:30, Sun 10:00-18:30 | price=M$150+ mains
+| lastedit=2016-05-27
+| content=A newer rooftop establishment with great seating overlooking the Templo Mayor, this restaurant specializes in creative twists to traditional Mexican dishes. It's very popular for lunch, so it's best to arrive early.
+}}
+* {{eat
+| name=Hostería de Santo Domingo | alt= | url= | email=
+| address=Belisario Domínguez 70-72 | lat=19.43806 | long=-99.13497 | directions=
+| phone=+52 55 5510 1434 | tollfree= | fax=
+| hours=Mon-Fri 09:00-22:30, Sun 09:00-21:00 | price=M$120+ mains
+| image=Hostería de Santo Domingo 1.jpg
+| content=Housed in a former inn, this restaurant opened in 1860 and is the oldest restaurant in Mexico City. It serves classic traditional Mexican dishes in a lively atmosphere, and is very popular with residents.
+}}
+* {{eat
+| name=El Cardenal | alt= | url=http://www.restauranteelcardenal.com/ | email=
+| address=Calle de la Palma 23 | lat=19.433842 | long=-99.135413 | directions=
+| phone=+52 55 5521 3080 | tollfree=
+| hours=Daily 08:00-18:30 | price=
+| lastedit=2024-01-27
+| content=Upscale dining room serving outstanding regional and traditional Mexican cuisine. The restaurant has been a favorite of businessmen and politicos for generations. The food is always excellent, as is the service. They bake their own breads, offer several moles, offer unusual entrees, and are famous for their hot chocolate. Can be crowded weekdays for lunch and Sunday mornings. This listing is near the Zócalo, other locations are 1) about 100 meters from Palacio de Bellas Artes at Marconi 2, and 2) at the Sheraton hotel.
+}}
+* {{eat
+| name=Dulcería de Celaya | url=https://www.dulceriadecelaya.com/ | email=
+| address=Cinco de Mayo 39 | lat=19.43419 | long=-99.13664 | directions=
+| phone=+52 55 5521 1787 | tollfree= | fax= | image=Dulcería de Celaya.jpg
+| hours=Daily 10:30-19:30 | price=
+| content=This confectionery shop sells old fashioned sweets. It was established in 1874 and still has its original cabinets from that age.
+}}
+* {{eat
+| name=Limosneros | alt= | url=https://limosneros.com.mx/?lang=en | email=
+| address=Ignacio Allende 3 | lat=19.436249 | long=-99.137897 | directions={{station|Allende|city=mexicocity|2}}
+| phone=+52 55 5521 5576 | tollfree=
+| hours=Mon-Sat 13:30 - 22:00, Sun 13:00 - 17:00 | price=M$250
+| lastedit=2024-01-27
+| content=Elegantly rustic dining room with innovative regional cuisine and a full bar with a variety of mezcals, tequilas, and an excellent wine list featuring many great Baja vintages. Adventurous palates shouild try the carnitas de conejo.
+}}
+* {{eat
+| name=Paxia | alt= | url=https://bullandtank.com/paxia | email=
+| address=Venustiano Carranza 69 | lat=19.431341 | long=-99.135726 | directions=rooftop of the Umbral Hotel
+| phone=+52 55 2289 6295 | tollfree=
+| hours=Tue-Sat 13:00 - 23:00, Sun 13:00 - 19:00, closed Mon | price=M$300
+| lastedit=2024-01-28
+| content=Elegant rooftop restaurant with innovative nuevo Mexican cuisine and spectacular views of the historic downtown area.
+}}
+* {{eat
+| name=Testal | alt= | url=http://www.testal.mx/ | email=
+| address=Dolores 16 | lat=19.433764 | long=-99.142951 | directions={{station|Bellas Artes|city=mexicocity|2|8}}
+| phone=+52 55 5510 1358 | tollfree=
+| hours=Sun-Wed 08:00 - 19:00, Thu-Sat 08:00 - 22:00 | price=
+| lastedit=2025-11-06
+| content=Trendy casual restaurant serving traditional Mexican and regional dishes. Great breakfast and interesting dishes at lunch and dinner including nogales en chile, mole and more. Family friendly with affordable prices.
+}}
+
+===Splurge===
+* {{eat
+| name=Café de Tacuba | alt= | url=https://cafedetacuba.info/ | email=mflores@cafedetacuba.com.mx
+| address=Calle de Tacuba 28 | lat=19.43576 | long=-99.13762 | directions=
+| phone=+52 55 5521 2048 | tollfree= | fax=
+| hours=Daily 08:00-23:30 | price=M$115-180 (mains)
+| image=Cafe de Tacuba 02.jpg | wikidata=Q5739201
+| content=Housed in a former convent, this institution serves up tasty Mexican dishes all day for reasonable prices. It is very popular so arrive early. Menu is in English and Spanish.
+}}
+* {{eat
+| name=La Terraza | alt= | url=http://hotelmajestic.com.mx/HotelMajestic/Restaurante | email=
+| address=Francisco I Madero 73 | lat=19.43298 | long=-99.13434 | directions=
+| phone=+52 55 5521 8600 | tollfree= | fax=
+| hours=Daily 07:00-23:00 | price=
+| content=Restaurant on the roof of the Hotel Majestic overlooking the Zócalo, with stunning panoramic views of the city.
+}}
+* {{eat
+| name=Los Girasoles | alt= | url=https://losgirasolesmexico.com/ | email=
+| address=Xicoténcatl 1 | lat=19.436181 | long=-99.138179 | directions=on the plaza next to Museo Nacional de Arte
+| phone=+52 55 5510 0630 | tollfree=
+| hours= | price=
+| lastedit=2022-11-03
+| content=Traditional Mexican cuisine from various regions. Expect dishes like mole oaxqueno and if you're adventurous, chapulines. Pleasant outdoor patio on a plaza made for people watching. Mariachis on weekends.
+}}
+* {{eat
+| name=Miralto | alt= | url=http://miralto.com.mx/ | email=
+| address=Torre Latinoamericana, 41st floor | lat= | long= | directions=
+| phone=+52 55 5518 1710 | tollfree=
+| hours=Sun-Mon 09:00 - 22:00, Tue-Thu 09:00 - 23:00, Fri-Sat 09:00 - 00:00 | price=
+| lastedit=2024-02-09
+| content=Many places in the Centro Histórico boast of the views from their rooftop dining rooms, but Miralto in the 41st floor of the Torre Latinoamericana looks down on all of them. Best views of any dining room in the city. Traditional Mexican cuisine is good, but unexceptional compared to the city's top restaurants.
+}}
+* {{eat
+| name=Azul Histórico | alt= | url=https://www.azul.rest | email=
+| address=Isabel La Católica 30 | lat=19.432819 | long=-99.135983 | directions=
+| phone=+52 55 5510 1316 | tollfree=
+| hours=09:00-23:30 | price=
+| lastedit=2025-06-02
+| content=Azul offers upscale Mexican cuisine in a romantic Centro courtyard with lush trees and stone archways.
+}}
+* {{eat
+| name=Masala y Maiz | alt= | url=https://www.masalaymaiz.com/ | email=
+| address=C. Artículo 123 #116 | lat=19.433198 | long=-99.148983 | directions=
+| phone=+52 55 6227 9468 | tollfree=
+| hours=Wed-Mon 12:00 - 18:00, closed Tue | price=M$1000
+| lastedit=2025-06-05
+| content=Elegant restaurant serving a fusion of contemporary Mexican cuisine with flavors and ingredients from Africa and India. Dishes are often unusual combinations like a paratha quesadilla, or a chai tres leches. Service is top notch. Reservations recommended. The restaurant was awarded a Michelin star in 2025.
+}}
+* {{eat
+| name=Balcon del Zocalo | alt= | url=https://www.balcondelzocalo.com/ | email=
+| address=Av. Cinco de Mayo 61 | lat=19.434045 | long=-99.134257 | directions=
+| phone=+52 55 5130 5134 | tollfree=
+| hours=Daily 09:00 - 23:00 | price=M$300
+| lastedit=2026-05-29
+| content=Rooftop dining atop the Hotel Zocalo Central. Food is nouveau Mexican with a number of unusual and creative fusions. The 9-course tasting menu is recommended because it highlights small plates showcasing various chef selections. The views are the best in the city with the Catedral Metropolitano and the Palacio Nacional lying just below (the night views make great photos with everything lit up). Very tourist friendly with English menus available, many English speaking waiters and the flexibility to suggest dishes for vegans.
+}}
+
+==Drink==
+The Centro Histórico is the best place to partake in traditional ''cantina'' fare, including drinks where light meals and appetizers, called ''botanas'', are served alongside for free. There are cantinas everywhere in the neighborhood, all with interesting historical significance, live music, and interesting business types from the area. They are typically a male hangout, but women are accepted and safe, just be prepared to get some special attention if you show up.
+
+For nonalcoholic refreshments, ''juguerias'' selling twenty kinds of smoothies from M$25 are found on nearly every block during the day.
+
+* {{drink
+| name=Salón Tenampa | alt= | url=http://www.salontenampa.com/ | email=
+| address=Plaza Garibaldi 12 | lat=19.44106 | long=-99.13896 | directions=in the corner of Plaza Garibaldi
+| phone=+52 55 5526 6176 | tollfree= | fax=
+| hours=Sun-Thu 13:00-01:00, Fri Sat 13:00-02:00 | price=
+| image=GaribaldiNight04.JPG
+| lastedit=2017-01-29
+| content=The original and most famous Mexican cantina, traditional home to the bohemians and mariachis of the 40s and 50s. Huge selection of tequila and mezcal, light Mexican food, and mariachi bands.
+}}
+* {{drink
+| name=La Opera | alt= | url=https://www.laoperabar.com/ | email=
+| address=Av. 5 de Mayo 10 | lat=19.434910 | long=-99.138922 | directions=1 block south of Museo de Arte or Palacio Postal, 2 blocks east of the Alameda
+| phone=+52 55 5512 8959 | tollfree=
+| hours=13:00-23:00 | price=
+| lastedit=2022-11-03
+| content=Traditional bar dating back to the Porfiriato era (est. 1870), it's ornate and impressive to see, but a fun place to have a beer or a cocktail. Serves food.
+}}
+* {{drink
+| name=Salón España | alt= | url= | email=
+| address=Republica Argentina 25 | lat=19.436725 | long=-99.131707 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-01-28
+| content=Old school traditional cantina where the tequila is strong and the men drink lots of it. They have mezcal and other liquors as well, but tequila is king here with more than 150 brands at your call! Free botanas (including tacos and quesadillas) while you continue drinking.
+}}
+* {{drink
+| name=Bar La Giaconda | alt= | url= | email=
+| address=C. de Filomeno Mata 18-E | lat=19.434939 | long=-99.139137 | directions=
+| phone=+52 55 5518 7823 | tollfree=
+| hours=15:00 - 23:00 | price=
+| lastedit=2023-04-06
+| content=Casual place with good baguette sandwiches and dark draft beer.
+}}
+* {{drink
+| name=Sunday Sunday
+| address=Tabaqueros 16 | lat=19.43058|long=-99.13149
+| hours=15:00-02:00 Sun only, closed Mon-Sat
+| lastedit=2023-10-04
+| content=While the lightweights are nursing their hangovers on Sunday, the hardcore head to Mexico City's biggest Sunday night party where the house keeps rocking until 2am. The biggest crowds hit after midnight.
+}}
+* {{drink
+| name=Salon Corona | alt= | url=https://www.facebook.com/SalonCorona/ | email=
+| address=Bolivar 24 | lat=19.433649 | long=-99.138249 | directions=around the corner from Palacio de Iturbide, {{station|Allende|city=mexicocity|2}}
+| phone=+52 55 5512 5725 | tollfree=
+| hours=Sun-Thu 10:00 - 23:00, Fri-Sat 10:00 - 02:00 | price=
+| lastedit=2024-01-28
+| content=Friendly traditional cantina since 1928. Popular place to watch a soccer game or hang out and drink beer. Serves traditional Mexican food.
+}}
+
+* {{drink
+| name=La Faena | alt= | url= | email=
+| address=Venustiano Carranza 49 | lat=19.431642 | long=-99.137621 | directions=inside Mancera Bar, {{station|San Juan de Letran|city=mexicocity|8}}
+| phone=+52 55 5510 4417 | tollfree=
+| hours=Mon-Fri 13:00 - 20:00, Fri-Sat 13:00 - 10:30 (yep, they close for 2-1/2 hours to clean up) | price=
+| lastedit=2024-01-28
+| content=Old school cantina that celebrates the hispanic tradition of [[Bullfighting|bullfighting]]. Campy wall decorations, a great jukebox full of classic Mexican rancheras, rock en espanol, and pop hits of the 90s. Cheap tacos, great variety of mezcal and tequila drinks, and a very lively crowd.
+}}
+* {{drink
+| name=Bosforo | alt= | url= | email=
+| address=Luis Moya 31 | lat=19.433499 | long=-99.145176 | directions=
+| phone= | tollfree=
+| hours=Thu-Sat 19:00 - 02:30, Tue 19:00 - 01:30, Wed 19:00 - 23:00, closed Sun-Mon | price=
+| lastedit=2024-02-09
+| content=Dim, smoky bar with a hipster crowd. No sign, so you need to know where it is then look for the curtain across the doorway. Go in and join the crowd in sampling one of the city's widest selection of mezcals.
+}}
+* {{drink
+| name=Cantina Tio Pepe | alt= | url= | email=
+| address=Independencia 26 | lat=19.433216 | long=-99.142861 | directions=Barrio Chino (Chinatown), {{station|Bellas Artes|city=mexicocity|2|8}}
+| phone=+52 55 5521 9136 | tollfree=
+| hours=Mon-Fri 12:00 - 22:00, Sat 12:00 - 23:00 | price=
+| lastedit=2024-10-21
+| content=Traditional cantina with an early 20th-century vibe. Friendly atmosphere, occasional mariachis.
+}}
+====Pulquerias====
+For a genuine Mexican experience, visit a ''pulqueria'' and try a traditional regional drink made from fermented agave --- only in Mexico!
+* {{drink
+| name=Pulquería Las Duelistas | alt= | url=https://www.facebook.com/PulqueriaLasDuelistas/ | email=
+| address=Aranda 28 | lat=19.430464 | long=-99.142737 | directions=
+| phone=+52 55 1394 0958 | tollfree=
+| hours=Mon-Sat 10:00 - 21:00, closed Sun | price=
+| lastedit=2024-01-28
+| content=Friendly and colorful traditional pulqueria (one of the most popular in the city) with murals on the ceiling and walls. Serves cured and white (blanco) pulques. Try a natural pulque to taste pure agave flavor, or try one of the fruit or spiced flavors. The celery (apio) is recommended.
+}}
+* {{drink
+| name=La Joya | alt= | url=https://pulquerialajoya.com.mx/
+| address=Eligio Ancona 122, Santa Maria La Ribera | lat=19.452565060847384 | long=-99.15677137529288
+| phone=+52 55 3148 7761
+| hours=Thu-Mon 12:00 - 23:00, closed Tue-Wed | price=M$200
+| lastedit=2024-10-26
+| content=This used to be the Xochitl Pulqueria, but it changed hands in 2020 while keeping the tacky decor and the limited menu of just the pulques, only the pulques, and nothing but pulques, so help me God. Natural and curadas are available with flavors that include spices, fruits, and nuts. 
+}}
+
+====[[LGBT Mexico City|LGBTQ+]]====
+* {{drink
+| name=Marrakech Salon | alt=El Marra | url= | email=
+| address=República de Cuba 18 | lat=19.437762 | long=-99.138411 | directions=from Palacio de Bellas Artes, walk 2 blocks on Lazaro Cardenas to Rep.Cuba where you'll make a right and walk about 100 m
+| phone=+52 55 5518 3711 | tollfree=
+| hours=18:00 - 02:30, Thu-Sat only | price=
+| lastedit=2023-01-11
+| content=Wonderfully tacky flaming gay bar with drag queens and strippers for entertainment, no cover charge for anyone, and some delicious house mezcal drinks. Try the El Mayate --- minty and refreshing!
+}}
+* {{drink
+| name=La Purisima | alt= | url= | email=
+| address=Republica de Cuba 17 | lat=19.437762 | long=-99.138411 | directions=across the street from Marrakech Salon
+| phone= | tollfree=
+| hours=18:00 - 03:00, Thu-Sat only | price=no cover
+| lastedit=2024-04-09
+| content=Delightfully tacky strip shows and disco balls. ''Very'' friendly crowd.
+}}
+
+====Coffee====
+* {{drink
+| name=Cafe Equis | alt=X, La Casa del Cafe
+| address=Calle de Roldán 16 | lat=19.430453691089138 | long=-99.12682970412797
+| phone=+52 55 5522 4263
+| hours=Tue-Sun 10:00 - 14:00 and 14:30 - 17:00, closed Mon | price=M$100
+| lastedit=2025-05-13
+| content=In business at the same location since 1930, this is Mexico City's oldest coffee house. They roast their own beans, specializing in organic Mexican-grown coffees. Cups of joe are also available for as little as M$15. The Cafe Veracruzano is sinfully delicious with a flavor of caramelized burnt sugar. Cash only.
+}}
+* {{drink
+| name=Cafe Regina | alt= | url=
+| address=Regina 24 | lat=19.42841930799818 | long=-99.13784489051588
+| phone=+52 55 5709 2436
+| hours=Mon-Thu 08:30 - 18:00, Fri-Sat 08:30 - 20:00, Sun 09:00 - 13:00
+| lastedit=2025-05-13
+| content=Good coffee drinks plus hot chocolate and tea. Light food available including baked goods and vegetarian dishes like ratatouille. 
+}}
+* {{drink
+| name=Café La Habana | alt= | url= | email=
+| address=Av. Morelos 62, Colonia Juárez | lat=19.43257 | long=-99.15132 | directions=
+| phone=+52 55 5535 2620 | tollfree=
+| hours=Mon-Sat 07:00-00:00, Sun 08:00-23:00 | price=M$69–140 for breakfast packages, coffee from M$30
+| lastedit=2025-06-02
+| content=Opened in 1952, this iconic café is a nostalgic gem, steeped in history as a meeting place for revolutionaries like Fidel Castro and Che Guevara, who reportedly planned the Cuban Revolution here, and literary giants like Gabriel García Márquez and Roberto Bolaño, who frequented it during the 1970s infrarrealist movement. With its high ceilings, sepia-toned photos of Havana, and vintage coffee machine, it retains a 1950s ambiance. The menu features classic Mexican dishes like enchiladas and chilaquiles (though food quality varies), but the coffee—especially the café lechero (espresso with hot milk) or café bombón (double espresso with ground coffee)—is the star.
+}}
+
+==Sleep==
+
+===Budget===
+
+There are several low-priced decent hotels with hot water and private bathroom for around M$320 (April 2022). 
+
+====In Centro====
+* {{sleep
+| name=Hotel San Francisco | alt= | url=https://www.hotelsanfranciscomexicocity.com | email=
+| address=Luis Moya 11 | lat=19.434381 | long=-99.144981 | directions=across the street from the Alameda and around the corner from the Museo Memoria y Tolerancia
+| phone=+52 55 5521 8960 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$700
+| lastedit=2026-02-09
+| content=Sparsely furnished, inexpensive rooms.
+}}
+* {{sleep
+| name=Hotel Tuxpan | alt= | url= | email=
+| address=Republica de Colombia | lat=19.4383415| long= -99.1326528 | directions=a few blocks to the Zócalo
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=A very good deal. Clean with cable TV, nice restrooms, and mirrors on the ceiling.}}
+* {{sleep
+| name=Mexico City Hostel | alt= | url=http://www.mexicocityhostel.com/ | email=reservaciones@mexicocityhostel.com
+| address=República de Brasil #8 | lat=19.435647 | long=-99.133791 | directions=northwest corner of Catedral Metropolitana, metro {{station|Allende|city=mexicocity|2}} or {{station|Zócalo|city=mexicocity|2}}
+| phone=+52 55 5512-3666, +52 55 5512-7731 | tollfree=
+| checkin= | checkout= | price=M$500
+| lastedit=2023-04-06
+| content=Breakfast included, Internet, laundry, lockers, tours and tourist information.
+}}
+* {{sleep
+| name=Hotel Altanta | alt= | url= | email=
+| address= | lat=19.4380823| long= -99.1376099 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name=Hotel Dos Naciones | alt= | url= | email=
+| address= | lat=19.4388433 | long= -99.1413938 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-12
+| content=}}
+
+====East of Centro====
+* {{sleep
+| name=Hotel Tampico | alt= | url= | email=
+| address= | lat=19.4293656 | long= -99.1244590 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name=Hotel Nevada | alt= | url= | email=
+| address= | lat=19.4323978 | long=-99.1274775 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name=Hotel Universo | alt= | url= | email=
+| address= | lat=19.4296938 | long= -99.1251886 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+
+====West of Avenida Reforma====
+* {{sleep
+| name=Hotel San Fernando | alt= | url= | email=
+| address= | lat=19.4386925 | long= -99.1477962| directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name=Hotel Savoy | alt= | url= | email=
+| address=Zaragoza 10, Buenavista | lat=19.438579 | long=-99.150488 | directions=
+| phone=+52 55 5566 4611 | tollfree=
+| checkin= | checkout= | price=M$850
+| lastedit=2022-04-14
+| content=
+}}
+* {{sleep
+| name=Hotel "Viva Maria" | alt= | url= | email=
+| address= | lat=19.4378455| long= -99.1531429 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name= Hotel Oxford| alt= | url= | email=
+| address= | lat=19.4374936 | long= -99.1518920 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=}}
+* {{sleep
+| name=Hotel La Fuente | alt= | url= | email=
+| address=C. Orozco y Berra 10, Guerrero | lat=19.439167 | long=-99.149468 | directions=west of the Alameda
+| phone=+52 55 5566 9122 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-04-14
+| content=
+}}
+*{{sleep
+| name=Casa de los Amigos | alt= | url=http://www.casadelosamigos.org/ | email=amigos@casadelosamigos.org
+| address=Ignacio Mariscal 132, Col Tabacalera | lat=19.438102 | long=-99.154549 | directions=one block south of {{station|Revolución|city=mexicocity|2}}
+| phone=+52 55 5705 0521, +52 55 5705 0646 | tollfree= | fax=+52 55 5705 0771
+| checkin= | checkout= | price= | lastedit=2022-04-14
+| content=Established in the 1950s by the Quaker community in Mexico City, the Casa continues to be actively involved in local activities with a stated mission of promoting peace and international understanding. They run an affordable guest house (with either private rooms or dorm beds) with a two-night minimum, and is popular with international students or volunteers on extended stays, though there are still many who are "just tourists."
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hostel Mundo Joven Catedral | alt= | url=https://mundojovenhostels.com/en/hostel/ | email=catedral@mundojovenhostels.com
+| address=República de Guatemala 4 | lat=19.435208 | long=-99.133684 | directions=north side of Catedral main square, {{station|Zócalo|city=mexicocity|2}}
+| phone=+52 55 5518 1726 | tollfree=01 800 823 2410 | fax=
+| checkin=14:00 | checkout=11:00| price= | lastedit=2022-04-14
+| content=A clean and safe upscale hostel. Some rooms have partial views of the rear of the cathedral, but these are noisy due to the church bells. Discount with a Hosteling International card.
+}}
+*{{sleep
+| name=Hotel Juarez | alt= | url=http://www.hoteljuarez.com.mx/ | email=
+| address=1A Cjon De Cinco de Mayo 17 | lat=19.434777 | long=-99.135336 | directions=Just east of the intersection of 5 de Mayo and Isabel la Catolica, near Zócalo
+| phone=+52 55 5512 0568 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$500
+| lastedit=2023-04-06
+| content=A well taken care of hotel.  Large rooms, TV, phone (free local calls) and private bathroom. Rooms may not all have windows.
+}}
+* {{sleep
+| name=Hotel Principal | alt= | url= | email=reservacion@hotelprincipal.com
+| address=Calle de Bolívar 29 | lat=19.432912 | long=-99.138705 | directions=
+| phone=+52 55 5521 1333 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Clean, friendly, and well run hotel with a range of rooms. Most overlook a quiet inner courtyard.
+}}
+* {{sleep
+| name=Cadillac Hotel Boutique | alt= | url=https://cadillachotelboutique.com/ | email=
+| address=Izazaga 35 | lat=19.426317 | long=-99.140080 | directions=
+| phone=+52 55 1106 8621 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$1000
+| lastedit=2023-04-06
+| content=Stylish artsy place, very modern with excellent free breakfast. No A/C so better choice for winter than summer.
+}}
+* {{sleep
+| name=Hotel Metropol | alt= | url=http://www.hotelmetropol.com.mx/ | email=
+| address=Luis Moya 39 | lat=19.433218 | long=-99.145164 | directions=1 block south of the Alameda, 5-minute walk from {{station|Juárez|city=mexicocity|3}}
+| phone=+52 55 1085 0830 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$1200
+| lastedit=2023-04-06
+| content=Dated hotel that could use some redecorating tips, but rooms are spacious, they serve a buffet breakfast.
+}}
+
+===Splurge===
+[[File:Gran Vitral Tiffany del Hotel Ciudad de Mexico - panoramio.jpg|thumb|Tiffany glass ceiling in the Gran Hotel Ciudad de Mexico]]
+*{{sleep
+| name=Gran Hotel Ciudad de México | alt=Centro Mercantil | url=https://granhoteldelaciudaddemexico.com.mx/en/ | email=
+| address=82 Av. 16 de Septiembre | lat=19.43208 | long=-99.13459 | directions=
+| phone=+52 55 1083 7700 | tollfree=+1 844-324-5006 | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This building built in 1899 was once a luxurious shopping center. It was converted into a hotel in 1966. The lobby of this place was featured in the film ''Frida''.
+}}
+* {{sleep
+| name=Best Western Hotel Majestic | alt= | url=https://hotelmajestic.com.mx/HotelMajestic/Inicio/ | email=reservaciones@hotelmajestic.com.mx
+| address=Av Madero 73 | lat=19.43293 | long=-99.13439 | directions=
+| phone=+52 55 5521 8600 | tollfree=
+| checkin= | checkout= | price=M$1400
+| lastedit=2023-04-06
+| content=The location is great, the rooms are clean and comfortable but the service is vaudevillian. The restaurant on the top floor has a superb view of the Cathedral and Presidential Palace but the food isn't worthy of the atmosphere.
+}}
+
+==Stay safe==
+Overall, walking in the Centro Histórico is safe, but it's an area where you need to keep your eyes open, and be aware of your surroundings. Shops close down noticeably earlier than in other places, and the streets begin to become quiet by 21:00 most nights.
+
+The Centro becomes ritzier going west toward the Zona Rosa, and grittier going east toward the Merced and Sonora markets.
+* A conservative suggestion would be to avoid the areas east of the Zócalo after dark.
+* Avoid the Tepito neighborhood, north of Centro, at all times. It is the roughest part of the city that a disoriented tourist might stumble upon. Locals go there for cheap bootleg goods, but foreigners are more likely to have their pockets picked than to get a bargain.
+* Plaza Garibaldi has been a sketchy place, but since 2020 the city has stepped up police presence there and has been cleaning up the plaza after several years of declining tourist traffic. There's still plenty of mariachis there and plenty of tequila and tacos, but it's another area where you might want to visit during daylight hours, stick to places with lots of people, and avoid excessive drinking.
+
+==Connect==
+Cell phone services in Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of in Centro Histórico. Free Wifi is available at most hotels, restaurants and other tourist spots. The city government provides free Wifi service to everyone in public parks and plazas, including the Alameda in Centro Histórico.
+
+{{guidedistrict}}
+{{IsPartOf|Mexico City}}
+{{geo|19.432778|-99.133222}}

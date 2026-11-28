@@ -1,0 +1,451 @@
+{{pagebanner|WV banner Mexico City Coyoacan.jpg|pgname=Coyoacán|unesco_whs=yes}}
+[[File:Fuente de los Coyotes.jpg|thumb|300px|Fuente de los Coyotes (Coyote Fountain), in the Jardín Centenario]]
+This relatively large area in the southwest of [[Mexico City]] has always been a counterculture hotbed. This is where Frida Kahlo and Diego Rivera lived, a few blocks away from Leon Trotsky (their houses are now the Frida Kahlo Museum and the Leon Trotsky Museum, respectively), and the tranquil residential area, with parks, squares, and cobblestone streets, is now a favourite spot for the bohemia set.
+
+==Understand==
+Coyoacán (from Nahuatl: ''place of coyotes'') has been populated since pre-Hispanic times, when it was a settlement on the southern shore of Lake Texcoco. During and after the conquest it was Spain's headquarters for several years; some of the oldest Spanish buildings still standing in Mexico are located here. The city was independent until well into the mid-20th century, when it was subsumed into Mexico City. Even today the district has retained its colonial charm, and when strolling in the old town center it is easy to forget that one is immersed in the megalopolis of greater Mexico City.
+
+Coyoacán is also the seat of UNAM (National Autonomous University of Mexico), the oldest university in North America and the largest in Latin America, which has itself been declared a {{unesco}}. The active student body contributes to the bohemian and liberal atmosphere of the district.
+
+==Get in==
+{{Mapframe|19.3540|-99.1668|zoom=15}}
+{{mapshapes|Q735042}}
+
+===By metro===
+Metro stations are not conveniently located to Plaza Hidalgo and the Coyoacán center – don't let the existence of a Coyoacán station (Line 3) fool you. Be prepared for at least a twenty-minute walk from any of the nearest stations, all on Line 3. The neighborhood is safe, so you shouldn't have a problem if you decide to walk from the metro.
+* {{marker|type=go|name=Coyoacán Station|lat=19.3616|long=-99.1708}}
+* {{marker|type=go|name=Viveros Station|lat=19.3543|long=-99.1751}}
+* {{marker|type=go|name=Miguel Ángel de Quevedo Station|lat=19.3463|long=-99.1808}}
+* {{marker|type=go|name=Copilco Station|lat=19.336157819591907|long=-99.17696366428012}}
+
+You may also approach from these stations on the edge of the area:
+* {{marker|type=go|name=General Anaya Station|lat=19.3532|long=-99.1450}} (Line 2); take the ''Calle 20 de Agosto'' exit for a picturesque twenty minute walk to the Frida Kahlo and Leon Trotsky museums.
+* {{marker|type=go|name=Universidad Station|lat=19.324556847485837|long=-99.1739130064098}} serves the University City area and has connections to Pumabus. There is also a bike rental station called '''Bicipuma''' that could be useful because the area is bike friendly.
+
+===By microbus===
+If you don't fancy a 20-minute walk from Metro Coyoacan to the main square Plaza Hidalgo, you can take a microbus also known as a ''pesero''. These are the small green and grey buses that can be seen breaking road rules all over the city. As you leave either exit of Metro Coyoacan, cross the other side of the large road directly outside the metro (''Avenida Universidad''). Peseros will stop outside all metro stations, and all display their destinations in the front windscreen. Look for a sign saying Plaza Hidalgo, or ask the driver.
+
+===By bus===
+If you are coming to Coyoacan from outside the Mexico City metro area, the best bus station to arrive/depart is Taxqueña (also known as Central de Sur). The bus station is about 10-15 minutes by taxi from most locations in Coyoacan.
+
+==Get around==
+[[File:Pumabus9.JPG|thumb|Pumabus]]
+Coyoacan is one of the most walkable neighborhoods in Mexico City. Rideshare and taxi are good for longer distances. Metro is okay for getting to or from Coyoacan, but it only serves the northwest corner of the neighborhood and is of no value for getting around within Coyoacan.
+
+There's a {{marker|type=go|name=taxi sitio|lat=19.34905|long=-99.16187}} (''taxi stand'') on the corner of Caballocalco and Higuera, near the Plaza Hidalgo. Another taxi sitio is outside the Coyoacan Metro station and Centro Comercial Coyoacan.
+
+The Universidad Nacional Autonoma de Mexico (UNAM) operates a free bus service, called '''[https://www.dgsgm.unam.mx/pumabus.html Pumabus]{{Dead link|date=July 2026 |bot=InternetArchiveBot }}''', in and around the University City campus. 12 routes with 93 stops are covered by a large fleet of modern, environmentally friendly buses. The free service is available to all visitors as well as university students and staff. Buses pickup at the Universidad Metro station. See the official website for current schedules and route maps.
+
+===By bike===
+Coyoacán is one of the easiest parts of Mexico City to get around by bike. Traffic moves slower and there are wide secondary streets that get relatively little traffic. Recreational cyclists will find safe areas to ride on UNAM's University City campus and in the '''Viveros de Coyoacan National Park'''. There are also scenic bike routes that travel past museums, markets, the main plaza and other points of interest. ''See [[Cycling in Mexico City]] for more info.''
+
+==See==
+
+===University City===
+{{Mapframe|19.3190|-99.1840|zoom=14|name=Ciudad Universitaria, Coyoacan}}
+The Universidad Nacional Autonoma de Mexico (UNAM) is Mexico's largest university. The sprawling campus, called ''Ciudad Universitaria'', is a city unto itself and contains a number of significant landmarks, museums, and cultural attractions. The entire campus is a {{unesco}}, recognizing its breakthroughs in urban planning and architecture as well as its several [[Mexican muralism|murals]] by some of Mexico's most famous artists. The campus was also a host facility for the 1968 Olympic games.
+[[File:Rectoría UNAM.jpg|thumb|Mural by David Alfaro Siqueiros on the rectory building of UNAM]]
+* {{see
+| name=Rectoría de la UNAM | alt=Rectory building of UNAM | url= | email=
+| address= | lat=19.33179 | long=-99.18810 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Rectoría UNAM.jpg
+| content=For David Alfaro Siqueiros fans, the rectory building is of interest because of its large three-dimensional mosaic mural ''El pueblo a la Universidad, la Universidad al pueblo'' (''The People to the University, the University to the People''), created by the Mexican master from 1952-1956.
+}}
+[[File:Biblioteca central de la UNAM al amanecer 52.jpg|thumb|Biblioteca Central, featuring mural by Juan O'Gorman]]
+* {{see
+| name=Biblioteca Central | alt=Central Library | url= | email=
+| address= | lat= | long= | directions=From Metro Universidad, take a free campus bus (Pumabus): Ruta 1 to Rectoria, or Ruta 5 to Filosofia.
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q5061367
+| lastedit=2018-01-18
+| content=The building's four sides are covered by the mural ''Historical Representation of Culture'', created by the Mexican artist Juan O'Gorman. His masterpiece has become the most iconic building of UNAM and of Mexican culture. O'Gorman's mural is recognized as the largest mural in the world.
+}}
+[[File:MUAC-UNAM-CDMX.jpg|thumb|University Museum of Contemporary Art]]
+* {{see
+| name=Museo Universitario de Arte Contemporáneo | alt=University Museum of Contemporary Art | url=http://muac.unam.mx/ | email=informes@muac.unam.mx
+| address=Insurgentes 3000 | lat=19.31472 | long=-99.18539 | directions=on the UNAM campus
+| phone=+52 55 5622 6972 | tollfree= | fax=
+| hours=Wed Fri Sun 10:00-18:00, Thu Sat 10:00-20:00 | price=M$40 (general admission Th-Sa), M$20 (general admission W and Su), 50% discount for students, free (children under 12)
+| image=MUAC04.JPG | wikidata=Q6033782
+| lastedit=2017-01-28
+| content=This museum hosts temporary exhibits of contemporary Mexican and international artists, as well as rotating displays from its permanent art collection.
+}}
+* {{see
+| name=Jardín Botánico de UNAM | alt=UNAM Botanical Garden | url=http://www.ib.unam.mx/
+| address=C.U. (Cd. Universitaria) | lat=19.3196 | long=-99.1935 | directions=Metro to Universitaria
+| phone=+52 55 5622 9047 | tollfree= | fax=
+| hours=Mon-Fri 09:00 - 17:00, Sat 09:00 - 15:00 (closed Sun)| price=free
+| wikidata=
+| lastedit=2023-03-18
+| content=Large botanical garden showcasing thousands of plant species from across Mexico's many different ecosystems, including dry deserts, rocky mountain ranges, tropical and sub-tropical rainforests, and coastal wetlands. The gardens include an extensive collection of cacti. Visitors may be surprised at the extent of the collection (and Mexico's astounding biodiversity - the country is home to more plant and animal species than both the United States and Canada combined).
+}}
+* {{see
+| name=Estadio Olimpico Universitario | alt=Olympic Stadium | url= | email=
+| address=Av. de los Insurgentes Sur S/N, C.U | lat=19.33218 | long=-99.19123 | directions=
+| phone=+52 55 5528 9834 | tollfree=
+| hours= | price=
+| lastedit=2023-03-18
+| content=The stadium actually pre-dates the 1968 Olympics for which it is named. The exterior has a large mural by Diego Rivera titled ''La Universidad, la familia y el deporte en México''; the mural was created between 1952 and 1954. The stadium is used for university athletics and is home field for the Pumas soccer team.
+}}
+* {{see
+| name=Universum | alt= | url=https://www.universum.unam.mx | email=
+| address= | lat=19.314316 | long=-99.173829 | directions=
+| phone=+52 55 5622 7260 | tollfree=
+| hours=10:00 - 17:00 (closed Mon) | price=M$90 (adults), M$80 (age under 12)
+| lastedit=2023-03-18
+| content=Comprehensive science and technology museum with exhibits for all ages. Paleontology (dinosaur bones), astronomy (includes a planetarium), chemistry, physics, there are even exhibits that make math look like fun! It's a large museum, so plan to spend most of the day here.
+}}
+* {{see
+| name=Espacio Escultórico | alt= | url=http://www.cultura.unam.mx/ | email=
+| address=University Theater Center (CUT), Mario de La Cueva, Cd. Universitaria | lat=19.318761 | long=-99.182055 | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 08:00 - 16:00, closed Sat-Sun | price=
+| lastedit=2023-11-27
+| content=Sometimes dubiously described as the world's largest [[Sculptures|outdoor sculpture]], the Espacio Escultórico is a round ring reminiscent of a modernized Stonehenge. It is a wide path lined with angular stone monoliths surrounding a patch of natural volcanic rock.
+}}
+* {{see
+| name=Museo Universitaria Ciencias y Artes | alt=MUCA | url=https://muca.unam.mx/ | email=​muca@unam.mx
+| address=Circuito Interior Escolar | lat=19.331308 | long=-99.187691 | directions=
+| phone=+52 555 622 0212 | tollfree=
+| hours=Tue-Sat 10ː00 - 18ː00 | price=Free
+| lastedit=2026-02-18
+| content=Open interdisciplinary exhibition space. Typically has an exhibition on a specific topic for a period of a few months, then shuts down until a new exhibition is prepared. (Check the official website for events, other sources are unreliable.)
+}}
+* {{see
+| name=Museo de Anatomopatolgia Veterinaria | alt=Museum of Pathological Anatomy | url=https://www.fmvz.unam.mx/fmvz/departamentos/patologia/museo.html | email=
+| address=Av. Universidad 3000 | lat=19.3309 | long=-99.1777 | directions=Metro to Universidad
+| phone= | tollfree=
+| hours=Daily 08ː30 - 19ː30 | price=Free
+| lastedit=2026-02-24
+| content=Three-legged chickens, cats born with 1 eye, organs destroyed by tapeworms, these are just a few of the gross biological deviances that you'll see on display in this very strange and unsettling museum. Guided tours available.
+}}
+
+===Villa Coyoacán===
+[[File:Iglesia, Coyoacan.JPG|thumb|Capilla de la Purísima Concepción]]
+The core of Coyoacán is the historic community built around a pair of large squares, {{marker|type=see|name=Plaza Hidalgo|lat=19.34974|long=-99.16241|image=KioskPlazaHidalgoCoyoacan.JPG}} and {{marker|type=see|name=Jardín Centenario|lat=19.34930|long=-99.16365|image=PathJardinCentenarioDF.JPG}}, which together are the center for a lot of the activity in the area. There are impromptu African dance performances, Aztec dancers, fortune tellers, and lots more to see. The market square is surrounded by cafes and restaurants, as well as a small 16th century church and a small public library. In the smaller streets nearby are even more cafes and restaurants, as well as stores selling antiques, clothes, crafts, and so on.
+
+* {{see
+| name=Capilla de la Purísima Concepción | alt=La Conchita | url= | email=
+| address=Plaza de la Conchita | lat=19.34706 | long=-99.15883 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Iglesia, Coyoacan.JPG | wikidata=Q16620327
+| content=Built in 1521 under Cortés, this is believed to be the earliest Christian building in Mexico City.
+}}
+[[File:Iglesia de San Juan Bautista - 02.jpg|thumb|upright=0.6|Church of St John the Baptist]]
+* {{see
+| name=Parroquia San Juan Bautista | alt=Church of St John the Baptist | url= | email=
+| address=Parque Centenario | lat=19.349757315238563 | long=-99.16262931155286 | directions=
+| phone= | tollfree=
+| hours=Daily 07ː30-19ː30 | price=
+| wikidata=
+| lastedit=2026-02-03
+| content=One of the oldest churches in Mexico, it was built by Franciscan missionaries between 1522 and 1552. The church is spectacularly beautiful, built in a baroque style and elaborately decorated with interior architectural detail and historic artwork including paintings and sculpture. An interior courtyard and small side chapels offer space for quiet spiritual reflection.
+}}
+* {{see
+| name=Casa de la Malinche | alt= | url= | email=
+| address=Higuera 55 | lat=19.34716 | long=-99.15982 | directions=
+| phone= | tollfree= | fax= | image=Casa de Malinche - Coyoacán - Mexico 2024.jpg
+| hours= | price=
+| content=Cortés had this house built for his Nahua mistress/interpreter, and many historians believe that he had his Spanish wife murdered here. Despite the house's historic and aesthetic significance, it is not marked by any plaques as many Mexicans today consider la Malinche a traitor. The building is not open to the public, but can be appreciated from outside.
+}}
+* The small neighborhood around the Anahuacalli Museum has several nice cafes and a quiet charm; it is popular with university students and creative bohemian types.
+
+===Museums===
+[[File:Frida Kahlo House, Mexico City (6998147374).jpg|thumb|Museo Frida Kahlo]]
+*{{see
+| name=Museo Frida Kahlo | alt=Frida Kahlo Museum | url=https://www.museofridakahlo.org.mx/ | email=
+| address=Londres 247 | lat=19.35517 | long=-99.16242 | directions=Col. del Carmen
+| phone=+52 55 5554 5999, +52 55 5658 5778 (could be out-of-date) | tollfree=
+| hours=Tue 10:00-17:45, Wed 11:00-17:45, Thu-Sun 10:00-17:45 | price=M$320 (foreign adults), M$160 (Mexican nationals/residents), M$60 (students/teachers), M$30 (children/seniors); weekends: M$267.50 (adults), M$128.40 (Mexican nationals/residents), M$48.15 (students/teachers), M$21.50 (children/seniors), free (children under 6)
+| wikipedia=Frida Kahlo Museum | image=Frida Kahlo House, Mexico City (6998147374).jpg | wikidata=Q2663377
+| lastedit=2024-02-27
+| content=Also known as ''La Casa Azul'', this walled hacienda painted brilliant indigo blue, is where the much-revered Mexican artist spent the last years of her life. Admission includes access to the courtyard, a small series of galleries with ever-changing displays, and the historical portion of the house, which has been preserved from the days when Kahlo was alive. A small snack bar and museum shop are also on the premises, and lectures are given periodically. An iPod tour can be taken for an extra fee and if you'd like to take pictures or videos, an extra fee of M$30 will be assessed. Tickets tend to sell out a week (or more!) in advance, so if you really want to visit this site, reserve your ticket online early.
+}}
+*{{see
+| name=Museo Diego Rivera-Anahuacalli | alt= | url=http://www.museoanahuacalli.org.mx/ | email=
+| address=C/ Museo 150 | lat=19.32264 | long=-99.14396 | directions=Col. San Pablo Tepetlapa
+| phone=+52 55 5617 4310, +52 55 5617 3797 | tollfree= | fax=
+| hours=Tue-Sun 11:00-17:00 (last tour on Fri at 16:15) | price=M$90 (adults), M$70 (Mexican nationals/residents), M$30 (students), M$15 (seniors/children 6-10); one ticket good at both here and Museo Frida Kahlo
+| wikipedia=Anahuacalli Museum | image=Anahuacalli museum mexico city.JPG | wikidata=Q675877
+| lastedit=2017-01-28
+| content=Artist and muralist Diego Rivera built this structure to serve both as his studio and a museum to hold his collection of pre-Columbian art. The imposing neo-Aztec building sits in a parklike environment that is one of the few wildlife refuges in Mexico City. Guided tours of the main structure (in Spanish only) are given every hour or so. There is also a small gallery where art, music, and dance lessons, lectures, and concerts are held; check the placard at the entrance for details on what is being offered for the month. Secondary school groups make frequent outings.
+}}
+[[File:Museo Casa de León Trotsky-Estudio.jpg|thumb|Trotsky's personal office in the Museo Leon Trotsky]]
+*{{see
+| name=Museo Casa de León Trotsky | alt=Leon Trotsky Museum | url=http://museocasadeleontrotsky.blogspot.mx/ | email=museotrotsky@hotmail.com
+| address=Viena 45, Col. Del Carmen | lat=19.357670 | long=-99.159572 | directions=
+| phone=+52 55 5554 0687 | tollfree= | fax=
+| hours=Tue-Sun 10:00-17:00 | price=M$40 (adults), M$10 (concessions); M$20 (photography permit)
+| wikipedia=Leon Trotsky Museum, Mexico City | image=MUSEO CASA DE LEON TROTSKY 1.jpg | wikidata=Q4165221
+| lastedit=2017-01-28
+| content=After being expelled from the [[Soviet Union]], and subsequently from Turkey, France and Norway, Marxist theorist Leon Trotsky was granted asylum in Mexico, where he settled in Coyoacán in 1937. He continued to be vocally critical of Stalin's policies, however, and in 1940 he was assassinated in his home. The museum preserves the house in much the condition as it was in Trotsky's last days.
+}}
+*{{see | name=Museo Nacional de Culturas Populares | alt= | url=http://museoculturaspopulares.gob.mx/ | email=cpmncp@conaculta.gob.mx | address=Av Hidalgo 289 | lat=19.349898 | long=-99.161019 | directions=Colonia Del Carmen | phone=+52 55 4155 0920 | tollfree= | fax= | hours=Tue-Thu 10:00-18:00, Fri-Sun 10:00-20:00 | price=M$13 (adults), free (concessions), free admission on Sundays | wikipedia=Museo Nacional de Culturas Populares | image=CulturasPopulares01.JPG | wikidata=Q9046890 | lastedit=2017-01-28 | content=This museum offers homage to the many different indigenous cultures of Mexico, celebrating folk art, music, gastronomy, and more. They also have an impressive bookshop with art for sale from skilled artisans from all over the country.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Nacional de Acuarela Alfredo Guati Rojo | alt=Alfredo Guati Rojo National Watercolor Museum | url=http://www.acuarela.org.mx/ | email=avisos@acuarela.org.mx
+| address=C/ Salvador Novo 88 | lat=19.34863 | long=-99.17708 | directions=Barrio de Santa Catarina
+| phone=+52 55 5554 1801 | tollfree= | fax=+52 55 5554 1784
+| hours=Daily 10:00-18:00 | price=Free
+| wikipedia=Alfredo Guati Rojo National Watercolor Museum | image=MainHouseAcuarela.JPG | wikidata=Q4723788
+| lastedit=2017-01-28
+| content=Housed in the former residence of Mexican artist Alfredo Guati Rojo, the museum is dedicated to preserving and exhibiting watercolor painting, by Mexican and international artists. Pieces in its permanent collection span from pre-Hispanic to modern times, and the building is a venue for temporary exhibits.
+}}
+* {{see | name=Museo del Automovil | alt= | url=https://museodelautomovil.com.mx/ | email= | address=Avenida Division del Norte 3572 | lat=19.324429 | long=-99.139191 | directions=Tren Ligero to Nezahualpilli station | phone=+52 55 5617 5663 | tollfree= | hours=Tue-Sun 10:00 - 17:30, closed Mon | price= | lastedit=2025-08-26 | content=Large museum with more than 4,000 square meters of exhibition space showcasing 120 historic cars dating back as far as 1904.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museo Casa Kahlo | alt=Casa Rojo | url=http://www.museocasakahlo.org/ | email=
+| address=Aguayo 54, Del Carmen | lat=19.352516 | long=-99.163099 | directions=
+| phone= | tollfree=
+| hours=Wed-Mon 09:00 - 19:00, closed Tue | price=M$270 (discounts for students, children, elderly)
+| lastedit=2025-09-27
+| content=This is the home where four generations of the Kahlo family grew up and lived. Although Frida Kahlo was the most famous of Guillermo's children, he actually had an interesting life that ultimately had a big impact on Frida's worldview.
+}}
+
+==Do==
+[[File:Cineteca Nacional 01.jpg|thumb|Cineteca Nacional]]
+* {{do
+| name=Cineteca Nacional | alt= | url=http://www.cinetecanacional.net/ | email=
+| address=Avda México Coyoacán 389 | lat=19.36116 | long=-99.16461 | directions=
+| phone=+52 55 4155 1200 | tollfree= | fax=
+| hours=Daily 11:00-21:00 (ticket office) | price=$40 MXN (general admission), $25 MXN (students/teachers/INAPAM members)
+| wikipedia=es:Cineteca Nacional | image=Cineteca Nacional 01.jpg | wikidata=Q1092492
+| content=Designed by Mexican architect Manuel Rocha Díaz and completed in 1984, the Cineteca is dedicated to the preservation and showing of films in Mexico. This is a venue for current releases as well as classic films, and hosts a number of film festivals throughout the year.
+}}
+===Viveros de Coyoacán National Park===
+[[File:Viveros Coyoacán.jpg|thumb|Viveros de Coyoacán]]
+A 39-hectare greenspace in the heart of Coyoacan, is one of Mexico's most interesting ecological projects. 
+
+Conceived by Miguel Angel de Quevedo in the early 20th century, this park is Mexico's oldest and largest tree nursery. Angel was alarmed at the deforestation he saw occurring in Mexico, particularly in the once verdant forests of Central Mexico, in the late 19th and early 20th century so he became an advocate for re-forestation. Key to his efforts was growing young trees that could be planted in damaged forest lands. In 1913, he grew 140,000 trees in this park. It was incorporated into the [[Mexico national parks]] system in 1938. Today, more than 1 million young trees are produced here for reforestation projects in other national parks, with another 1.5 million in two other tree nurseries operated by the Department of Forestry. 
+
+The park is a beautiful, serene setting with wide walking and jogging trails, numerous benches, and interpretive kiosks that identify tree species. More than 3,000 visitors enjoy the park each day, many coming to sit and feed the squirrels, which are notoriously unafraid of humans.
+* {{do
+| name=Viveros de Coyoacán National Park | alt=Parque Nacional Viveros de Coyoacán | url= | email=
+| address= | lat=19.3538 | long=-99.1721 | directions=Metro line 3 to the Viveros/Derechos Humanos station
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Viveros de Coyoacán | image=SmallPathViverosCoyoacanDF.JPG | wikidata=Q2751011
+| content=
+}}
+
+==Buy==
+[[File:CheeseCounterCoyoacan.JPG|thumb|Cheese counter at the Mercado de Coyoacán]]
+* On Saturdays and Sundays, there's an open-air market in the squares, mostly focusing on arts and crafts, clothes (a lot of tie-dye and T-shirts), piercings and tattoos. With a bit of selectivity, and some haggling, you can pick up a lot of interesting things here, and none of them are horribly touristy or tacky.
+* {{buy
+| name=Mercado de Coyoacán | alt= | url= | email=
+| address=Ignacio Allende s/n | lat=19.35281 | long=-99.16149 | directions=
+| phone= | tollfree= | fax= | image=CheeseCounterCoyoacan.JPG
+| hours=Daily 07:00-17:00 | price=
+| content=A traditional Mexican market with a large selection of produce and food items as well as other goods; Frida Kahlo used to shop herself. There are also a number of food stalls here, making this a good place to stop for lunch.
+}}
+* {{buy
+| name=Bazar Artesanal Mexicano | alt= | url= | email=
+| address=Felipe Carrillo Puerto | lat=19.35014 | long=-99.16331 | directions=
+| phone= | tollfree=
+| hours=Daily | price=
+| image=Various miniature figures.JPG
+| content=An [[Mexican artesanias|arts and crafts]] market with good quality items.
+}}
+*{{buy
+| name=Casa de Luna | alt= | url= | email=
+| address=Ortega 23 | lat=19.34825 | long=-99.16324 | directions=corner of Carrillo Puerto
+| phone=+52 56 597 325 | tollfree=
+| hours=11:00-20:00 | price=
+| content=Fair trade store that offers a beautiful selection of [[Mexican artesanias|traditional Mexican folk art]] and an eclectic assortment of jewelry, textiles, Mexican-kitsch, nichos, [[Day of the Dead]] images, market bags, masks, milagros, etc. – varied but carefully curated. The upstairs gallery displays Mexican contemporary artwork.
+}}
+* {{buy
+| name=Bazar Casa del Coleccionista | alt= | url= | email=
+| address=Francisco Sosa 1 | lat=19.34932 | long=-99.16445 | directions=Corner with Tres Cruces Street
+| phone= | tollfree= | fax=
+| hours=Daily | price=
+| content=This place sells lots of vintage items, including china ware, toys, paintings, and ornaments.
+}}
+
+==Eat==
+
+===Cafes===
+*{{eat
+| name=Café Ruta de la Seda | url=http://www.caferutadelaseda.com/ | email=info@caferutadelaseda.com
+| address=Aurora 1 | lat=19.34815 | long=-99.16944 | directions=cross street Pino, across from Parque Santa Catarina
+| phone=+52 3869 4888 | tollfree= | fax=
+| hours=Daily 08:00-22:00 | price=M$20-$50
+| content=Look for a small, green stucco building, without even a sign over the door, with the only indication that it's a cafe in this residential neighborhood are the tables and chairs out on the sidewalk. True to its hippie, progressive environment, this tiny cafe serves organic pastries and coffee, and has some Indian food on the menu (samosas, mango lassi). Try the green tea cake with ice cream, also made of green tea.
+}}
+*{{eat
+| name=Café El Jarocho | url=https://m.facebook.com/cafeljarocho/ | email=
+| address=Calle Cuauhtémoc 134 | lat=19.35120 | long=-99.16183 | directions=corner of Caballocalco/Allende and Cuauhtémoc
+| phone=+52 55 5554 5418 | tollfree= | fax= | image=Cafe_El_Jarocho.jpg
+| hours=Sun-Thu 06:30-01:00, Fri Sat 06:30-02:00 | price=M$10-20
+| content=This is a very old, family-owned coffee roaster's shop, and there are now at least three locations in Coyoacán. They have really good and cheap coffee, bad and cheap ''tortas'' (sandwiches in French bread), and reasonably standard American-style donuts. There are benches on the sidewalk just outside the Jarocho shops where you can sit to drink your coffee, or you can do like everyone else in Coyoacán and just stroll around the park with your Jarocho foam cup in your hand. On weekends, expect to wait in line to order your coffee. A long wait in line for coffee, a bag of fresh churros, and a conversation in Coyoacán's plaza is a quintessential Mexico City date.
+}}
+*{{eat
+| name=Bizarro Café | url=https://es-la.facebook.com/pages/Bizarro-Caf%C3%A9/137635233004979 | email=bizarromx@hotmail.com
+| address=Cuauhtemoc 168a | lat=19.35134 | long=-99.16323 | directions=between Centenario and Aguayo
+| phone=+52 55 5659 8453 | tollfree= | fax= | image=Bizarro cafe en Coyoacán.jpg
+| hours=Mon-Wed 09:00-24:00, Thu-Sat 09:00-02:00, Sun 03:00-24:00 | price=M$30-100
+| content=A comfortable goth hangout. There is a really good bakery next door.
+}}
+*{{eat
+| name=La Selva Café | alt= | url= | email=
+| address=Jardín del Centenario 4 | lat=19.34840 | long=-99.16304 | directions=next to the church atrium, at the back of the archway
+| phone=+52 55 5554 4070 | tollfree= | fax=
+| hours=Open daily | price=M$50-100
+| content=A perennial student hangout, also serving baguettes and cakes.
+}}
+
+===Restaurants===
+[[File:Mexcity_coyoacan_ceviche.JPG|thumb|Oyster and shrimp ceviche from ''El Jardin del Pulpo'']]
+*{{eat
+| name=El Morral | url=http://elmorral1967.wordpress.com/ | email=
+| address=Caballocalco | lat=19.35040 | long=-99.16176 | directions=20m N of Plaza Hidalgo
+| phone= | tollfree= | fax= | image=El Morral Coyoacán 2.jpg
+| hours=Daily | price=M$100-300
+| content=Very good Mexican food. Don't miss the ''chiles en nogada'', large chiles stuffed with ground beef, raisins, and nuts, and covered with a nut cream sauce. Their hand-made tortillas are fantastic. Service can be a bit slow though.
+}}
+*{{eat | name=El Jardin del Pulpo | alt= | url=https://en.jardindelpulpo.com/ | email= | address=Mercado Coyoacan, Malintzin 89 L24-25 | lat=19.35246 | long=-99.16146 | directions=catty-corner from La Casa Azul | phone= | tollfree= | fax= | image=Mexcity_coyoacan_ceviche.JPG | hours=Daily 10:00-18:00 | price=M$50-300 | content=The "Octopus's Garden" is a casual ''marisqueria'', or seafood place, featuring ceviche, seafood paella, whole roast fish, and even fish and chips. Dining is cafeteria-style at long tables under an awning. If you want fresh juices, agua frescas, or ice cream, those are available from two shops next door.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{eat | name=Los Danzantes | alt= | url=http://losdanzantes.com/los-danzantes-coyoacan/ | email=coyoacan@losdanzantes.com | address=Plaza Jardin Centenario 12 | lat=19.34887 | long=-99.16368 | directions=on the corner of the main market square | phone=+52 55 6585 2477 | tollfree= | fax= | hours=Mon-Wed 12:30-23:00, Thu 12:30-24:00, Fri Sat 09:00-01:00, Sun 09:00-23:00 | price=M$250-500 | lastedit=2016-05-27 | content=Somewhat pricey modern international cuisine with twists on traditional Mexican dishes. They also bottle and sell their own brand of ''mezcál''. Try the seafood-chipotle chili soup, the goat cheese-filled chicken breast with chipotle chili sauce, and, if you can afford the $200 price tag, the ''escamoles'' (ant eggs) ''sol azteca'' as a starter (small, but can be shared between two people).
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=La Coyoacana | url=http://lacoyoacana.com/ | email=
+| address=Higuera 14 | lat=19.34925 | long=-99.16165 | directions=60m W of Plaza Hidalgo
+| phone=+52 55 5658 5337 | tollfree= | fax= | image=Cantina La Guadalupana.jpg
+| hours=Mon-Sat 13:00-24:00 | price=M$100-300
+| content=Very good Mexican food and good drinking with the locals; Frida Kahlo and Diego Rivera used to spend time here. Don't miss the "Mole," "Michele's favorite" or ''carne tartara''. Their hand-made tortillas are fantastic. Service is good, make friends with the Meseros; they are cool. Mariachis and a garden terrace also appeal. 
+}}
+*{{eat
+| name=La Bipolar | alt=La Bipo | url= | email=
+| address=Malintzin 155 | lat=19.35205 | long=-99.16245 | directions=
+| phone=+52 55 5484 8230 | tollfree= | fax= | image=La Bipolar Coyoacán.jpg
+| hours=Sun-Tue 13:00-23:00, Wed 13:00-24:00, Thu-Sat 13:00-02:00 | price=M$50-100 for main course
+| content=A tacky-fun restaurant/cantina owned by Mexican actor Diego Luna. Good place to go for drinks and a light meal. Try the shrimp burrito.
+}}
+*{{eat
+| name=Taro | url=http://www.restaurantetaro.com/ | email=
+| address=Av Universidad 1861 | lat=19.34291 | long=-99.18163 | directions=a block and a half from Miguel Ángel de Quevedo, going towards the UNAM campus, across the street from the Novo bookstore and the Pasteur pharmacy
+| phone=+52 55 5661 4083 | tollfree= | fax=
+| hours=Mon-Thu 13:00-22:30, Fri Sat 13:00-23:00, Sun 13:00-21:00 | price=M$150-300
+| content=Probably the best Japanese food in Mexico City, owned by Japanese. Many Japanese people come here for lunch and dinner, so they attest to the authenticity of the meals – you won't find maki rolls with cream cheese here. Don't miss their spicy octopus entrée and the ice-cream tempura for dessert.
+}}
+
+===Grab-a-bite places===
+[[File:Steak flautas.jpg|thumb|Barbacoa Flautas from ''Taquería Aguayo 1'']]
+[[File:Churros and chicharron stands Coyoacán.jpg|thumb|Chicharron and churros stands]]
+* {{eat
+| name=Taquería Aguayo 1 | url= | email=
+| address=Aguayo, approx. No. 14 | lat=19.35098 | long=-99.16255 | directions=about 100m north of Plaza Hidalgo
+| phone= | tollfree= | fax= | image=Steak flautas.jpg
+| hours= | price=M$5-12
+| content=Just off of the Plaza Hidalgo, this little hole in the wall has some of the best traditional food in Mexico City. Their flautas are especially delicious, both the cheese (''queso'') and steak (''barbacoa'') variety. A tight squeeze (they don't seat very many), but well worth it, and very clean. An order of flautas (brings 4) is $28 MXN ($7 apiece – best deal anywhere for something this good); quesadillas and tostadas are $7 each, and tacos $10; they also offer tortas and other traditional dishes. Very fast, efficient service. Located on Aguayo, north of the Plaza Hidalgo. If you are in the Jardín Hidalgo, with your back to the garden/kiosk and facing the colonial Casa Municipal, head left in front of the Casa Municipal and make a right on Aguayo (round the corner where the Banamex is). Stay on the right sidewalk; the taquería will be past the Restaurant El Tizoncito and Rosticería Molinos, and across the street from a BANORTE. A red awning hangs in front; the name is found only on the menu board inside.
+}}
+* {{eat
+| name=Las Nieves de Coyoacán | url= | email=
+| address=Carrillo Puerto | lat=19.34979 | long=-99.16309 | directions=across the street from Plaza Hidalgo, 30 meters from Jardín Centenario
+| phone= | tollfree= | fax= | image=IcecreamShopCoyoacan.JPG
+| hours=Daily | price=M$20-50
+| content=One of the best sorbets in the city. Try the ones made from exotic fruits: ''guanábana'', ''zapote'', ''maracuya'', ''tuna'' (cactus fruit). The coconut-flavored ''paletas'' (popsicles) are also a treat.
+}}
+* {{eat
+| name=Tepoznieves | alt=Nieves el Tepozteco | url= | email=
+| address=Av Francisco Sosa 1, Local 1 | lat=19.34930 | long=-99.16431 | directions=a few steps away from Las Nieves de Coyoacán
+| phone= | tollfree= | fax=
+| hours=Daily 09:00-21:00 | price=
+| lastedit=2017-01-28
+| content=Features excellent flavors such as ''Beso de Angel'' (angel kiss), ''Mil Floes'' (thousand flowers) and spicy sorbets!
+}}
+* {{eat
+| name=Churrería General de la República | alt= | url= | email=
+| address=Ignacio Allende 38 | lat=19.35111 | long=-99.16181 | directions=near cross-street Cuauhtémoc
+| phone= | tollfree= | fax=
+| hours= | price=M$7-$10
+| content=Churros are not too popular in Mexico City, but there are a number of places in Coyoacán (including street stands) that have them. The Churreria is a good place with excellent churros and you can fill it with a number of ingredients, like chocolate, ''fresa'' (strawberry), ''durazno'' (peach), ''lechera'' (milk), ''zarzamora'' (blackberry) and more.
+}}
+* {{eat
+| name=Street food | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The main plaza, at different times of the year, might have street food vendors that sell extremely good ''flautas'' (long, deep fried tacos), as well as ''buñuelos'' (deep fried sugar-coated bread), ''esquites'', and ''elotes'' (corn with chile, mayonnaise, lime, and cheese).
+}}
+* {{eat
+| name=El Chupacabras | url= | email=
+| address=Close to Metro Coyoacán | lat=19.35958 | long=-99.17224 | directions=Under the highway at the intersection of Churubusco and Universidad
+| phone= | tollfree= | fax= | image=Super tacos chupacabras.jpg
+| hours=Open 24 hours | price=
+| content=These are some of the most famous street tacos in Mexico City. Their speciality is the chupacabra taco, a combination of pork, beef and a 'secret ingredient'.
+}}
+
+==Drink==
+* {{drink
+| name=El Hijo del Cuervo | url=http://www.elhijodelcuervo.com.mx | email=buzondelcuervo@gmail.com
+| address=Jardin Centenario 17 | lat=19.349834 | long=-99.163810 | directions=
+| phone=+52 55 5658 7824 | tollfree= | fax=
+| hours=Mon-Wed 16:00-23:30, Thu 13:00-24:00, Fri Sat 13:00-02:00, Sun 13:00-24:00 | price=M$7 (cover charge)
+| content=Locals pack El Hijo del Cuervo which plays a mixture of rock and protest music.
+}}
+* {{drink
+| name=Teatro Bar El Vicio | url=http://www.elvicio.com.mx/ | email=contacto@elvicio.com.mx
+| address=Madrid 13 | lat=19.35744 | long=-99.16416 | directions=
+| phone=+52 55 5659 1139, +52 55 6553 4932 | tollfree= | fax=
+| hours= | price=
+| content=Cabaret venue that showcases music, theatre and cabaret shows. Shows are in Spanish.
+}}
+* {{drink
+| name=Centenario 107 | alt= | url=https://www.centenario107.mx/ | email=
+| address=Centenario 107, Del Carmen | lat=19.356327 | long=-99.163399 | directions=
+| phone=+52 55 4752 6369 | tollfree=
+| hours=Thu-Sat 09:00 - 01:00; Sun 09:00 - 23:00, Mon-Wed 09:00 - 24:00 | price=
+| lastedit=2024-02-09
+| content=Fascinating and fun bar, grill, garden, and nightclub. Just 2 blocks from the Frida Kahlo house, it makes a great lunch spot. In the evening the place comes alive with a more party crowd. Good selection of craft beers and artesanal tequilas and mezcals. Outdoor garden area with tables.
+}}
+
+==Sleep==
+There are not many hotels in Coyoacán, but there are quite a few privately owned apartments and rooms that can be booked on travel web sites.
+
+* {{sleep | name=Krystal Grand Suites Insurgentes 1991 | alt= | url=https://www.krystal-grand-suites.com/m2/ | email= | address=Av. de los Insurgentes Sur 1991. | lat=19.351152 | long=-99.186539 | directions=west of Coyoacan on Insurgentes | tollfree= | checkin=15:00 | checkout=12:00 | price=MX$2000 (Apr 2023) | lastedit=2023-04-06 | content=Modern, upscale hotel on a busy thoroughfare. Not really in Coyoacan, but closest big hotel.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hostal la Encantada | alt= | url= | email=
+| address=Guerrero 108, Col. Del Carmen Coyoacán | lat=19.356043 | long=-99.165465 | directions=4 blocks from Frida Kahlo House
+| phone=+52 55 5659 7761 | tollfree=
+| checkin=2pm | checkout=10am | price=MX$800 (Nov 2022)
+| lastedit=2022-11-03
+| content=Barebones hostel for budget travelers. Excellent location, easy walk to mercado and zocalo.
+}}
+* {{sleep
+| name=Mansion de Papilio | alt= | url=http://mansiondepapilio.com/ | email=
+| address=5 de Febrero 28, La Concepción, Coyoacán | lat=19.346809 | long=-99.162472 | directions=
+| phone=+52 7773528007 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$2500
+| lastedit=2023-04-05
+| content=Elegant small hotel set in a historic mansion. Gardens with roaming peacocks, large rooms with chandeliers etc. Service can be hit or miss.
+}}
+* {{sleep
+| name=Hostal Cuija Coyoacan | alt= | url=https://cuija-coyoacan.hotelb3.com/ | email=
+| address=Berlin 268, Coyoacan | lat=19.356026 | long=-99.164717 | directions=
+| phone=+52 5556599310 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=M$750
+| lastedit=2023-04-05
+| content=Budget hostel in a quiet residential neighborhood. Rates include free breakfast. 2-minute walk to Frida Kahlo House, 10-minute walk to Coyoacan Metro station.
+}}
+
+==Connect==
+Cell service is excellent in Mexico City with several carriers providing 5G service with 100% coverage throughout the core city (including Coyoacan), though service may step down to 4G in parts of nearby [[Mexico City/Xochimilco|Xochimilco]]. 
+
+For those with unlocked phones, travelers can purchase a pre-paid SIM card at {{marker|type=buy|name=Sanborns|url=http://www.sanborns.com.mx/Paginas/Inicio.aspx|lat=19.34980|long=-99.16331}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }} (Parque Centenario 5) or at another branch of {{marker|type=buy|name=Sanborns|lat=19.35920|long=-99.16988}} in the [http://centrocoyoacan.mx/ Centro Coyoacán] shopping center.
+
+WiFi service is provided by virtually all hotels and restaurants and is provided by the CDMX city government as a free service in public parks throughout the city.
+
+==Go next==
+While you're in the southern part of [[Mexico City]], take the time to explore nearby [[Xochimilco]]. 
+
+If you want to get out of the Mexico City area, use the Taxquena bus terminal (Central del Sur), which is a good choice for buses to [[Acapulco]] or [[Cuernavaca]].
+
+
+{{guidedistrict}}
+{{geo|19.350000|-99.161667}}
+{{IsPartOf|Mexico City}}

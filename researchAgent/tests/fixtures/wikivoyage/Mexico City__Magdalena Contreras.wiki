@@ -1,0 +1,83 @@
+{{pagebanner|Magdalena Contreras banner.jpg|pgname=Magdalena Contreras}}
+
+[[File:Church of San Jerónimo Aculco, San Jerónimo Lídice, Magdalena Contreras, Mexico City.JPG|thumb|Church of San Jerónimo Aculco]]
+'''Magdalena Contreras''' is one of the 16 boroughs (formerly called ''delegaciones'' but now called ''alcaldias'') of [[Mexico City]]. It is large in area, but one of the smallest in population with about 250,000 residents, almost all of whom live in the northern third of the district. The southern area is green space with parks and recreational areas that attract the city's outdoor enthusiasts and nature lovers.
+
+==Get in==
+{{mapframe|19.31656|-99.2425}}
+Take Metro to Tasqueña then transfer to bus or taxi. Or take Metro line 3 to Miguel Angel de Quevedo, then walk to the Walmart on Av.Universidad where you can catch the Emiliano Zapata 9 combi to Huayatla.
+
+The easiest way to get there is just pull out your phone and get an Uber. It's about a 40-minute ride from Polanco or Chapultepec to Los Dinamo in Magdalena Contreras.
+
+==See==
+* {{see
+| name=El Aguila Textile Mill | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Ruins of an historic textile mill abandoned in the early 20th century
+}}
+* {{see
+| name=Church of Santa Maria Magdalena of Atlitic | alt= | url= | email=
+| address= | lat=19.30246 | long=-99.24540 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Colonial era church established in early 16th century by the Franciscans. Ornate baroque facade with a neoclassic altar and a huge painting of Mary Magdalene. The church celebrates Mary Magdalene's feast day on July 22 with a fair that includes carnival rides, food vendors and live music.
+}}
+* {{see
+| name=Cerro del Judio | alt=Mazatepetl | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q27769309
+| lastedit=
+| content=At the top of the hill is a restored pyramid, an Otomi temple to Ehecatl, the Aztec god of wind. The temple was built between 1200 and 1380 A.D.
+}}
+
+==Do==
+[[File:Río Magdalena Atlitic.jpg|thumb|Río Magdalena]]
+* {{do
+| name=Los Dinamos | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=Named after an old textile factory, this 2,429 hectare eco-park is a natural playground with forests, canyons, ravines, streams, and waterfalls along the Magdalena River, Mexico City's only remaining flowing river. The park has 26 km of marked hiking trails. Outdoor enthusiasts come for the hiking, camping, horseback riding, picnicking and fishing. Vendors sell good street food and drinks, including aguas frescas and pulques.
+}}
+* {{do
+| name=San Nicolás Totolapan Ejido Park | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Park opens at 07:00 | price=Entry starts at M$40
+| wikidata=
+| lastedit=
+| content=Outdoor activities like hiking, zip line, fishing, ATV rentals for treks through the woods, cabins for rent, mountain biking trails, petting zoo. Dog friendly.
+}}
+* {{do
+| name=Lomas de Padierna National Park | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q15919209
+| lastedit=
+| content=Small remnants of a park, mostly lost to illegal squatters
+}}
+
+==Buy==
+
+==Eat==
+
+==Drink==
+
+==Sleep==
+
+
+{{IsPartOf|Mexico_City}}
+{{outlinedistrict}}
+
+{{geo|19.31656|-99.2425}}

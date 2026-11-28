@@ -1,0 +1,1 @@
+{"method": "GET", "url": "https://api.geoapify.com/v2/places?categories=commercial.marketplace&filter=circle%3A-104.825348%2C38.8339578%2C10000&bias=proximity%3A-104.825348%2C38.8339578&limit=10&lang=en", "body": null, "saved_at": 1795367770.5658872, "text": "{\"type\":\"FeatureCollection\",\"features\":[]}"}

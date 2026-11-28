@@ -1,0 +1,386 @@
+{{pagebanner | Jardin Luxembourg (Paris) banner.jpg|pgname=6th Arrondissement}}
+[[Image:Paris_6th_tower_st_germain_de_pres.jpg|thumb|240px|The 10th century church of Saint Germain de Pres]]
+As with [[Paris]] itself, the '''6th Arrondissement''' is hard to write about without using superlatives.  There's a bit of everything here, from the busy sidewalks of Paris' main art Gallery scene to the expansive green spaces and under-tree cafés of the ''Jardin du Luxembourg'', from the impossible elegance and charm of the ''rue Bonaparte'' to the bohemian allure of the ''Latin Quarter'', from the huddle of 'steak/frites' joints around ''Place St. Michel'' to some of the finest restaurants in the world - the 6th has it all. Unsurprisingly, visitors find it one of the most romantic and appealing areas of Paris, but so do the Parisians themselves and for many years now the 6ème (as it is known in French) has been home to artists, writers, designers, intellectuals and the chicest of the chic. Unmissable though it may be, however, the charm of the 6th is such that you may risk not seeing much else of Paris!
+
+==Get in==
+{{Mapframe|48.8488|2.3332|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q50716}}
+
+===By Métro===
+{{rint|paris|4}} runs north-south through the 6th, connecting with the 18th, 9th, 2nd, 1st, and 14th.  If you're arriving from central France or the Loire valley you'll probably connect at '''Gare Montparnasse'''.
+
+===By RER===
+{{rint|paris|rerB}} of the RER runs through {{station|Luxembourg}}, right next to the Luxembourg garden and close to the Panthéon.
+
+===By bus===
+Line 27, 89, 67, 83 run through
+
+==See==
+
+===Landmarks===
+[[Image:Jardin du Luxembourg Paris France.JPG|thumb|Jardin du Luxembourg, the Luxembourg garden]]
+* {{see
+| name=Eglise Saint-Germain-des-Prés | alt=Abbey of Saint-Germain-des-Prés | url=http://www.eglise-sgp.org | email=
+| address=3 place St-Germain-des-Prés | lat=48.853889 | long=2.334444 | directions=Métro: St-Germain-des-Prés
+| phone= | tollfree= | fax=
+| hours=Daily 08:00-19:30 | price=
+| wikipedia=Abbey of Saint-Germain-des-Prés | image=Paris St-Germain-des-Prés.jpg | wikidata=Q334186
+| content=The oldest church in Paris, founded in the year 542 by King Childebert. The church as it exists today dates mainly from the 11th century, the period in which it became the center of a powerful Benedictine abbey. The Revolution witnessed the suppression of the abbey in 1794, when most of the monastic buildings were put to the torch. Earlier, 318 priests had been hacked to death nearby by a mob on 3 September 1792. The church underwent significant restoration in the 19th century, ensuring the preservation of the building, which by that date represented a fascinating mix of styles: 6th century marble columns placed alongside Gothic vaults and supported by Romanesque arches. Famous burials within the church include René Descartes (philosopher), Nicolas Boileau (poet) and King John Casimir of Poland, who had become (in 1669, before his death) abbot of the church's monastery.
+}}
+* {{see | name=Palais du Luxembourg | alt= | url=http://www.senat.fr | email= | address=15 rue de Vaugirard | lat=48.848333 | long=2.3375 | directions=Métro Odéon or Mabillon | phone=+33 1 44 54 19 49 | tollfree= | fax= | hours=10:3-14:30 | price=free | wikipedia=Luxembourg Palace | image=Luxembourg Palace.JPG | wikidata=Q329852 | lastedit=2018-06-04 | content=Visitable only by reservation and then only one Saturday every month. A richly decorated palace built for Marie de Medici in the early 17th century, which is now the French Senate. For those interested in seeing a Parisian monument normally unavailable to the public, or for those interested in the inner workings of the French Government. The large '''Luxembourg Garden''' is open to the public year-round. The garden is home to the Medici fountain, a children's playground, and vintage toy boats for hire that children push around in the Grand Bassin duck pond (a 90-year tradition).
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+{{Multiple image |align=right |direction=vertical |width=170
+|image1=Saint-Sulpice on 1739 Turgot map of Paris - KU.jpg |caption1=Saint Sulpice on the 1739 Turgot map of Paris
+|image2=P1000718 Paris VI Eglise Saint-Sulpice reductwk1.JPG |caption2=Façade of Saint Sulpice with balustrade and 'mis-matched' towers
+}}
+* {{see | name=Eglise de Saint Sulpice | alt= | url=http://pss75.fr/saint-sulpice-paris | email= | address=75 rue Bonaparte | lat=48.851111 | long=2.334722 | directions=Métro Saint Sulpice | phone=+33 1 42 34 59 98 | tollfree= | fax= | hours=07:00-18:45 | price=free | wikipedia=Church of Saint-Sulpice, Paris | image=P1000718 Paris VI Eglise Saint-Sulpice reductwk1.JPG | wikidata=Q295844 | content=a Roman Catholic church on the east side of the Place Saint-Sulpice within the rue Bonaparte, in the Luxembourg Quarter of the VIe arrondissement. At 113 metres long, 58 metres in width and 34 metres tall, it is only slightly smaller than Notre-Dame and thus the second largest church in the city. It is dedicated to Sulpitius the Pious. During the 18th century, an elaborate gnomon, the Gnomon of Saint-Sulpice, was constructed in the church. In front of the church itself is the magnificent Place Saint-Sulpice which contains the 'Fountain of the Four Bishops'. The church has a long-standing tradition of talented organists that dates back to the eighteenth century. In 1862, Aristide Cavaillé-Coll reconstructed and improved the existing organ built by François-Henri Clicquot. Though using many materials from Clicquot's French Classical organ, it is considered to be Cavaillé-Coll's magnum opus, featuring 102 speaking stops, and is perhaps the most impressive instrument of the romantic French symphonic-organ era. Its organists have also been renowned, starting with Nicolas Séjan in the 18th century, and continuing with Charles-Marie Widor (organist 1870-1933) and Marcel Dupré (organist 1934-1971), both great organists and composers of organ music. The current organists are 'titulaire' Daniel Roth (since 1985) and 'assistant titulaire' Sophie-Véronique Cauchefer-Choplin. In Saint-Sulpice Sunday organ recitals are held on a regular basis (Auditions du Dimanche, following the High Mass, usually from 11:30am till 12:05pm, during the subsequent mass, a visit of the organ loft is possible).
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Monument to Balzac | alt= | url= | email=
+| address= | lat=48.8424221 | long=2.3294541 | directions=Boulevard Raspail/Boulevard du Montparnasse
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Monument to Balzac | image=Monument to Balzac.jpg | wikidata=Q2770535
+| content=A sculpture by Auguste Rodin in memory of the French novelist Honoré Balzac. The artwork is sometimes considered the first truly modern sculpture.
+}}
+
+===Museums and galleries===
+
+* {{see
+| name=Musée national Eugène Delacroix | alt= | url=http://www.musee-delacroix.fr | email=
+| address=6 rue de Fürstenberg | lat=48.8546 | long=2.3354 | directions=Métro: {{station|Mabillon|10}} or {{station|Saint-Germain-des-Près|4}}
+| phone= | tollfree= | fax=
+| hours=Tue-Sun 09:30-17:00 (office closes 16:30), closed Christmas, New Year and 1 May | price=€5 discounts available, under-18s free
+| wikipedia=Musée national Eugène Delacroix | image=Musée national Eugène Delacroix Entrée.jpg | wikidata=Q1782606
+| content=Home and studio of the great Romantic painter from 1857 until his death in 1863, features works by the artist and exhibitions of his contemporaries' work
+}}
+* {{see
+| name=Museum of the History of Medicine | alt=Musée d’Histoire de la Médecine | url=https://u-paris.fr/musee-de-lhistoire-de-la-medecine/ | email=
+| address=12 rue de l’École de Médecine | lat=48.851324 | long=2.340779 | directions={{station|Odéon|4|10}},{{station|Saint-Michel - Notre-Dame|RERB}}
+| phone=+33 1 76 53 16 93 | tollfree=
+| hours= | price=
+| wikidata=Q3329671
+| lastedit=2026-08-30
+| content=The museum is located on the second floor of the headquarters of the University of Paris Cité, in a room built in 1905. Inaugurated in the mid-1950’s, it was initially accessible to professors and students of the Faculty of Medicine only. It finally opened its doors to the general public in 1994. The collections are oldest in Europe, were brought together by Dean Lafaye in the 18th century, later added an important set of pieces that cover the different branches of surgical art until the end of the 19th century. There are instruments that were used for the care of the Louis XIV, as well as a few kits of doctors and surgeons and even physiology instruments. (Closed from mid July until the end of August)
+}}
+
+==Do==
+*{{do
+| name=Cafe Philo in English | alt= | url=https://www.meetup.com/english-cafe-philo-in-paris/ | email=
+| address=Cafe de Flore, 172, Blvd St-Germain | lat=48.854088 | long=2.332649 | directions=
+| phone= | tollfree=
+| hours= | price=Free
+| lastedit=2024-05-14
+| content=Cafe Philo in English meets on the first Wednesday of each month upstairs at the famous [[#Q1025686|Café de Flore]]. Everyone is invited. You don't have to be knowledgeable about philosophy. Meetings begin with a two round voting process to determine a topic. The topic is discussed for two hours.
+}}
+
+==Buy==
+
+* {{buy
+| name=Citypharma Du Four Bonaparte | alt= | url=http://www.pharmacie-paris-citypharma.fr/ | email=
+| address=26 Rue de Four | lat=48.85271 | long=2.33341 | directions=Metro: St. Germain des Près
+| phone=+33 1 46 33 20 81 | tollfree= | fax=
+| hours=Mon-Fri 08:30-20:00, Sat 09:00-20:00 | price=
+| content=Cosmetic products of famous brands like "Avène", "Vichy" and "La Roche" can be bought cheaper here.
+}}
+* {{buy
+| name=La Chambre Claire | alt=La librairie de la photographie | url=http://www.la-chambre-claire.fr/ | email=libraire@la-chambre-claire.fr
+| address=14 rue Saint-Sulpice | lat=48.85152 | long=2.33726 | directions=Mabaillon, Odéon
+| phone=+33 1 46 34 04 31 | tollfree= | fax=
+| hours=Mon 14:00-19:00, Tue-Sat 12:00-19:00 | price=
+| content=The library is specialised on books about photography. They regularly organise book signings.
+}}
+* {{buy
+| name=Magasin Variantes | alt=Boutique Variantes | url=http://www.variantes.com/ | email=
+| address=29 rue Saint André des Arts | lat=48.85327 | long=2.34215 | directions=Odeon
+| phone=+33 1 43 26 01 01 | tollfree= | fax=
+| hours=Mon-Sat 10:30-20:00, Sun 15:00-19:00 | price=
+| content=All kind of games are sold here, logic, go and check of course too.
+}}
+* {{buy
+| name=Malongo Café | alt= | url=http://www.malongo.com/ | email=st.andre@malongo.com
+| address=50 Rue Saint-André des Arts | lat=48.85344 | long=2.34060 | directions=Odéon
+| phone=+33 1 43 26 47 10 | tollfree= | fax=
+| hours=Mon-Fri 09:00-20:30, Sun 10:00-19:00 | price=
+| content=Sells all kind of different Malongo café's. Next to the shop is a nice little bar to directly taste different ones.
+}}
+* {{buy
+| name=Marché bio Boulevard Raspail | alt= | url= | email=
+| address= | lat=48.848953 | long=2.327570 | directions=Métro Rennes, entre les rues du Cherche-Midi et de Rennes
+| phone= | tollfree= | fax=
+| hours=Sun 09:00-15:00 | price=
+|lastedit=2026-08-25| content=The market sells organic fruit and vegetables.
+}}
+* {{buy
+| name=Pâtisserie Sadaharu Aoki | alt= | url=http://www.sadaharuaoki.com/ | email=
+| address=35 rue de Vaugirard | lat=48.848017 | long=2.330415 | directions=Métro Rennes
+| phone=+33 1 45 44 48 90 | tollfree= | fax=
+| hours=Tue-Sat 11:00-19:00, Sun 10:00-18:00 | price=
+| content=Japanese interpretation of French patisserie.
+}}
+
+==Eat==
+[[Image:Paris_6th_sail_boat_rentals.jpg|thumb|180px|Rent a toy sail-boat in the Jardin du Luxembourg]]
+
+===Budget===
+The stretch of '''rue Vavin''' between rue Notre Dame and rue d'Assas (right before Jardin du Luxembourg) is filled with cheap eats that students frequent, such as a bakery with a dirt-cheap ''formule''. You can also find an outlet from the famous Amorino gelato chain here.
+
+* {{eat
+| name=Guen Maï | url= | email=
+| address=6 Rue Cardinale | lat= | long= | directions=
+| phone=+33 1 43 26 03 24 | tollfree= | fax=
+| hours= | price=
+| content=This macrobiotic vegetarian restaurant has a sheltered, quiet location and generally receives glowing reviews.
+}}
+* {{eat
+| name=Santa Lucia | url= | email=
+| address=22, Rue Canettes | lat= | long= | directions=
+| phone = +33 1 43 26 42 68 | tollfree= | fax=
+| hours= | price=
+| content=Simple but very good Italian food.
+}}
+* {{eat
+| name=Cour de Rohan | url= | email=
+| address=59, Rue Saint André des Arts | lat= | long= | directions=Métro: Saint-Michel
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=It would be an ordinary tea-room if the Cour de Rohan weren't such a magical little spot.
+}}
+
+===Mid-range===
+*{{eat
+| name=Kiwi Corner | url= | email=
+| address=25, rue Servandoni | lat= | long= | directions=Métro: Odéon, Luxembourg
+| phone = +33 1-46-33-12-06 | tollfree= | fax=
+| hours= | price=€20
+|lastedit=2026-08-25| content=A little piece of New Zealand in the French capital.
+}}
+* {{eat
+| name=Padova | url=http://perso.wanadoo.fr/padova | email=
+| address=159 blvd. de Monparnasse | lat= | long= | directions=Métro: (RER-B) Port Royal
+| phone=+33 1 43 26 63 52 | tollfree= | fax=
+| hours=Tue-Sat 11:00-14:00 and 19:00-23:00 | price=
+| content=Good and ''big'' Italian food in this family-style restaurant.
+}}
+* {{eat
+| name=Yugaraj | url= | email=
+| address=14 Rue Dauphine | lat= | long= | directions=Metro: Pont-Neuf or Odeon
+| phone=+33 1 43 26 44 91 | tollfree= | fax=
+| hours=Around €40/person | price=
+| content=A mostly northern Indian ''carte'' with lots of '''Vegetarian''' options. It seems a popular restaurant so be sure to book in advance if you are going in a large group.
+}}
+* {{eat
+| name=l'Arbuci | url= | email=
+| address=25, rue de Buci | lat= | long= | directions=
+| phone=+33 1 44 32 16 00 | tollfree= | fax=
+| hours= | price=
+| content=A nice bistro with consistently favorable reviews and a jazz club downstairs.
+}}
+* {{eat | name=Brasserie Lipp | alt= | url=https://www.brasserielipp.fr/en | email= | address=151, Bld. Saint-Germain | lat= | long= | directions= | phone= | tollfree= | hours= | price= | content=A Parisian institution since 1880, the beautiful art deco interior complements the famous Alsatian menu and blond beer.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Le Timbre | url= | email=
+| address=3 rue Sainte Beuve | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=€33
+| content=It's pretty much a two-person operation: chef Christopher Wright and a waitress. There is no ''carte'', so be prepared to have the menu. Reviewers who accept this prospect are universally unreserved in their praise.
+}}
+[[Image:Paris 6th arrondissement map with listings 2.png|thumb|350px|Map of the 6th Arrondissement]]
+* {{eat
+| name=Polidor | url= | email=
+| address=41, rue Monsieur Le Prince | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Since 1845, but don't let that fool you, the carte is quite up-to-date. Vegetarians can assemble a fine pasta-centered meal ''à la carte''.
+}}
+* {{eat
+| name=Le Choupinet | alt= | url=https://lechoupinet.com | email=
+| address=58 boulevard Saint-Michel | lat=48.84605 | long=2.33968 | directions=RER B: Luxembourg; Métro: Cluny–La Sorbonne
+| phone=+33 1 42 03 09 93 | tollfree= | fax=
+| hours=Daily 08:00–01:00; kitchen 11:30–23:00 | price=Mains €16–44
+| wikidata=Q141829004
+| lastedit=2026-10-25
+| content=Brasserie opened in 2019 on place Edmond-Rostand, facing the Luxembourg Gardens, with a terrace of about 50 seats. Giant teddy bears sit at some of the tables. Traditional French dishes such as French onion soup, beef bourguignon and rotisserie chicken; breakfast from 08:00. Holds the French ''Maître Restaurateur'' title.
+}}
+
+===Splurge===
+* {{eat
+| name=Ze Kitchen Gallery | url=http://www.zekitchengalerie.fr/ | email=
+| address=4 rue des Grands-Augustins | lat= | long= | directions=Métro: Saint-Michel
+| phone=+33 1 44 32 00 32 | tollfree= | fax=
+| hours=Mon-Fri 12:00-14:30; Mon-Sat 19:00-23:00 | price=Main courses: €20-30 lunch menu with wine: ~€30
+| content=A generally well-regarded fusion restaurant with another Guy Savoy trained chef. You should reserve if at all possible.
+}}
+* {{eat
+| name=Les Bouquinistes | url=http://www.guysavoy.com | email=
+| address=53 quai des Grands-Augustins | lat= | long= | directions=
+| phone=+33 1 43 25 45 94 | tollfree= | fax=+33 1 43 25 23 07
+| hours= | price=
+| content=A favorite among the many art dealers in the neighborhood, and a respected platform for up-and-coming chef Magdala de Beaulieu-Caussimon. Owned by Guy Savoy.
+}}
+
+==Drink==
+
+===Cafés===
+
+The 6th has two of Paris' most famous cafés, side by side - both are more expensive than your average café (you're paying for the history ''and'' the location, ''not'' for extraordinary fare or service):
+
+* {{drink
+| name=Café de Flore | alt= | url=http://www.cafedeflore.fr/ | email=
+| address=172 boulevard Saint Germain | lat=48.853889 | long=2.3325 | directions=Métro: St-Germain-de-Prés
+| phone=+33 1 45 48 55 26 | tollfree=
+| hours=Daily 07:30-01:30 | price=
+| wikidata=Q1025686
+| lastedit=2024-05-14
+| content=This café is famous as the favored coffee and smoking venue for the Surrealists during the 1920s and '30s, the Existentialists in the 1940s and '50s, and still attracts an artistic and literary crowd. Also does breakfasts and light meals.
+}}
+* {{drink
+| name=Les Deux Magots | alt= | url=https://lesdeuxmagots.fr | email=
+| address=6 place Saint Germain de Prés | lat=48.853889 | long=2.333056 | directions=métro St Germain-des-Prés
+| phone=+33 1 45 48 55 25 | tollfree= | fax=+33 1 45 49 31 29
+| hours=Daily 07:30-01:00 | price=
+| wikidata=Q1147912
+| lastedit=2024-05-14
+| content=Another famous literary café, right next door to its great rival Café de Flore. Sartre and Hemingway were regular patrons here and the café confirms its literary connections with an annual, somewhat prestigious book prize.
+}}
+
+===Bars===
+
+[[File:Bouquiniste sur les quais de la Seine (Paris, 2012).JPG|thumb|Booksellers on the quays of the Seine (2012)]]
+* {{drink
+| name=10 Bar International | url= | email=
+| address=10, rue de l'Odéon | lat= | long= | directions=Métro: Odeon
+| phone=+33 1 43 26 66 83 | tollfree= | fax=
+| hours= | price=A glass of wine will cost you about €3
+| content=If you're looking to be lured into a classic Parisian hole-in-the-wall by the sound of accordion music, you should spend a few hours of your evening here.  An artsy den with requisite nudie collage, their sangria is just right.
+}}
+* {{drink
+| name=The Moose | url= | email=
+| address=16, rue des Quatre Vents | lat= | long= | directions=Métro: Odeon
+| phone=+33 1 46 33 77 00 | tollfree= | fax=
+| hours=Mon-Fri 16:00-02:00, Sat Sun 11:00-02:00 | price=A glass of wine will cost you about €3.5, Happy Hour everyday 4-8 €5 a pint
+| content=One of the only sports bars in Paris, the Moose is a quirky anglophone refuge in the heart of the 6th district.  Great to stop in for directions and a pint or to watch a game with some hearty North American food, and the mostly French crowd is usually up for speaking English ''or French'' with students and tourists.
+}}
+
+==Sleep==
+
+===Budget===
+
+* {{sleep
+| name=Best Western Hotel Aramis in Saint Germain
+| url=http://www.hotelaramis.com/
+| email=infos@hotelaramis.com
+| address=124, rue de Rennes
+| lat=
+| long=
+| directions=Metro: Right next to the Saint Placide underground station
+| phone=+33 1 45 48 03 75
+| tollfree=
+| fax=+33 1 45 44 99 29
+| hours=
+| price=
+| checkin=
+| checkout=
+| content=In a quiet street yet one of the liveliest neighbourhoods of Paris, the Hotel Aramis offers budget 3-star quality stays.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Mid-range===
+* {{sleep | name=Hotel Edouard VI *** | alt= | url=https://www.hotel-montparnasse-paris.com/en/ | email= | address= | lat= | long= | directions= | phone= | tollfree= | fax= | checkin= | checkout= | price= | wikipedia= | wikidata= | lastedit=2018-03-07 | content=A Montparnasse Hotel. Fully renovated, situated at the foot of the Montparnasse Tower and 50 m from the Montparnasse-Bienvenüe metro station.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Apostrophe | alt=Hôtel Poème | url=http://apostrophe-hotel.com/ | email=direction@apostrophe-hotel.com
+| address=3, rue de Chevreuse | lat= | long= | directions=Métro: Vavin
+| phone=+33 1 56 54 31 31 | tollfree= | fax=+33 1 43 21 01 08
+| checkin= | checkout= | price=
+| content=Set between Montparnasse and the Jardin du Luxembourg public park, near Saint-Germain-des-Prés, the Apostrophe hotel offers you an atmosphere full of poetry.16 guest rooms equipped with all the modern comfort, jet showers with light or "Chromo" jacuzzi-bath, audio CD & DVD player, complimentary Wi-Fi access.Each room has its own decor and invites you in a unique setting. Gay-friendly.
+}}
+* {{sleep
+| name=Hotel Le Saint Gregoire
+| url=http://www.hotelsaintgregoire.com
+| email=hotel@saintgregoire.com
+| address=43, rue de l'abbe Gregoire
+| lat=
+| long=
+| directions=Métro: Saint Placide, between Saint-Germain des Prés and the Montparnasse district
+| phone=+33 1 45 48 23 23
+| tollfree=
+| fax=+33 1 45 48 33 95
+| hours=
+| price=
+| checkin=
+| checkout=
+| content=On a small, quiet street, the Hotel Le Saint-Gregoire has 20 rooms decorated by David Hicks with antique furnishings, paintings and lamps purchased by the owner. All rooms are air conditioned and equipped with Wi-Fi.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Le Clos Medicis | url=http://www.closmedicis.com | email=message@closmedicis.com
+| address=56 rue Monsieur-Le-Prince | lat= | long= | directions=Métro: Odéon or Luxembourg
+| phone=+33 1 43 29 10 80 | tollfree= | fax=+33 1 43 54 26 90
+| hours= | price=Rooms start at €120
+| checkin= | checkout=
+| content=This charming little hotel is only steps from the ''Jardin du Luxembourg'' and has air-conditioning in every room, and a very cozy - and usually empty - bar in the lobby in which to wind down after a day of exploring, if you and your travelling companions need some quiet time. The helpful staff speaks English readily (some even as a first language), and the usual continental breakfast is served in the lovely (but tiny) courtyard every morning 07:00-11:00.
+}}
+* {{sleep
+| name=Hôtel Trianon Rive Gauche | url= | email=
+| address=1 bis et 3 rue de Vaugirard | lat= | long= | directions=Métro: Odeon, Cluny La Sorbonne, or RER-B: Luxembourg
+| phone=+33 1 55 33 16 55 | tollfree= | fax=+33 1 55 33 16 56
+| hours= | price=rates from €120
+| checkin= | checkout=
+| content=On the border between the 6th and the Latin Quarter in the 5th
+}}
+* {{sleep | name=K+K Hotel Cayré | url=http://www.kkhotels.com/en/hotels/paris/paris/overview-k-k-hotel-cayre/ | email=cayre@kkhotels.fr | address=4, Boulevard Raspail | lat= | long= | directions= | phone=+33 1 45 44 38 88 | tollfree= | fax=+33 1 45 44 98 13 | hours= | price= | checkin= | checkout= | content=Adjoining the Latin Quarter, the K+K Hotel Cayré hotel is within easy walking distance of the Louvre, Jardin des Tuileries and the Musee D'Orsay.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel des Saints Pères | alt= | url=http://www.paris-hotel-saints-peres.com/en | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Historical hotel with a typically left bank atmosphere, close to shops and cafés.
+}}
+
+===Splurge===
+[[File:Jardin du Luxembourg en été.jpg|thumb|Jardin du Luxembourg in summertime]]
+* {{sleep
+| name=Hôtel Au Manoir Saint Germain des Prés | url=http://www.paris-hotels-charm.com | email=
+| address=153 Boulevard Saint Germain | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Rooms from €170
+| checkin= | checkout=
+| content=In front of the Cafe de Flore and Aux Deux Magots offering guests a view over these two cafés and the Church of Saint Germain des Prés. Refurbished in 2008.
+}}
+* {{sleep
+| name=l'Hôtel | url= | email=
+| address=Rue des Beaux-Arts | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Rooms from €300
+| checkin= | checkout=
+| content=This hotel is beautiful inside, with baroque and modern rooms. There is a hamam style pool and sauna in the basement which can be reserved for clients of the hotel, and the restaurant is good too. Oscar Wilde lived and died here.
+}}
+*{{sleep | name=Milestay Saint-Germain | alt= | url=https://www.milestay.com/en/rentals/holidays-rentals-rentals-p0/tag-saint-germain/ {{dead link|December 2020}} | email=contact@milestay.com | address=117 rue de Rennes | lat=48.848081 | long=2.328198 | directions=Metro Rennes | phone=+33 140138580 | tollfree= | checkin=15:00 | checkout=11:00 | price=€350-750 | lastedit=2019-02-20 | content=3- & 4-bedroom furnished apartments for short stays. Available for groups (up to 8 people). Nice view on Eiffel Tower.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Victoria Palace Hotel | url=http://www.ila-chateau.com/victoria/ | email=
+| address=6, Rue Blaise Desgoffe | lat= | long= | directions=Metro: Saint Placide or Montparnasse
+| phone= | tollfree= | fax=
+| hours= | price=Rooms start at €320
+| checkin= | checkout=
+| content=An elegant hotel which has been a landmark on the Left Bank since 1913. The 62 rooms and suites combine lavish Louis XVI style and modern facilities. No restaurant but room service and buffet breakfast available.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 4.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorl1=[[Paris/5th arrondissement|5th arrondissement]]
+| directionr1=S
+| majorr1=[[Paris/14th arrondissement|14th arrondissement]]
+| minorr1=
+}}
+
+{{geo|48.8488|2.3332|zoom=15}}
+{{IsPartOf|Paris}}
+{{usabledistrict}}

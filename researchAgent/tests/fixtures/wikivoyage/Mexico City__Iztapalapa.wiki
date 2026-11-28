@@ -1,0 +1,152 @@
+{{pagebanner|Iztapalapa banner.jpg|pgname=Iztapalapa|unesco_ich=yes}}
+
+'''Iztapalapa''' is in the eastern part of [[Mexico City]]. It is a rough and tumble area that is the most populous borough in the city, as well as the poorest, and most crime-ridden. It has a long history, going back to the time when years were counted in single digits, and it has some unique attractions that a curious and adventurous traveler would enjoy, but it is also a poster child for urban decay and must be approached with diligence. See [[#Stay safe|''Stay safe'']].
+
+During the colonial era, Iztapalapa was populated almost entirely by indigenas (Nahua) and was agrarian with chinampas and canals that connected to [[Mexico City/Xochimilco|Xochimilco]]. In the 20th century, the area became heavily urbanized and the population changed to almost entirely mestizo. 
+
+==Get in==
+Iztapalapa is well connected by public transit including Metro, Metrobus, and combis. Metro will be the best option for travelers. 
+
+There are several Metro stations in Iztapalapa close to places of touristic interest. Stations include:
+* {{marker|type=go|name=Iztapalapa|lat=19.35873|long=-99.09364}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|8}} 
+* {{marker|type=go|name=Cerro de la Estrella|lat=19.35759|long=-99.08574}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|8}}
+* {{marker|type=go|name=Culhuacan|lat=19.33680|long=-99.10898}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|12}}
+* {{marker|type=go|name=Constitucion 1917|lat=19.34627|long=-99.06364}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|8}}
+* {{marker|type=go|name=Santa Marta|lat=19.36039|long=-98.99536}} [[File:Metro de la Ciudad de México (logo) version 2019.svg|16px|Mexico City Metro|alt=Mexico City Metro]] Line: {{rint|mexicocity|A}}
+
+==Get around==
+{{mapframe|lat=19.355|long=-99.096|zoom=12}}
+Use Metro to get to most sites of interest. Uber is a good choice. If you use local taxis, be careful to use known sitios and take precautions (see [[Mexico City#Stay safe|Stay safe]]).
+[[File:Cablebús Iztapalapa 01.jpg|thumb|Cablebus in Iztapalapa]]
+
+Mexico City's Cablebus Line 2 crosses the southeastern part of Iztapalapa with views of working class neighborhoods and the Sierra de Santa Catarina, a series of extinct volcanoes. The Cablebus has terminals at two Metro stations: Constitucion de 1917 (Line 8) and at Santa Marta (Line A). Cablebus Line 2 is listed in the ''Guinness Book of World Records'' as the world's longest cablecar system at 10.6 km. As your cable car floats above the neighborhoods below, you can admire the various rooftop murals that local artists have created for the benefit of Cablebus riders.
+
+==See==
+[[File:La Cuevita de Iztapalapa en Semana Santa.jpg|thumb|Catedral de Iztapalapa during Easter week]]
+* {{see
+|name=Catedral de Iztapalapa|alt=Santuario el Señor de la Cuevita, Señor del Santo Sepulcro de Jerusalén
+|address=Ermita Iztapalapa 1271, San Pablo |lat=19.357151719416|long=-99.09171762406461
+|content=Historic church that is famous for housing an effigy of Jesus that is said to have been the source of multiple miracles. Pilgrims come to the church to pray and seek relief from myriad maladies. During the annual Passion Play, nazarenes pick up their crosses and bear them up the Cerro de la Estrella (Mount Calvary) to be crucified.
+}}
+
+* {{see
+|name=Ex-convento de San Juan Evangelista Culhuacán|alt=Monastery of St John the Baptist
+|address=C. Morelos 10, Culhuacan |lat=19.340122523945002|long=-99.1092366391039
+|content=Historic monastery founded by the Augustinian friars in 1552, though the current church was built during the 18th century. The monastery was a center for teaching indigenous languages to arriving missionaries from Spain. Today, the site is an historic monument, park, and includes the '''Museum of the Former Monastery of Culhuacán'''.
+}}
+
+[[File:MX MM IZTAPALAPA VARIOS (49522443632) (cropped).jpg|thumb|Head of Juarez]]
+* {{see
+|name=Head of Juarez Monument|alt=Monumento Cabeza de Juarez
+|address=Av Guelatao S/N, Cabeza de Juárez III|lat=19.38739582764232|long=-99.03981283421365 
+|content=Huge bust of former president Benito Juarez stylized in the manner of Olmec heads. A small museum presents historical interpretations. The surrounding area is clean with walkways and park benches.
+}}
+
+* {{see
+| name=Museo Fuego Nuevo | alt=New Fire Museum | url= | email=
+| address=Carretera Escenica al Cerro de la Estrella Km 2 | lat=19.348437 | long=-99.091205 | directions=
+| phone= | tollfree=
+| hours=09:00 - 18:00 | price=
+| content=The Aztecs believed that the earth lived on a series of 52-year cycles. At the end of each 52 years, a ceremony was conducted at the top of Cerro de la Estrella to mark the passing of a cycle and to assure the start of a new cycle. The ceremony was actually far older than the Aztec (Mexica) culture, with archaeological evidence from an INAH excavation in 1974 showing its ceremonial use stretching back at least 4,000 years and including fragments of mammoth and other prehistoric animals. This museum explains the importance of this pre-Hispanic ritual and shows artifacts recovered at the site.
+}}
+
+* {{see
+| name=Museo de Servicio Transportes Electricos | alt=Electric Transit Museum | url= | email=
+| address=Eje 7 Sur, Municipio Libre, San Andrés Tetepilco | lat=19.367688 | long=-99.133396 | directions=
+| phone=+52 55 2595 0000 | tollfree=
+| hours=Mon-Fri 10:00 - 17:00, closed Sat-Sun | price=Free
+| lastedit=2024-10-23
+| content=Small historical collection of trams and trolleys, most from the early 20th century. The vehicles are displayed in a shady park-like courtyard next to an operating bus depot. Vehicles are open and visitors are allowed to sit in the old trolleys. Guides (Spanish speaking) are available to explain the vehicles and the history of electric transit in Mexico City.
+}}
+
+==Do==
+
+* {{do
+|name=Cerro de la Estrella National Park |alt=Parque Nacional Cerro de la Estrella
+|address= |lat=19.343017790804073|long=-99.09114782156016
+|content=Established in 1938 as a recreational area and green space for the city, the 1,093 hectare park is under enormous pressure from urban blight and overpopulation. Much of the original parkland has been lost to squatters and illegal commercial occupation. Nonetheless, the park is one of only 2 green areas in Iztapalapa. No natural flora or fauna exists in the park. Park flora consists only of planted eucalyptus and pine, and animal life consists only of species adapted to urban environments, such as pigeons, squirrels, rats and others rodents. Historically, the park was used by the Aztecs as the site of their New Fire ceremony, conducted every 52 years. Today, it is an important part of the borough's annual Passion Play: the hill becomes Mount Calvary where Jesus and other Nazarenes are "crucified".
+}}
+
+===Passion play===
+[[File:A tradition for the people of Iztapalapa.jpg|thumb|Iztapalapa's Passion Play draws huge crowds]]
+'''The Passion Play of Iztapalapa''' has been performed every year since 1843, though it wasn't originally a passion play to commemorate the crucifixion and resurrection of Jesus. It began during a cholera epidemic as a celebration by locals giving thanks to God for sparing them from the disease and death sweeping the rest of the country. Over time, the epidemic was forgotten and it became a pure Easter celebration taking place from Good Friday through the entire Semana Santa. Today, Iztapalapa's Passion Play is one of the largest and most famous in Latin America, drawing up to 4 million visitors to the neighborhood for the 1-week performance and celebration. During this time, the borough is generally safe for tourists as the police force deploys in full force. The passion play of Iztapalapa has been named by UNESCO as part of Mexico's Intangible Cultural Heritage.
+
+==Buy==
+[[File:Mural en Central de Abastos.jpg|thumb|Central de Abastos]]
+* {{buy
+|name=Central de Abastos Iztapalapa|url=https://ficeda.com.mx/
+|address= |lat=19.379403282221045|long=-99.08569872417294
+|hours=22:00 - 18:00
+|content=Mexico City's largest wholesale marketplace is also the largest market in the Americas and the second largest in the world. The market covers an area of 327 hectares and includes commercial spaces for 2,000 vendors. Farmers and ranchers ship produce, meat, and seafood here to be sold to shop owners and restaurants throughout the city and nearby suburbs. It's a huge, bustling place full of every kind of food product imaginable as well as basic restaurant and household items. Tours are offered to travelers for M$90. Buyers for upscale restaurants typically come between 05:00-08:00 to get the best selection, but visitors and household buyers typically arrive at 08:00 and later.
+}}
+
+==Eat==
+* {{eat | name=Dolce Maria | alt= | url=http://www.dolcemariarestaurant.com/ | email= | address=Av. Unidad Modelo 30, Modelo | lat=19.361696 | long=-99.126616 | directions= | phone=+52 55 5646 8341 | tollfree= | hours=Daily 09:00 - 20:00 | price=M$400 | lastedit=2024-10-23 | content=Popular casual Italian restaurant with a wood-fired oven producing perfect pizza crusts, homemade pastas and a large range of traditional Italian dishes.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=La Oaxaqueña | alt= | url= | email=
+| address=Teniente Roberto Gómez Moreno 404, Escuadrón 201 | lat=19.361834 | long=-99.112630 | directions=Metro to Escuadron 201, then walk 2 blocks south
+| phone=+52 55 567 06145 | tollfree=
+| hours=Daily 08:00 - 22:00 | price=M$200
+| lastedit=2024-10-23
+| content=Affordable casual restaurant serving the traditional regional cuisine of Oaxaca, including rich, dark moles and innovative cuisine along with an extensive selection of mezcal. A comida corrida is available for M$150.
+}}
+* {{eat
+| name=Abathía "La kbañita" | alt= | url= | email=
+| address=Héroes de Churubusco | lat=19.360701 | long=-99.121041 | directions=
+| phone=+52 55 7158 8089 | tollfree=
+| hours=Daily 09:30 - 22:30 | price=M$200
+| lastedit=2024-10-23
+| content=Affordable casual restaurant serving light food like tacos, quesadillas, burgers, fries, and pizza. Fun rustic atmosphere, very unpretentious.
+}}
+* {{eat
+| name=La Matoza | alt= | url=http://www.mariscoslamatoza.com.mx/ | email=
+| address=Eje 6 Sur 560, San José Aculco | lat=19.369075 | long=-99.096918 | directions=at La Viga Mariscos in the Central de  Abastos
+| phone=+52 55 5640 5511 | tollfree=
+| hours=Daily 09:00 - 18:00 | price=M$300
+| lastedit=2024-10-23
+| content=Seafood restaurant serving some of the freshest fish in the city. Specialties include tuna ceviche, coctel de camarón, mojarra frita, not to mention the variety of aguas frescas and micheladas.
+}}
+* {{eat
+| name=Ostioneria "El Jorocho" | alt= | url= | email=
+| address=Cam. Cerro de la Estrella #84, San Pablo | lat=19.358548 | long=-99.090030 | directions=
+| phone=+52 55 6708 1644 | tollfree=
+| hours=Daily 08:00 - 19:00 | price=M$200
+| lastedit=2024-10-23
+| content=Super casual oyster bar serving a variety of other seafood dishes as well, including a shrimp soup, shrimp cocktail, fish balls, and more. Cheap beer (M$50) and good food make it a popular neighborhood hangout.
+}}
+* {{eat
+| name=El Mesón de Valencia | alt= | url=http://www.mesonvalencia.com.mx/ | email=
+| address=Av. Luis Hidalgo Monroy 345, San Miguel | lat=19.356179 | long=-99.080053 | directions=
+| phone=+52 55 5686 2671 | tollfree=
+| hours=Daily 09:00 - 19:00 | price=M$300
+| lastedit=2024-10-23
+| content=Traditional hacienda-style Mexican restaurant with colonial furnishings, a spacious outdoor courtyard dining area, attentive service and live music with weekend brunches.
+}}
+
+==Drink==
+Sales of alcoholic beverages are suspended for the entire week of Semana Santa when the annual Passion Play is presented.
+
+Drinking tap water is always risky in Mexico, but particularly so in Iztapalapa where much of the water is referred to as ''agua de tamarindo'' because of its dirty brown color.  
+
+==Sleep==
+There is a camping area in Cerro de la Estrella National Park.
+
+Although there are some hotels in Iztapalapa, most cater to the local sex clientele. Unless you really want a hotel room with amenities like vibrating beds or mirrored ceilings, a better class of hotel can be found in any of the more tourist-oriented neighborhoods downtown.
+
+==Stay safe==
+Iztapalapa is a rough neighborhood. Do not wander far from crowds or into nearby neighborhoods. Stay near touristic sites: this is not the part of town to be adventurous in.
+
+Combis and urbano buses may not be safe for outsiders in this part of town. Be vigilant.
+
+==Connect==
+Cell phone services throughout Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas.
+
+==Go next==
+* [[Mexico City/La Villa de Guadalupe|La Villa de Guadalupe]]
+* [[Mexico City/Xochimilco|Xochimilco]]
+
+{{IsPartOf|Mexico City}}
+{{usabledistrict}}
+
+{{geo|19.355|-99.096}}

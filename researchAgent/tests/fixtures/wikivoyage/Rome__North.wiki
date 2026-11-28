@@ -1,0 +1,265 @@
+{{pagebanner|North of Rome Wikioyage banner.jpg}}
+The '''North''' of [[Rome]] is comprised of Municipi III, XI-XV.
+
+==Get in==
+{{Mapframe|41.9251|12.4549|zoom=10}}
+{{Mapshape|wikidata=Q16003470,Q16481986,Q16481992,Q16481997,Q16482002,Q16482005}} <!-- Municipio Roma III, XI-XV -->
+{{mapshapes|Q237480}}
+
+==See==
+* {{see
+| name=Villa Doria Pamphili | alt=Villa Pamphili | url=http://www.villapamphili.it | email=
+| address= | lat=41.887769 | long=12.450558 | directions=Via Garibaldi (in Trastevere) leads into Via Aurelia Antica at Porta San Pancrazio; the park entrance is a short distance after the beginning of Via Aurelia
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Villa Doria Pamphili | image=Doria Pamphili 6284.jpg | wikidata=Q774654
+| content=A large villa and 180-ha park that is a major recreation area for Romans, and a popular spot for joggers. One unusual feature of the grounds is the colony of coypus (swamp beavers) around the lake. Natives of South America these ones are descended from some who wisely escaped from a fur farm. There are also colonies by the Tiber.
+}}
+* {{see
+| name=Olympic Stadium | alt=Stadio Olimpico | url= | email=
+| address= | lat=41.933872 | long=12.454714 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Stadio Olimpico | wikidata=Q159884
+| content=The stadium is on the west bank of River Tiber, about three km directly north of the Vatican. It is part of a sports complex that was built for the 1960 Olympic Games, including the Olympic swimming pool and the tennis complex where the annual ATP/WTA Italian Open is held. The main stadium holds more than 80,000 and was extensively rebuilt, with a roof added, for the 1990 World Cup (soccer) finals.
+}}
+* {{see
+| name=Portonaccio Sanctuary | alt= | url=http://www.parks.it/parco.veio/Eindex.php | email=
+| address=Isola Farnese | lat=42.0214 | long=12.3905 | directions=take the Via Cassia north of Rome to Torrione Cerquetta and then turn right to Isola Farnese
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q2319979| wikipedia=Portonaccio (Veio)
+| content=An archaeological site near the ancient Etruscan city of Veii. Veii (or Veio) was a major Etruscan city until its defeat at the hands of the Romans in 396 BC. The '''Temple of Apollo''' is here, which is the site where the famous Apollo of Veii statue was discovered in 1916. These days there is little left to see but a few ruins, although the area has yielded up many excellent artefacts that are now mainly in the Etruscan museum at Villa Giulia in [[Rome/North Center]]. The surrounding area is a national park, '''[http://parcodiveio.it/ Parco di Veio]''', that contains Etruscan ruins that, for the most part, are not easily accessible.
+}}
+* {{see
+| name=Santa Passera | alt= | url= | email=
+| address=Via Santa Passera 1 | lat=41.858597 | long=12.460197 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Santa Passera | image=Q11 Portuense - S. Passera 01.JPG | wikidata=Q3674186
+| content=This church can be an interesting deviation if you are passing through its neighbourhood. It is believed to be the grave of the Saints Ciro and Giovanni, killed during the time of the Emperor Diocletian. The original name was ''Abba Cyrus'' and through Appaciro and then Appacero it finally became Pacera, very close to today's ''Passera''. The building is on top of a 3rd century building still visible in the lower floor and in the underground. The main part of the building dates back to the 9th century as do the frescoes on the higher floor. Some of the frescoes have been restored. Downstairs there is a small quadrangular room and the underground, where the remains of the two Saints are supposed to be. There are still visible 3rd century traces of Roman frescoes; in front of the stair you can enjoy a small bird, the Justice, and an athlete while in the vault some eight apex stars. ''Bus 128,780,781,775 (first stop in Via della Magliana)''.
+}}
+
+==Do==
+*'''Take in a soccer match at the Stadio Olimpico.''' The stadium is shared by Rome's two main teams, Rome and Lazio, usually playing there on alternate Sunday afternoons, with occasional games on Saturday or Sunday evenings or midweek evenings. Games between these two clubs are well worth avoiding as they often turn violent but the stadium is rarely full for other matches. However, past crowd troubles mean that you can no longer just turn up: you need to buy tickets in advance at one of the agencies around town, and show some ID when you do!
+
+==Buy==
+
+==Eat==
+* {{eat
+| name=Casetta di Campagna | alt= | url=https://casettedicampagna.it/ | email=
+| address=Via Affogalasino, 40 | lat=41.861992 | long=12.432944 | directions=Casetta Mattei-Trullo
+| phone=+39 06 6574 3230 | tollfree=
+| hours=Closed on Monday. Sun, Sat and holidays also open at noon | price=
+| content=In the natural park ''Valle dei Casali'' they have very good meat. They also offer a fixed price menu for pizza (only for more than 4 people) which is good for a large gathering dinner. You need a car to reach the place.
+}}
+* {{eat
+| name=La Pergola | alt= | url=https://romecavalieri.com/la-pergola/ | email=
+| address=Hotel Cavalieri Hilton, Via A. Cadlolo 101 | lat=41.918975 | long=12.446669 | directions=
+| phone=+39 06-35092152 | tollfree=
+| hours=Tue-Sat 19:30-00:00; closed Aug 8-Aug 23 | price=mains &euro;35-50; set menu &euro;130-150
+| content=Awarded three stars in the Guide Rouge. The chef, Heinz Beck, is German in origin and has set a style which combines Italian fresh produce with exceptional creativity and presentation. The restaurant overlooks Rome, so be sure to get a table by the window. The wine cellar is exceptional. Expect to have to book months in advance, but the trip is well worth it.
+}}
+
+==Drink==
+
+==Sleep==
+
+===Budget===
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES
+-->
+* {{sleep
+| name=Grand Hotel Fleming | alt= | url=http://www.grandhotelfleming.it/en/ | email=
+| address=Piazza Monteleone di Spoleto, 20 | lat=41.943742 | long=12.474777 | directions=
+| phone=+39 06 3337264 | tollfree=
+| checkin= | checkout= | price=Around €150 for a double
+| content=North of the Tiber. 300 bedrooms.
+}}
+<!-- moved from Rome/Vatican -->
+* {{sleep | name=LtRooms | url=http://www.ltrooms.com/en | email=info@ltrooms.com | address=Via Umberto Moricca, 5 | lat=41.900535 | long=12.437135 | directions=a few steps from the Metro Line A | phone=+39 392 858 1039 | tollfree= | fax= | checkin=10:30 | checkout= | price=From €50 per room | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Mid-range===
+<!--
+BEFORE ADDING A HOSTEL, HOTEL, OR ACCOMMODATION AGENCY ENTRY HERE:
+1. Include enough information to make the entry useful when PRINTED OUT.
+2. Include direct telephone numbers and web address.
+3. INCLUDE expected range of PRICES for a single room (one person) and for a double (two persons).
+4. State where the bathroom (toilet and bath or shower) is: in the room or communal?
+5. Remove useless verbiage such as "nice", "cheap", "close to" and "near"
+6. Only include "comfortable", or "friendly" if you as a paying guest felt that during a stay.
+7. Only add one listing per hotel/hostel
+IF YOU FAIL TO ADHERE TO THESE GUIDELINES YOUR ENTRY WILL BE DELETED SUBJECT TO OTHER USERS DISCRETION
+DUE TO EXCESSIVE PROBLEMS WITH SPAMMING AND USELESS LISTINGS ON OUR ROME GUIDES
+-->
+* {{sleep
+| name=Hotel Aurelius Rome | alt= | url=http://www.hotelaurelius.com/ | email=
+| address=Via Aurelia 458 | lat=41.898716 | long=12.425670 | directions=
+| phone=+39 06 6624500 | tollfree= | fax=+39 06 62202701
+| checkin= | checkout= | price=
+| content=A four-star hotel with 26 single, twin, double and triple bedrooms with private bath and shower. All rates include breakfast: €115 for a single and €130 for a double.
+}}
+* {{sleep | name=Carlo Magno | url=http://www.carlomagnohotel.com | email=info@carlomagnohotel.com | address=Via Sacco Pastore 13 - 00141 | lat=41.931846 | long=12.526836 | directions=Roma Montesacro | phone=+39 06 8903982 | tollfree= | fax=+39 068603982 | hours= | price=from €80/day | checkin=14:00 | checkout=11:00 | content=
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=LH Excel Hotel Montemario Rome | alt= | url=https://www.laminhotels.com/ | email=
+| address=Via degli Scolopi, 31 | lat=41.932687 | long=12.433630 | directions=
+| phone=+39 06 350 58001 | tollfree= | fax=+39 06 3070392
+| checkin= | checkout= | price=
+| content=Four-star hotel with 97 bedrooms as double, twin, triple, junior suites and suites. All with private bath, shower and American breakfast. Double €90, triple €119.
+}}
+* {{sleep
+| name=La Pergola | url=http://www.hotellapergola.com | email=info@hotellapergola.com
+| address=Via Prati fiscali 55 - 00141 | lat=41.946079 | long=12.516099 | directions=Roma Montesacro
+| phone=+39 06 8127250 | tollfree= | fax=+39 068124353
+| hours= | price=from €80/day
+| checkin= 14:00 | checkout= 11:00
+| content=
+}}
+* {{sleep
+| name=Resort La Rocchetta | url=http://www.resortlarocchetta.com | email=info@resortlarocchetta.com
+| address=Via Giulio Galli, 41 | lat=41.991902 | long=12.400564 | directions=
+| phone=+39 06 30366633 | tollfree= | fax=
+| hours= | price=Double room from €120
+| checkin= | checkout=
+| content=3-star hotel in La Giustiniana area.
+}}
+* {{sleep
+| name=Hotel Relax Rome | alt= | url=http://www.hotelrelaxgroup.it/ | email=
+| address=Via Milano 19 | lat=42.140930 | long=12.603293 | directions=
+| phone=+39 0765 455335 | tollfree= | fax=+39 0765 455 445
+| checkin= | checkout= | price=
+| content=The Relax accommodation is a modern four-star hotel with 43 single, double, twin, triple, quadruple, junior suites and suite bedrooms. All equipped with private bath and shower. Also available a fitness centre and a sauna. Double €85.
+}}
+* {{sleep
+| name=Tempio di Apollo Hotel | alt= | url=http://www.tempiodiapollo.com | email=info@tempiodiapollo.com
+| address=Piazza della Colonnetta, 8 | lat=42.019102 | long=12.393475 | directions=
+| phone=+39 06 30890595 | tollfree=
+| checkin= | checkout= | price=
+| content=Some rooms have air conditioning.
+}}
+* {{sleep
+| name=Hotel Papillo Rome | alt= | url=https://www.papillohotel.it/ | email=
+| address=Via Arola, 53 | lat=41.931684 | long=12.381567 | directions=
+| phone=+39 06 303441 | tollfree= | fax=+39 06 303446600
+| checkin= | checkout= | price=
+| content=The Papillo accommodation is a four-star hotel of Rome with 77 double and twin bedrooms, 4 luxury suite and 1 king suite. All with private bath, shower, bat tub, internet connection, pay per view, satellite TV and flat screen. At the Hotel Papillo is also available the shuttle service to the metro stop, breakfast buffet, bar and restaurant. Rates, double/twin: €95, suite €180.
+}}
+* {{sleep
+| name=Hotel degli Imperatori | alt= | url=http://www.hoteldegliimperatori.it | email=info@hoteldegliimperatori.it
+| address=Via G. Gonella 15 | lat=41.947265 | long=12.588499 | directions=
+| phone=+39 06-41227623 | tollfree=
+| checkin= | checkout= | price=Double room €60-120
+| content=Four-star business and leisure hotel.
+}}
+* {{sleep
+| name=Rome Cavalieri, A Waldorf Astoria Hotel | alt= | url=https://waldorfastoria3.hilton.com/en/hotels/italy/rome-cavalieri-a-waldorf-astoria-hotel-ROMHIWA/index.html | email=romhi.guestservices@waldorfastoria.com
+| address=Via Alberto Cadlolo, 101 | lat=41.918911 | long=12.446768 | directions=
+| phone=+39 06 35091 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=
+| lastedit=2021-02-24
+| content=A 5-star accommodation set in a 15-acre private park.
+}}
+* {{sleep
+| name=Villa Magnolia Relais | alt= | url=http://www.ila-chateau.com/magnolia/ | email=MagnoliaILA@ila-chateau.com
+| address=Via delle Fornaci, 439 | lat=41.88905 | long=12.45878 | directions=
+| phone=+39 06 2038 2872 | tollfree= | fax=+39 06 2838 2873
+| checkin= | checkout= | price=€140-280
+| content=Tranquil garden hotel with 5 rooms and 1 apartment, en-suite bathrooms, Wi-Fi, A/C and secure parking.
+}}
+
+===Splurge===
+* {{sleep
+| name=Ripa Hotel | alt= | url=http://www.ripahotel.com/ | email=reservations@ripahotel.com
+| address=Via degli Orti di Trastevere 3 | lat=41.88255 | long=12.47044 | directions=
+| phone=+39 06 58611 | tollfree= | fax=
+| checkin= | checkout= | price=€230-540
+| content=Colourful hotel with 170 modern and stylishly designed rooms and suites, fitness and meeting facilities.
+}}
+* {{sleep
+| name=Trilussa Palace | alt= | url=http://www.trilussapalacehotel.it | email=info@trilussapalacehotel.it
+| address=Piazza Nevio 27/28 | lat=41.880119 | long=12.466381 | directions=
+| phone=+39 06 5881963 | tollfree= | fax=+39 06 5833 1770
+| checkin= | checkout= | price=€180-425
+| content=
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Metropolitana di Roma - logo linea A.svg
+| imagesize1=33
+| caption1=Rome Metro Line A
+| directionl1=W
+| majorl1=END
+| minorl1=
+| directionr1=E
+| majorr1=[[Rome/Modern Center|Modern Center]]
+| minorr1=[[Rome/Vatican|Vatican]]
+
+| image2=Metropolitana di Roma B.svg
+| imagesize2=33
+| caption2=Rome Metro Line B
+| directionl2=SW
+| majorl2=[[Rome/Modern Center|Modern Center]]
+| minorl2=[[Rome/Nomentano|Nomentano]]
+| directionr2=NE
+| majorr2=END
+| minorr2=
+
+| image3=Metropolitana di Roma B1.svg
+| imagesize3=33
+| caption3=Rome Metro Line B1
+| directionl3=SW
+| majorl3=[[Rome/Modern Center|Modern Center]]
+| minorl3=[[Rome/North Center|North Center]]
+| directionr3=NE
+| majorr3=END
+| minorr3=
+
+| image4=Ferrovia regionale laziale FL1.svg
+| imagesize4=22
+| caption4=Lazio regional railway line FL1
+| directionl4=N
+| majorl4=[[Orte]]
+| minorl4=[[Sabine Hills]]
+| directionr4=S
+| majorr4=[[Rome/Nomentano|Nomentano]]
+| minorr4=[[Rome/North Center|North Center]]
+
+| image5=Ferrovia regionale laziale FL2.svg
+| imagesize5=22
+| caption5=Lazio regional railway line FL2
+| directionl5=W
+| majorl5=END
+| minorl5=[[Rome/Nomentano|Nomentano]]
+| directionr5=E
+| majorr5=END
+| minorr5=[[Tivoli]]
+
+| image6=Ferrovia regionale laziale FL3 (green background).svg
+| imagesize6=22
+| caption6=Lazio regional railway line FL3
+| directionl6=N
+| majorl6=[[Viterbo]]
+| minorl6=[[Lake Bracciano]]
+| directionr6=S
+| majorr6=[[Rome/Aventino-Testaccio|Aventino-Testaccio]]
+| minorr6=[[Rome/Trastevere|Trastevere]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Rome}}
+
+{{geo|41.9251|12.4549}}

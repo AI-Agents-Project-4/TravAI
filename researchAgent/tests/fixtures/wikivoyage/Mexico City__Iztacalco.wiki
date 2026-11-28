@@ -1,0 +1,212 @@
+{{pagebanner|Iztacalco CDMX banner.jpg}}
+
+'''Iztacalco''' is a borough of [[Mexico City]]. It is a mostly residential, densely populated, working-class borough (''alcaldia'' in CDMX-lingo), in the eastern-central part of Mexico City (CDMX). Many visitors coming to the city for major sporting events or music festivals find themselves in Iztacalco without realizing that it's where the ''Ciudad Deportivo'' (including the Hermanos Rodriguez motorsports complex) is located. Almost all foreign tourists will pass through at least a portion of the borough because it's also the part of the city that's home to the [[Benito Juárez International Airport]]. Most foreigners don't do much sightseeing in the borough, but if they did, they'd find pre-Hispanic and colonial historical sights along with some great street food experiences and an extremely authentic local cultural experience. Iztacalco is best experienced by a street-savvy visitor who speaks Spanish well. It is generally not a good neighborhood for casual strolls or "explorations".
+[[File:MonasteryareaMatiasIzta.jpg|thumb|San Matias monastery in Iztacalco]]
+
+==Get in==
+{{mapframe}}
+Iztacalco is easy to reach via public transportation. It is only about 5 km east of the [[Mexico City/Centro|Centro Historico]],  but is not a walkable route because of the many busy roads and highways you would have to cross. An Uber or taxi can get there in 15 minutes or less if the traffic isn't bad but it can also take 90 minutes or more during rush hour. Metro is usually the best option and there are several stations in Iztacalco.
+
+=== By metro ===
+Several lines can be used, depending on where in the neighborhood you want to go. 
+
+[[File:Metro de la Ciudad de México (logo) version 2019.svg|16px]] Metro Line: {{rint|mexicocity|8}}
+* {{marker|type=go|name=Iztacalco Station|lat=19.388804606594185|long=-99.1122170818636}} 
+* {{marker|type=go|name=Coyuya Station|lat=19.398343389044715|long=-99.11332750543988}} 
+* {{marker|type=go|name=Apatlaco Station|lat=19.379214922518536|long=-99.10944339951247}} 
+* {{marker|type=go|name=Santa Anita Station|lat=19.404338589567303|long=-99.12072359194562}} 
+
+[[File:Metro de la Ciudad de México (logo) version 2019.svg|16px]] Metro Line: {{rint|mexicocity|A}}
+* {{marker|type=go|name=Agrícola Oriental Station|lat=19.406134337443905|long=-99.06982916648802}} 
+
+[[File:Metro de la Ciudad de México (logo) version 2019.svg|16px]] Metro Line: {{rint|mexicocity|2}}
+* {{marker|type=go|name=Viaducto|lat=19.40108249382337|long=-99.13696437845157}} 
+* {{marker|type=go|name=Xola Station|lat=19.39580978031462|long=-99.13789786685949}} 
+
+[[File:Metro de la Ciudad de México (logo) version 2019.svg|16px]] Metro Line: {{rint|mexicocity|1}}{{rint|mexicocity|5}}{{rint|mexicocity|9}}{{rint|mexicocity|A}}
+* {{marker|type=go|name=Pantitlan CETRAM|lat=19.41574580779716|long=-99.07475761724417}} 
+
+==See==
+* {{see
+| name=St Matthew the Apostle Parish Church | alt=Parroquia de San Matías Apóstol | url= | email=
+| address=Juarez 4, Barrio la Asuncion | lat=19.390410 | long=-99.121340 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-10-09
+| content=Founded by Franciscan friars in 1564, it features a beautiful, understated 16th-century facade. Inside, it houses a stunning 18th-century baroque retable and a cupola decorated with Franciscan iconography.
+}}
+* {{see
+| name=Ermita de la Gualupita | alt=Capilla de la Cruz | url= | email=
+| address=Santa Cruz | lat=19.388547 | long=-99.120365 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-10-09
+| content=A tiny hermitage and a colonial era chapel.
+}}
+
+==Do==
+[[File:EFLT MexicoCityePrix2020-4.jpg|thumb|Formula E car at Autódromo Hermanos Rodríguez, CDMX]]
+The Magdalena Mixhuca Sports City (''Ciudad Deportiva'') is a multi-venue complex that includes various sports and events venues.
+
+* {{do
+| name= Estadio Alfredo Harp Helu | url=https://estadioahh.com | email=
+| address= Ciudad Deportiva Magdalena Mixihuca | lat=19.40393 | long=-99.08557 | directions=Closest Metro stations are Puebla or Cuidad Deportiva, line 9
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Modernistic baseball stadium built in 2019 for 20,000 cheering fans. It is a pleasantly intimate stadium with excellent sight lines from almost any seat in the house. The new stadium replaces Foro Sol as Mexico City's primary venue for professional baseball, and is home field for the ''Diablos de Mexico'', a Mexican League professional team.
+}}
+* {{do
+| name=Autodromo Hermanos Rodriguez | alt= | url=http://ahr.notiauto.com/app/h | email=
+| address=Rio de la Piedad, Ciudad Deportiva Magdalena Mixihuca | lat=19.406 | long=-99.093 | directions=Metro to Palacio de los Deportes
+| phone=+52 5598 3316 | tollfree=
+| hours= | price=
+| lastedit=2026-11-13
+| content=Built in 1962, this 4.4 km track hosts Grand Prix / [[Formula One]] and other motor racing such as NASCAR and A1-Grand Prix. The next F1 is 29-31 Nov 2027.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{do
+| name=Palacio de los Deportes | alt= | url= | email=
+| address=Ciudad Deportiva Magdalena Mixihuca | lat= | long= | directions=Viaducto Piedad and Rio Churubusco. Metro station: Ciudad Deportiva (Line 9)
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q301937
+| content=Built for the 1968 Olympic Games, with a full capacity of 22,000, it hosts several indoor sports. Venue for several concerts, circus, expos.
+}}
+* {{do
+| name=Estadio GNP Seguros | alt= | url=https://www.estadiognpseguros.com/ | email=
+| address=Circuito Interior | lat=19.405440 | long=-99.096249 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2026-10-09
+| content=The former Foro Sol baseball stadium, long-time home of the Diablos, has been re-branded and re-purposed to host primarily large concert events. As a concert venue it features unobstructed sight lines from every seat. It is a clean, well organized, and well-maintained venue.
+}}
+
+==Buy==
+Iztacalco has several traditional public marketplaces. Travelers should keep in mind that cash is always accepted at these markets, credit cards very rarely, and phone-based payment systems never.
+* {{buy
+| name=Mercado Santa Anita | alt= | url= | email=
+| address=Emiliano Zapata | lat=19.398854 | long=-99.129314 | directions=
+| phone= | tollfree=
+| hours=Daily 08ː00 - 17ː00 | price=
+| lastedit=2026-10-09
+| content=A highly traditional community market located in the Nueva Santa Anita neighborhood. It features narrow rows packed with vendors selling fresh fruits, vegetables, butcher cuts, cremerías (dairy and deli), and a popular section for affordable cocinas económicas (home-style lunch stalls).
+}}
+* {{buy
+| name=Mercado Iztacalco | alt= | url= | email=
+| address=Canal de Tezontle s/n esquina, Calz. de la Viga, Barrio La Asunción | lat=19.389881 | long=-99.121823 | directions=
+| phone= | tollfree=
+| hours=Daily 08ː00 - 18ː00 | price=
+| lastedit=2026-10-09
+| content=This market, in the heart of the borough, is a well-organized, clean market heavily sells fresh fruits, vegetables and other food staples, as well as prepared dishes (especially stews).
+}}
+* {{buy
+| name=Mercado Tlacotal | alt= | url= | email=
+| address= | lat=19.395956 | long=-99.102784 | directions=
+| phone= | tollfree=
+| hours=Daily 07ː00 - 18ː00 | price=
+| lastedit=2026-10-09
+| content=Large public market with 275 vendor stalls selling a dizzying assortment of fresh produce and other food staples as well as prepared foods.
+}}
+* {{buy
+| name=Mercado La Cruz | alt= | url= | email=
+| address=Coyuya S/N, La Cruz Coyuya | lat=19.402559 | long=-99.117420 | directions=
+| phone= | tollfree=
+| hours=Daily 08ː00 - 18ː00 | price=
+| lastedit=2026-10-09
+| content=Large marketplace with 270 stalls with a wide variety of fresh meats, fruits, vegetables and other foods. Known for its large number of sit-down stalls where you can enjoy prepared foods. Tamales are a specialty here.
+}}
+* {{buy
+| name=Mercado Jamaica | alt= | url=https://mercadojamaica.com/ | email=
+| address=Guillermo Prieto 45 | lat=19.407229 | long=-99.122855 | directions=Metro line 9 to Jamaica
+| phone= | tollfree=
+| hours=24 hours | price=
+| lastedit=2026-10-09
+| content=World famous flower market that never closes. 1,150 vendors selling cut flowers and ornamental plants. Forgot your girlfriend's birthday? Anniversary? Death of Abuela?  No problemǃ You can have a taxi take you to the flower market and be on your way with a fresh bouquet in minutes. (Though girls can take hours here, so don't tell them about it.)
+}}
+
+==Eat==
+* {{eat
+| name=Pine Argentino | alt= | url=https://www.pibeargentinogrill.com/ | email=
+| address=Av. Javier Rojo Gomez 552, Dr Alfonso Ortiz Tirado | lat=19.385787 | long=-99.075630 | directions=
+| phone=+52 55 3665 3850 | tollfree=
+| hours=Mon-Fri 13ː00 - 22ː00, Sat-Sun 11ː00 - 21ː00 | price=M$500
+| lastedit=2026-10-11
+| content=Casual, family-friendly Argentinian restaurant with buffet featuring various cuts of grilled meats, salads, pastas, and desserts.
+}}
+* {{eat
+| name=Caldos de Gallina "Don Nacho" | alt= | url= | email=
+| address=San Rafael Atlixco 2264 | lat=19.384086 | long=-99.075984 | directions=
+| phone= | tollfree=
+| hours=Mon-Sat 07ː00 - 18ː00, Su 07ː00 - 14ː00 | price=M$200
+| lastedit=2026-10-11
+| content=Great "cheap eats" lunch spot serving homemade soups accompanied with rolls or homemade tortillas. Also has roast chicken and sides like the ubiquitous steamed white rice with peas.
+}}
+* {{eat
+| name=Beso de Sal | alt= | url=http://www.besodesal.mx/ | email=
+| address=Av. Pdte. Plutarco Elías Calles 1222, Militar Marte | lat=19.385827 | long=-99.134698 | directions=
+| phone=+52 55 5087 5453 | tollfree=
+| hours=Tue-Sun 08ː30 - 17ː30 | price=M$200
+| lastedit=2026-10-11
+| content=Traditional Mexican cuisine including menudo, flautas ahogadas and pancita. Casual, clean dining area. Valet parking available.
+}}
+
+==Drink==
+* {{drink
+| name=Bar Don Lucky | alt= | url= | email=
+| address=Calle 41 182, 1er. y 2do. piso, Ignacio Zaragoza | lat=19.412625205857253 | long=-99.09278181864559 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-10-09
+| content=Lively bar with an extensive cocktail menu with a mix of classic standbys and today's most trendy contemporary drinks. Contemporary popular music with occasional live bands. Popular place for pre- or post-concert parties for events at the GNP Stadium or the Hermanos Rodriguez racetrack.
+}}
+
+==Sleep==
+* {{sleep
+| name=Hotel Gran Prix | alt= | url= | email=
+| address=Av. Río Churubusco 200, Granjas México | lat=19.403147 | long=-99.097471 | directions=
+| phone=+52 55 5648 0066 | tollfree=
+| checkin=15ː00 | checkout=12ː00 | price=M$1000
+| lastedit=2026-10-09
+| content=Moderate hotel with modern, spacious, and clean rooms with comfortable beds. Walking distance to concert venues including Estadio GNP. 24 hour airport shuttle service available.
+}}
+
+* {{sleep
+| name=Hotel Aranjuez | alt= | url=https://hotelaranjuez.com.mx/ | email=
+| address=Calz. de Tlalpan 413, Álamos | lat=19.404714 | long=-99.137321 | directions=
+| phone=+52 55 5538 1901 | tollfree=
+| checkin=15ː00 | checkout=12ː00 | price=M$1200
+| lastedit=2026-10-23
+| content=Large, modern hotel that mostly caters to local trade. Rooms are clean and big. 24-hour restaurant on site. Next to Viaducto Metro stations.
+}}
+=== Airport area ===
+There are many hotels near the [[Benito Juárez International Airport|Mexico City International Airport (AICM)]]. These can be good choices for travelers making connections who want to be close to the airport.
+
+* {{sleep
+| name=Fiesta Americana Viaducto Aeropuerto | alt= | url=https://www.fiestamericana.com/hoteles-y-resorts/fiesta-americana-viaducto-aeropuerto | email=
+| address=Viad. Río de la Piedad 515, Granjas México | lat=19.40832407766846 | long=-99.11049406841218 | directions=
+| phone= | tollfree=+52 800 504 5000
+| fax= | checkin=15ː00 | checkout=12ː00
+| hours= | price=M$2500
+| wikidata=
+| lastedit=2026-10-11
+| content=Modern corporate style hotel with clean, quiet rooms with room darkening shades. Complimentary shuttle service to the airport. Adjacent to shopping mall with various restaurants.
+}}
+* {{sleep
+| name=Camino Real Aeropuerto | alt= | url=https://www.grupocaminoreal.com/camino-real-aeropuerto-mexico | email=
+| address=Puerto Mexico 80 | lat=19.436931 | long=-99.085221 | directions=
+| phone=+52 55 3003 0033 | tollfree=
+| checkin=15ː00 | checkout=13ː00 | price=M$2000
+| lastedit=2026-10-23
+| content=Large, modern business hotel adjacent to the MEX airport. On-site restaurant and bar, fitness center.
+}}
+
+==Connect==
+5G wireless is available throughout the neighborhood. Telcel is the major carrier. The CDMX government provides free WiFi access in parks and public spaces. 
+
+== Stay safe ==
+While most of the neighborhood consists of working-class families going about their daily routine, certain pockets have higher crime rates. The area is regularly patrolled by CDMX police, but this is not a tourist area and has none of the extra patrols or police units that are specifically trained in dealing with tourists. It is not a particularly dangerous area but is best approached with caution by a street-savvy visitor with good Spanish language skills. If you decide to visit, take normal precautions like leaving your credits cards and ID in your hotel safe, dressing down in casual, discreet clothes, and traveling during daylight in a group (preferably accompanied by a local guide who will help guide you to interesting spots while avoiding potential trouble spots. 
+
+{{IsPartOf|Mexico City}}
+{{usabledistrict}}
+
+{{geo|19.397|-99.099}}

@@ -1,0 +1,146 @@
+{{pagebanner|Volcanes vistos desde Xochimilco.jpg|pgname=Xochimilco|unesco_whs=yes}}
+[[Image:Xochimilco_boats_4.JPG|300px|thumb|Brightly painted'' trajineras'' wait for riders on Xochimilco's canals]] 
+
+'''Xochimilco''' is to the south of [[Mexico City]], and gives a glimpse at the effects of rushed urbanization over the years. It's a great place for tourists. Together with the [[Mexico City/Centro|historical center]] of Mexico City it forms a {{unesco}}.  
+
+==Get in==
+{{mapframe|19.275000|-99.138889|zoom=12}}
+{{mapshapes|Q735042}}
+Though Xochimilco is far from the city center, it is well served by public transportation. First, take Metro Line 2 (blue line) to {{marker|type=go|name=Tasqueña|lat=19.3438|long=-99.1397}} (in a few stations on the way, you may see it spelled ''Taxqueña''). As you exit the train platform at Tasqueña, make a sharp right turn to get to the ''Tren Ligero'' (light rail) which also accepts Metro cards. Xochimilco is the last station on the light rail line, and the embarcaderos (waterfront embarkation points) are signposted through the town.
+
+==See==
+* {{see
+| name=Chinampas | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=The famous floating gardens, which originate from the pre-colonial Aztec era. This was the home of the critically endangered ''axolotl'', an amphibian honored in Aztec culture as the incarnation of a god. However, none have been seen for several years, and they are assumed to be extinct in the wild due to extensive water pollution and loss of habitat. What you will see are flowers and garden plants.
+}}
+* {{see
+| name=Xochimilco Cathedral | alt=San Bernardino de Siena | url= | email=
+| address= | lat=19.263183 | long=-99.101981 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q5758558
+| content=Historic church built in the late 16th century. Spectacular main altar and chapels in side niches containing paintings from the colonial period.
+}}
+* {{see
+| name=Cuahilama
+| address=Calle 2 de Abril, Col. Rinconada | lat=19.241903602396707 | long=-99.07105115816563
+| phone= | tollfree=
+| hours=10:00 to 15:00 | price=Free
+| wikidata=Q3370078
+| lastedit=2025-10-31
+| content=Archaeological site that was once a ceremonial center of the Xochimilco people, who predated the arrival of the Aztecs. The site dates from 1265 AD and is best known for its many petroglyphs of animals, warriors, butterflies and more. The petroglyphs are in good condition and are protected by metal enclosures. 
+}}
+* {{see
+| name=Museo Dolores Olmedo | alt= | url=http://www.museodoloresolmedo.org.mx/ | email=
+| address=Av. Mexico 5483, La Noria | lat=19.266151 | long=-99.126129 | directions=
+| phone=+52 55 5555 1016 | tollfree=
+| hours= | price=M$70 (Mexican national students) to M$432 (foreign general admission)
+| lastedit=2026-04-23
+| content=This is one of the most important modern art museums in Mexico City. Housed in a historic 16th century [[Haciendas|hacienda]], it is a stellar model of colonial Spanish architecture. The museum is best known for having the world's best collection of works by Diego Rivera and Frida Kahlo. Art aficianados will salivate over the collection of 148 of Kahlo's most important paintings. The museum has been closed for the past five years; initially because of the COVID pandemic, but even afterwards as the museum underwent extensive renovations. Advance ticket reservations are being accepted now.
+}}
+
+==Do==
+
+* {{do
+| name=Parque Ecologico de Xochimilco | alt=PEX | url= | email=
+| address=Anillo Periferico | lat=19.2959475625551 | long=-99.09239658892304 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2026-04-23
+| content=189-hectare recreational park with lakes, cienegas (springs), canals, and gardens. Picnic areas, playground, a miniature train ride, and paddleboats for rent.
+}}
+
+* {{do
+| name=Nativitas Embarcadero | alt= | url= | email=
+| address=Calle del Mercado | lat=19.252611 | long=-99.093434 | directions=
+| phone= | tollfree=
+| hours=Mon-Fri 08:00 - 19:00, Sat-Sun 08:00 - 21:00 | price=
+| lastedit=2026-04-23
+| content=Take one of hundreds of boats (''trajineras'') through the canals which is all that is left of the lake on which Mexico City was built. This activity used to be widely enjoyed by Mexicans and it used to be one of the more authentic tourist experiences available. Nowadays, however, locals no longer consider it a nice experience because of the decay. The water quality, environmental health, and size of the canal system has declined due to overuse of groundwater, illegally built homes along the canals, and even attempts to fill or block some of the canals. The boats are colorfully painted and often bear the name of the owner's female child or other relative. There are set prices depending on the size of the boat and length of the ride, though if you speak Spanish, this can be bargained on. You can bring your own food and drinks for a picnic lunch on the larger boats, as they have a long table down the middle. As you travel down the canals, music boats float by with bands, mariachi trios, and marimba players, and for a fee you can have them float along beside you and play the songs that you request. As you travel, you will see city life, restaurants, and greenhouses where flowers and plants are grown. Further beyond the city canals, there is a wildlife preserve in which the original character of the ''chinampas'' (Aztec-era "floating gardens") may be seen.
+}}
+
+As general recommendations for hiring a ''trajinera'' (traditional boat) service, consider the following tips:
+
+*There are two types of services: single trajinera rentals and shared services. Shared services are boats that can accommodate up to 50 people. You pay when you board.
+**In 2026, a single trajinera rental cost $750 MXN (approximately $42 USD) per hour, with a minimum rental period of one hour. The price is for a whole trajinera, not per person.
+**Clearly agree on the price of the trajinera before boarding.
+**Payment must be in cash. Some owners accept electronic transfers, but this is not common.
+**One hour is a sufficient trip, but vendors will try to offer longer journeys. The Xochimilco borough has posted signs with the updated prices.
+**It is recommended to tip the boatman at the end of your trip. 
+**The maximum number of people allowed on a standard trajinera is 18. 
+**There are vendors selling food (tacos, tostadas, corn on the cob), drinks (sodas, pulque, and beer), and souvenirs around the trajineras. You can also bring your own food and drinks. 
+**Restrooms are available at some businesses along the canals. 
+**Please do not throw trash from your trajinera; you will be polluting a canal where wildlife lives.
+
+* '''Canoes''' or '''Kayaks''' are also available for rent if you'd prefer to paddle through the chinampas on your own.
+
+===Festivals===
+* '''Feria de la Flor Mas Bella del Ejido''' - April: weeklong festival featuring music and dance performances and a contest for the most elaborately decorated trajinera on the canals.
+* '''Feria de la Nieve''' - March/April, celebrates artesanal hand-made ice creams in a rainbow of colors and flavors
+* '''La Llorona''' - during the annual [[Day of the Dead]] celebration, the tale of ''La Llorona'', the weeping mother who lost her child, is recounted through theatre and music, usually staged aboard one of the trajineras.
+
+==Buy==
+[[Image:Xochimilco_public_market.JPEG|thumb|Xochimilco's public market]]
+
+There is a souvenir market along one part of the embarcadero with handcrafts, T-shirts, embroidered clothing, linens, sandals, and other souvenirs. In the off season, not all of them may be open. In addition, you will approached on the street by walking vendors. 
+
+Across from Xochimilco Cathedral is a plaza where one can buy more handicrafts (as well as not-so-great second hand clothing imported from the US), but there is better merchandise across the street at the roofed public market. This is where the locals shop. Here you can buy produce, dried chilis, ice cream, juices, meat, fish, and clothing and items for baby ''bautizas'' (baptisms) such as elaborate christening gowns, floral displays, and items relating to the child's patron saint. If you are lucky, you may be able to pick up some blue corn tortillas or ''patas'' (spiced, jellied cow's feet.)
+* {{buy
+| name=Mercado Xochimilco | alt= | url= | email=
+| address=Av. Nuevo León s/n, Santa Crucita | lat=19.262256 | long=-99.104183 | directions=
+| phone= | tollfree=
+| hours=Daily 08ː00 - 20ː00 | price=
+| lastedit=2025-12-02
+| content=Xochimilco's large public marketplace is colorful, lively, noisy, and smells of everything from spoiled garbage to heavenly scents of fresh herbs and produce. Dozens of small booths offer prepared foods at low prices.
+}}
+
+==Eat==
+On the canals, there are some trajineras which sell sweets, tacos, boiled corn or roasted corn on the cob. There are also "restaurant boats" selling simple meals of rice, chicken in sauce, and tortillas. Vendors also stand on the shore in some places selling meals, drinks, candy, and ice cream to boats that float by.
+
+In downtown Xochimilco, there are several areas of the market with food stands, as well as restaurants outside the market. There are also several pizzerias and taco restaurants nearby.
+* {{eat
+| name=Big Papi | alt= | url= | email=
+| address=Acueducto 5060, La Noria, Xochimilco | lat=19.266452 | long=-99.127253 | directions=
+| phone=+52 56 1638 9697 | tollfree=
+| hours=15:00 - 22:00 (closed Mon) | price=M$300
+| lastedit=2023-03-23
+| content=Casual fast food. Burgers, wings, ribs, curly fries (called pig-tail fries here), more.
+}}
+* {{eat
+| name=Fonda Tepepan | alt= | url= | email=
+| address=Camino Real a Xochimilco No.1, Santa María Tepepan, Xochimilco | lat=19.271992 | long=-99.131310 | directions=
+| phone=+52 55 4752 2732 | tollfree=
+| hours=08:00 - 18:30 | price=
+| lastedit=2023-03-23
+| content=Traditional Mexican cuisine in a classy, clean dining room. Excellent chiles en nogada. Cash only.
+}}
+
+==Drink==
+Generally, there will be a bucket of soft drinks, fruit drinks and beer on the boat; you pay at the end of the boat ride for what you consumed. Soft drinks and beer may be also purchased from vendors who float by in their own boats; a simple hand signal is enough to get them to come over. Some vendors also set up coolers on the banks. As with all food purchased on the canals, it helps to have exact change or close to it.
+* {{drink
+| name=Nomás No Llores | alt= | url= | email=
+| address=Callejon Galeana 41, Santa María Tepepan | lat=19.279611 | long=-99.134628 | directions=
+| phone=+52 55 4983 4279 | tollfree=
+| hours=08:00 - 20:00 | price=
+| lastedit=2023-03-23
+| content=Traditional pulqueria in the heart of Xochimilco. Good curados. Interesting flavors like celery (apio) and tomato. Cash only.
+}}
+
+==Sleep==
+There are no good hotels for tourists in Xochimilco. If you search on hotel booking sites, you are only likely to get results for small local hotels that cater to locals who want a room for a few hours to have sex. Hotels for travelers are in the big city.
+
+==Connect==
+Cell phone services in Mexico City are excellent. 5G coverage is the norm as of 2023, particularly with Telcel, and dark spots with no coverage are virtually unheard of in Zona Rosa. Free WiFi is available at most hotels, restaurants and other tourist spots. The city government provides free WiFi service to everyone in public parks and plazas, including the Glorieta de Insurgentes and nearby Chapultepec Park.
+
+
+{{usabledistrict}}
+
+{{geo|19.275000|-99.138889}}
+
+{{IsPartOf|Mexico City}}

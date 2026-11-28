@@ -1,0 +1,654 @@
+{{pagebanner|Italy banner 2 Rome.jpg|pgname=North Central Rome}}
+[[Image:RomeSpanish.jpg|thumb|300px|The Steps]]
+'''North Central [[Rome]]''' is a district that covers the areas around Piazza di Spagna, Piazza del Popolo and Parioli, as well as the magnificent Villa Borghese and its gardens. Further out the area is bordered by Via Nomentana and the River Tiber and includes the area of Salario.
+
+==Understand==
+'''Spagna''' lies in the northern part of the central city, to the west of the park of the Villa Borghese. It includes the '''Piazza di Spagna''' and the famous '''Spanish Steps'''. It is one of the most fashionable and well-heeled districts of the Italian capital.
+
+'''Parioli''' is a quiet, affluent and elegant [[Rome]] neighborhood close to Villa Borghese. The name originates from a gigantic wall called "parietone".
+
+'''Salario''', just to the northwest of the [[Rome/Modern Center|Modern Center]] and the Villa Borghese, is another elegant, upscale neighborhood, home to a large and beautiful park, Villa Ada.
+
+'''Trieste''' is also a quiet affluent and elegant neighborhood, close to the Parioli and Villa Ada. It is full of Fascist architecture and early Christian churches such as Sant’Agnese Fuori Le Mura.
+
+==Get in==
+{{Mapframe|41.92148|12.48325|width=570|height=400|zoom=13}}
+{{mapshapes|Q237480}}
+
+This is still the centre of Rome. It is served by the metro stations {{marker|type=go|name={{station|Spagna|A}}|lat=41.90683|long=12.48445}} (Piazza di Spagna: Spanish Steps and Borghese Gardens) and {{marker|type=go|name={{station|Flaminio - Piazza del Popolo|A}}|lat=41.911944|long=12.475833}}. ''Piazza di San Silvestro'', which is a short walk from the Spanish Steps, is a terminal for many bus lines.
+
+==See==
+
+===Antique Rome===
+
+[[Image:Ara Pacis Rom.jpg|thumb|right|200px|Ara Pacis]]
+
+*{{see
+| name=Ara Pacis | alt= | url=http://www.ara-pacis-museum.com/ | email=
+| address=Lungotevere in Augusta | lat=41.906389 | long=12.475556 | directions=
+| phone= | tollfree= | fax=
+| hours=Tue-Sun 09:00-19:00, 24 and 31 Dec 09:00-14:00; closed Mon, Jan 1, May 1 and Dec 25 | price=€6.50, reductions €4.50
+| wikipedia=Ara Pacis | image=AraPacisFullFrontal2.JPG | wikidata=Q623612
+| content=Ara Pacis is an altar to peace commissioned by the Roman Senate on 4 July 13 BC to honor the triumphal return from Hispania and Gaul of Augustus. It is universally recognised as a masterpiece. Following discovery of this work under a building in Rome, Mussolini built a protective building for it near the Mausoleum of Augustus, where it was reconstructed. A new building on the same site as Mussolini's was opened in 2006 and has been controversial. The mayor at the time said he would tear down the new structure. The basement of the new building features occasional exhibitions. You can see much of it from outside the building. Paying to go inside adds some background info, but not much more.
+}}
+* {{see
+| name=Mausoleo di Augusto | alt=Mausoleum of Augustus | url=http://www.mausoleodiaugusto.it/it/ | email=
+| address=Piazza Augusto Imperatore | lat=41.90611 | long=12.47639 | directions=Just behind the Ara Pacis, bus no 81,117,492,628
+| phone=+39 0667103819 | tollfree= | fax=
+| hours=by appointment only | price=
+| wikipedia=Mausoleum of Augustus | image=Mausolée-d'Auguste.jpg | wikidata=Q770847
+| content=This is a large tomb built by the Roman Emperor Augustus in 28 BC in the form of a stone ring covered by an earth mound. A brick wall, 87 m in diameter, carried an earth mound covered with cypresses. On top of the hill stood a bronze monument of the emperor. The building was 44 meters high. At the beginning of the alley, which led to the tomb were two Egyptian obelisks. On both sides of the doorway bronze plates describe the "Res gestae", the deeds of the emperor. The urns of Augustus, Marcellus, Octavia, Agrippa, Drusus and other members of the Julian Claudian dynasty were revered here. In the Middles Ages the building served as citadel of the Colonna family. It was destroyed by Pope Gregor IX in 1241. The body of ''Cola di Rienzo''. a popular leader of the people in the mid-14th century, was burnt in this monument. The Mausoleo di Augusto is not open to the public, and is fenced off.
+}}
+
+===Catacombs===
+*{{see | name=Catacombe di Priscilla | alt=Catacomb of Priscilla | url=http://www.catacombepriscilla.com/index_en.html | email= | address=Via Salaria 430 | lat=41.9297 | long=12.5087 | directions=enter through the cloister of the monastery of the Benedictines of Priscilla. Buses 86, 92, 310 from Termini station or metro Libia at B1 line | phone=+39 06-86206272 | tollfree= | fax=+39 06-86398134 | hours=Tue-Sun 09:00-12:00, 14:00-17:00 | price=€8 | wikipedia=Catacomb of Priscilla | image=Good shepherd 01 small.jpg | wikidata=Q2462868 | lastedit=2016-12-20 | content=Underground burial place of an ancient Roman family and of seven early popes.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+[[Image:Popolo.jpg|thumb|right|200px|Piazza del Popolo]]
+
+===Churches===
+* {{see
+| name=Santa Maria del Popolo | alt= | url= | email=
+| address=Piazza del Popolo 12 | lat=41.911389 | long=12.476389 | directions=bus nr 95, 117, 119, 490
+| phone=+39 063610836 | tollfree=
+| hours=Mon-Sat 07:00-12:00, 16:00-19:00; Sun 07:30-13:30, 16:30-19:30 | price=
+| wikipedia=Basilica of Santa Maria del Popolo | image=Church St Maria del popolo 1.jpg | wikidata=Q869513
+| content=This is a treasure-trove of art. There are a couple of paintings by ''Caravaggio'': "The Crucifixion of Saint Peter" and "The Conversion of Saint Paul" (in a dim alcove to the left of the altar, both at right angles to the viewer, with a machine wanting €2 to switch on the lighting) together with a sculpture by ''Bernini'', frescoes by ''Pinturicchio'' and mosaics by ''Raphael''. Part of the Dan Brown tour, this church featured in Angels and Demons, although the Vatican did not allow filming inside.
+}}
+* {{see
+| name=Santissima Trinità dei Monti | alt= | url= | email=
+| address=Piazza della Trinità dei Monti 1 | lat=41.906389 | long=12.483611 | directions=Metro Spagna, bus 116,117,119
+| phone=+39 066794179 | tollfree= | fax=
+| hours=09:00-13:00, 15:00-19:00 | price=
+| wikipedia=Trinità dei Monti | image=Roma-scalinatà trinità dei monti.jpg | wikidata=Q1229008
+| content=Baroque church more noted for its position at the top of the Spanish Steps than it is for the church. Backdrop for numerous movies including Audrey Hepburn and Gregory Peck in ''Roman Holiday''.
+}}
+[[Image:Moschea - sala principale 00531.JPG|thumb|right|200px|Inside Rome's mosque]]
+*{{see
+| name=Moschea di Roma | alt=Rome's Mosque | url=https://www.facebook.com/centroislamicoculturale/about/?__xt__=33.%7B%22logging_data%22%3A%7B%22page_id%22%3A505689026134218%2C%22event_type%22%3A%22clicked_view_page_about%22%2C%22impression_info%22%3A%22eyJmIjp7Iml0ZW1fY291bnQiOiIwIn19%22%2C%22surface%22%3A%22www_pages_highlights%22%2C%22interacted_story_type%22%3A%22291992504486569%22%2C%22session_id%22%3A%22f86cce3dc4f10da6e9ab2b1bd78bb3d7%22%7D%7D | email=
+| address=Viale della Moschea, 85 | lat=41.934722 | long=12.495 | directions=situated to the west of Villa Ada next to the regional train stop "Campi Sportivi" (request stop)
+| phone=+39 06 8082167, +39 06 8082258 | tollfree= | fax=
+| hours=Wed Sun 09:00-12:30 (excluding Ramadan, Italian holidays and August) | price=
+| wikipedia=Mosque of Rome | image=Grande Mosquée de Rome 02.JPG | wikidata=Q1789776
+| lastedit=2016-12-20
+| content=The Rome Mosque, which was inaugurated in 1995, is the biggest in Europe. The inside of the 30,000 m² structure has a large prayer hall that uses tri-stemmed columns that imitate the features of trees.
+}}
+[[Image:Santa costanza.jpg|thumb|right|250px|Mosaic in Santa Costanza]]
+* {{see
+| name=Santa Costanza | alt= | url=http://www.santagnese.org/mausoleo.htm | email=
+| address=Via Nomentana 349 | lat=41.922601 | long=12.517398 | directions=S.Sgnese/Annibaliano station on Metro Line B. Bus 60 from Piazza Venezia or 36 from the Termini station
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 09:00-12:00, Tue-Sat 16:00-18:00 | price=
+| wikipedia=Santa Costanza | image=Santa Costanza - vista dalla basilica costantiniana.jpg | wikidata=Q831361
+| content=This church was built by the Emperor Constantine (272-337) as a mausoleum for his daughters Constantina and Helena. It was part of a much larger cemetery complex, parts of which can still be seen. The mausoleum was consecrated as a church and dedicated to Constantina when she became a saint in 1254. The building is circular with an inner arcade resting on pairs of granite columns. It retains some marvellous mosaics from the 4th century.
+}}
+:* {{see
+| name=Sant' Agnese fuori le Mura | alt=Saint Agnes outside the walls, not to be confused with Sant' Agnese in Agone, to be found in Piazza Navona | url=http://www.santagnese.org/onoriana.htm | email=
+| address=Via Nomentana 349 | lat=41.922917 | long=12.518878 | directions=
+| phone= | tollfree= | fax=
+| hours=09:00-13:00 and 16:00-18:00 | price=
+| wikipedia=Sant'Agnese fuori le mura | image=Sant'agnese fuori le mura - esterno - 1911.jpg | wikidata=Q1636696
+| content=This church was built next to the mausoleum of Santa Costanza in the 7th century and is on top of catacombs. It is very unusual in that the floor level is at the level of the catacomb floor, and the street entrance is at the level of the second floor gallery. The body of St. Agnes lies in a silver sarcophagus. There are several stories about her death at the age of 13 in 304 AD. One is that the prefect Sempronius wanted her to marry his son, and condemned her to death when she refused. Roman law did not permit the execution of virgins, so he ordered her to be raped but her virginity was miraculously preserved. She was then condemned to be burnt at the stake but the wood would not burn. Another is that she was stripped naked by the Emperor Diocletian because of her refusal to marry but that her hair then grew rapidly to preserve her modesty.
+}}
+:* {{see
+| name=Catacombs of St Agnese | alt=Sant'Agnese fuori le mura | url=http://www.santagnese.com/ | email=
+| address= | lat=41.922778 | long=12.518611 | directions=
+| phone= | tollfree= | fax=
+| hours=09:00-13:00 and 16:00-18:00; closed 24 October to 21 November | price=€8, reductions €5
+| wikidata=Q3663182
+| content=Small catacombs that contained the remains of Saint Agnes
+}}
+
+===Historical squares and streets===
+[[Image:Quartiere Coppede.JPG|thumb|right|200px|Quartiere Coppedè]]
+* {{see
+| name=Piazza del Popolo | alt= | url= | email=
+| address= | lat=41.910714 | long=12.476317 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Piazza del Popolo | image=Piazza del Popolo (Roma, Italy).jpg | wikidata=Q824997
+| content=This is the largest square in Rome. It sometimes hosts pop concerts and is the focal point for Rome's New Year's Eve celebrations. The twin churches ''Santa Maria dei Miracoli'' (1681) and ''Santa Maria in Montesanto'' (1679) used to provide a clear welcome to Rome for those coming from the north. Much older, to the north of the piazza is yet another Santa Maria (see below). The Piazza del Popolo is considered as one of the most beautiful squares in Europe. It was enlarged and two streets, the ''Via di Ripetta'' and the ''Via del Babuino'' were added by order of ''Pope Sixtus V.'' In the middle of the square is an ''obelisk'' (see below). In 1809-1816, ''Giuseppe Valadier'', Roman architect of French origin, gave the square its characteristic oval shape.
+}}
+* {{see
+| name=Quartiere Coppedè (part of the neighborhood of ‘Trieste’) | alt= | url= | email=
+| address= | lat=41.918773 | long=12.500961 | directions=Bus no. 92, 63, 630, 86
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q3927173
+| content=With its strange Liberty- style buildings with influence from the ''Art Nouveau'' of the 1920s this small bunch of blocks is one of the most interesting, and less known, landmarks of the city. A must see.
+}}
+[[Image:Barcaccia.JPG|thumb|right|200px|Fountain of the Old Boat: Piazza di Spagna]]
+* {{see
+| name=The Spanish Steps | alt=Scalinata di Spagna | url= | email=
+| address= | lat=41.90611 | long=12.48278 | directions=
+| phone= | tollfree=
+| hours= | price=Free
+| wikipedia=Spanish Steps | image=Spanish.steps.arp.jpg | wikidata=Q848072
+| lastedit=2023-04-24
+| content=A truly monumental stairway of 135 steps (similar to climbing eight flights of stairs), built with French funds between 1721 and 1725 in order to link the Bourbon Spanish embassy to the Holy See (still located in the piazza below), with the Bourbon French church (its monastery founded in 1495) above. Don't sit on them though, or eat, or push a baby stroller on them, or do anything else that might obstruct pedestrians, make them dirty, or cause additional wear and tear, or else you will have to pay a fine that ranges from €250 to €400.
+}}
+* {{see
+| name=Piazza di Spagna | alt= | url= | email=
+| address= | lat=41.90595 | long=12.482058 | directions=Metro Spagna, bus nr 116,117,119
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piazza di Spagna | image=Spagna Spanische Treppe Rom.jpg | wikidata=Q15124814
+| content=The Piazza di Spagna (Spanish Square) is the most famous square in Rome. For a very long time it was the meeting point of all foreigners coming to Rome. In the 17th century it was the residence of the Spanish Ambassador to the Holy See. The area around the residence was Spanish territory and foreigners who stayed here without permission were forced to serve in the Spanish army. The '''Fontana della Barcaccia''' (Old Boat Fountain) on Piazza di Spagna was designed and built in 1627-29 by Pietro Bernini, father of the more famous Gian Lorenzo Bernini. The fountain celebrates the fact that before high walls were built along the banks of the Tiber Rome often used to flood. Once the waters were so high that a boat ended up in the square. The decorations on the fountain imitate the coat of arms of Pope Urban VII, Barberini'p, who ordered the fountain to be built. A less aesthetic occupant of the square is Italy's first McDonalds, dating back to 1986. Also in the piazza is a column erected in 1856 to commemorate the Immaculate Conception. The column is topped by a statue of the Virgin Mary, and rests on a base with statues of Moses, David, Isaiah and Ezekiel. The Pope visits the Piazza every year on December 8th to celebrate Immaculate Conception.
+}}
+* {{see
+| name=Ponte Milvio | alt= | url= | email=
+| address= | lat=41.935556 | long=12.466944 | directions=Metro Spagna, bus nr 116,117,119
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Ponte Milvio | image=Milviske-Bro-4.jpg | wikidata=Q1127325
+| content=The first pedestrian-only bridge was built here in 206 BC and marks the passage of the Roman Via Flaminia over the Tiber. In 115 BC, the original bridge was demolished and rebuilt. It has been restored and remodelled several times since. In 2006, the bridge began attracting couples who, influenced by a movie, used a lamppost on the bridge to hang padlocks as a sign of their love, locking the padlock to the lamppost, then throwing the key behind them into the river. In 2007 the lamppost collapsed under the weight! Feeling sorry for the lovers the mayor ordered construction of steel posts, where padlocks can once again be hung.
+}}
+[[Image:Lucchetti Milvio.jpg|thumb|right|200px|The lamppost of love at the Ponte Milvio]]
+
+===Historical buildings===
+*{{see
+| name=Villa Medici | alt=Académie de France à Rome | url=http://villamedici.it/ | email=
+| address=Viale Trinità dei Monti, 1 | lat=41.90827 | long=12.48252 | directions=Turn left at the top of the Spanish Steps. About 200m on your right.
+| phone=+39 06 6761 311 | tollfree= | fax=
+| hours=Tue-Sun 09:30-17:30 (ticket office); [http://www.villamedici.it/en/cultural-events/events-program/2013/01/guided-tours/ guided tour of gardens in English] daily at 12:00 | price=€12
+| wikipedia=Villa Medici | image=RomaVillaMedici.JPG | wikidata=Q1362663
+| lastedit=2016-12-19
+| content=The villa was erected by order of Cardinal Ricci di Montepulciano in 1544. It was acquired by Cardinal Fernando di Medici in 1576. Since 1803 it is the French Academy in Rome. The academy was created in 1666 by the French King Louis XIV in order to enable painters to study in Rome. Nicolas Poussin was one of the first students, Ingres was director, and Fragonard and Boucher were students of the French Academy, but also musicians like Berlioz and Debussy studied here. Today the villa hosts occasional concerts and exhibitions. Its gardens can be visited.
+}}
+* {{see
+| name=Villa Albani-Torlonia | alt= | url= | email=amministrazione@srdps.191.it
+| address=Via Salaria, 92 | lat=41.9153 | long=12.5 | directions=Bus no. 92, 63, 630, 86. Tram 19
+| phone=+39 06 6861044 | tollfree= | fax=+39 06 68199934
+| hours=By appointment only | price=Free of charge
+| wikipedia=Villa Albani | image=Villa Albani fuori di Porta Salara - Plate 190 - Giuseppe Vasi.jpg | wikidata=Q4011749
+| lastedit=2016-12-19
+| content=A magnificent patrician house with beautiful gardens. It was built by order of Cardinal Alessando Albani in 1743-1763 in order to accommodate his collection of art. The collection was taken care of by the Winkelmann, adviser and friend of the cardinal. In Rome, Winkelmann wrote his "Geschichte der Kunst des Altertumns (HIstory of the Art of Antiquity)", which made him the founder of classical archaeology. The painted ceiling of the great hall depicting Mount Parnassus is by the German painter Anton Raphael Mengs who was considered as the greatest painter in Rome in the 18th century. A permission to visit is to be [http://mobile.060608.it/it/cultura-e-svago/beni-culturali/beni-architettonici-e-storici/villa-albani-torlonia.html requested by email or fax] from Principi Torlonia's administration where you'd need to indicate date and time desired, your name and number of people in your party (max. 10).
+}}
+* {{see
+| name=Villa Ada | alt= | url=http://www.sovraintendenzaroma.it/i_luoghi/ville_e_parchi_storici/ville_dei_nobili/villa_ada_savoia | email=
+| address=via Salaria 267 - 273 - 275, via di Ponte Salario, via di Monte Antenne, via Panama | lat=41.932039 | long=12.501497 | directions=To the left of Via Salaria. Bus no. 92, 310, 63, 630, 86
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Villa Ada | image=Villa Ada (Roma).JPG | wikidata=Q2000387
+| lastedit=2016-12-19
+| content=Beautiful park, the 2nd largest in Rome (after [[Rome/Trastevere#Villa Doria Pamphili|Villa Doria Pamphili]]) at 450 acres/182 hectares. Hosts concerts on summer evenings. former summer residence of Italian monarchs. Also known for its [http://en.bunkervillaada.it/ bunker].
+}}
+
+===Gardens===
+[[Image:Monte-Mario-Roma-2012.JPG|thumb|The view of central Rome from the Monte Mario park.]]
+* {{see
+| name=Borghese Gardens | url= | email=
+| address= | lat=41.91349 | long=12.48639 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The extensive Borghese Gardens are a pleasant place to stroll. Inside this area you will find one of the world's great museums, Rome's Zoo, a pond where you can rent a rowing boat and the Piazza di Siena, which hosts an annual show jumping event.
+}}
+* {{see
+| name=Pincio | url= | email=
+| address= | lat=41.91125 | long=12.47872 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Pincio Park is near Piazza del Popolo. It was designed in the 19th century by Giuseppe Valadier, who also designed the Piazza del Popolo. Formlerly the Casina Valadier was an elegant restaurant. Gandhi, Mussolini, Richard Strauss and the Egyptian King Farouk were customers there. There are many evergreen bushes, palm and pine trees on both sides of the paths. Don't miss the view from Piazzale Napoleone I. to the Vatican and Rome from Monte Mario to Gianicolo. Walking through the park from Villa Borghese or along Viale Trinita del Monti is greatly recommended, especcially at sunset. In the park there is an Egyptian obelisk erected by Emperor Hadrianus over the grave of his favourite slave Antinos, who had saved the emperor's life and from then on was adored like a God.
+}}
+* {{see
+| name=Monte Mario | alt= | url= | email=
+| address= | lat=41.925 | long=12.451667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Monte Mario | image=Roma-monte mario.jpg | wikidata=Q692719
+| content=The highest hill in Rome at 139 m, with sweeping views of the Vatican and Rome across the Tiber.
+}}
+
+===Museums===
+[[Image:Villa borghese.JPG|thumb|right|200px|Villa Borghese]]
+* {{see
+| name=Villa Borghese | alt=[http://galleriaborghese.beniculturali.it/ Galleria Borghese] | url=http://galleriaborghese.beniculturali.it | email=info@tosc.it
+| address=Piazzale del Museo Borghese (Parco di Villa Borghese) | lat=41.914 | long=12.492 | directions=Allow plenty of time to get from the metro to the museum - from the metro stop you can't see the museum and there are no signs, so it can take awhile to find. Otherwise take a bus to {{marker|type=go|name=Pinciana/Museo Borghese stop|lat=41.913974|long=12.493730}} at the Via Pinciana, which is just next to the museum. There is a taxi rank next to the park entrance there.
+| phone=+39 06 32810 | tollfree= | fax=+39 06 32651329
+| hours=Tue-Sun 08:30-19:30 (mandatory exit at the end of allotted 2-hour slot, ticket office closes at 18:30) | price=€20 ([http://www.tosc.it/tickets.htm?affiliate=T2C&sort_by=event_datum&sort_direction=asc&fun=erdetail&doc=erdetaila&erid=912678&language=en on-line reservation])
+| wikipedia=Galleria Borghese | image=Galleria borghese facade.jpg | wikidata=Q841506
+| lastedit=2016-12-19
+| content=Borghese Gallery and Museum is a lovely display in a beautiful villa setting, which concentrates on the quality rather than the size of its collection. There are some very notable works by Antonio Canova and Gian Lorenzo Bernini here, Bernini's ''Apollo and Daphne''is quite amazing. It also houses some of Caravaggio paintings, well worth the admission charge. Originally, the gallery was one of the most magnificent private art collections in the world. It was founded by Cardinal Scipione Borghese. At the beginning of the 19th century, Prince Camillo Borghese sold great parts of the collections to Paris where today they belong to the most valuable exhibits of the Louvre. Since 1902 the villa and the gallery are owned by the Italian state. The number of people admitted is limited to 360 every 2 hours, so it is best to make a well in advance for the time slot you want. Cameras and photography are allowed. Plan to arrive at the museum at least 15 minutes prior to your entry time, to obtain your ticket from Will Call and to deposit purses, strollers, backpacks, bottles, and other bulky items in the cloak room. If you are late for your reservation the museum may not allow you to use your ticket.
+}}
+[[Image:Banditaccia Sarcofago Degli Sposi.jpg|thumb|right|200px|The stunningly beautiful 6th Century BC Etruscan Sarcophagus of the Husband and Wife at the Villa Giulia Museum]]
+* {{see
+| name=Villa Giulia National Gallery | alt=Museo Nazionale di Villa Giulia | url=http://www.roma2000.it/zvilagiu.html | email=
+| address=Piazzale di Villa Giulia, 9, Villa Borghese 00196 - Roma | lat=41.918333 | long=12.477778 | directions=Northwest of the Villa Borghese park
+| phone=+39 063201951 | tollfree= | fax=
+| hours=Tue-Sun 08:30-19:30, closed Jan 1, Dec 25 | price=Full €8, concessions for students and pensioners
+| wikipedia=Villa Giulia | image=Villa Giulia modified.jpg | wikidata=Q964499
+| content=The most extensive collection of Etruscan art and artifacts anywhere. Fantastic collection and well worth the admission charge. A difficult museum to find, but a lovely display in a beautiful villa setting.
+}}
+* {{see | name=Galleria Nazionale d'Arte Moderna (GNAM) | alt=the National Gallery of Modern Art | url=http://www.gnam.beniculturali.it | email= | address=Via delle Belle Arti 131 | lat=41.916944 | long=12.481944 | directions=up the hill from Villa Giulia or down the hill from the zoo. | phone=+39 06 322 981 | tollfree= | fax= | hours=Tue-Sun 08:30-19:30 | price=Full ticket €10; various discounts available | wikipedia=Galleria Nazionale d'Arte Moderna | image=IMG 0386 - Galleria nazionale d'arte moderna, front.jpg | wikidata=Q1492387 | content=An underrated way to see fantastic art made after the Renaissance. Mainly Italian artists, notably De Chirico, but Cézanne, Degas, Kandinsky, Man Ray, Modigliani, Monet, Pollock and Van Gogh are also represented.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=MAXXI | alt=Museo Nazionale delle Arti del XXI Secolo (National Museum of 21st Century Art) | url=http://www.fondazionemaxxi.it/ | email=info@fondazionemaxxi.it
+| address=Via Guido Reni 4a | lat=41.92807 | long=12.46648 | directions=Tram No. 2 and buses 53, 217, 280, and 910; around 2 km northwest of Piazza del Popolo along Via Flaminia, close to the Parco della Musica and Stadio Flaminio
+| phone=+39 06 39967350 | tollfree= | fax=
+| hours=Tue-Fri Sun 11:00-19:00, Sat 11:00-22:00, Mon closed | price=€10 adults, €8 concessions
+| wikipedia=MAXXI | image=| wikidata=Q1881229
+| content=Brand new museum designed to celebrate the art and architecture of the 21st century.
+}}
+* {{see
+| name=MACRO | alt=Museo d'Arte Contemporanea di Roma | url=http://www.museomacro.org/ | email=macro@comune.roma.it
+| address=Via Nizza 138 | lat=41.912825 | long=12.502217 | directions=bus no 36, 60, 84, 90
+| phone=+39 06 6710 70400 | tollfree= | fax=
+| hours=Tue-Sun 10:30-19:00 (last admission 1 hour before closing), Mon closed | price=€13.50 adults, €11.50 concessions
+| wikipedia=Museum of Contemporary Art of Rome | image=Macro Rome2.jpg | wikidata=Q2669644
+| content=Rome's museum of contemporary art, housed in a former industrial complex. Rotating exhibitions, each one usually lasting about 4 months. The MACRO Testaccio exhibition space is located in [[Rome/Aventino-Testaccio|Aventino-Testaccio]].
+}}
+* {{see | name=Keats-Shelley Memorial House | alt= | url=http://www.keats-shelley-house.org | email= | address=Piazza di Spagna 26 | lat=41.905756 | long=12.482614 | directions= | phone= | tollfree= | fax= | hours= | price= | wikipedia=Keats–Shelley Memorial House | image=Keats-Shelley House.jpg | wikidata=Q1133966 | content=The house in which the famous English poet John Keats succumbed to consumption, now preserved as a memorial to his life and that of his friend Shelley, both of whom are buried in Rome's Protestant Cemetery (see [[Rome/Aventino-Testaccio#Testaccio|Testaccio]]).
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Goethe's House | alt=Casa di Goethe | url=http://www.casadigoethe.it | email=
+| address=Via del Corso 18 | lat=41.90901 | long=12.477192 | directions=bus nr 95, 447, 119, 490, 495, 629, 926
+| phone=+39 0632650412 | tollfree= | fax=
+| hours=Tue-Sun 10:00-18:00, Mon closed (last admission 30 min before closing) | price=€5 adults, €3 concessions
+| wikipedia=Casa di Goethe | image=Casa di goethe fassade.JPG | wikidata=Q959650
+| content=
+}}
+*{{see
+| name=Museo delle Paste Alimentari | alt= | url=http://www.museodellapasta.it | email=
+| address=Via Flaminia, 141 | lat=41.91848 | long=12.47284 | directions=
+| phone=+39 06 699 1119 | tollfree= | fax=
+| hours=Daily 09:30-17:30, closed public holidays | price=
+| wikidata=Q3868428
+| content=A museum devoted to pasta, Italy's premier gift to world cuisine.
+}}
+
+===Zoo===
+* {{see
+| name=Bioparco | alt= | url=http://www.bioparco.it | email=
+| address= | lat=41.917472 | long=12.485194 | directions=
+| phone= | tollfree= | fax=
+| hours=From 09:30 to 17:00 or 18:00 depending on the month | price=
+| wikipedia=Bioparco di Roma | image=Ingresso bioparco 2.JPG | wikidata=Q864639
+| content=The renamed Rome Zoo, one of the oldest in Europe, founded in 1911. On the edge of the Borghese Gardens, a short, well-signposted walk from the Gallery. They try hard, but San Diego this isn't. If you are a regular zoo-goer you will be disappointed.
+}}
+
+===Obelisks and statues===
+* {{see
+| name=Piazza del Popolo Obelisk | alt= | url= | email=
+| address= | lat=41.9107 | long=12.47635 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Flaminio Obelisk | image=Obelisk-popolo.jpg | wikidata=Q568194
+| content=According to an inscription ''Emperor Augustus'' dedicated the obelisk to the sun in the 11th year of his consulate (10BC), after he had annexed Egypt to Rome. The obelisk is 24 m high. It was erected in Heliopolis in Egypt and was dedicated to Pharao Sethos I (1313-1292 BC) and Pharoa Ramses II (1292-1275 BC). Augustus brought the obelisk to the Circus Maximus, where it was rediscovered in 1587, broken into three pieces and was relocated to Piazze del Popolo on the orders of Pope Sixtus V in 1589.
+}}
+* {{see
+| name=Statue of Lord Byron | alt= | url= | email=
+| address=Borghese Gardens | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=IMG 0358 - George Gordon Byron detail.jpg | wikidata=Q56256449
+| content=Statue by Thorvaldsen.
+}}
+* {{see
+| name=Statue of Goethe | alt= | url= | email=
+| address=Borghese Gardens | lat=41.911544 | long=12.486336 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Goethe-Denkmal.jpg | wikidata=Q1534099
+| content=
+}}
+* {{see
+| name=Statue of Victor Hugo | alt= | url= | email=
+| address=Borghese Gardens | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Victor Hugo Statue.jpg | wikidata=Q56256431
+| content=
+}}
+
+==Do==
+* Rent a boat and take a row on the lake in the Borghese Gardens.
+*{{do
+| name=Auditorium Parco della Musica | alt= | url=http://www.auditorium.com | email=
+| address=Viale Pietro de Coubertin | lat=41.929167 | long=12.474722 | directions=to the north of Rome close to the Via Flaminia. Not exactly easy to reach from major tourist areas. Bus 910 and 217 from Termini Station; Linea ‘M’ special bus route between Termini Station and Auditorium, from 17:00 every 15 min on concert nights. Tram: No. 2 from Piazzale Flaminio. Trains: Metro A line to Flaminio then No.2 tram.
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Parco della Musica | image=Auditorium Parco della Musica a Parioli.JPG | wikidata=Q570949
+| content=The Auditorium at Parco della Musica is a large complex on the north side of Rome, built on a site that was part of the 1960 Olympic area. It is composed of three separate halls whose shapes are inspired by musical instruments. These are positioned around an open air amphitheatre, that is used nearly every night in the summer for concerts. The interiors are entirely made of cherry-wood, which provides for good acoustics. The Parco della Musica opened in 2002 and now hosts a constant stream of classical, popular, and jazz music, featuring national as well as international musicians and groups. Refreshments available and there is a good book shop.
+}}
+
+==Buy==
+The streets to the west of the Spanish Steps, such as Via dei Condotti, house Rome's most upmarket shops. Most of the famous designer labels can be found here.
+*{{buy
+| name=Dolce & Gabbana | alt= | url=https://boutique.dolcegabbana.com/italy/rome/piazza-di-spagna-94-100/rome-piazza-di-spagna-94-100 | email=
+| address=Piazza di Spagna 94-100 | lat=41.906357 | long=12.481357 | directions=
+| phone=+39 06 699 1592 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Giorgio Armani | alt= | url=http://www.giorgioarmani.com/ | email=
+| address=Via Condotti 77 | lat=41.905415 | long=12.481079 | directions=
+| phone=+39 063221581 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Prada | alt= | url=http://www.prada.com/en | email=
+| address=Via Condotti 92-95 | lat=41.905730 | long=12.481836 | directions=
+| phone=+39 066790897 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Salvatore Ferragamo | alt= | url=http://www.ferragamo.com/ | email=
+| address=Via Condotti 73-74 | lat=41.905380 | long=12.480901 | directions=
+| phone=+39 066791565 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Valentino | alt= | url=http://www.valentino.com/#/en/home/ | email=
+| address=Via Condotti 13 | lat=41.905308 | long=12.483102 | directions=
+| phone=+39 066739430 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Gucci | alt= | url=http://www.gucci.com | email=
+| address=Via Condotti 8 | lat=41.905490 | long=12.481787 | directions=
+| phone=+39 066790405 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Max Mara | alt= | url=https://store.maxmara.com/en/italy/roma/max-mara-roma-via-dei-condotti | email=
+| address=Via dei Condotti, 17-18-18/A | lat=41.905213 | long=12.481046 | directions=
+| phone=+39 0669922104 | tollfree=
+| hours= | price=
+| content=
+}}
+*{{buy
+| name=Ermenegildo Zegna | alt= | url=http://www.zegna.com/en/europe/ | email=
+| address=Via Borgogna 7e | lat=41.905026 | long=12.481711 | directions=
+| phone=+39 066789143 | tollfree=
+| hours= | price=
+| content=
+}}
+
+==Eat==
+* {{eat | name=Il Margutta RistorArte | alt= | url=http://www.ilmargutta.it | email=staff@ilmargutta.it | address=via Margutta, 118 | lat=41.909515 | long=12.478418 | directions=near the Spanish Steps | phone=+39 06 32650577 | tollfree= | hours=Lunch buffet and dinner menu | price= | content=A fairly decent vegetarian lunch buffet. The staff can point out the vegan eats. A decent value for the money. Near where Fellini once lived.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Fiaschetteria Beltramme da Cesaretto | alt= | url=https://fiaschetteriabeltramme.it/ | email=
+| address=Via della Croce 39 | lat=41.906044 | long=12.479362 | directions=
+| phone=+39 0669797200 | tollfree=
+| hours=Open for lunch and dinner. Closed Sun | price=
+| content=Outdoor seating available. Cash only. Walls lined with interesting art and at least one communal table. Small, traditional menu but the best dishes are the pastas and the simple bresaola, rughetta and parmigiano plate. Recommended dishes are the tonnarelli cacio & pepe and maltagliati al sugo.
+}}
+*{{eat
+| name=Trattoria Fauro | alt= | url=https://www.facebook.com/p/Fauro-Parioli-100094367581810/ | email=
+| address=Via R.Fauro 44 | lat=41.927152 | long=12.488395 | directions=near Parioli theatre
+| phone=+39 06068083301 | tollfree=
+| hours=closed Sun | price=€26-34
+| content=
+}}
+*{{eat
+| name=Mamma Angelina | alt= | url=https://www.instagram.com/mammangelina_ | email=
+| address=Viale Arrigo Boito 65 | lat=41.937193 | long=12.514686 | directions=
+| phone=+39 068608929 | tollfree=
+| hours=closed Wed and Aug | price=€20-32
+| content=
+}}
+* {{eat
+| name=La Casa del Cremolato | alt= | url=http://www.lacasadelcremolato.com/ | email=
+| address=Via di Priscilla 18 | lat=41.928287 | long=12.509240 | directions=
+| phone=+39 0686200724 | tollfree=
+| hours= | price=
+| lastedit=2017-03-25
+| content=One of the best Cafe of the area. Try the homemade cremolato, probably one of the best in Rome.
+}}
+* {{eat
+| name=Caffè Vaticano | url= | email=
+| address=Viale Vaticano, 100 | lat=41.90706 | long=12.45333 | directions=across from the Vatican Museum entrance at Viale Vaticano e Via Tunisi
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 07:00-20:00 | price=
+| content=Delicious fruit gelato with exotic fruit bits, ice creams and coffees.
+}}
+* {{eat
+| name=Osteria delle Commari | alt= | url= | email=
+| address=Via Santamaura, 23 | lat=41.908078 | long=12.453798 | directions=
+| phone=+39 06 3972 9557 | tollfree=
+| hours=12:00-23:00 every day | price=
+| content=An Italian restaurant that does not do pizza. A little expensive.
+}}
+* {{eat
+| name=Siciliainbocca | alt= | url=http://www.siciliainboccaweb.com/ | email=
+| address=Via Emilio Faa di Bruno 26 | lat=41.914164 | long=12.456229 | directions=Metro line A, Cipro.
+| phone=+39 06 373 584 00 | tollfree=
+| hours= | price=Reasonable prices; fish plate around €15, but do order some antipasti and pasta
+| content=Nice Sicilian restaurant in the quiet (and somewhat boring) part of northern Prati. Try the swordfish and the lemon sorbet!
+}}
+
+==Drink==
+* {{drink
+| name=Babington's Tea Rooms | alt= | url=https://babingtons.com/ | email=
+| address=Piazza di Spagna 23 | lat=41.906050 | long=12.482350 | directions=
+| phone= | tollfree=
+| hours=09:30-20:30, closed Tuesdays | price=
+| wikipedia=Babington's tea room | wikidata=Q2892984
+| content=situated right next to the base of the Spanish Steps, a veritable tourist trap. The cheapest pot of tea is €8. It opened in 1896 in order to fortify homesick English tourists, once famous as a tranquil English haven in a Latin ocean, now serving tea and scones (and more) with considerably less charm and even less value.
+}}
+* {{drink
+| name=Antico Caffe Greco | alt= | url=https://anticocaffegreco.eu/ | email=
+| address=Via dei Condotti 86 | lat=41.905558 | long=12.481436 | directions=a few steps from the Spanish Steps
+| phone=+39 066791700 | tollfree=
+| hours= | price=
+| wikipedia=Antico Caffè Greco | wikidata=Q575012
+|lastedit=2026-03-20| content=In March 2026, it is closed due to a rent dispute. Ancient and famous coffee bar, with walls lined with art work. Worth a quick look even if you find the prices a bit excessive.
+}}
+*{{drink
+| name=Babette caffe-ristorante | url=http://www.babetteristorante.it | email=
+| address=Via Margutta, 1/d | lat=41.90890 | long=12.47916 | directions=off Via Babuino near Piazza del Popolo
+| phone=+39 06 32 11 559 | tollfree= | fax=
+| hours=opens at 13:00 | price=€12
+| content=Lovely lunch buffet. Everything fresh out of the kitchen. Much more expensive on weekends. Always best to reserve. A nice way to sample lots of different Italian foods without having to order an antipasti, primi, secondi, etc.
+}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Franklin Feel The Sound Hotel | url=http://www.franklinhotelrome.it | email=franklin@franklin.it
+| address=Via Rodi, 29 | lat=41.912724 | long=12.453268 | directions=
+| phone=+39 06 3903 0165 | tollfree= | fax=+39 06-39751652
+| checkin= | checkout= | price=From €35
+| content=Hotel with a unique music theme. The décor is very modern and stylish. Staff was helpful friendly and polite, continental breakfast is varied and plentiful. The rooms are clean, funky and very comfortable.
+}}
+* {{sleep
+| name=Filomena e Francesca B&B | alt=Filomena e Francesca F&F | url=http://www.rentroomsanpietro.it/ | email=info@bbfandf.com
+| address=Via della Giuliana, 72 | lat=41.914655 | long=12.453880 | directions=
+| phone=+39 06 3751 3625 | tollfree= | fax=
+| checkin= | checkout= | price=from €40
+| content=Bed and Breakfast. Three rooms with private bathrooms and air-con.
+}}
+* {{sleep
+| name=Mocenigo Vatican Suites | url=http://www.mocenigovaticansuites.com | email=stay@mocenigovaticansuites.com
+| address=Via Mocenigo, 16 | lat=41.908241 | long=12.451590 | directions=
+| phone=+39 338 382 3606 | tollfree= | fax=
+| checkin=14:00 | checkout=10:00 | price=From €75
+| content=Seven-room guesthouse 100 m from the main entrance to the Vatican Museums.
+}}
+
+===Mid-range===
+* {{sleep
+| name=LH Excel Roma Montemario | alt= | url=https://www.laminhotels.com/ | email=
+| address=via degli Scolopi 31, Montemario Area, zona Trionfale | lat=41.932692 | long=12.433638 | directions=
+| phone=+39 0635058001 | tollfree= | fax=+39 063070392
+| checkin=14:00 | checkout=11:00 | price=€75/€148
+| content=This hotel has open air pool, restaurant, free parking and fitness center.
+}}
+* {{sleep
+| name=Hotel Cinquantatre | alt= | url=http://www.lhotel53.com/ | email=
+| address=Via di San Basilio, 53 | lat=41.904853 | long=12.489806 | directions=2 min from Barberini metro stop.
+| phone=+39 06 42014708 | tollfree=
+| checkin= | checkout= | price=From €70
+| content=Hotel is in an old building with a roof-top terrace, rooms are with satellite TV, A/C and a safe, some with balcony as well.
+}}
+* {{sleep
+| name=Hotel Condotti | alt= | url=http://www.hotelcondotti.com | email=
+| address=Via Mario de' Fiori, 37 | lat=41.906164 | long=12.480650 | directions=
+| phone=+39 06 679 4661 | tollfree= | fax=+39 06 679 0457
+| checkin= | checkout= | price=Single rooms from €136, double rooms from €175, triple rooms from €209, quadruple rooms from €223
+| content=
+}}
+* {{sleep
+| name=Hotel Concordia | alt= | url=http://www.concordiahotel.it | email=info@concordiahotel.it
+| address=Via di Capo le Case, 14 | lat=41.903840 | long=12.484886 | directions=
+| phone=+39 06 6791953 | tollfree= | fax=+39 06 6795409
+| checkin= | checkout= | price=from €64
+| content=A hotel in an 18th-century building with A/C and a roof garden.
+}}
+* {{sleep
+| name=Imperial Suite Rome | alt= | url=http://www.imperialsuiterome.com/ | email=
+| address=Corso d'Italia 92 | lat=41.910654 | long=12.499636 | directions=
+| phone=+39 06 8554515 | tollfree= | fax=+39 06 4817613
+| checkin= | checkout= | price=€80/€95 single/double rooms. All rates include the breakfast served directly in the guests’ rooms
+| content=A guest house with single, double, twin and triple bedrooms. All with private bath, internet connection and living area.
+}}
+* {{sleep
+| name=PapavistaRelais | url=http://www.relaispapavista.com | email=
+| address=Via Tunisi, 3 | lat=41.907464 | long=12.452808 | directions=Metro station Cipro
+| phone=+39 06 6542 0553 | tollfree= | fax=
+| checkin= | checkout= | price=From €80
+| content=Guesthouse fairly close to the Vatican's main entrance.
+}}
+
+===Splurge===
+* {{sleep
+| name=Les Fleurs Luxury House | alt= | url=http://www.lesfleursluxuryhouse.com/ | email=
+| address=Via Mario de' Fiori 24 | lat=41.905573 | long=12.481079 | directions=Next to the Spanish Steps
+| phone=+39 06 69921341 | tollfree= | fax=+39 06 69790498
+| checkin= | checkout= | price=
+| content=Cosy guest house with double and twin standard bedrooms €260, double deluxe, junior suite €380 and double for single use €230. All rates include breakfast and en-suites services with shower and bathtub or Jacuzzi.
+}}
+* {{sleep
+| name=Residenza Frattina | alt= | url=http://www.rome-bed-breakfast-frattina.it/ | email=info@residenzafrattina.it
+| address=Via Frattina, 104 | lat=41.904087 | long=12.480518 | directions=Close to the Spanish Steps
+| phone=+39 06 6783553 | tollfree= | fax=+39 06 6783701
+| checkin= | checkout= | price=
+| content=
+}}
+*{{sleep
+| name=Hilton Garden Inn Rome Claridge | alt= | url=https://www.hilton.com/en/hotels/romrcgi-hilton-garden-inn-rome-claridge/?SEO_id=GMB-EMEA-GI-ROMRCGI | email=
+| address=Viale Liegi, 62 | lat=41.922249 | long=12.493402 | directions=
+| phone=+39 06 845441 | tollfree=
+| checkin= | checkout= | price=
+| content=4-star hotel in the Parioli district, close to the Borghese Gardens.
+}}
+*{{sleep
+| name=Hotel Lord Byron | alt= | url=http://www.lordbyronhotel.com | email=
+| address=Via Via Giuseppe De Notaris, 5 | lat=41.919800 | long=12.481516 | directions=Next to Villa Borghese
+| phone=+39 06 3220 404 | tollfree=
+| checkin= | checkout= | price=single rooms from €190, double rooms from €225
+| content=
+}}
+*{{sleep | name=B&B Domus Pinciana | alt= | url=http://www.domuspinciana.it/ | email= | address=Via Campania 61/a | lat=41.910543 | long=12.494556 | directions= | phone=+39 06 42014628 | tollfree= | checkin= | checkout= | price=Double rooms from €100 | content=Small B&B close to Via Veneto.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Intown Luxury House | url=http://www.intownroma.it/en/ | email=
+| address=Via Bocca di Leone, 7 | lat=41.9044 | long=12.4809 | directions=
+| phone=+39 06 69380200 | tollfree= | fax=
+| hours= | price=290
+| checkin=14:00 | checkout=12:00
+| content=Single, double, junior suite and terraced junior suite. All rooms with A/C, LCD TV sets with satellite channels, hi-speed Internet connection, safe, minibar and direct telephone line. Bathrooms are fitted with marble and Jacuzzi tubs and/or showers.
+}}
+* {{sleep
+| name=Best Western Astrid | alt= | url=http://www.hotelastrid.com/en/ | email=info@hotelastrid.com
+| address=Largo Antonio Sarti, 4 | lat=41.923408 | long=12.468731 | directions=
+| phone=+39 06 3236371 | tollfree= | fax=+39 06 3220806
+| checkin= | checkout= | price=€115-165
+| content=A big hotel in a quiet area of Rome. The staff is friendly and makes the stay very enjoyable. The rooms are clean and spacious and there’s a daily replenishment of the minibar at no cost. The 5th-floor breakfast room has great views of the Tiber and St. Peter's Dome. The bar is closed at night and there isn't much nightlife in the area apart from a few good restaurants.
+}}
+* {{sleep
+| name=Spagna Royal Suite Rome | alt= | url=http://www.spagnaroyalsuite.com/ | email=
+| address=Via Mario de' Fiori 3 | lat=41.904530 | long=12.481878 | directions=
+| phone=+39 06 69923793 | tollfree= | fax=+39 06 69290948
+| checkin= | checkout= | price=
+| content=Boutique hotel. Double, triple and quadruple rooms divided in standard, comfort, deluxe and executive. All with private bath. Rates change according to the season, starting from £239 for a double standard and €399 for a triple deluxe.
+}}
+* {{sleep | name=Town House Spagna | alt= | url=http://www.townhousespagna.com | email= | address=Via della Croce 50/a | lat=41.905828 | long=12.478483 | directions= | phone=+39 06 68892351 | tollfree= | checkin= | checkout= | price=€110-210 Standard room | content=Relatively new town house 50 m away from Piazza di Spagna. 10 rooms, each with private bathrooms. Up to date facilities.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=B&B Le Muse | alt= | url= | email=
+| address=Via Giacinta Pezzana 68 | lat=41.931625 | long=12.495036 | directions=near Villa Ada
+| phone=+39 3487266630 | tollfree=
+| checkin=12:00 | checkout=10:00 | price=€65
+| content=
+}}
+* {{sleep
+| name=c-hotels Fiume Roma | alt= | url=https://www.hotelfiume-roma.com/ | email=
+| address=Via Brescia 5 | lat=41.911506 | long=12.499966 | directions=
+| phone=+39 06 8543000 | tollfree=
+| checkin= | checkout= | price=
+| content=Nice hotel near the Villa Borghese park.
+}}
+* {{sleep
+| name=New Homs | alt= | url=https://hotelhoms.it/ | email=info@hotelhoms.it
+| address=Via Della Vite, 71/72 | lat=41.904127 | long=12.482289 | directions=
+| phone=+39 06 6792976 | tollfree= | fax=+39 06 6780482
+| checkin= | checkout= | price=
+| content=4-star hotel.
+}}
+* {{sleep
+| name=Hotel Stendhal | alt= | url=http://www.stendhalhotelrome.it/ | email=info@hotelstendhal.com
+| address=via del Tritone 113 | lat=41.903451 | long=12.487505 | directions=
+| phone=+39 06422921 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2016-03-02
+| content=4-star hotel.
+}}
+* {{sleep | name=Best Western Plus Hotel Spring House | url=http://www.springhouse.it | email=hotelspringhouse@gmail.com | address=Via Mocenigo 7 | lat=41.907370 | long=12.451686 | directions= | phone=+39 06 3972-0948 | tollfree= | fax=+39 06 39721047 | checkin= | checkout= | price=€120-240 | content=A small 3-star hotel with rooms that are a bit small, but comfortable and quiet. Great breakfast, wonderful service (maids and reception).
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hotel Museum Rome | alt= | url=https://www.hotelmuseum.it/ | email=
+| address=Via Tunisi 8 | lat=41.907524 | long=12.453026 | directions=
+| phone=+39 0697276695 | tollfree=
+| checkin= | checkout= | price=From €140
+| content=Nice three-star hotel, 35 bedrooms with air conditioning and free Wi-Fi, large common area, complimentary breakfast, and terrace with panoramic view of the Roman roofs.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Metropolitana di Roma - logo linea A.svg
+| imagesize1=33
+| caption1=Rome Metro Line A
+| directionl1=W
+| majorl1=[[Rome/North|North Rome]]
+| minorl1=[[Rome/Vatican|Vatican]]
+| directionr1=E
+| majorr1=[[Rome/South|South Rome]]
+| minorr1=[[Rome/Modern Center|Modern Center]]
+
+| image2=Metropolitana di Roma B1.svg
+| imagesize2=33
+| caption2=Rome Metro Line B1
+| directionl2=SW
+| majorl2=[[Rome/Modern Center|Modern Center]]
+| minorl2=[[Rome/Nomentano|Nomentano]]
+| directionr2=NE
+| majorr2=END
+| minorr2=[[Rome/North|North Rome]]
+
+| image3=Ferrovia regionale laziale FL1.svg
+| imagesize3=22
+| caption3=Lazio regional railway line FL1
+| directionl3=N
+| majorl3=[[Orte]]
+| minorl3=[[Rome/North|North Rome]]
+| directionr3=S
+| majorr3=[[Leonardo da Vinci-Fiumicino Airport|Fiumicino Airport]]
+| minorr3=[[Rome/Nomentano|Nomentano]]
+}}
+
+{{guidedistrict}}
+{{IsPartOf|Rome}}
+{{geo|41.9170|12.4919}}
+
+{{Mapmask|41.9262,12.4579|41.9266,12.4597|41.9274,12.4595|41.9283,12.4595|41.9295,12.4598|41.9315,12.4609|41.9330,12.4623|41.9343,12.4641|41.9355,12.4668|41.9361,12.4700|41.9364,12.4736|41.9366,12.4762|41.9365,12.4777|41.9362,12.4786|41.9357,12.4794|41.9330,12.4832|41.9328,12.4839|41.9329,12.4846|41.9330,12.4853|41.9334,12.4860|41.9340,12.4866|41.9347,12.4869|41.9355,12.4870|41.9370,12.4865|41.9390,12.4858|41.9402,12.4861|41.9413,12.4873|41.9419,12.4902|41.9421,12.4932|41.9421,12.4967|41.9425,12.4995|41.9428,12.5003|41.9420,12.5011|41.9413,12.5012|41.9410,12.5013|41.9408,12.5016|41.9406,12.5020|41.9406,12.5023|41.9410,12.5038|41.9410,12.5040|41.9409,12.5043|41.9407,12.5046|41.9404,12.5047|41.9398,12.5046|41.9394,12.5047|41.9390,12.5051|41.9388,12.5056|41.9387,12.5063|41.9387,12.5068|41.9390,12.5075|41.9397,12.5086|41.9405,12.5091|41.9408,12.5093|41.9416,12.5104|41.9424,12.5113|41.9428,12.5120|41.9428,12.5126|41.9422,12.5130|41.9421,12.5133|41.9422,12.5142|41.9421,12.5145|41.9415,12.5151|41.9409,12.5155|41.9407,12.5159|41.9401,12.5170|41.9393,12.5185|41.9387,12.5204|41.9384,12.5208|41.9374,12.5207|41.9370,12.5208|41.9365,12.5209|41.9361,12.5211|41.9349,12.5210|41.9345,12.5211|41.9341,12.5215|41.9332,12.5224|41.9310,12.5257|41.9303,12.5267|41.9302,12.5266|41.9297,12.5262|41.9293,12.5259|41.9291,12.5258|41.9288,12.5255|41.9288,12.5255|41.9277,12.5246|41.9277,12.5246|41.9276,12.5245|41.9275,12.5244|41.9272,12.5241|41.9272,12.5241|41.9267,12.5237|41.9267,12.5237|41.9266,12.5236|41.9263,12.5233|41.9261,12.5230|41.9260,12.5229|41.9257,12.5226|41.9255,12.5224|41.9253,12.5222|41.9253,12.5222|41.9252,12.5221|41.9251,12.5220|41.9251,12.5219|41.9249,12.5217|41.9246,12.5213|41.9243,12.5210|41.9241,12.5208|41.9239,12.5206|41.9236,12.5202|41.9233,12.5200|41.9230,12.5196|41.9229,12.5196|41.9229,12.5195|41.9228,12.5195|41.9228,12.5194|41.9221,12.5186|41.9218,12.5183|41.9216,12.5181|41.9215,12.5180|41.9214,12.5179|41.9214,12.5179|41.9213,12.5178|41.9213,12.5178|41.9212,12.5177|41.9210,12.5176|41.9209,12.5176|41.9202,12.5171|41.9201,12.5170|41.9200,12.5169|41.9200,12.5169|41.9199,12.5169|41.9199,12.5168|41.9198,12.5167|41.9195,12.5163|41.9186,12.5149|41.9186,12.5149|41.9185,12.5149|41.9185,12.5148|41.9184,12.5147|41.9175,12.5133|41.9175,12.5133|41.9174,12.5132|41.9173,12.5131|41.9171,12.5128|41.9168,12.5124|41.9168,12.5123|41.9167,12.5122|41.9167,12.5121|41.9163,12.5116|41.9163,12.5116|41.9162,12.5115|41.9161,12.5113|41.9153,12.5100|41.9152,12.5100|41.9152,12.5100|41.9148,12.5094|41.9144,12.5087|41.9143,12.5086|41.9142,12.5085|41.9142,12.5084|41.9136,12.5077|41.9130,12.5068|41.9130,12.5068|41.9130,12.5067|41.9130,12.5067|41.9129,12.5066|41.9129,12.5066|41.9129,12.5065|41.9128,12.5065|41.9126,12.5061|41.9119,12.5051|41.9113,12.5042|41.9111,12.5039|41.9100,12.5024|41.9093,12.5013|41.9093,12.5013|41.9094,12.5012|41.9094,12.5012|41.9094,12.5012|41.9094,12.5011|41.9094,12.5010|41.9095,12.5010|41.9095,12.5009|41.9095,12.5010|41.9096,12.5009|41.9095,12.5008|41.9097,12.5006|41.9097,12.5006|41.9098,12.5005|41.9097,12.5005|41.9099,12.5002|41.9099,12.5002|41.9099,12.5001|41.9099,12.5001|41.9099,12.5001|41.9100,12.5001|41.9100,12.4999|41.9100,12.4999|41.9101,12.4998|41.9101,12.4999|41.9101,12.4998|41.9101,12.4998|41.9102,12.4996|41.9103,12.4995|41.9103,12.4995|41.9103,12.4994|41.9103,12.4994|41.9104,12.4993|41.9104,12.4991|41.9105,12.4992|41.9105,12.4991|41.9105,12.4990|41.9106,12.4989|41.9106,12.4988|41.9106,12.4988|41.9107,12.4988|41.9107,12.4987|41.9107,12.4987|41.9108,12.4984|41.9108,12.4981|41.9108,12.4979|41.9107,12.4976|41.9107,12.4971|41.9108,12.4968|41.9108,12.4968|41.9108,12.4968|41.9108,12.4968|41.9108,12.4967|41.9108,12.4967|41.9108,12.4967|41.9108,12.4967|41.9108,12.4967|41.9108,12.4967|41.9108,12.4965|41.9108,12.4965|41.9108,12.4964|41.9108,12.4964|41.9107,12.4963|41.9107,12.4962|41.9107,12.4962|41.9107,12.4960|41.9108,12.4960|41.9108,12.4960|41.9108,12.4959|41.9108,12.4956|41.9108,12.4956|41.9108,12.4955|41.9108,12.4955|41.9108,12.4952|41.9108,12.4952|41.9108,12.4951|41.9108,12.4951|41.9108,12.4948|41.9108,12.4947|41.9109,12.4947|41.9109,12.4946|41.9108,12.4946|41.9108,12.4944|41.9108,12.4943|41.9109,12.4943|41.9109,12.4942|41.9108,12.4942|41.9108,12.4940|41.9108,12.4940|41.9108,12.4938|41.9109,12.4938|41.9109,12.4937|41.9108,12.4937|41.9108,12.4934|41.9108,12.4934|41.9108,12.4933|41.9108,12.4933|41.9108,12.4930|41.9108,12.4929|41.9108,12.4929|41.9108,12.4929|41.9108,12.4928|41.9107,12.4928|41.9107,12.4928|41.9107,12.4925|41.9107,12.4925|41.9107,12.4924|41.9106,12.4924|41.9106,12.4922|41.9105,12.4921|41.9106,12.4920|41.9105,12.4920|41.9105,12.4920|41.9105,12.4919|41.9104,12.4918|41.9104,12.4918|41.9102,12.4914|41.9102,12.4913|41.9102,12.4913|41.9102,12.4912|41.9102,12.4912|41.9099,12.4909|41.9098,12.4907|41.9098,12.4906|41.9098,12.4906|41.9097,12.4905|41.9097,12.4906|41.9096,12.4904|41.9096,12.4903|41.9096,12.4903|41.9096,12.4902|41.9096,12.4902|41.9096,12.4900|41.9096,12.4899|41.9096,12.4898|41.9096,12.4898|41.9096,12.4897|41.9096,12.4897|41.9095,12.4896|41.9095,12.4894|41.9096,12.4894|41.9096,12.4893|41.9095,12.4893|41.9095,12.4890|41.9095,12.4890|41.9095,12.4889|41.9095,12.4889|41.9095,12.4888|41.9095,12.4886|41.9095,12.4886|41.9095,12.4885|41.9095,12.4885|41.9095,12.4885|41.9095,12.4885|41.9095,12.4885|41.9095,12.4885|41.9095,12.4884|41.9095,12.4884|41.9095,12.4883|41.9095,12.4883|41.9095,12.4883|41.9095,12.4883|41.9095,12.4883|41.9095,12.4883|41.9095,12.4883|41.9095,12.4882|41.9095,12.4881|41.9094,12.4879|41.9093,12.4880|41.9092,12.4880|41.9092,12.4880|41.9091,12.4880|41.9090,12.4879|41.9090,12.4878|41.9089,12.4876|41.9088,12.4875|41.9086,12.4873|41.9084,12.4871|41.9082,12.4869|41.9081,12.4868|41.9080,12.4867|41.9078,12.4865|41.9076,12.4864|41.9074,12.4863|41.9071,12.4861|41.9069,12.4860|41.9068,12.4859|41.9067,12.4859|41.9065,12.4859|41.9063,12.4859|41.9062,12.4859|41.9062,12.4859|41.9057,12.4859|41.9055,12.4859|41.9051,12.4859|41.9048,12.4859|41.9047,12.4859|41.9046,12.4859|41.9041,12.4857|41.9040,12.4857|41.9040,12.4854|41.9040,12.4854|41.9039,12.4845|41.9038,12.4844|41.9039,12.4843|41.9046,12.4835|41.9047,12.4834|41.9047,12.4834|41.9046,12.4830|41.9044,12.4820|41.9042,12.4811|41.9039,12.4801|41.9039,12.4800|41.9037,12.4793|41.9037,12.4791|41.9036,12.4783|41.9035,12.4779|41.9035,12.4779|41.9034,12.4778|41.9033,12.4778|41.9030,12.4777|41.9030,12.4777|41.9025,12.4778|41.9024,12.4777|41.9022,12.4776|41.9022,12.4776|41.9020,12.4774|41.9011,12.4769|41.9012,12.4767|41.9012,12.4766|41.9012,12.4765|41.9012,12.4764|41.9013,12.4764|41.9014,12.4763|41.9015,12.4762|41.9015,12.4761|41.9016,12.4758|41.9016,12.4755|41.9016,12.4754|41.9017,12.4750|41.9017,12.4743|41.9018,12.4743|41.9018,12.4742|41.9018,12.4739|41.9020,12.4739|41.9023,12.4737|41.9026,12.4736|41.9027,12.4734|41.9028,12.4733|41.9034,12.4730|41.9037,12.4733|41.9045,12.4740|41.9054,12.4744|41.9068,12.4743|41.9079,12.4737|41.9090,12.4728|41.9102,12.4722|41.9107,12.4720|41.9139,12.4709|41.9145,12.4708|41.9144,12.4701|41.9144,12.4699|41.9143,12.4698|41.9143,12.4697|41.9142,12.4696|41.9141,12.4694|41.9141,12.4693|41.9140,12.4692|41.9140,12.4690|41.9138,12.4685|41.9137,12.4681|41.9136,12.4674|41.9135,12.4671|41.9134,12.4670|41.9133,12.4668|41.9131,12.4660|41.9131,12.4657|41.9130,12.4654|41.9130,12.4652|41.9129,12.4650|41.9129,12.4650|41.9128,12.4648|41.9125,12.4633|41.9124,12.4631|41.9124,12.4630|41.9120,12.4614|41.9119,12.4611|41.9119,12.4609|41.9118,12.4604|41.9113,12.4586|41.9113,12.4584|41.9113,12.4583|41.9112,12.4583|41.9112,12.4581|41.9111,12.4578|41.9109,12.4570|41.9109,12.4569|41.9109,12.4569|41.9109,12.4567|41.9107,12.4559|41.9105,12.4551|41.9105,12.4550|41.9104,12.4549|41.9104,12.4549|41.9102,12.4550|41.9096,12.4551|41.9088,12.4553|41.9087,12.4553|41.9086,12.4553|41.9079,12.4555|41.9076,12.4556|41.9075,12.4556|41.9074,12.4554|41.9073,12.4552|41.9073,12.4551|41.9073,12.4549|41.9071,12.4544|41.9070,12.4538|41.9069,12.4538|41.9068,12.4539|41.9068,12.4538|41.9067,12.4535|41.9067,12.4531|41.9067,12.4531|41.9067,12.4527|41.9065,12.4520|41.9065,12.4520|41.9064,12.4514|41.9066,12.4513|41.9065,12.4505|41.9060,12.4503|41.9058,12.4505|41.9051,12.4495|41.9052,12.4493|41.9050,12.4489|41.9047,12.4489|41.9047,12.4491|41.9043,12.4489|41.9041,12.4488|41.9036,12.4486|41.9037,12.4484|41.9034,12.4479|41.9033,12.4478|41.9033,12.4478|41.9031,12.4476|41.9030,12.4479|41.9022,12.4468|41.9024,12.4466|41.9020,12.4457|41.9019,12.4456|41.9019,12.4456|41.9015,12.4458|41.9011,12.4452|41.9009,12.4450|41.9015,12.4444|41.9020,12.4445|41.9024,12.4440|41.9035,12.4424|41.9041,12.4431|41.9043,12.4429|41.9045,12.4428|41.9064,12.4427|41.9064,12.4428|41.9067,12.4432|41.9069,12.4430|41.9072,12.4431|41.9077,12.4436|41.9084,12.4444|41.9086,12.4446|41.9087,12.4447|41.9090,12.4447|41.9095,12.4445|41.9097,12.4445|41.9113,12.4461|41.9116,12.4467|41.9118,12.4474|41.9124,12.4473|41.9125,12.4475|41.9126,12.4475|41.9127,12.4475|41.9128,12.4474|41.9133,12.4475|41.9145,12.4476|41.9149,12.4477|41.9152,12.4479|41.9153,12.4480|41.9153,12.4481|41.9152,12.4483|41.9150,12.4485|41.9144,12.4483|41.9143,12.4485|41.9143,12.4487|41.9149,12.4491|41.9153,12.4492|41.9154,12.4493|41.9155,12.4495|41.9157,12.4495|41.9167,12.4497|41.9168,12.4496|41.9173,12.4494|41.9175,12.4493|41.9179,12.4504|41.9180,12.4505|41.9182,12.4506|41.9183,12.4506|41.9183,12.4504|41.9181,12.4499|41.9179,12.4494|41.9178,12.4489|41.9178,12.4487|41.9179,12.4486|41.9180,12.4486|41.9181,12.4488|41.9182,12.4494|41.9184,12.4499|41.9186,12.4500|41.9188,12.4501|41.9190,12.4498|41.9195,12.4491|41.9199,12.4482|41.9201,12.4481|41.9208,12.4479|41.9219,12.4479|41.9243,12.4481|41.9245,12.4480|41.9250,12.4478|41.9262,12.4475|41.9267,12.4473|41.9276,12.4465|41.9289,12.4457|41.9310,12.4440|41.9312,12.4437|41.9315,12.4432|41.9322,12.4422|41.9327,12.4413|41.9340,12.4398|41.9342,12.4403|41.9348,12.4426|41.9351,12.4430|41.9351,12.4433|41.9351,12.4434|41.9341,12.4438|41.9323,12.4445|41.9323,12.4448|41.9323,12.4449|41.9328,12.4458|41.9330,12.4464|41.9329,12.4466|41.9327,12.4465|41.9326,12.4466|41.9327,12.4473|41.9326,12.4478|41.9326,12.4481|41.9326,12.4483|41.9324,12.4482|41.9323,12.4483|41.9329,12.4503|41.9334,12.4512|41.9334,12.4527|41.9334,12.4530|41.9329,12.4532|41.9315,12.4534|41.9315,12.4536|41.9315,12.4541|41.9317,12.4558|41.9288,12.4566|41.9288,12.4567|41.9278,12.4570|41.9262,12.4579}}

@@ -1,0 +1,473 @@
+{{pagebanner|Paris 16e Wikivoyage Banner .png|pgname=16th arrondissement|unesco=yes}}
+This large district occupies most of the West of Paris, extending east-west between the bends of the Seine from the Jardins of Trocadero immediately facing the Eiffel Tower to the expansive ''Bois du Boulogne'' (which occupies a larger part of the 16th's territory), and north-south from the ''Etoile'' to the southern border of Paris. It is known to be the residence of choice for affluent Parisians, and for hosting numerous internationally famous events, such as the ''Roland Garros'' French Open tennis tournaments, as well as the home stadium of the ''Paris Saint-Germain'' football club.  Its status as an elite neighborhood stems from its location between Old Paris and [[Versailles]], and it now contains the Passy district where Benjamin Franklin stayed while an American diplomat.
+
+==Get in==
+{{Mapframe|48.8578|2.2627|zoom=13|width=470|height=470|staticmap=Paris 16th arrondissement map with listings 2.png}}
+{{Mapshape}}
+
+===By Métro===
+* {{rint|paris|1}} runs along the northern border of the arrondissement, stopping in the 16th (from East to West) at ''Charles de Gaulle-Etoile'', ''Argentine'' and ''Porte Maillot''
+* {{rint|paris|2}} has its western terminus in the 16th - the stations within the arrondissement are (from East to West) ''Charles de Gaulle-Etoile'', ''Victor Hugo'' and ''Porte Dauphine'' (said terminus)
+* {{rint|paris|9}} traverses the 16th north-south, with stations between ''Alma-Marceau'' and ''Porte de Saint-Claud'' falling within the arrondissement.
+* {{rint|paris|10}} loops through the southern part of the 16th, starting at ''Mirabeau''
+* {{rint|paris|6}} goes from the ''Etoile'' southwards through the 16th, exiting it by crossing the Seine towards the 15th between ''Passy'' and ''Bir-Hakeim''
+
+==See==
+=== Museum ===
+[[File:Fontaine du Trocadéro.JPG|thumb|Trocadero]]
+* {{see
+| name=Palais de Chaillot | alt= | url= | email=
+| address={{station|Trocadéro|6|9}} | lat=48.862217 | long=2.288247 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Palais de Chaillot | image=Trocadero pic1.jpg | wikidata=Q13360213
+| content=Great perspective on the Eiffel Tower and Left Bank from ''Place du Trocadéro'' in between the two buildings of the palais. Former location of the Palais du Trocadéro. It accommodates three museums, an aquarium, and the Theatre Nationale du Chaillot.
+}}
+* {{see
+| name=Musée Marmottan | alt= | url=http://www.marmottan.fr/ | email=
+| address=2 rue Louis-Boilly, 16th | lat=48.859361 | long=2.2675 | directions=Metro: {{station|La Muette|9}}
+| phone=+33 1 44 96 50 33 | tollfree= | fax=
+| hours=Tue Wed Fri-Sun 10:00-18:00; Thu 10:00-21:00; last entry 30 min before closing | price=€12; children under 18 and students under 25 €8.50; children under 7 and people with disabilities free
+| wikipedia=Musée Marmottan Monet | image=Musée Marmottan Paris.JPG | wikidata=Q1327886
+| lastedit=2018-12-01
+| content=This charming museum is owned by the French Académie des Beaux-Arts. Its main collection areas, the result of several large donations, include: First Empire art and furnishings; illuminated manuscripts; and Impressionist art, including the largest Monet collection in the world and works by Renoir, Manet, Morisot, Caillebotte and Gauguin.
+}}
+* {{see
+| name=Musée en Herbe | alt= | url=http://www.musee-en-herbe.com | email=
+| address=Jardin d'Acclimation, Bois de Boulogne | lat=48.87769 | long=2.26876 | directions={{station|Les Sablons|1}}
+| phone=+33 1 40 67 97 66 | tollfree= | fax=
+| hours=Daily 10:00-19:00 | price=€4 for the exhibitions, €8 for the workshops, but add €2.70 for entrance to the garden. Some discounts are available
+| wikipedia=Musée en Herbe | image=Groupe-baby-maquette.jpg | wikidata=Q3330549
+| content=With a teaching style based on fun and humour, the Musée en Herbe offers classes and games about art especially designed for '''children'''. Observation, imagination and identification games permit kids to discover the works of art and objects shown, at their own pace. The exhibits are all hands-on so kids can have a free reign in the museum, and if that's not enough there are workshops as well.
+}}
+* {{see
+| name=Palais de Tokyo | alt=Site de création contemporaine | url=http://www.palaisdetokyo.com | email=accueil@palaisdetokyo.com
+| address=13, avenue du Président Wilson | lat=48.864167 | long=2.297222 | directions={{station|Iéna}} or {{station|Alma Marceau|9}}
+| phone=+ 01 81 97 35 88 | tollfree=
+| hours=Wed-Mon 12:00 - 00:00 | price=€12 adults, €9 concessions
+| wikipedia=Palais de Tokyo | wikidata=Q1535247
+| content=The Palais de Tokyo is Paris's largest specialist contemporary art exhibition venue, owned and operated by the national government. The building dates to 1937 and also includes the Museum of Modern Art of the City of Paris.
+}}
+* {{see | name=Musée d'Art Moderne de la Ville de Paris | alt= | url=http://mam.paris.fr/ | email= | address=11 avenue du Président Wilson | lat=48.863889 | long=2.297222 | directions={{station|Alma-Marceau or Iéna|9}} | phone=+ 01 53 67 40 00 | tollfree= | hours=Tue-Sun 10:00-18:00 | price=Free, temporary exhibitions have various charges | wikipedia=Musée d'Art Moderne de la Ville de Paris | image=Musée d'Art moderne de la Ville de Paris.jpg | wikidata=Q857276 | lastedit=2017-05-22 | content=The east wing of the Palais de Tokyo holds the modern art collection of the city of Paris, dating roughly from World War I to date (the older part of the collection is at the Petit Palais in the 8th), including around 10,000 works.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Musée Dapper | alt= | url=http://www.dapper.fr/ | email=
+| address=35 bis, rue Paul Valéry | lat=48.871667 | long=2.288056 | directions=
+| phone=+33 1 45 00 91 75 | tollfree= | fax=
+| hours=Wed Fri-Mon 11:00-19:00 | price=Adults €6, concessional rate €4, free on the last Wednesday of each month
+| wikipedia=Musée Dapper | image=Musée Dapper.jpg | wikidata=Q2023566
+| lastedit=2015-12-06
+| content=This small museum hosts high quality African art exhibitions. It also features an interesting bookshop and cafe.
+}}
+* {{see
+| name=Fondation Louis Vuitton | alt= | url=http://www.fondationlouisvuitton.fr/ | email=
+| address=8, avenue de Mahatma Gandhi | lat=48.876667 | long=2.263333 | directions={{station|Les Sablons|1}}. Also dedicated shuttle from corner of Etoile and Av. Friedland, €2, online booking only
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Louis Vuitton Foundation | image=Fondation Louis Vuitton 001.jpg | wikidata=Q3075489
+| lastedit=2017-05-27
+| content=20th- and 21st-century art in a building designed by Frank Gehry
+}}
+* {{see
+| name=Musée Yves Saint Laurent | alt= | url=https://museeyslparis.com | email=contact@museeyslparis.com
+| address=5 avenue Marceau | lat=48.865619 | long=2.299603 | directions={{station|Alma-Marceau|9}}
+| phone=+33 1 44 31 64 00 | tollfree= | fax=
+| hours=10:00-18:00 | price=€10
+| image=Musée Yves Saint Laurent Avenue Marceau Paris 16 - Vue1.jpg | wikidata=Q43688220
+| lastedit=2018-01-04
+| content=
+}}
+* {{see
+| name=Musée Nationale de la Marine | alt=National Maritime Museum | url=http://www.musee-marine.fr/paris | email=
+| address=17 place du Trocadéro | lat=48.862217 | long=2.288247 | directions=Metro: {{station|Trocadéro|6|9}}
+| phone=+33 1 53 65 69 69 | tollfree=
+| hours=Wed Fri-Mon 11:00-19:00; Thu 11:00-22:00 | price=€12 at ticket office, €11 online. Free to under eighteens
+| wikipedia=Musée_national_de_la_Marine | wikidata=Q1286709
+| lastedit=2025-04-19
+| content=Reconstructed in 2023, the Paris branch of the National Maritime Museum, one of the three museums in the Palais du Chaillot, cannot accommodate any full-size ships, but has a wide range of smaller artifacts, artworks and models, covering both the Navy and commercial shipping.
+}}
+* {{see | name=Musée de l'Homme | alt=Museum of Mankind | url=http://www.museedelhomme.fr/ | email=mdh@mnhn.fr
+| address=17 Place du Trocadero | lat=48.862217 | long=2.288247 | directions=Metro: {{station|Trocadéro|6|9}}
+| phone=+33 1 44 05 72 72 | tollfree=
+| hours=Wed-Mon 10:00-18:00, last entry 17:00 | price=€10 adult, €7 reductions
+| wikipedia=Musée de l'Homme | image=Musée de l'homme.jpg | wikidata=Q670268
+| lastedit=2018-12-01
+| content=The Museum of Mankind, accommodated in the Palais du Chaillot, is an anthropological museum covering the history of mankind and human societies. }}
+* {{see | name=Cité de l'architecture & du patrimoine | alt=City of Architecture & Heritage (former National Museum of French Monuments) | url=https://www.citedelarchitecture.fr | email=
+| address=1 place du Trocadéro | lat=48.862823 | long=2.288369 | directions=Metro: {{station|Trocadéro|6|9}}
+| phone=+33 1 58 51 52 00 | tollfree=
+| hours=Tue-Sun 11:00-19:00, Thu until 21:00 | price=€8 adult, €6 reduced
+| wikipedia=Cité de l'Architecture et du Patrimoine | image=Cite de l'architecture et du patrimoine.jpg | wikidata=Q537515
+| lastedit=2018-09-12
+| content=The City of Architecture and Heritage, accommodated in the Palais du Chaillot, is a museum and gallery of French architecture. The centrepiece is the spectacular Hall of Casts, a collection of full-size plaster casts of facades, towers, doorways and windows of great buildings from all over France. Architecture of the late 19th, 20th, and 21st centuries is represented by additional galleries of models and images. }}
+* {{see
+| name=Guimet Museum | alt=Musée national des arts asiatiques [MNAAG] | url=http://www.guimet.fr/ | email=
+| address= | lat=48.86527777777778 | long=2.2938888888888886 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q860994
+| lastedit=2020-11-19
+| content=Has one of the largest collections abroad of Asian art.
+}}
+
+=== Parks ===
+*{{see
+| name=Jardin d'Acclimatation | alt= | url=http://www.jardindacclimatation.fr | email=
+| address= | lat=48.8775 | long=2.263056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jardin d'Acclimatation | wikidata=Q3090513
+| content=The northwest corner of the Bois de Boulogne is occupied by the oldest operating amusement park in the world, the Jardin d'Acclimatation, which is mainly known for offering a wide range of amusements which are appropriate even for very small children. They have miniature roller-coasters for children as small as three years, and the usual range of pony rides etc.
+}}
+* {{see
+| name=Jardins du Trocadéro | alt= | url= | email=
+| address= | lat=48.861392 | long=2.289631 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jardins du Trocadéro | image=Jardins du Trocadéro - 20150801 15h24 (10619).jpg | wikidata=Q1683459
+| lastedit=2018-07-22
+| content=Tourists cross this park with the large fountain on the way to the Place du Trocadéro viewpoint to the Eiffel Tower.
+}}
+
+===Le Corbusier world heritage===
+17 buildings by Le Corbusier have been inscribed on the [[UNESCO World Heritage List]] and in the 16th arrondissement of Paris you can find three of them:
+* {{see
+| name=Villa La Roche | alt= | url= | email=
+| address=10 Square du Docteur Blanche | lat=48.8519 | long=2.2653 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Villa La Roche | image=1ssda.jpg | wikidata=Q3278824
+| content=
+}}
+* {{see
+| name=Villa Jeanneret | alt= | url= | email=
+| address=8 Square du Docteur Blanche | lat=48.8519 | long=2.26528 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Villa Jeanneret | image=1ssda.jpg | wikidata=Q3843577
+| content=
+}}
+* {{see
+| name=Immeuble Molitor | alt= | url= | email=
+| address=24 rue Nungessor & Coli | lat=48.843386 | long=2.251294 | directions=across the border to [[Boulogne-Billancourt]]
+| phone= | tollfree= | fax=
+| hours= | price=
+| image= | wikidata=Q3796698
+|lastedit=2026-08-25| content=An 8-storey block of flats, built in 1932–1934.
+}}
+
+===Hector Guimard===
+Important buildings by Hector Guimard, the designer of the famous Paris Metro entrances, can be found in the 16th.
+
+* {{see
+| name=Castel Béranger | alt= | url= | email=
+| address=14 rue de la Fontaine | lat=48.8524 | long=2.2746 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q650308
+| lastedit=2025-04-19
+| content=Castel Béranger is an apartment building that was the first entirely art nouveau building in Paris, insulted at the time as "Castel Derangé". Its richly decorated facade won a city competition in 1898. It contains 36 apartments, all of which are still privately owned and not open to the public.
+}}
+* {{see
+| name=Hôtel Guimard | alt= | url= | email=
+| address=122 Avenue Mozart | lat=48.8497 | long=2.2664 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q3145517
+| lastedit=2025-04-19
+| content=Guimard's own home, built in 1909-12. It is less decorated than Castel Béranger, but still beautifully shaped. Privately owned and not open to the public.
+}}
+* {{see
+| name=Hôtel Mezzara | alt= | url= | email=
+| address=60 rue Jean de la Fontaine | lat=48.85075 | long=2.27094 | directions=Metro Jasmine (Line 9)
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-10-10
+| content=House designed by Guimard in 1910-1 for Paul Mezzara, the owner and designer of a lace and embroidery manufacturer. As of October 2025, under renovation to become a museum dedicated to Guimard, expected to open in 2027-8.
+}}
+
+==Do==
+[[File:Pont de Bir-Hakeim and view on the 16th Arrondissement of Paris 140124 1.jpg|thumb|Pont de Bir-Hakeim and view of the 16th Arrondissement]]
+[[File:Summer pool at the Molitor in Paris 01.jpg|thumb|Piscine Molitor]]
+
+* {{do
+| name=Bois de Boulogne | alt= | url= | email=
+| address= | lat=48.864722 | long=2.250833 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Bois de Boulogne | image=Grande cascade Boulogne (1).jpg | wikidata=Q209626
+| content=A park along the western edge of the 16ème arrondissement of Paris, near the suburb of Boulogne-Billancourt. The Bois de Boulogne has an area of {{km2|8.45}}, which is 2.5 times larger than Central Park in New York, and 3.3 times larger than Hyde Park in London. At night time, the area welcomes a different scene, and becomes one of Paris' most prominent red-light districts.
+}}
+* {{do
+| name=Swim at Piscine Molitor | alt=Piscines Auteuil-Molitor | url=http://www.mltr.fr/en/actualite/article/88-access-to-the-pools/ | email=
+| address=13 rue Nungesser Et Coli | lat=48.845278 | long=2.253333 | directions=
+| phone=+33 1 56 07 08 93 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Piscine Molitor | image=Summer_pool_at_the_Molitor_in_Paris_01.jpg | wikidata=Q645095
+| lastedit=2018-07-22
+| content=A stunning classical swimming pool complex. The pool is known for its Art Deco designs and the popular introduction of the bikini by Louis Réard on 5 July 1946. The character ''Pi Patel'' in the novel/movie ''Life of Pi'' was named after this pool. Nowadays it houses a [[Paris/16th arrondissement#MGallery Hotel Molitor Paris|5-star hotel]] as well. Access for non-hotel guests is very pricey — you must book a spa package for €230.
+}}
+
+'''Spectator sports:'''
+* {{do
+| name=French Open | alt= | url=http://www.rolandgarros.com/ | email=
+| address= | lat=48.84716 | long=2.24924 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=French Open | image=Roland Garros Stadium in 2007.jpg | wikidata=Q43605
+| lastedit=2018-07-21
+| content=The second of each year's four Grand Slam tennis tournaments is held over two weeks in late May and early June at Stade Roland Garros in the Bois de Boulogne. The venue is open for tours year-round whenever tournaments are not scheduled, and the French Tennis Federation operates its national museum of the sport, the Tenniseum, at the site.
+}}
+* {{do
+| name=Paris Saint-Germain | alt= | url=https://www.psg.fr/ | email=
+| address=Parc des Princes, 24 Rue du Commandant Guilbaud | lat=48.8414 | long=2.253 | directions=Metro to Porte de Saint-Cloud or Exelmans
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Paris Saint-Germain F.C. | image=OM-PSG CF finale-1.jpg | wikidata=Q483020
+| lastedit=2022-06-02
+| content=PSG play soccer in the top-tier Ligue 1. They often win it and qualify for European tournaments. Parc des Princes stadium (capacity 48,000) is south side of Bois de Boulogne. The club name derives from St-Germain-en-Laye 20 km west, not the city centre district of Saint-Germain-des-Prés.
+}}
+* {{do
+| name=Stade Français | alt= | url=http://www.stade.fr/ | email=
+| address= | lat=48.84331 | long=2.25290 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Stade Français | image=Nouveau Stade Jean Bouin, Paris (panoramique) 2014.JPG | wikidata=Q1361000
+| lastedit=2018-07-21
+| content=Rugby club in the Top 14, and a perennial title contender. Stade's traditional home ground of Stade Jean-Bouin, across the street from Parc des Princes, reopened in 2013 after a major renovation. Ticket information is available [https://billetterie.stade.fr/uk online in English].
+}}
+* {{do
+| name=Horse racing | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-07-21
+| content=Some of the world's best thoroughbred racing can be seen at two venues in the Bois de Boulogne.
+}}
+** {{do | name=Hippodrome de Longchamp | alt= | url=http://www.france-galop.com/en/node/64 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | wikidata=Q1542489 | lastedit= | content=Used exclusively for flat racing, the venue hosts many of France's top races, including the internationally famous Prix de l'Arc de Triomphe on the first weekend in October. 
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+** {{do | name=Hippodrome d'Auteuil | alt= | url=http://www.france-galop.com/en/node/65 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | wikidata=Q3135866 | lastedit= | content=Used exclusively for steeplechase racing, and hosts many top-quality races in that discipline. Its flagship event is the ''Grand Steeple-Chase de Paris''.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Work==
+* {{listing
+| name=OECD Headquarters & Conference Centre | alt= | url=http://www.oecd.org/site/conferencecentre/ | email=
+| address=2 rue André Pascal | lat=48.86142 | long=2.26936 | directions=Metro: {{station|La Muette|9}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-07-22
+| content=Hosts many international meetings (its website claims that 40,000 delegates attend meetings there each year).
+}}
+
+==Buy==
+[[File:Rue de Passy April 2014.jpg|thumb|The Rue de Passy]]
+* {{buy
+| name=Rue de Passy | alt= | url= | email=
+| address= | lat=48.8577 | long=2.27947 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=P1040942 Paris XVI rue de Passy rwk.jpg | wikidata=Q1299740
+| lastedit=2018-07-22
+| content=Lined with high-end clothes and homewares shops
+}}
+* {{buy
+| name=Passy Plaza | alt= | url= | email=
+| address=53 rue de Passy | lat=48.856702 | long=2.279312 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-07-22
+| content=Includes a large supermarket and several mid-range retailers
+}}
+* {{buy
+| name=Centre Commercial des Belles Feuilles | alt= | url=http://www.centre-les-belles-feuilles.com/ | email=
+| address=14 Rue des Sablons | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Casino supermarket: Mon-Sat 09:00-22:00, other shops Mon-Sat 10:00-19:30 | price=
+| lastedit=2015-12-06
+| content=This shopping centre features a vast Casino supermarket and a number of smaller shops, and is very useful for self-caterers. Several other supermarkets are located nearby.
+}}
+
+==Eat==
+
+===Budget===
+
+* {{eat
+| name=Carette | alt= | url= | email=
+| address=4. Place du Trocadéro | lat=48.86369 | long=2.28724 | directions=Metro Trocadéro
+| phone=+33 1 47 27 98 85 | tollfree=
+| hours= | price=Big salads at €15
+| content=This Pâtisserie and Salon de thé also has great food. The salads are amazing, and there are delicious cakes for dessert.
+}}
+
+===Mid-range===
+* {{eat
+| name=La Gare Chaussée De La Muette | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{eat
+| name=Le Malakoff | url= | email=contact@le-malakoff.com
+| address=6 place du Trocadéro | lat= | long= | directions=
+| phone=+33 1 45537527 | tollfree= | fax=
+| hours= | price=
+| content=Just take the menu of the day
+}}
+* {{eat
+| name=Le Coq | url= | email=
+| address=2 place du Trocadéro | lat= | long= | directions=
+| phone=+33 1 47278952 | tollfree= | fax=
+| hours= | price=
+| content=A hip and trendy modern brasserie where the 16th arrondissement's posh population meets
+}}
+*{{eat
+| name=Café Brassac | url=http://www.bestrestaurantsparis.com/en/restaurant-paris/detail/cafe-brassac.html | email=
+| address=37, ave. Kléber | lat= | long= | directions=close to Metro station Kléber
+| phone=+33 1 45 53 21 63 | tollfree= | fax=
+| hours= | price=
+| content=Very nice cafe with good lunch and dinner. Lots of people go their for business lunch
+}}
+
+===Splurge===
+* {{eat
+| name=L'Astrance | alt= | url=http://www.astrancerestaurant.com | email=
+| address=4 rue Beethoven | lat=48.8584 | long=2.2876 | directions=
+| phone=+33 1 4050 8440 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Astrance | wikidata=Q6455614
+| content=3 Michelin stars. Considered one of the best restaurants of Paris. Do not go there, if you are hungry and want to get full.
+}}
+
+==Drink==
+* {{drink
+| name=Café de l'Homme | alt= | url=https://www.cafedelhomme.com/ | email=
+| address=17 Place du Trocadero | lat=48.86224 | long=2.28752 | directions=
+| phone=+33 1 44 05 30 15 | tollfree= | fax=
+| hours=12:00-02:00 | price=
+| lastedit=2018-07-22
+| content=Get a fantastic view of the Eiffel Tower from this restaurant-tearoom opposite the Champ de Mars. Just next to the Musee de l'Homme, there certainly are worse spots to grab a drink or two. Bad service towards tourists according to online reviews.
+}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Best Western Hotel Victor Hugo | alt= | url=http://www.victorhugoparis.com/ | email=paris@victorhugohotel.com
+| address=19 rue Copernic | lat=48.86909 | long=2.28917 | directions=
+| phone=+33 1 45 53 76 01 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Le Hameau de Passy | alt= | url=http://www.hameaudepassy.com/ | email=contact@hameaudepassy.com
+| address=48 rue de Passy | lat=48.85783 | long=2.27975 | directions=
+| phone=+33 1 42 88 47 55 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Clean, quiet and good value hotel located in the centre of the Passy area
+}}
+
+===Mid-range===
+
+* {{sleep | name=Hotel Eiffel Kennedy | alt= | url=http://ww.eiffelkennedy.com | email= | address=12 Rue Boulainvilliers | lat=48.85300 | long=2.27593 | directions= | phone=+33 1 45 24 45 75 | tollfree= | fax= | checkin= | checkout= | price=~€150 | content=Small three star hotel (33 rooms).
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Hôtel Gavarni | alt= | url=http://www.gavarni.com/ | email=reservation@gavarni.com
+| address=5 Rue Gavarni | lat=48.85867 | long=2.28269 | directions=
+| phone=+33 1 45 24 52 82 | tollfree= | fax=+33 1 40 50 16 95
+| checkin= | checkout= | price=
+| content=In the heart of the Passy village and its fashion boutiques. It's the first independent hotel in Paris to have been awarded the European Ecolabel. Fully air-conditioned, free WiFi.
+}}
+* {{sleep
+| name=Mon Hotel | alt= | url=http://www.monhotel.fr/ | email=
+| address=1 Rue d'Argentine | lat=48.87433 | long=2.28965 | directions=
+| phone=+33 1 45 02 76 76 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=A boutique hotel in the vicinity of Place d'Etoile
+}}
+* {{sleep
+| name=Hotel Longchamp Elysées | alt= | url=http://paris-hotel-longchamp.com/ | email=
+| address=68, rue de Longchamp | lat=48.86522 | long=2.28566 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=~€150
+| content=3-star boutique hotel.
+}}
+* {{sleep
+| name=Helzear Champs-Élysées | alt=Suites & Hôtel Helzear Champs-Elysées | url=https://www.helzear.com/hotel/champs-elysees/ | email=champselysees@helzear.com
+| address=49 Av. Marceau | lat= | long= | directions=Metro (1) (Station George V)
+| phone=+33 1 45 26 11 06 | tollfree=
+| checkin= | checkout= | price=From 120€
+| wikidata=Q111390826
+| lastedit=2026-06-07
+| content=Property with 27 suites and apartments located at 49 avenue Marceau, in the 16th arrondissement, close to the Champs-Élysées and the Arc de Triomphe. Accommodations spread over 6 floors with elevator access in a Haussmann-style building, each featuring a kitchenette and air conditioning. Configurations range from the Tiny room (11 sqm, 2 guests) to the 2-bedroom apartment sleeping up to 6, with several suites offering a private terrace. 24-hour concierge, room service, luggage storage. George V metro station (line 1) is a 3-minute walk away, Charles de Gaulle - Étoile (lines 1, 2, 6, RER A) 10 minutes. Close to the Palais de Tokyo, the Musée d'Art Moderne, and the Fondation Yves Saint Laurent.
+}}
+
+===Splurge===
+*{{sleep | name=Hotel Keppler | alt= | url=http://www.hotelkeppler.com/ | email= | address=10, rue Kepler | lat=48.86983 | long=2.29726 | directions= | phone=+33 1 472 06505 | tollfree= | fax= | checkin= | checkout= | price=€125-250 | content=In the entertainment district with 34 guestrooms and 5 suites. A winter garden and bar is available within the hotel.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Peninsula Paris | alt= | url=https://www.peninsula.com/en/paris/5-star-luxury-hotel-16th-arrondissement | email=ppr@peninsula.com
+| address=19 Avenue Kléber | lat=48.871024 | long=2.293308 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2026-07-23
+| content=This meticulous hotel, known before the Second World War as the Hotel Majestic, has 200 rooms including 24 suites in this classic 19th-century Haussman building.
+}}
+* {{sleep
+| name=Renaissance Paris Le Parc Trocadero | alt= | url=https://www.marriott.com/hotels/travel/parsp-renaissance-paris-le-parc-trocadero-hotel/ | email=
+| address=55-57 Raymond Poincare | lat=48.8671 | long=2.2857 | directions=
+| phone=+33 1 44 05 66 66 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms at €400
+| content=A quiet small hotel with a courtyard north of metro Victor Hugo. Wired internet at rooms.
+}}
+* {{sleep
+| name=Hotel Molitor - MGallery Collection | alt= | url=http://www.mltr.fr/en/hotel/ | email=H7326@accor.com
+| address=13 rue Nungesser et Coli | lat=48.84485 | long=2.25246 | directions=
+| phone=+33 1 560 708 50 | tollfree= | fax=
+| checkin= | checkout= | price=From €340
+| image=Summer_pool_at_the_Molitor_in_Paris_01.jpg
+| content=The ''Piscine Molitor'' swimming pool complex, featured prominently in the book and film ''The Life of Pi'', has been pretty much dismantled and rebuilt after many years of decay, becoming reborn triumphantly in 2014 as a luxury hotel, a part of the MGallery Collection.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Paris Metro 1.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=END
+| minorl1=[[Paris/La Défense|La Défense]]
+| directionr1=E
+| majorr1=[[Paris/1st arrondissement|1st arrondissement]]
+| minorr1=[[Paris/17th arrondissement|17th arrondissement]]
+
+| image2=Paris m 2 jms.svg
+| imagesize2=22
+| directionl2=W
+| majorl2=END
+| minorl2=
+| directionr2=E
+| majorr2=[[Paris/18th arrondissement|18th arrondissement]]
+| minorr2=[[Paris/17th arrondissement|17th arrondissement]]
+
+| image3=Paris m 9 jms.svg
+| imagesize3=22
+| directionl3=W
+| majorl3=END
+| minorl3=[[Boulogne-Billancourt]]
+| directionr3=E
+| majorr3=[[Paris/9th arrondissement|9th arrondissement]]
+| minorr3=[[Paris/8th arrondissement|8th arrondissement]]
+}}
+
+{{usabledistrict}}
+{{geo|48.863611|2.276489}}
+{{IsPartOf|Paris}}
+
+
+
+
+
+{{Mapmask |48.8742,2.2551 |48.8801,2.2585 |48.8803,2.2590 |48.8788,2.2707 |48.8780,2.2775 |48.8783,2.2786 |48.8787,2.2798 |48.8742,2.2938 |48.8738,2.2950 |48.8725,2.2962 |48.8709,2.2975 |48.8686,2.2989 |48.8685,2.2989 |48.8657,2.2998 |48.8653,2.2999 |48.8645,2.3015 |48.8635,2.3016 |48.8626,2.2968 |48.8625,2.2963 |48.8604,2.2926 |48.8599,2.2920 |48.8570,2.2886 |48.8561,2.2881 |48.8480,2.2770 |48.8470,2.2757 |48.8362,2.2652 |48.8339,2.2630 |48.8347,2.2562 |48.8348,2.2552 |48.8386,2.2519 |48.8389,2.2516 |48.8429,2.2512 |48.8456,2.2525 |48.8456,2.2508 |48.8456,2.2507 |48.8477,2.2424 |48.8477,2.2424 |48.8500,2.2397 |48.8500,2.2396 |48.8531,2.2255 |48.8534,2.2242 |48.8540,2.2241 |48.8542,2.2241 |48.8576,2.2249 |48.8580,2.2250 |48.8643,2.2279 |48.8651,2.2282 |48.8686,2.2312 |48.8696,2.2321 |48.8716,2.2397 |48.8717,2.2401 |48.8741,2.2434 |48.8764,2.2456 |48.8742,2.2551}}
